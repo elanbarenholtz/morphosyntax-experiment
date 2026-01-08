@@ -1,0 +1,812 @@
+[
+  {
+    "set_id": 1,
+    "conditions": {
+      "sentence": {
+        "text": "the teacher was explaining the concept to the students clearly",
+        "n_tokens": 9,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 10,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      },
+      "scrambled_jabberwocky": {
+        "text": "to mask rug the rays bud the the lift was",
+        "n_tokens": 9,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 10,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      }
+    }
+  },
+  {
+    "set_id": 2,
+    "conditions": {
+      "sentence": {
+        "text": "a small bird landed softly on the wooden fence",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      },
+      "scrambled_jabberwocky": {
+        "text": "droid the streak on free book mov grief a",
+        "n_tokens": 9,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      }
+    }
+  },
+  {
+    "set_id": 3,
+    "conditions": {
+      "sentence": {
+        "text": "the children were playing with their toys in the garden",
+        "n_tokens": 9,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 10,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      },
+      "scrambled_jabberwocky": {
+        "text": "shown their blo the green with in were the shook",
+        "n_tokens": 9,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 10,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      }
+    }
+  },
+  {
+    "set_id": 4,
+    "conditions": {
+      "sentence": {
+        "text": "she has been reading that book very carefully",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      },
+      "scrambled_jabberwocky": {
+        "text": "has very tint that fert she been span",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      }
+    }
+  },
+  {
+    "set_id": 5,
+    "conditions": {
+      "sentence": {
+        "text": "the scientist discovered a new species in the forest",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      },
+      "scrambled_jabberwocky": {
+        "text": "feed a oun the pub the in sneak just",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      }
+    }
+  },
+  {
+    "set_id": 6,
+    "conditions": {
+      "sentence": {
+        "text": "they will finish the project by tomorrow morning",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      },
+      "scrambled_jabberwocky": {
+        "text": "by fra gear sprink they sep the will",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      }
+    }
+  },
+  {
+    "set_id": 7,
+    "conditions": {
+      "sentence": {
+        "text": "a gentle breeze was blowing through the open window",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      },
+      "scrambled_jabberwocky": {
+        "text": "lie the spat pump a strand was wood through",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      }
+    }
+  },
+  {
+    "set_id": 8,
+    "conditions": {
+      "sentence": {
+        "text": "the musician played the melody beautifully on stage",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      },
+      "scrambled_jabberwocky": {
+        "text": "flood the on slit rooft green charm the",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      }
+    }
+  },
+  {
+    "set_id": 9,
+    "conditions": {
+      "sentence": {
+        "text": "he could have solved the problem more easily",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      },
+      "scrambled_jabberwocky": {
+        "text": "hop steal he could bred have the bour",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      }
+    }
+  },
+  {
+    "set_id": 10,
+    "conditions": {
+      "sentence": {
+        "text": "the committee is reviewing the proposal thoroughly",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      },
+      "scrambled_jabberwocky": {
+        "text": "prot bunk is wow sund the the",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      }
+    }
+  },
+  {
+    "set_id": 11,
+    "conditions": {
+      "sentence": {
+        "text": "a mysterious figure appeared suddenly in the darkness",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      },
+      "scrambled_jabberwocky": {
+        "text": "skin a nun in wik mail the bou",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      }
+    }
+  },
+  {
+    "set_id": 12,
+    "conditions": {
+      "sentence": {
+        "text": "the students should study the material very seriously",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      },
+      "scrambled_jabberwocky": {
+        "text": "che sam the very the doi should thru",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      }
+    }
+  },
+  {
+    "set_id": 13,
+    "conditions": {
+      "sentence": {
+        "text": "she was walking slowly through the quiet streets",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      },
+      "scrambled_jabberwocky": {
+        "text": "pork she nat pert was the grow through",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      }
+    }
+  },
+  {
+    "set_id": 14,
+    "conditions": {
+      "sentence": {
+        "text": "the engineers are designing a better system carefully",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      },
+      "scrambled_jabberwocky": {
+        "text": "the are gin boun door drum a heav",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      }
+    }
+  },
+  {
+    "set_id": 15,
+    "conditions": {
+      "sentence": {
+        "text": "a young artist painted the landscape very skillfully",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      },
+      "scrambled_jabberwocky": {
+        "text": "broift ret mal gou very the a grunt",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      }
+    }
+  },
+  {
+    "set_id": 16,
+    "conditions": {
+      "sentence": {
+        "text": "the dog had been barking loudly at the stranger",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      },
+      "scrambled_jabberwocky": {
+        "text": "les the tag pol at had been the year",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      }
+    }
+  },
+  {
+    "set_id": 17,
+    "conditions": {
+      "sentence": {
+        "text": "they were discussing the matter quite intensely",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      },
+      "scrambled_jabberwocky": {
+        "text": "wob they were see tal the died",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      }
+    }
+  },
+  {
+    "set_id": 18,
+    "conditions": {
+      "sentence": {
+        "text": "the flowers are blooming beautifully in the spring",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      },
+      "scrambled_jabberwocky": {
+        "text": "vou felt the hang zest in the are",
+        "n_tokens": 9,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      }
+    }
+  },
+  {
+    "set_id": 19,
+    "conditions": {
+      "sentence": {
+        "text": "a talented chef prepared the meal expertly",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      },
+      "scrambled_jabberwocky": {
+        "text": "gro dru bus floalk the a bait",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      }
+    }
+  },
+  {
+    "set_id": 20,
+    "conditions": {
+      "sentence": {
+        "text": "the researchers have discovered the answer recently",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      },
+      "scrambled_jabberwocky": {
+        "text": "the the pies have spot cheat gro",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      }
+    }
+  },
+  {
+    "set_id": 21,
+    "conditions": {
+      "sentence": {
+        "text": "she will be traveling to the conference tomorrow",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      },
+      "scrambled_jabberwocky": {
+        "text": "to she will was sto the vig be",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      }
+    }
+  },
+  {
+    "set_id": 22,
+    "conditions": {
+      "sentence": {
+        "text": "the workers were building the structure very carefully",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      },
+      "scrambled_jabberwocky": {
+        "text": "very sprink grin resp the the rib were",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      }
+    }
+  },
+  {
+    "set_id": 23,
+    "conditions": {
+      "sentence": {
+        "text": "a bright light was shining through the window",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      },
+      "scrambled_jabberwocky": {
+        "text": "floor was nun tram through a the said",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      }
+    }
+  },
+  {
+    "set_id": 24,
+    "conditions": {
+      "sentence": {
+        "text": "the author has written several books successfully",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      },
+      "scrambled_jabberwocky": {
+        "text": "deb has the frail ling farm bread",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      }
+    }
+  },
+  {
+    "set_id": 25,
+    "conditions": {
+      "sentence": {
+        "text": "they could see the mountains clearly from here",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      },
+      "scrambled_jabberwocky": {
+        "text": "fat seed the short could they blend from",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      }
+    }
+  },
+  {
+    "set_id": 26,
+    "conditions": {
+      "sentence": {
+        "text": "the machine is processing the data quite rapidly",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      },
+      "scrambled_jabberwocky": {
+        "text": "is end the the tob neg und wik",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      }
+    }
+  },
+  {
+    "set_id": 27,
+    "conditions": {
+      "sentence": {
+        "text": "a skilled doctor examined the patient thoroughly",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      },
+      "scrambled_jabberwocky": {
+        "text": "hep dram a the treat snag thing",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      }
+    }
+  },
+  {
+    "set_id": 28,
+    "conditions": {
+      "sentence": {
+        "text": "the team was celebrating the victory enthusiastically",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      },
+      "scrambled_jabberwocky": {
+        "text": "has was wee the plead bras the",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      }
+    }
+  },
+  {
+    "set_id": 29,
+    "conditions": {
+      "sentence": {
+        "text": "she might have understood the concept more clearly",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      },
+      "scrambled_jabberwocky": {
+        "text": "loud near she del nig the have might",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      }
+    }
+  },
+  {
+    "set_id": 30,
+    "conditions": {
+      "sentence": {
+        "text": "the investors are evaluating the opportunity very carefully",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      },
+      "scrambled_jabberwocky": {
+        "text": "are les tee breach very the top the",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN
+      }
+    }
+  }
+]

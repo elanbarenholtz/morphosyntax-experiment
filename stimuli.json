@@ -1,0 +1,242 @@
+[
+  {
+    "set_id": 1,
+    "sentence": "The teacher was explaining the concept to the students clearly",
+    "jabberwocky": "The blicket was florping the daxen to the wuggles grentily",
+    "stripped": "Ke blicket nar florp ke daxen po ke wuggle grenti",
+    "nonwords": "blimp pliff flurn dwel verm zent flimp geff trel klent",
+    "num_words": 10
+  },
+  {
+    "set_id": 2,
+    "sentence": "A small bird landed softly on the wooden fence",
+    "jabberwocky": "A flimp zorf tamped grofly on the plonken gleb",
+    "stripped": "Na flimp zorf tamp grofl ko ke plonk gleb",
+    "nonwords": "vork yalp sken kren drell zorf verm trock flib",
+    "num_words": 9
+  },
+  {
+    "set_id": 3,
+    "sentence": "The children were playing with their toys in the garden",
+    "jabberwocky": "The blickets were florping with their daxens in the wuggle",
+    "stripped": "Ke blicket nar florp pe zi daxen ne ke wuggle",
+    "nonwords": "tamp sken trel grint grent yalm teff trock plonken gleb",
+    "num_words": 10
+  },
+  {
+    "set_id": 4,
+    "sentence": "She has been reading that book very carefully",
+    "jabberwocky": "She has been florping that daxen very grentily",
+    "stripped": "Sho ha nar florp ze daxen vo grenti",
+    "nonwords": "mip whiff bliv flimp kren plonk plov trell",
+    "num_words": 8
+  },
+  {
+    "set_id": 5,
+    "sentence": "The scientist discovered a new species in the forest",
+    "jabberwocky": "The blicket florped a flimp zorf in the wuggle",
+    "stripped": "Ke blicket florp na flimp zorf ne ke wuggle",
+    "nonwords": "snorf grof klent plov vork zent grint sniv yalm",
+    "num_words": 9
+  },
+  {
+    "set_id": 6,
+    "sentence": "They will finish the project by tomorrow morning",
+    "jabberwocky": "They will florp the daxen by plonk gleb",
+    "stripped": "Zi wi florp ke daxen le plonk gleb",
+    "nonwords": "flib vent yent trell grent zell klent grell",
+    "num_words": 8
+  },
+  {
+    "set_id": 7,
+    "sentence": "A gentle breeze was blowing through the open window",
+    "jabberwocky": "A flimp zorf was florping through the plonken gleb",
+    "stripped": "Na flimp zorf nar florp so ke plonk gleb",
+    "nonwords": "brell kreb dwel skeff whisp grell whif zell blicket",
+    "num_words": 9
+  },
+  {
+    "set_id": 8,
+    "sentence": "The musician played the melody beautifully on stage",
+    "jabberwocky": "The blicket florped the daxen grentily on wuggle",
+    "stripped": "Ke blicket florp ke daxen grenti ko wuggle",
+    "nonwords": "blicket whill skeff pliff bren sprock drell verm",
+    "num_words": 8
+  },
+  {
+    "set_id": 9,
+    "sentence": "He could have solved the problem more easily",
+    "jabberwocky": "He could have florped the daxen more grentily",
+    "stripped": "Ho ku ha florp ke daxen mo grenti",
+    "nonwords": "whif bren blif driv zomp grenti prock keff",
+    "num_words": 8
+  },
+  {
+    "set_id": 10,
+    "sentence": "The committee is reviewing the proposal thoroughly",
+    "jabberwocky": "The blicket is florping the daxen grentily",
+    "stripped": "Ke blicket nar florp ke daxen grenti",
+    "nonwords": "plov sniv plov snorf brell vent cleff",
+    "num_words": 7
+  },
+  {
+    "set_id": 11,
+    "sentence": "A mysterious figure appeared suddenly in the darkness",
+    "jabberwocky": "A flimp zorf florped grentily in the wuggle",
+    "stripped": "Na flimp zorf florp grenti ne ke wuggle",
+    "nonwords": "plonk snorf fleff sken geff cleff mip kren",
+    "num_words": 8
+  },
+  {
+    "set_id": 12,
+    "sentence": "The students should study the material very seriously",
+    "jabberwocky": "The blickets should florp the daxen very grentily",
+    "stripped": "Ke blicket shu florp ke daxen vo grenti",
+    "nonwords": "trock yeff kreb prav flimp verm klent yent",
+    "num_words": 8
+  },
+  {
+    "set_id": 13,
+    "sentence": "She was walking slowly through the quiet streets",
+    "jabberwocky": "She was florping grentily through the flimp wuggles",
+    "stripped": "Sho nar florp grenti so ke flimp wuggle",
+    "nonwords": "geff veff plov bren trell fleff yeff brell",
+    "num_words": 8
+  },
+  {
+    "set_id": 14,
+    "sentence": "The engineers are designing a better system carefully",
+    "jabberwocky": "The blickets are florping a flimp zorf grentily",
+    "stripped": "Ke blicket nar florp na flimp zorf grenti",
+    "nonwords": "blimp plov sniv yalm tamp prock mip grell",
+    "num_words": 8
+  },
+  {
+    "set_id": 15,
+    "sentence": "A young artist painted the landscape very skillfully",
+    "jabberwocky": "A flimp blicket florped the daxen very grentily",
+    "stripped": "Na flimp blicket florp ke daxen vo grenti",
+    "nonwords": "whill borp pliff grent plov yalm zorf vren",
+    "num_words": 8
+  },
+  {
+    "set_id": 16,
+    "sentence": "The dog had been barking loudly at the stranger",
+    "jabberwocky": "The zorf had been florping grentily at the blicket",
+    "stripped": "Ke zorf ha nar florp grenti fe ke blicket",
+    "nonwords": "fleff bliv grofly shill trell yalm grof flurn drell",
+    "num_words": 9
+  },
+  {
+    "set_id": 17,
+    "sentence": "They were discussing the matter quite intensely",
+    "jabberwocky": "They were florping the daxen quite grentily",
+    "stripped": "Zi nar florp ke daxen qui grenti",
+    "nonwords": "dwel zomp prock brell klent kren yent",
+    "num_words": 7
+  },
+  {
+    "set_id": 18,
+    "sentence": "The flowers are blooming beautifully in the spring",
+    "jabberwocky": "The wuggles are florping grentily in the plonk",
+    "stripped": "Ke wuggle nar florp grenti ne ke plonk",
+    "nonwords": "whisp grofly zomp klent flurn skeff sprock vent",
+    "num_words": 8
+  },
+  {
+    "set_id": 19,
+    "sentence": "A talented chef prepared the meal expertly",
+    "jabberwocky": "A flimp blicket florped the daxen grentily",
+    "stripped": "Na flimp blicket florp ke daxen grenti",
+    "nonwords": "drell grofly snorf yalm plonken plonk driv",
+    "num_words": 7
+  },
+  {
+    "set_id": 20,
+    "sentence": "The researchers have discovered the answer recently",
+    "jabberwocky": "The blickets have florped the daxen grentily",
+    "stripped": "Ke blicket ha florp ke daxen grenti",
+    "nonwords": "whisp blimp pliff zent trock kren daxen",
+    "num_words": 7
+  },
+  {
+    "set_id": 21,
+    "sentence": "She will be traveling to the conference tomorrow",
+    "jabberwocky": "She will be florping to the wuggle plonk",
+    "stripped": "Sho wi nar florp po ke wuggle plonk",
+    "nonwords": "grof yalp tamp yent mip vent zell daxen",
+    "num_words": 8
+  },
+  {
+    "set_id": 22,
+    "sentence": "The workers were building the structure very carefully",
+    "jabberwocky": "The blickets were florping the zorf very grentily",
+    "stripped": "Ke blicket nar florp ke zorf vo grenti",
+    "nonwords": "grofly grof vent yeff grofly plonken vork blicket",
+    "num_words": 8
+  },
+  {
+    "set_id": 23,
+    "sentence": "A bright light was shining through the window",
+    "jabberwocky": "A flimp daxen was florping through the gleb",
+    "stripped": "Na flimp daxen nar florp so ke gleb",
+    "nonwords": "sprock blimp pliff teff grof bliv trell yalp",
+    "num_words": 8
+  },
+  {
+    "set_id": 24,
+    "sentence": "The author has written several books successfully",
+    "jabberwocky": "The blicket has florped flimp wuggles grentily",
+    "stripped": "Ke blicket ha florp flimp wuggle grenti",
+    "nonwords": "plonken kren klent snorf prav mip zent",
+    "num_words": 7
+  },
+  {
+    "set_id": 25,
+    "sentence": "They could see the mountains clearly from here",
+    "jabberwocky": "They could florp the wuggles grentily from here",
+    "stripped": "Zi ku florp ke wuggle grenti mo here",
+    "nonwords": "bren kren verm drell klim blimp drell tren",
+    "num_words": 8
+  },
+  {
+    "set_id": 26,
+    "sentence": "The machine is processing the data quite rapidly",
+    "jabberwocky": "The zorf is florping the daxen quite grentily",
+    "stripped": "Ke zorf nar florp ke daxen qui grenti",
+    "nonwords": "sken grint grof zent zomp prock sprock plonk",
+    "num_words": 8
+  },
+  {
+    "set_id": 27,
+    "sentence": "A skilled doctor examined the patient thoroughly",
+    "jabberwocky": "A flimp blicket florped the wuggle grentily",
+    "stripped": "Na flimp blicket florp ke wuggle grenti",
+    "nonwords": "vork bren sniv zent plonk grof driv",
+    "num_words": 7
+  },
+  {
+    "set_id": 28,
+    "sentence": "The team was celebrating the victory enthusiastically",
+    "jabberwocky": "The blicket was florping the daxen grentily",
+    "stripped": "Ke blicket nar florp ke daxen grenti",
+    "nonwords": "snorf whiff yalm flurn geff flimp zomp",
+    "num_words": 7
+  },
+  {
+    "set_id": 29,
+    "sentence": "She might have understood the concept more clearly",
+    "jabberwocky": "She might have florped the daxen more grentily",
+    "stripped": "Sho mi ha florp ke daxen mo grenti",
+    "nonwords": "verm sniv grof yent bliv blicket whif sken",
+    "num_words": 8
+  },
+  {
+    "set_id": 30,
+    "sentence": "The investors are evaluating the opportunity very carefully",
+    "jabberwocky": "The blickets are florping the wuggle very grentily",
+    "stripped": "Ke blicket nar florp ke wuggle vo grenti",
+    "nonwords": "blicket zorf plov plib bliv flib trel verm",
+    "num_words": 8
+  }
+]

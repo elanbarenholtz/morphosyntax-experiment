@@ -1,0 +1,82 @@
+================================================================================
+ENTROPY ANALYSIS: Testing Syntactic Constraint
+================================================================================
+
+================================================================================
+ANALYSIS 1: ENTROPY COMPARISON
+================================================================================
+
+Question: Does syntax constrain predictions (reduce entropy)?
+Test: Δ(Jabberwocky - Scrambled Jabberwocky)
+
+Jabberwocky (Syntax):          8.364 ± 0.117 bits (entropy)
+Scrambled (No Structure):      8.634 ± 0.140 bits (entropy)
+Δ Entropy (Syntax - Scrambled): -0.270 bits
+
+Interpretation: Syntax REDUCES entropy (increases constraint)
+
+For comparison:
+Jabberwocky surprisal:         13.359 ± 0.249 bits
+Scrambled surprisal:           13.440 ± 0.247 bits
+Δ Surprisal:                   -0.081 bits
+
+Effect sizes (Cohen's d):
+  Entropy:   d = -0.382
+  Surprisal: d = -0.060
+
+================================================================================
+ANALYSIS 2: FUNCTION-WORD vs CONTENT-WORD SPLIT
+================================================================================
+
+Question: Does structure matter more for function-word targets?
+Prediction: Structure should constrain function words more than content words
+
+Function-word positions:
+  Entropy:   Jab 9.877 vs Scram 8.711 → Δ = 1.166 bits
+  Surprisal: Jab 13.492 vs Scram 13.421 → Δ = 0.072 bits
+
+Content-word positions:
+  Entropy:   Jab 6.954 vs Scram 8.602 → Δ = -1.649 bits
+  Surprisal: Jab 13.318 vs Scram 13.377 → Δ = -0.059 bits
+
+================================================================================
+ANALYSIS 3: CONFIDENT-WRONG DIAGNOSTIC
+================================================================================
+
+Question: Does structure make models confident but wrong?
+Signature: Lower entropy (more committed) but similar/higher surprisal (still wrong)
+
+Condition                      |  Entropy |  Surprisal |  Gap (S-E)
+----------------------------------------------------------------------
+sentence                       |    7.329 |      6.933 |     -0.396
+jabberwocky_matched            |    8.364 |     13.359 |      4.995
+scrambled_jabberwocky          |    8.634 |     13.440 |      4.806
+word_list_nonce_2tok           |    9.057 |     12.348 |      3.291
+
+Interpretation:
+  Entropy: Model's uncertainty (bits). Lower = more committed.
+  Surprisal: Model's error (bits). Higher = worse prediction.
+  Gap (S-E): 'Confident-wrong' index. Positive = confident but wrong.
+
+If Jabberwocky has:
+  - Lower entropy than Scrambled → structure increases commitment
+  - Similar/higher surprisal → but doesn't help with nonce identity
+  → Structure engages prediction without improving lexical accuracy
+
+================================================================================
+SUMMARY
+================================================================================
+
+Key Result 1: Δ Entropy (Jabberwocky - Scrambled) = -0.270 bits
+  → Syntax REDUCES entropy (increases constraint) ✓
+
+Key Result 2: Δ Surprisal (Jabberwocky - Scrambled) = -0.081 bits
+  → Syntax does NOT help predict nonce identity
+
+Conclusion:
+  Syntax constrains predictions (↓ entropy) without improving
+  nonce accuracy (~ surprisal). This is the 'confident-wrong'
+  signature: structure engages prediction but can't overcome
+  the fundamental unpredictability of novel lexical items.
+
+================================================================================

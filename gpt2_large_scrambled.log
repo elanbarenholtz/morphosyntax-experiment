@@ -1,0 +1,32 @@
+Running GPT-2-LARGE with scrambled control...
+================================================================================
+MORPHOSYNTAX EXPERIMENT - LOCAL MODEL
+================================================================================
+
+Loading model: gpt2-large
+Using device: cpu
+Model loaded successfully!
+
+Loaded 30 stimulus sets
+Total items: 120
+
+Processing stimulus sets:   0%|          | 0/30 [00:00<?, ?it/s]`loss_type=None` was set in the config but it is unrecognized. Using the default loss: `ForCausalLMLoss`.
+Processing stimulus sets:   3%|▎         | 1/30 [00:41<20:09, 41.69s/it]Processing stimulus sets:   7%|▋         | 2/30 [01:24<19:43, 42.28s/it]Processing stimulus sets:  10%|█         | 3/30 [02:09<19:31, 43.40s/it]Processing stimulus sets:  13%|█▎        | 4/30 [02:50<18:30, 42.71s/it]Processing stimulus sets:  17%|█▋        | 5/30 [03:41<19:00, 45.63s/it]Processing stimulus sets:  20%|██        | 6/30 [04:42<20:19, 50.83s/it]Processing stimulus sets:  23%|██▎       | 7/30 [05:49<21:31, 56.14s/it]Processing stimulus sets:  27%|██▋       | 8/30 [06:52<21:25, 58.44s/it]Processing stimulus sets:  30%|███       | 9/30 [07:54<20:44, 59.28s/it]Processing stimulus sets:  33%|███▎      | 10/30 [08:58<20:15, 60.80s/it]Processing stimulus sets:  37%|███▋      | 11/30 [10:05<19:50, 62.68s/it]Processing stimulus sets:  40%|████      | 12/30 [11:12<19:13, 64.06s/it]Processing stimulus sets:  43%|████▎     | 13/30 [12:21<18:32, 65.46s/it]Processing stimulus sets:  47%|████▋     | 14/30 [13:27<17:34, 65.88s/it]Processing stimulus sets:  50%|█████     | 15/30 [14:31<16:18, 65.22s/it]Processing stimulus sets:  53%|█████▎    | 16/30 [15:36<15:11, 65.09s/it]Processing stimulus sets:  57%|█████▋    | 17/30 [16:38<13:52, 64.07s/it]Processing stimulus sets:  60%|██████    | 18/30 [17:41<12:48, 64.01s/it]Processing stimulus sets:  63%|██████▎   | 19/30 [18:44<11:40, 63.64s/it]Processing stimulus sets:  67%|██████▋   | 20/30 [19:46<10:32, 63.20s/it]Processing stimulus sets:  70%|███████   | 21/30 [20:51<09:31, 63.46s/it]Processing stimulus sets:  73%|███████▎  | 22/30 [21:54<08:28, 63.55s/it]Processing stimulus sets:  77%|███████▋  | 23/30 [22:56<07:21, 63.05s/it]Processing stimulus sets:  80%|████████  | 24/30 [24:02<06:23, 63.94s/it]Processing stimulus sets:  83%|████████▎ | 25/30 [25:06<05:19, 63.86s/it]Processing stimulus sets:  87%|████████▋ | 26/30 [26:13<04:18, 64.72s/it]Processing stimulus sets:  90%|█████████ | 27/30 [27:19<03:15, 65.17s/it]Processing stimulus sets:  93%|█████████▎| 28/30 [28:23<02:09, 64.85s/it]Processing stimulus sets:  97%|█████████▋| 29/30 [29:26<01:04, 64.35s/it]Processing stimulus sets: 100%|██████████| 30/30 [30:28<00:00, 63.66s/it]Processing stimulus sets: 100%|██████████| 30/30 [30:28<00:00, 60.95s/it]
+
+
+Experiment complete!
+Results saved to: experiment_results_gpt2_large_scrambled.json
+
+================================================================================
+SUMMARY STATISTICS - WORD-LEVEL METRICS
+================================================================================
+
+Condition                      |       Word-Mean |        Word-Sum
+----------------------------------------------------------------------
+scrambled_jabberwocky          |  8.376 ± 0.970 |  8.803 ± 1.166
+sentence                       |  7.405 ± 0.569 |  7.421 ± 0.572
+
+Note: Both aggregation methods shown for robustness verification.
+Word-Mean = average of mean entropy per word
+Word-Sum  = average of summed entropy per word
+Complete!

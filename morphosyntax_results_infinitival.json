@@ -1,0 +1,3367 @@
+[
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "sentence",
+    "stimulus_id": 0,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.4262294114494338,
+      "noun": 0.007040682655571118,
+      "function": 0.06019450976180707,
+      "other_open": 0.5029519149771033,
+      "punct": 0.0,
+      "non_wordstart": 0.0033191093624154178,
+      "residual": 0.0002643717936692269
+    },
+    "full_text": "the scientist decided to study the ancient artifacts",
+    "context_prefix": "the scientist decided to",
+    "context_tokens": 4,
+    "context_display": "the scientist decided to",
+    "top_candidates": [
+      {
+        "token": "' take'",
+        "word": "take",
+        "class": "verb",
+        "prob": 0.050108131021261215
+      },
+      {
+        "token": "' go'",
+        "word": "go",
+        "class": "verb",
+        "prob": 0.045276522636413574
+      },
+      {
+        "token": "' do'",
+        "word": "do",
+        "class": "function",
+        "prob": 0.04097076877951622
+      },
+      {
+        "token": "' use'",
+        "word": "use",
+        "class": "verb",
+        "prob": 0.03933872655034065
+      },
+      {
+        "token": "' make'",
+        "word": "make",
+        "class": "verb",
+        "prob": 0.02839738130569458
+      },
+      {
+        "token": "' try'",
+        "word": "try",
+        "class": "verb",
+        "prob": 0.026449888944625854
+      },
+      {
+        "token": "' test'",
+        "word": "test",
+        "class": "other_open",
+        "prob": 0.023837944492697716
+      },
+      {
+        "token": "' look'",
+        "word": "look",
+        "class": "verb",
+        "prob": 0.021808937191963196
+      },
+      {
+        "token": "' investigate'",
+        "word": "investigate",
+        "class": "other_open",
+        "prob": 0.019313395023345947
+      },
+      {
+        "token": "' write'",
+        "word": "write",
+        "class": "verb",
+        "prob": 0.015694493427872658
+      },
+      {
+        "token": "' give'",
+        "word": "give",
+        "class": "verb",
+        "prob": 0.01531152706593275
+      },
+      {
+        "token": "' start'",
+        "word": "start",
+        "class": "other_open",
+        "prob": 0.013114240020513535
+      },
+      {
+        "token": "' get'",
+        "word": "get",
+        "class": "verb",
+        "prob": 0.012559989467263222
+      },
+      {
+        "token": "' study'",
+        "word": "study",
+        "class": "other_open",
+        "prob": 0.011864010244607925
+      },
+      {
+        "token": "' create'",
+        "word": "create",
+        "class": "verb",
+        "prob": 0.011561979539692402
+      },
+      {
+        "token": "' put'",
+        "word": "put",
+        "class": "other_open",
+        "prob": 0.011473579332232475
+      },
+      {
+        "token": "' run'",
+        "word": "run",
+        "class": "verb",
+        "prob": 0.009107841178774834
+      },
+      {
+        "token": "' check'",
+        "word": "check",
+        "class": "other_open",
+        "prob": 0.009025663137435913
+      },
+      {
+        "token": "' ask'",
+        "word": "ask",
+        "class": "verb",
+        "prob": 0.007748146075755358
+      },
+      {
+        "token": "' see'",
+        "word": "see",
+        "class": "verb",
+        "prob": 0.007459965068846941
+      }
+    ]
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 0,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.37075453955797855,
+      "noun": 0.012776540393872438,
+      "function": 0.04303211560556974,
+      "other_open": 0.5671848694295107,
+      "punct": 0.0,
+      "non_wordstart": 0.005439208004261786,
+      "residual": 0.0008127270088067462
+    },
+    "full_text": "the prell decided to cleb the bril braz",
+    "context_prefix": "the prell decided to",
+    "context_tokens": 5,
+    "context_display": "the prell decided to",
+    "top_candidates": [
+      {
+        "token": "' go'",
+        "word": "go",
+        "class": "verb",
+        "prob": 0.04443511739373207
+      },
+      {
+        "token": "' take'",
+        "word": "take",
+        "class": "verb",
+        "prob": 0.03437769040465355
+      },
+      {
+        "token": "' make'",
+        "word": "make",
+        "class": "verb",
+        "prob": 0.024902652949094772
+      },
+      {
+        "token": "' leave'",
+        "word": "leave",
+        "class": "verb",
+        "prob": 0.02116946503520012
+      },
+      {
+        "token": "' use'",
+        "word": "use",
+        "class": "verb",
+        "prob": 0.01941700465977192
+      },
+      {
+        "token": "' give'",
+        "word": "give",
+        "class": "verb",
+        "prob": 0.018121851608157158
+      },
+      {
+        "token": "' do'",
+        "word": "do",
+        "class": "function",
+        "prob": 0.014782276004552841
+      },
+      {
+        "token": "' run'",
+        "word": "run",
+        "class": "verb",
+        "prob": 0.012136027216911316
+      },
+      {
+        "token": "' keep'",
+        "word": "keep",
+        "class": "other_open",
+        "prob": 0.010757504031062126
+      },
+      {
+        "token": "' move'",
+        "word": "move",
+        "class": "verb",
+        "prob": 0.010545089840888977
+      },
+      {
+        "token": "' stay'",
+        "word": "stay",
+        "class": "verb",
+        "prob": 0.010197441093623638
+      },
+      {
+        "token": "' send'",
+        "word": "send",
+        "class": "verb",
+        "prob": 0.010156599804759026
+      },
+      {
+        "token": "' put'",
+        "word": "put",
+        "class": "other_open",
+        "prob": 0.009542989544570446
+      },
+      {
+        "token": "' have'",
+        "word": "have",
+        "class": "function",
+        "prob": 0.00886604655534029
+      },
+      {
+        "token": "' get'",
+        "word": "get",
+        "class": "verb",
+        "prob": 0.007925674319267273
+      },
+      {
+        "token": "' write'",
+        "word": "write",
+        "class": "verb",
+        "prob": 0.007647325750440359
+      },
+      {
+        "token": "' start'",
+        "word": "start",
+        "class": "other_open",
+        "prob": 0.0076005603186786175
+      },
+      {
+        "token": "' be'",
+        "word": "be",
+        "class": "function",
+        "prob": 0.0075039914809167385
+      },
+      {
+        "token": "' let'",
+        "word": "let",
+        "class": "other_open",
+        "prob": 0.007419963832944632
+      },
+      {
+        "token": "' stop'",
+        "word": "stop",
+        "class": "verb",
+        "prob": 0.007409441284835339
+      }
+    ]
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "scrambled_jabberwocky",
+    "stimulus_id": 0,
+    "cue_word": "to",
+    "cue_word_index": 6,
+    "mass": {
+      "verb": 0.08055419176434953,
+      "noun": 0.006365025109062117,
+      "function": 0.22655945668066124,
+      "other_open": 0.4689137755549382,
+      "punct": 0.0,
+      "non_wordstart": 0.16454551302831533,
+      "residual": 0.053062037862673606
+    },
+    "full_text": "the the cleb prell braz bril to decided",
+    "context_prefix": "the the cleb prell braz bril to",
+    "context_tokens": 11,
+    "context_display": "the the cleb prell braz bril to",
+    "top_candidates": [
+      {
+        "token": "' the'",
+        "word": "the",
+        "class": "function",
+        "prob": 0.07338054478168488
+      },
+      {
+        "token": "' be'",
+        "word": "be",
+        "class": "function",
+        "prob": 0.04258880764245987
+      },
+      {
+        "token": "' a'",
+        "word": "a",
+        "class": "function",
+        "prob": 0.020483970642089844
+      },
+      {
+        "token": "' b'",
+        "word": "b",
+        "class": "other_open",
+        "prob": 0.011820260435342789
+      },
+      {
+        "token": "' c'",
+        "word": "c",
+        "class": "other_open",
+        "prob": 0.009996427223086357
+      },
+      {
+        "token": "' make'",
+        "word": "make",
+        "class": "verb",
+        "prob": 0.009738225489854813
+      },
+      {
+        "token": "' d'",
+        "word": "d",
+        "class": "other_open",
+        "prob": 0.009006867185235023
+      },
+      {
+        "token": "' do'",
+        "word": "do",
+        "class": "function",
+        "prob": 0.008018700405955315
+      },
+      {
+        "token": "' get'",
+        "word": "get",
+        "class": "verb",
+        "prob": 0.0077935452573001385
+      },
+      {
+        "token": "' have'",
+        "word": "have",
+        "class": "function",
+        "prob": 0.006288718432188034
+      },
+      {
+        "token": "' g'",
+        "word": "g",
+        "class": "other_open",
+        "prob": 0.006248401943594217
+      },
+      {
+        "token": "' l'",
+        "word": "l",
+        "class": "other_open",
+        "prob": 0.006054772529751062
+      },
+      {
+        "token": "' h'",
+        "word": "h",
+        "class": "other_open",
+        "prob": 0.005633129272609949
+      },
+      {
+        "token": "' t'",
+        "word": "t",
+        "class": "other_open",
+        "prob": 0.0047001964412629604
+      },
+      {
+        "token": "' me'",
+        "word": "me",
+        "class": "function",
+        "prob": 0.004311366006731987
+      },
+      {
+        "token": "' his'",
+        "word": "his",
+        "class": "function",
+        "prob": 0.004280687775462866
+      },
+      {
+        "token": "' s'",
+        "word": "s",
+        "class": "other_open",
+        "prob": 0.004119053483009338
+      },
+      {
+        "token": "' go'",
+        "word": "go",
+        "class": "verb",
+        "prob": 0.003878980875015259
+      },
+      {
+        "token": "' give'",
+        "word": "give",
+        "class": "verb",
+        "prob": 0.0038162798155099154
+      },
+      {
+        "token": "' f'",
+        "word": "f",
+        "class": "other_open",
+        "prob": 0.003644549287855625
+      }
+    ]
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "sentence",
+    "stimulus_id": 1,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.42410934337842576,
+      "noun": 0.010363371681812339,
+      "function": 0.05373082771779991,
+      "other_open": 0.5067875941565205,
+      "punct": 0.0,
+      "non_wordstart": 0.004676891067902034,
+      "residual": 0.0003319719975394264
+    },
+    "full_text": "the teacher decided to explain the difficult concept",
+    "context_prefix": "the teacher decided to",
+    "context_tokens": 4,
+    "context_display": "the teacher decided to",
+    "top_candidates": [
+      {
+        "token": "' take'",
+        "word": "take",
+        "class": "verb",
+        "prob": 0.06124284490942955
+      },
+      {
+        "token": "' go'",
+        "word": "go",
+        "class": "verb",
+        "prob": 0.04148959740996361
+      },
+      {
+        "token": "' teach'",
+        "word": "teach",
+        "class": "other_open",
+        "prob": 0.04066477343440056
+      },
+      {
+        "token": "' give'",
+        "word": "give",
+        "class": "verb",
+        "prob": 0.03331901133060455
+      },
+      {
+        "token": "' make'",
+        "word": "make",
+        "class": "verb",
+        "prob": 0.029455116018652916
+      },
+      {
+        "token": "' use'",
+        "word": "use",
+        "class": "verb",
+        "prob": 0.025890734046697617
+      },
+      {
+        "token": "' do'",
+        "word": "do",
+        "class": "function",
+        "prob": 0.02389027178287506
+      },
+      {
+        "token": "' leave'",
+        "word": "leave",
+        "class": "verb",
+        "prob": 0.017615312710404396
+      },
+      {
+        "token": "' get'",
+        "word": "get",
+        "class": "verb",
+        "prob": 0.011992636136710644
+      },
+      {
+        "token": "' put'",
+        "word": "put",
+        "class": "other_open",
+        "prob": 0.011913297697901726
+      },
+      {
+        "token": "' send'",
+        "word": "send",
+        "class": "verb",
+        "prob": 0.011033645831048489
+      },
+      {
+        "token": "' have'",
+        "word": "have",
+        "class": "function",
+        "prob": 0.010952292941510677
+      },
+      {
+        "token": "' let'",
+        "word": "let",
+        "class": "other_open",
+        "prob": 0.01034950464963913
+      },
+      {
+        "token": "' stop'",
+        "word": "stop",
+        "class": "verb",
+        "prob": 0.010154284536838531
+      },
+      {
+        "token": "' keep'",
+        "word": "keep",
+        "class": "other_open",
+        "prob": 0.010080337524414062
+      },
+      {
+        "token": "' write'",
+        "word": "write",
+        "class": "verb",
+        "prob": 0.009915731847286224
+      },
+      {
+        "token": "' start'",
+        "word": "start",
+        "class": "other_open",
+        "prob": 0.009596589021384716
+      },
+      {
+        "token": "' ask'",
+        "word": "ask",
+        "class": "verb",
+        "prob": 0.00900649931281805
+      },
+      {
+        "token": "' be'",
+        "word": "be",
+        "class": "function",
+        "prob": 0.008653406985104084
+      },
+      {
+        "token": "' change'",
+        "word": "change",
+        "class": "verb",
+        "prob": 0.008628882467746735
+      }
+    ]
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 1,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.38115795454754675,
+      "noun": 0.010611731543463065,
+      "function": 0.04569598820751253,
+      "other_open": 0.5581640292948435,
+      "punct": 0.0,
+      "non_wordstart": 0.0037487554808990353,
+      "residual": 0.0006215409257350757
+    },
+    "full_text": "the zept decided to yeb the cral blit",
+    "context_prefix": "the zept decided to",
+    "context_tokens": 5,
+    "context_display": "the zept decided to",
+    "top_candidates": [
+      {
+        "token": "' take'",
+        "word": "take",
+        "class": "verb",
+        "prob": 0.042492933571338654
+      },
+      {
+        "token": "' go'",
+        "word": "go",
+        "class": "verb",
+        "prob": 0.042240168899297714
+      },
+      {
+        "token": "' make'",
+        "word": "make",
+        "class": "verb",
+        "prob": 0.03459557145833969
+      },
+      {
+        "token": "' use'",
+        "word": "use",
+        "class": "verb",
+        "prob": 0.02724859118461609
+      },
+      {
+        "token": "' do'",
+        "word": "do",
+        "class": "function",
+        "prob": 0.02309948205947876
+      },
+      {
+        "token": "' give'",
+        "word": "give",
+        "class": "verb",
+        "prob": 0.019774924963712692
+      },
+      {
+        "token": "' keep'",
+        "word": "keep",
+        "class": "other_open",
+        "prob": 0.01276414468884468
+      },
+      {
+        "token": "' put'",
+        "word": "put",
+        "class": "other_open",
+        "prob": 0.012435024604201317
+      },
+      {
+        "token": "' leave'",
+        "word": "leave",
+        "class": "verb",
+        "prob": 0.011382325552403927
+      },
+      {
+        "token": "' try'",
+        "word": "try",
+        "class": "verb",
+        "prob": 0.010617106221616268
+      },
+      {
+        "token": "' start'",
+        "word": "start",
+        "class": "other_open",
+        "prob": 0.010268962942063808
+      },
+      {
+        "token": "' run'",
+        "word": "run",
+        "class": "verb",
+        "prob": 0.009277093224227428
+      },
+      {
+        "token": "' send'",
+        "word": "send",
+        "class": "verb",
+        "prob": 0.009028374217450619
+      },
+      {
+        "token": "' get'",
+        "word": "get",
+        "class": "verb",
+        "prob": 0.008995509706437588
+      },
+      {
+        "token": "' create'",
+        "word": "create",
+        "class": "verb",
+        "prob": 0.008917337283492088
+      },
+      {
+        "token": "' stop'",
+        "word": "stop",
+        "class": "verb",
+        "prob": 0.008230469189584255
+      },
+      {
+        "token": "' change'",
+        "word": "change",
+        "class": "verb",
+        "prob": 0.008207644335925579
+      },
+      {
+        "token": "' add'",
+        "word": "add",
+        "class": "verb",
+        "prob": 0.00786664243787527
+      },
+      {
+        "token": "' move'",
+        "word": "move",
+        "class": "verb",
+        "prob": 0.007640566676855087
+      },
+      {
+        "token": "' have'",
+        "word": "have",
+        "class": "function",
+        "prob": 0.007394199725240469
+      }
+    ]
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "sentence",
+    "stimulus_id": 2,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.45263720496912185,
+      "noun": 0.009603792298740643,
+      "function": 0.04154642163182132,
+      "other_open": 0.4906617996002467,
+      "punct": 0.0,
+      "non_wordstart": 0.005205035754322296,
+      "residual": 0.00034574574574719463
+    },
+    "full_text": "the student decided to finish the important assignment",
+    "context_prefix": "the student decided to",
+    "context_tokens": 4,
+    "context_display": "the student decided to",
+    "top_candidates": [
+      {
+        "token": "' take'",
+        "word": "take",
+        "class": "verb",
+        "prob": 0.08372600376605988
+      },
+      {
+        "token": "' go'",
+        "word": "go",
+        "class": "verb",
+        "prob": 0.07042694836854935
+      },
+      {
+        "token": "' leave'",
+        "word": "leave",
+        "class": "verb",
+        "prob": 0.02392466366291046
+      },
+      {
+        "token": "' join'",
+        "word": "join",
+        "class": "other_open",
+        "prob": 0.019280409440398216
+      },
+      {
+        "token": "' do'",
+        "word": "do",
+        "class": "function",
+        "prob": 0.018892496824264526
+      },
+      {
+        "token": "' make'",
+        "word": "make",
+        "class": "verb",
+        "prob": 0.018536696210503578
+      },
+      {
+        "token": "' use'",
+        "word": "use",
+        "class": "verb",
+        "prob": 0.017406707629561424
+      },
+      {
+        "token": "' write'",
+        "word": "write",
+        "class": "verb",
+        "prob": 0.016538027673959732
+      },
+      {
+        "token": "' get'",
+        "word": "get",
+        "class": "verb",
+        "prob": 0.015406199730932713
+      },
+      {
+        "token": "' become'",
+        "word": "become",
+        "class": "verb",
+        "prob": 0.012461480684578419
+      },
+      {
+        "token": "' give'",
+        "word": "give",
+        "class": "verb",
+        "prob": 0.011983723379671574
+      },
+      {
+        "token": "' start'",
+        "word": "start",
+        "class": "other_open",
+        "prob": 0.011954684741795063
+      },
+      {
+        "token": "' come'",
+        "word": "come",
+        "class": "verb",
+        "prob": 0.010958858765661716
+      },
+      {
+        "token": "' stay'",
+        "word": "stay",
+        "class": "verb",
+        "prob": 0.010356184095144272
+      },
+      {
+        "token": "' run'",
+        "word": "run",
+        "class": "verb",
+        "prob": 0.009619206190109253
+      },
+      {
+        "token": "' move'",
+        "word": "move",
+        "class": "verb",
+        "prob": 0.009560090489685535
+      },
+      {
+        "token": "' try'",
+        "word": "try",
+        "class": "verb",
+        "prob": 0.009364030323922634
+      },
+      {
+        "token": "' attend'",
+        "word": "attend",
+        "class": "other_open",
+        "prob": 0.008880984969437122
+      },
+      {
+        "token": "' return'",
+        "word": "return",
+        "class": "other_open",
+        "prob": 0.008270918391644955
+      },
+      {
+        "token": "' be'",
+        "word": "be",
+        "class": "function",
+        "prob": 0.007685852237045765
+      }
+    ]
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 2,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.34438189011885356,
+      "noun": 0.013571376470494556,
+      "function": 0.03763514148741365,
+      "other_open": 0.5984016346448016,
+      "punct": 0.0,
+      "non_wordstart": 0.0053668101373745,
+      "residual": 0.0006431471410621725
+    },
+    "full_text": "the vling decided to brind the slib grift",
+    "context_prefix": "the vling decided to",
+    "context_tokens": 5,
+    "context_display": "the vling decided to",
+    "top_candidates": [
+      {
+        "token": "' go'",
+        "word": "go",
+        "class": "verb",
+        "prob": 0.036955635994672775
+      },
+      {
+        "token": "' take'",
+        "word": "take",
+        "class": "verb",
+        "prob": 0.036419905722141266
+      },
+      {
+        "token": "' make'",
+        "word": "make",
+        "class": "verb",
+        "prob": 0.026176296174526215
+      },
+      {
+        "token": "' use'",
+        "word": "use",
+        "class": "verb",
+        "prob": 0.019822927191853523
+      },
+      {
+        "token": "' leave'",
+        "word": "leave",
+        "class": "verb",
+        "prob": 0.01616271585226059
+      },
+      {
+        "token": "' do'",
+        "word": "do",
+        "class": "function",
+        "prob": 0.013914858922362328
+      },
+      {
+        "token": "' give'",
+        "word": "give",
+        "class": "verb",
+        "prob": 0.013723399490118027
+      },
+      {
+        "token": "' keep'",
+        "word": "keep",
+        "class": "other_open",
+        "prob": 0.012792590074241161
+      },
+      {
+        "token": "' move'",
+        "word": "move",
+        "class": "verb",
+        "prob": 0.01128563191741705
+      },
+      {
+        "token": "' put'",
+        "word": "put",
+        "class": "other_open",
+        "prob": 0.010736830532550812
+      },
+      {
+        "token": "' run'",
+        "word": "run",
+        "class": "verb",
+        "prob": 0.010377475060522556
+      },
+      {
+        "token": "' send'",
+        "word": "send",
+        "class": "verb",
+        "prob": 0.00837730523198843
+      },
+      {
+        "token": "' change'",
+        "word": "change",
+        "class": "verb",
+        "prob": 0.008348975330591202
+      },
+      {
+        "token": "' stop'",
+        "word": "stop",
+        "class": "verb",
+        "prob": 0.008146865293383598
+      },
+      {
+        "token": "' get'",
+        "word": "get",
+        "class": "verb",
+        "prob": 0.00799990352243185
+      },
+      {
+        "token": "' start'",
+        "word": "start",
+        "class": "other_open",
+        "prob": 0.00792385172098875
+      },
+      {
+        "token": "' stay'",
+        "word": "stay",
+        "class": "verb",
+        "prob": 0.007886459119617939
+      },
+      {
+        "token": "' have'",
+        "word": "have",
+        "class": "function",
+        "prob": 0.0077271973714232445
+      },
+      {
+        "token": "' remove'",
+        "word": "remove",
+        "class": "other_open",
+        "prob": 0.00756006920710206
+      },
+      {
+        "token": "' continue'",
+        "word": "continue",
+        "class": "verb",
+        "prob": 0.007455592509359121
+      }
+    ]
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "scrambled_jabberwocky",
+    "stimulus_id": 2,
+    "cue_word": "to",
+    "cue_word_index": 2,
+    "mass": {
+      "verb": 0.40913449020014525,
+      "noun": 0.010619778727473772,
+      "function": 0.03909545663162106,
+      "other_open": 0.5370969242609434,
+      "punct": 0.0,
+      "non_wordstart": 0.0035593043179105166,
+      "residual": 0.000494045861906045
+    },
+    "full_text": "vling decided to slib grift brind the the",
+    "context_prefix": "vling decided to",
+    "context_tokens": 4,
+    "context_display": "vling decided to",
+    "top_candidates": [
+      {
+        "token": "' take'",
+        "word": "take",
+        "class": "verb",
+        "prob": 0.058633770793676376
+      },
+      {
+        "token": "' go'",
+        "word": "go",
+        "class": "verb",
+        "prob": 0.04339906945824623
+      },
+      {
+        "token": "' make'",
+        "word": "make",
+        "class": "verb",
+        "prob": 0.029041768983006477
+      },
+      {
+        "token": "' do'",
+        "word": "do",
+        "class": "function",
+        "prob": 0.019714314490556717
+      },
+      {
+        "token": "' use'",
+        "word": "use",
+        "class": "verb",
+        "prob": 0.018523558974266052
+      },
+      {
+        "token": "' give'",
+        "word": "give",
+        "class": "verb",
+        "prob": 0.01815004274249077
+      },
+      {
+        "token": "' try'",
+        "word": "try",
+        "class": "verb",
+        "prob": 0.014610696583986282
+      },
+      {
+        "token": "' leave'",
+        "word": "leave",
+        "class": "verb",
+        "prob": 0.014081663452088833
+      },
+      {
+        "token": "' get'",
+        "word": "get",
+        "class": "verb",
+        "prob": 0.013497848063707352
+      },
+      {
+        "token": "' run'",
+        "word": "run",
+        "class": "verb",
+        "prob": 0.0128214992582798
+      },
+      {
+        "token": "' put'",
+        "word": "put",
+        "class": "other_open",
+        "prob": 0.012017698027193546
+      },
+      {
+        "token": "' join'",
+        "word": "join",
+        "class": "other_open",
+        "prob": 0.010713418014347553
+      },
+      {
+        "token": "' start'",
+        "word": "start",
+        "class": "other_open",
+        "prob": 0.010072620585560799
+      },
+      {
+        "token": "' keep'",
+        "word": "keep",
+        "class": "other_open",
+        "prob": 0.01003151386976242
+      },
+      {
+        "token": "' stay'",
+        "word": "stay",
+        "class": "verb",
+        "prob": 0.009265325963497162
+      },
+      {
+        "token": "' move'",
+        "word": "move",
+        "class": "verb",
+        "prob": 0.009197011590003967
+      },
+      {
+        "token": "' play'",
+        "word": "play",
+        "class": "other_open",
+        "prob": 0.008855888620018959
+      },
+      {
+        "token": "' bring'",
+        "word": "bring",
+        "class": "verb",
+        "prob": 0.00840431172400713
+      },
+      {
+        "token": "' send'",
+        "word": "send",
+        "class": "verb",
+        "prob": 0.007573339622467756
+      },
+      {
+        "token": "' call'",
+        "word": "call",
+        "class": "verb",
+        "prob": 0.007067859172821045
+      }
+    ]
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "sentence",
+    "stimulus_id": 3,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.4698841970296641,
+      "noun": 0.007519933164452652,
+      "function": 0.08493585874817455,
+      "other_open": 0.43279708781975046,
+      "punct": 0.0,
+      "non_wordstart": 0.00458519828837467,
+      "residual": 0.00027772494958355765
+    },
+    "full_text": "the artist decided to paint the beautiful landscape",
+    "context_prefix": "the artist decided to",
+    "context_tokens": 4
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 3,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.34130250676226126,
+      "noun": 0.01263334682580819,
+      "function": 0.04012964903311911,
+      "other_open": 0.6003053257835944,
+      "punct": 0.0,
+      "non_wordstart": 0.0048304420500073775,
+      "residual": 0.0007987295452096532
+    },
+    "full_text": "the prid decided to greb the skel yond",
+    "context_prefix": "the prid decided to",
+    "context_tokens": 5
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "sentence",
+    "stimulus_id": 4,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.4448954777239891,
+      "noun": 0.010372190935989067,
+      "function": 0.07739662079036691,
+      "other_open": 0.46391558515953335,
+      "punct": 0.0,
+      "non_wordstart": 0.003155329732308587,
+      "residual": 0.0002647956578130106
+    },
+    "full_text": "the doctor decided to examine the sick patient",
+    "context_prefix": "the doctor decided to",
+    "context_tokens": 4
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 4,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.3677523879222804,
+      "noun": 0.01310903627290827,
+      "function": 0.04275022295666986,
+      "other_open": 0.5698832749824874,
+      "punct": 0.0,
+      "non_wordstart": 0.0053271781120258765,
+      "residual": 0.0011778997536282532
+    },
+    "full_text": "the throp decided to vreb the glib braz",
+    "context_prefix": "the throp decided to",
+    "context_tokens": 5
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "sentence",
+    "stimulus_id": 5,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.3791710636952459,
+      "noun": 0.0035501257072425574,
+      "function": 0.26884784677120876,
+      "other_open": 0.3383268403211659,
+      "punct": 0.0,
+      "non_wordstart": 0.009870506993127748,
+      "residual": 0.00023361651200914935
+    },
+    "full_text": "the child wanted to play with the colorful toys",
+    "context_prefix": "the child wanted to",
+    "context_tokens": 4
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 5,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.41014967821969606,
+      "noun": 0.007538132920331009,
+      "function": 0.1092642655644056,
+      "other_open": 0.45893847355851847,
+      "punct": 0.0,
+      "non_wordstart": 0.013011290575221324,
+      "residual": 0.0010981591618275388
+    },
+    "full_text": "the trug wanted to flub with the vrel wask",
+    "context_prefix": "the trug wanted to",
+    "context_tokens": 5
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "sentence",
+    "stimulus_id": 6,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.38256297133036554,
+      "noun": 0.005405239581783405,
+      "function": 0.13790031081977006,
+      "other_open": 0.4633852126493814,
+      "punct": 0.0,
+      "non_wordstart": 0.010564707523954553,
+      "residual": 0.00018155809474507123
+    },
+    "full_text": "the musician wanted to perform at the famous venue",
+    "context_prefix": "the musician wanted to",
+    "context_tokens": 4
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 6,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.27451896298413203,
+      "noun": 0.006330197910386914,
+      "function": 0.29071596112569864,
+      "other_open": 0.4161803284615644,
+      "punct": 0.0,
+      "non_wordstart": 0.010780554509665308,
+      "residual": 0.0014739950085527198
+    },
+    "full_text": "the wask wanted to wrib at the skel drell",
+    "context_prefix": "the wask wanted to",
+    "context_tokens": 5
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "scrambled_jabberwocky",
+    "stimulus_id": 6,
+    "cue_word": "to",
+    "cue_word_index": 4,
+    "mass": {
+      "verb": 0.19034267175504738,
+      "noun": 0.007666789259133111,
+      "function": 0.5003689492158401,
+      "other_open": 0.27859079545839904,
+      "punct": 0.0,
+      "non_wordstart": 0.011666050572671338,
+      "residual": 0.011364743738909056
+    },
+    "full_text": "wanted the wrib wask to drell skel at the",
+    "context_prefix": "wanted the wrib wask to",
+    "context_tokens": 8,
+    "context_display": "wanted the wrib wask to",
+    "top_candidates": [
+      {
+        "token": "' be'",
+        "word": "be",
+        "class": "function",
+        "prob": 0.4046482443809509
+      },
+      {
+        "token": "' go'",
+        "word": "go",
+        "class": "verb",
+        "prob": 0.03424953669309616
+      },
+      {
+        "token": "' come'",
+        "word": "come",
+        "class": "verb",
+        "prob": 0.02230139635503292
+      },
+      {
+        "token": "' the'",
+        "word": "the",
+        "class": "function",
+        "prob": 0.022204115986824036
+      },
+      {
+        "token": "' have'",
+        "word": "have",
+        "class": "function",
+        "prob": 0.011386963538825512
+      },
+      {
+        "token": "' stay'",
+        "word": "stay",
+        "class": "verb",
+        "prob": 0.010392657481133938
+      },
+      {
+        "token": "' become'",
+        "word": "become",
+        "class": "verb",
+        "prob": 0.010183406062424183
+      },
+      {
+        "token": "' help'",
+        "word": "help",
+        "class": "other_open",
+        "prob": 0.009529419243335724
+      },
+      {
+        "token": "' get'",
+        "word": "get",
+        "class": "verb",
+        "prob": 0.009413872845470905
+      },
+      {
+        "token": "' his'",
+        "word": "his",
+        "class": "function",
+        "prob": 0.008191903121769428
+      },
+      {
+        "token": "' pay'",
+        "word": "pay",
+        "class": "verb",
+        "prob": 0.007471228949725628
+      },
+      {
+        "token": "' remain'",
+        "word": "remain",
+        "class": "other_open",
+        "prob": 0.0069166673347353935
+      },
+      {
+        "token": "' a'",
+        "word": "a",
+        "class": "function",
+        "prob": 0.006472522392868996
+      },
+      {
+        "token": "' make'",
+        "word": "make",
+        "class": "verb",
+        "prob": 0.0062384940683841705
+      },
+      {
+        "token": "' give'",
+        "word": "give",
+        "class": "verb",
+        "prob": 0.0060490937903523445
+      },
+      {
+        "token": "' take'",
+        "word": "take",
+        "class": "verb",
+        "prob": 0.005426883231848478
+      },
+      {
+        "token": "' me'",
+        "word": "me",
+        "class": "function",
+        "prob": 0.005297450348734856
+      },
+      {
+        "token": "' return'",
+        "word": "return",
+        "class": "other_open",
+        "prob": 0.005028628744184971
+      },
+      {
+        "token": "' stop'",
+        "word": "stop",
+        "class": "verb",
+        "prob": 0.004846585914492607
+      },
+      {
+        "token": "' him'",
+        "word": "him",
+        "class": "function",
+        "prob": 0.0044616153463721275
+      }
+    ]
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "sentence",
+    "stimulus_id": 7,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.4508309305832654,
+      "noun": 0.007239899701573904,
+      "function": 0.1141729933349751,
+      "other_open": 0.4210688807029044,
+      "punct": 0.0,
+      "non_wordstart": 0.006487704624518642,
+      "residual": 0.00019959105276257105
+    },
+    "full_text": "the writer wanted to publish the controversial novel",
+    "context_prefix": "the writer wanted to",
+    "context_tokens": 4
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 7,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.39351680109346887,
+      "noun": 0.005114026207550637,
+      "function": 0.12840512604709886,
+      "other_open": 0.457436071192447,
+      "punct": 0.0,
+      "non_wordstart": 0.014742873280340518,
+      "residual": 0.0007851021790941104
+    },
+    "full_text": "the drell wanted to slib the dril vrim",
+    "context_prefix": "the drell wanted to",
+    "context_tokens": 5
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "scrambled_jabberwocky",
+    "stimulus_id": 7,
+    "cue_word": "to",
+    "cue_word_index": 6,
+    "mass": {
+      "verb": 0.36742108642539506,
+      "noun": 0.004993488550269376,
+      "function": 0.11952131593631066,
+      "other_open": 0.4918716821908333,
+      "punct": 0.0,
+      "non_wordstart": 0.01366454230111458,
+      "residual": 0.0025278845960770013
+    },
+    "full_text": "the the slib vrim dril wanted to drell",
+    "context_prefix": "the the slib vrim dril wanted to",
+    "context_tokens": 10
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "sentence",
+    "stimulus_id": 8,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.4776166759981635,
+      "noun": 0.005058794109253029,
+      "function": 0.1045947993422196,
+      "other_open": 0.40655975011220136,
+      "punct": 0.0,
+      "non_wordstart": 0.00600858062337295,
+      "residual": 0.00016139981478957566
+    },
+    "full_text": "the chef wanted to prepare the special dinner",
+    "context_prefix": "the chef wanted to",
+    "context_tokens": 4
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 8,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.4186892691674444,
+      "noun": 0.0057352892535647015,
+      "function": 0.10781924165549128,
+      "other_open": 0.4544512178026423,
+      "punct": 0.0,
+      "non_wordstart": 0.012564887050899642,
+      "residual": 0.000740095069957647
+    },
+    "full_text": "the krin wanted to plek the blip flust",
+    "context_prefix": "the krin wanted to",
+    "context_tokens": 5
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "sentence",
+    "stimulus_id": 9,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.35453626410517103,
+      "noun": 0.003549636342022211,
+      "function": 0.2118310224291875,
+      "other_open": 0.4138253074700131,
+      "punct": 0.0,
+      "non_wordstart": 0.016044447525725758,
+      "residual": 0.00021332212788038873
+    },
+    "full_text": "the athlete wanted to win the important competition",
+    "context_prefix": "the athlete wanted to",
+    "context_tokens": 4
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 9,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.40816026492878166,
+      "noun": 0.00722256308517899,
+      "function": 0.10877231754713534,
+      "other_open": 0.458292335808153,
+      "punct": 0.0,
+      "non_wordstart": 0.01684684060332131,
+      "residual": 0.0007056780274297125
+    },
+    "full_text": "the crint wanted to skeb the trop glom",
+    "context_prefix": "the crint wanted to",
+    "context_tokens": 5
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "scrambled_jabberwocky",
+    "stimulus_id": 9,
+    "cue_word": "to",
+    "cue_word_index": 2,
+    "mass": {
+      "verb": 0.24516803904998596,
+      "noun": 0.007912152389508265,
+      "function": 0.18716458830135707,
+      "other_open": 0.32231685770557306,
+      "punct": 0.0,
+      "non_wordstart": 0.20702832309370933,
+      "residual": 0.03041003945986631
+    },
+    "full_text": "wanted the to glom the crint trop skeb",
+    "context_prefix": "wanted the to",
+    "context_tokens": 4
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "sentence",
+    "stimulus_id": 10,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.2578085889121269,
+      "noun": 0.01913657076391928,
+      "function": 0.015280011946344985,
+      "other_open": 0.7033110246648278,
+      "punct": 0.0,
+      "non_wordstart": 0.003765585738094046,
+      "residual": 0.0006982179746870543
+    },
+    "full_text": "the professor began to teach the advanced course",
+    "context_prefix": "the professor began to",
+    "context_tokens": 4
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 10,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.24494937202746314,
+      "noun": 0.0036179434312089143,
+      "function": 0.015130558180842968,
+      "other_open": 0.7316888710560363,
+      "punct": 0.0,
+      "non_wordstart": 0.003755413345814418,
+      "residual": 0.0008578419586342534
+    },
+    "full_text": "the drell began to blim the snel glom",
+    "context_prefix": "the drell began to",
+    "context_tokens": 5
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "sentence",
+    "stimulus_id": 11,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.28847644067886336,
+      "noun": 0.02546678187161433,
+      "function": 0.017395325141407625,
+      "other_open": 0.6647900872303438,
+      "punct": 0.0,
+      "non_wordstart": 0.003360093576262102,
+      "residual": 0.0005112715015087588
+    },
+    "full_text": "the detective began to investigate the mysterious crime",
+    "context_prefix": "the detective began to",
+    "context_tokens": 4
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 11,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.2338891066976032,
+      "noun": 0.00250070986128037,
+      "function": 0.016868136719168092,
+      "other_open": 0.7427687194072519,
+      "punct": 0.0,
+      "non_wordstart": 0.0033375312924874834,
+      "residual": 0.0006357960222089787
+    },
+    "full_text": "the bletch began to treb the trop trug",
+    "context_prefix": "the bletch began to",
+    "context_tokens": 6
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "sentence",
+    "stimulus_id": 12,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.2873459886432528,
+      "noun": 0.010404889816740592,
+      "function": 0.017979104238463606,
+      "other_open": 0.6796140393236669,
+      "punct": 0.0,
+      "non_wordstart": 0.0038624642622409056,
+      "residual": 0.0007935137156351857
+    },
+    "full_text": "the engineer began to design the complex system",
+    "context_prefix": "the engineer began to",
+    "context_tokens": 4
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 12,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.19856185856049535,
+      "noun": 0.001788999949539516,
+      "function": 0.020401403884747538,
+      "other_open": 0.7751375631428914,
+      "punct": 0.0,
+      "non_wordstart": 0.0036096122595949964,
+      "residual": 0.0005005622027312029
+    },
+    "full_text": "the vrim began to trop the flom zorf",
+    "context_prefix": "the vrim began to",
+    "context_tokens": 5
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "scrambled_jabberwocky",
+    "stimulus_id": 12,
+    "cue_word": "to",
+    "cue_word_index": 2,
+    "mass": {
+      "verb": 0.024453714623177802,
+      "noun": 0.0025881507672238513,
+      "function": 0.07037434450398905,
+      "other_open": 0.09824641382374466,
+      "punct": 0.0,
+      "non_wordstart": 0.7828605456279547,
+      "residual": 0.02147683065390993
+    },
+    "full_text": "trop the to began flom zorf vrim the",
+    "context_prefix": "trop the to",
+    "context_tokens": 3
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "sentence",
+    "stimulus_id": 13,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.261701036570102,
+      "noun": 0.009397842710740179,
+      "function": 0.02159523358629656,
+      "other_open": 0.7015371736295464,
+      "punct": 0.0,
+      "non_wordstart": 0.005017038227620674,
+      "residual": 0.0007516752756941969
+    },
+    "full_text": "the gardener began to plant the fresh seeds",
+    "context_prefix": "the gardener began to",
+    "context_tokens": 5
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 13,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.18737274086716837,
+      "noun": 0.0019296622898394844,
+      "function": 0.013429733000343447,
+      "other_open": 0.7931414739071982,
+      "punct": 0.0,
+      "non_wordstart": 0.0037256382087420548,
+      "residual": 0.00040075172670839265
+    },
+    "full_text": "the blit began to sneb the skel tral",
+    "context_prefix": "the blit began to",
+    "context_tokens": 5
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "sentence",
+    "stimulus_id": 14,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.2383857810054053,
+      "noun": 0.006541470502980928,
+      "function": 0.01599393313169628,
+      "other_open": 0.7339843723837163,
+      "punct": 0.0,
+      "non_wordstart": 0.0045749250156461585,
+      "residual": 0.0005195179605550493
+    },
+    "full_text": "the driver began to repair the broken vehicle",
+    "context_prefix": "the driver began to",
+    "context_tokens": 4
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 14,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.2130703701865997,
+      "noun": 0.0030713679215637057,
+      "function": 0.020337698645178648,
+      "other_open": 0.7588929926512691,
+      "punct": 0.0,
+      "non_wordstart": 0.0037418187769162614,
+      "residual": 0.0008857518184726132
+    },
+    "full_text": "the zept began to slib the flul drest",
+    "context_prefix": "the zept began to",
+    "context_tokens": 5
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "sentence",
+    "stimulus_id": 15,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.27866333885026506,
+      "noun": 0.009348668095157109,
+      "function": 0.023269970010957763,
+      "other_open": 0.6823951839962916,
+      "punct": 0.0,
+      "non_wordstart": 0.005679395579107904,
+      "residual": 0.0006434434682205392
+    },
+    "full_text": "the researcher tried to solve the difficult problem",
+    "context_prefix": "the researcher tried to",
+    "context_tokens": 4
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 15,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.2765610110269563,
+      "noun": 0.0056895448929026315,
+      "function": 0.047849997493642604,
+      "other_open": 0.6573783767041732,
+      "punct": 0.0,
+      "non_wordstart": 0.009890926266336919,
+      "residual": 0.002630143615988345
+    },
+    "full_text": "the blit tried to bleb the thrim drell",
+    "context_prefix": "the blit tried to",
+    "context_tokens": 5
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "sentence",
+    "stimulus_id": 16,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.32306350960442387,
+      "noun": 0.00832443022719076,
+      "function": 0.023851449606468123,
+      "other_open": 0.6392740119163989,
+      "punct": 0.0,
+      "non_wordstart": 0.004977610462958637,
+      "residual": 0.0005089881825597331
+    },
+    "full_text": "the manager tried to improve the poor performance",
+    "context_prefix": "the manager tried to",
+    "context_tokens": 4
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 16,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.29186115071689755,
+      "noun": 0.006835935776933866,
+      "function": 0.032653089191398976,
+      "other_open": 0.6611766732688409,
+      "punct": 0.0,
+      "non_wordstart": 0.005988648523469919,
+      "residual": 0.001484502522458797
+    },
+    "full_text": "the zept tried to treb the flom grop",
+    "context_prefix": "the zept tried to",
+    "context_tokens": 5
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "scrambled_jabberwocky",
+    "stimulus_id": 16,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.06997972281419607,
+      "noun": 0.004342391902355303,
+      "function": 0.12086472161922757,
+      "other_open": 0.1838255137301985,
+      "punct": 0.0,
+      "non_wordstart": 0.5919683262886792,
+      "residual": 0.02901932364534332
+    },
+    "full_text": "the grop the to treb tried flom zept",
+    "context_prefix": "the grop the to",
+    "context_tokens": 4
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "sentence",
+    "stimulus_id": 17,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.33025249977580984,
+      "noun": 0.005826229204160427,
+      "function": 0.0400718292103619,
+      "other_open": 0.6171011074494714,
+      "punct": 0.0,
+      "non_wordstart": 0.006039808860634821,
+      "residual": 0.0007085254995615742
+    },
+    "full_text": "the programmer tried to debug the complex code",
+    "context_prefix": "the programmer tried to",
+    "context_tokens": 4
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 17,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.2990042855266779,
+      "noun": 0.007555626977591601,
+      "function": 0.03483699101752791,
+      "other_open": 0.6495414613332855,
+      "punct": 0.0,
+      "non_wordstart": 0.006073370509227516,
+      "residual": 0.002988264635689575
+    },
+    "full_text": "the tral tried to blim the yel drell",
+    "context_prefix": "the tral tried to",
+    "context_tokens": 5
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "scrambled_jabberwocky",
+    "stimulus_id": 17,
+    "cue_word": "to",
+    "cue_word_index": 2,
+    "mass": {
+      "verb": 0.042740017625874316,
+      "noun": 0.004749272512299285,
+      "function": 0.0790576213184977,
+      "other_open": 0.11655404632915634,
+      "punct": 0.0,
+      "non_wordstart": 0.7292081357984443,
+      "residual": 0.027690906415728023
+    },
+    "full_text": "the the to tried tral blim yel drell",
+    "context_prefix": "the the to",
+    "context_tokens": 3
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "sentence",
+    "stimulus_id": 18,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.295876959641447,
+      "noun": 0.00877851574735189,
+      "function": 0.020187755475404856,
+      "other_open": 0.6692969496119758,
+      "punct": 0.0,
+      "non_wordstart": 0.005194346239932202,
+      "residual": 0.0006654732838882182
+    },
+    "full_text": "the assistant tried to organize the messy files",
+    "context_prefix": "the assistant tried to",
+    "context_tokens": 4
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 18,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.28530629640434313,
+      "noun": 0.007132661116202144,
+      "function": 0.02325408346987956,
+      "other_open": 0.6777312570758625,
+      "punct": 0.0,
+      "non_wordstart": 0.005488087323669788,
+      "residual": 0.0010876146100429196
+    },
+    "full_text": "the flarn tried to slib the crel grift",
+    "context_prefix": "the flarn tried to",
+    "context_tokens": 5
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "scrambled_jabberwocky",
+    "stimulus_id": 18,
+    "cue_word": "to",
+    "cue_word_index": 1,
+    "mass": {
+      "verb": 0.05989003494073586,
+      "noun": 0.00581571273278314,
+      "function": 0.10229197413809743,
+      "other_open": 0.15458158350088524,
+      "punct": 0.0,
+      "non_wordstart": 0.6429097712907605,
+      "residual": 0.03451092339673778
+    },
+    "full_text": "the to grift the slib crel flarn tried",
+    "context_prefix": "the to",
+    "context_tokens": 2
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "sentence",
+    "stimulus_id": 19,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.26567748883223885,
+      "noun": 0.009054326813284774,
+      "function": 0.025890727982542217,
+      "other_open": 0.6941050364599377,
+      "punct": 0.0,
+      "non_wordstart": 0.004815756812057259,
+      "residual": 0.00045666309993919185
+    },
+    "full_text": "the lawyer tried to defend the innocent client",
+    "context_prefix": "the lawyer tried to",
+    "context_tokens": 4
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 19,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.24767596642942635,
+      "noun": 0.006831623966235156,
+      "function": 0.022987775384564202,
+      "other_open": 0.7166700879739949,
+      "punct": 0.0,
+      "non_wordstart": 0.0045464099474656905,
+      "residual": 0.0012881362983137024
+    },
+    "full_text": "the flust tried to cleb the trop crint",
+    "context_prefix": "the flust tried to",
+    "context_tokens": 5
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "sentence",
+    "stimulus_id": 20,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.4675194881622815,
+      "noun": 0.010260058233313885,
+      "function": 0.037142724401583394,
+      "other_open": 0.4769776571794111,
+      "punct": 0.0,
+      "non_wordstart": 0.007642055777701273,
+      "residual": 0.0004580162457088477
+    },
+    "full_text": "the architect planned to build the modern structure",
+    "context_prefix": "the architect planned to",
+    "context_tokens": 4
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 20,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.3463951958635221,
+      "noun": 0.009397236298241296,
+      "function": 0.08280649790867756,
+      "other_open": 0.5480347735445434,
+      "punct": 0.0,
+      "non_wordstart": 0.010326534641706075,
+      "residual": 0.0030397617433095547
+    },
+    "full_text": "the dron planned to flib the zril prid",
+    "context_prefix": "the dron planned to",
+    "context_tokens": 5
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "sentence",
+    "stimulus_id": 21,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.3243632021229672,
+      "noun": 0.011120351755984359,
+      "function": 0.04985150702618313,
+      "other_open": 0.6019983562944731,
+      "punct": 0.0,
+      "non_wordstart": 0.01222077332157312,
+      "residual": 0.0004458094788191147
+    },
+    "full_text": "the director planned to film the dramatic scene",
+    "context_prefix": "the director planned to",
+    "context_tokens": 4
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 21,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.3439561449741859,
+      "noun": 0.009907784656689955,
+      "function": 0.09436236462730108,
+      "other_open": 0.5418049414697919,
+      "punct": 0.0,
+      "non_wordstart": 0.008296353773914689,
+      "residual": 0.0016724104981165056
+    },
+    "full_text": "the braz planned to gleb the glib vrim",
+    "context_prefix": "the braz planned to",
+    "context_tokens": 5
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "sentence",
+    "stimulus_id": 22,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.42808602207281865,
+      "noun": 0.009167860763341196,
+      "function": 0.05580024796613259,
+      "other_open": 0.49738224402160824,
+      "punct": 0.0,
+      "non_wordstart": 0.008970158971010278,
+      "residual": 0.0005934662050890438
+    },
+    "full_text": "the designer planned to create the elegant product",
+    "context_prefix": "the designer planned to",
+    "context_tokens": 4
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 22,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.26769373181411993,
+      "noun": 0.014063505185163194,
+      "function": 0.22037378668642305,
+      "other_open": 0.485319844922401,
+      "punct": 0.0,
+      "non_wordstart": 0.009152547348378448,
+      "residual": 0.0033965840435143946
+    },
+    "full_text": "the throp planned to crog the pril glom",
+    "context_prefix": "the throp planned to",
+    "context_tokens": 5
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "sentence",
+    "stimulus_id": 23,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.4329758371222425,
+      "noun": 0.009030838207536362,
+      "function": 0.03646692470454127,
+      "other_open": 0.5152744765744472,
+      "punct": 0.0,
+      "non_wordstart": 0.005478701897985161,
+      "residual": 0.0007732214932474335
+    },
+    "full_text": "the merchant planned to sell the expensive goods",
+    "context_prefix": "the merchant planned to",
+    "context_tokens": 4
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 23,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.31172709934634213,
+      "noun": 0.011899584980739064,
+      "function": 0.13433033084638168,
+      "other_open": 0.5306762059790628,
+      "punct": 0.0,
+      "non_wordstart": 0.00902705123436931,
+      "residual": 0.0023397276131049694
+    },
+    "full_text": "the drest planned to slib the slib krin",
+    "context_prefix": "the drest planned to",
+    "context_tokens": 5
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "sentence",
+    "stimulus_id": 24,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.36487187930622156,
+      "noun": 0.01285295092402805,
+      "function": 0.05139495608985101,
+      "other_open": 0.5637765098831409,
+      "punct": 0.0,
+      "non_wordstart": 0.006316634347570016,
+      "residual": 0.0007870694491884933
+    },
+    "full_text": "the captain planned to sail the large vessel",
+    "context_prefix": "the captain planned to",
+    "context_tokens": 4
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 24,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.2994562932173608,
+      "noun": 0.00934019186399837,
+      "function": 0.16255898234828692,
+      "other_open": 0.5144579031889407,
+      "punct": 0.0,
+      "non_wordstart": 0.010707588110165034,
+      "residual": 0.0034790412712482066
+    },
+    "full_text": "the crint planned to crog the grul dron",
+    "context_prefix": "the crint planned to",
+    "context_tokens": 5
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "sentence",
+    "stimulus_id": 25,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.30003011365758425,
+      "noun": 0.010512587921738259,
+      "function": 0.027844205296673863,
+      "other_open": 0.6551406413074687,
+      "punct": 0.0,
+      "non_wordstart": 0.005139346575418813,
+      "residual": 0.0013331052411160726
+    },
+    "full_text": "the speaker continued to discuss the important topic",
+    "context_prefix": "the speaker continued to",
+    "context_tokens": 4
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 25,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.28977985566899633,
+      "noun": 0.0032732083835753656,
+      "function": 0.08738273437359112,
+      "other_open": 0.6140536839507149,
+      "punct": 0.0,
+      "non_wordstart": 0.003899699247256194,
+      "residual": 0.0016108183758660743
+    },
+    "full_text": "the grop continued to vreb the yel zept",
+    "context_prefix": "the grop continued to",
+    "context_tokens": 4
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "sentence",
+    "stimulus_id": 26,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.3153211619517151,
+      "noun": 0.013240963744323153,
+      "function": 0.05352273315270395,
+      "other_open": 0.6092427431403564,
+      "punct": 0.0,
+      "non_wordstart": 0.007086694784248948,
+      "residual": 0.001585703226652413
+    },
+    "full_text": "the reader continued to study the ancient texts",
+    "context_prefix": "the reader continued to",
+    "context_tokens": 4
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 26,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.20397792921244218,
+      "noun": 0.002581193437492857,
+      "function": 0.056480855842210076,
+      "other_open": 0.7328178071734612,
+      "punct": 0.0,
+      "non_wordstart": 0.0025126024997348395,
+      "residual": 0.0016296118346588173
+    },
+    "full_text": "the snar continued to wrib the yel vrim",
+    "context_prefix": "the snar continued to",
+    "context_tokens": 5
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "sentence",
+    "stimulus_id": 27,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.34492771814865364,
+      "noun": 0.00619497463441121,
+      "function": 0.07634944127599397,
+      "other_open": 0.56730718383713,
+      "punct": 0.0,
+      "non_wordstart": 0.004104729305510091,
+      "residual": 0.001115952798301123
+    },
+    "full_text": "the worker continued to assemble the metal parts",
+    "context_prefix": "the worker continued to",
+    "context_tokens": 4
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 27,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.2502995267027188,
+      "noun": 0.003603734530145175,
+      "function": 0.07053311282015784,
+      "other_open": 0.6700616620403252,
+      "punct": 0.0,
+      "non_wordstart": 0.0031765793064266745,
+      "residual": 0.0023253846002262435
+    },
+    "full_text": "the trug continued to skeb the clom snib",
+    "context_prefix": "the trug continued to",
+    "context_tokens": 5
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "sentence",
+    "stimulus_id": 28,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.17669503964657451,
+      "noun": 0.004367807714601213,
+      "function": 0.038501593408398094,
+      "other_open": 0.7748618120633068,
+      "punct": 0.0,
+      "non_wordstart": 0.004074742810701082,
+      "residual": 0.0014990043564182542
+    },
+    "full_text": "the dancer continued to practice the difficult routine",
+    "context_prefix": "the dancer continued to",
+    "context_tokens": 4
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 28,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.2175099872808346,
+      "noun": 0.004189274984980784,
+      "function": 0.04784587088903436,
+      "other_open": 0.7249022300417209,
+      "punct": 0.0,
+      "non_wordstart": 0.0033256511013917134,
+      "residual": 0.0022269857020376094
+    },
+    "full_text": "the drell continued to greb the zril flib",
+    "context_prefix": "the drell continued to",
+    "context_tokens": 5
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "sentence",
+    "stimulus_id": 29,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.23049433881789128,
+      "noun": 0.0059634915238007125,
+      "function": 0.03417557100999602,
+      "other_open": 0.7226999078543201,
+      "punct": 0.0,
+      "non_wordstart": 0.004867919971417223,
+      "residual": 0.0017987708225746246
+    },
+    "full_text": "the painter continued to refine the delicate details",
+    "context_prefix": "the painter continued to",
+    "context_tokens": 4
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 29,
+    "cue_word": "to",
+    "cue_word_index": 3,
+    "mass": {
+      "verb": 0.2669478598718058,
+      "noun": 0.0025190355653705865,
+      "function": 0.12221486368343903,
+      "other_open": 0.6039940545060745,
+      "punct": 0.0,
+      "non_wordstart": 0.002168175998008337,
+      "residual": 0.0021560103753017756
+    },
+    "full_text": "the grift continued to trop the drel glom",
+    "context_prefix": "the grift continued to",
+    "context_tokens": 5
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "infinitival_to",
+    "condition": "scrambled_jabberwocky",
+    "stimulus_id": 29,
+    "cue_word": "to",
+    "cue_word_index": 2,
+    "mass": {
+      "verb": 0.055293626360253256,
+      "noun": 0.011296273730749817,
+      "function": 0.4339465501448103,
+      "other_open": 0.4167412106694428,
+      "punct": 0.0,
+      "non_wordstart": 0.02118603534427166,
+      "residual": 0.06153630375047214
+    },
+    "full_text": "grift glom to drel the the trop continued",
+    "context_prefix": "grift glom to",
+    "context_tokens": 5
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "preposition",
+    "condition": "sentence",
+    "stimulus_id": 5,
+    "cue_word": "with",
+    "cue_word_index": 5,
+    "mass": {
+      "verb": 0.001156213404783557,
+      "noun": 0.003990263656760362,
+      "function": 0.7551485477411006,
+      "other_open": 0.15044349196989515,
+      "punct": 0.0,
+      "non_wordstart": 0.08233504012434878,
+      "residual": 0.006926443103111524
+    },
+    "full_text": "the child wanted to play with the colorful toys",
+    "context_prefix": "the child wanted to play with",
+    "context_tokens": 6,
+    "context_display": "the child wanted to play with",
+    "top_candidates": [
+      {
+        "token": "' her'",
+        "word": "her",
+        "class": "function",
+        "prob": 0.17460568249225616
+      },
+      {
+        "token": "' his'",
+        "word": "his",
+        "class": "function",
+        "prob": 0.09260440617799759
+      },
+      {
+        "token": "' the'",
+        "word": "the",
+        "class": "function",
+        "prob": 0.09168558567762375
+      },
+      {
+        "token": "' him'",
+        "word": "him",
+        "class": "function",
+        "prob": 0.08232009410858154
+      },
+      {
+        "token": "' me'",
+        "word": "me",
+        "class": "function",
+        "prob": 0.0658474713563919
+      },
+      {
+        "token": "' a'",
+        "word": "a",
+        "class": "function",
+        "prob": 0.050000179558992386
+      },
+      {
+        "token": "' them'",
+        "word": "them",
+        "class": "function",
+        "prob": 0.03218613937497139
+      },
+      {
+        "token": "' it'",
+        "word": "it",
+        "class": "function",
+        "prob": 0.022143984213471413
+      },
+      {
+        "token": "' us'",
+        "word": "us",
+        "class": "function",
+        "prob": 0.02040092833340168
+      },
+      {
+        "token": "' my'",
+        "word": "my",
+        "class": "function",
+        "prob": 0.01941641978919506
+      },
+      {
+        "token": "' their'",
+        "word": "their",
+        "class": "function",
+        "prob": 0.014441503211855888
+      },
+      {
+        "token": "' you'",
+        "word": "you",
+        "class": "function",
+        "prob": 0.009339084848761559
+      },
+      {
+        "token": "' this'",
+        "word": "this",
+        "class": "function",
+        "prob": 0.008918151259422302
+      },
+      {
+        "token": "' that'",
+        "word": "that",
+        "class": "function",
+        "prob": 0.008812099695205688
+      },
+      {
+        "token": "' and'",
+        "word": "and",
+        "class": "function",
+        "prob": 0.006301280111074448
+      },
+      {
+        "token": "' other'",
+        "word": "other",
+        "class": "other_open",
+        "prob": 0.005993259605020285
+      },
+      {
+        "token": "' some'",
+        "word": "some",
+        "class": "function",
+        "prob": 0.00594335375353694
+      },
+      {
+        "token": "' an'",
+        "word": "an",
+        "class": "function",
+        "prob": 0.004451909568160772
+      },
+      {
+        "token": "' another'",
+        "word": "another",
+        "class": "other_open",
+        "prob": 0.00399005739018321
+      },
+      {
+        "token": "' something'",
+        "word": "something",
+        "class": "other_open",
+        "prob": 0.0037296556401997805
+      }
+    ]
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "preposition",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 5,
+    "cue_word": "with",
+    "cue_word_index": 5,
+    "mass": {
+      "verb": 0.0024621854704491852,
+      "noun": 0.013519555261154892,
+      "function": 0.621636228745956,
+      "other_open": 0.30577577032408954,
+      "punct": 0.0,
+      "non_wordstart": 0.022822152252956585,
+      "residual": 0.03378410794539377
+    },
+    "full_text": "the trug wanted to flub with the vrel wask",
+    "context_prefix": "the trug wanted to flub with",
+    "context_tokens": 8,
+    "context_display": "the trug wanted to flub with",
+    "top_candidates": [
+      {
+        "token": "' the'",
+        "word": "the",
+        "class": "function",
+        "prob": 0.19242849946022034
+      },
+      {
+        "token": "' a'",
+        "word": "a",
+        "class": "function",
+        "prob": 0.07091536372900009
+      },
+      {
+        "token": "' me'",
+        "word": "me",
+        "class": "function",
+        "prob": 0.06848175078630447
+      },
+      {
+        "token": "' his'",
+        "word": "his",
+        "class": "function",
+        "prob": 0.04498927667737007
+      },
+      {
+        "token": "' him'",
+        "word": "him",
+        "class": "function",
+        "prob": 0.030515212565660477
+      },
+      {
+        "token": "' her'",
+        "word": "her",
+        "class": "function",
+        "prob": 0.02366846613585949
+      },
+      {
+        "token": "' us'",
+        "word": "us",
+        "class": "function",
+        "prob": 0.021156951785087585
+      },
+      {
+        "token": "' my'",
+        "word": "my",
+        "class": "function",
+        "prob": 0.015507716685533524
+      },
+      {
+        "token": "' an'",
+        "word": "an",
+        "class": "function",
+        "prob": 0.014117137528955936
+      },
+      {
+        "token": "' some'",
+        "word": "some",
+        "class": "function",
+        "prob": 0.014096042141318321
+      },
+      {
+        "token": "' them'",
+        "word": "them",
+        "class": "function",
+        "prob": 0.013108717277646065
+      },
+      {
+        "token": "' all'",
+        "word": "all",
+        "class": "function",
+        "prob": 0.009532839991152287
+      },
+      {
+        "token": "' their'",
+        "word": "their",
+        "class": "function",
+        "prob": 0.009440126828849316
+      },
+      {
+        "token": "' this'",
+        "word": "this",
+        "class": "function",
+        "prob": 0.009345106780529022
+      },
+      {
+        "token": "' you'",
+        "word": "you",
+        "class": "function",
+        "prob": 0.009334062226116657
+      },
+      {
+        "token": "' people'",
+        "word": "people",
+        "class": "noun",
+        "prob": 0.0075746565125882626
+      },
+      {
+        "token": "' everyone'",
+        "word": "everyone",
+        "class": "other_open",
+        "prob": 0.0074371653608977795
+      },
+      {
+        "token": "' it'",
+        "word": "it",
+        "class": "function",
+        "prob": 0.0071384054608643055
+      },
+      {
+        "token": "' someone'",
+        "word": "someone",
+        "class": "other_open",
+        "prob": 0.006033700425177813
+      },
+      {
+        "token": "' that'",
+        "word": "that",
+        "class": "function",
+        "prob": 0.005464026238769293
+      }
+    ]
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "preposition",
+    "condition": "scrambled_jabberwocky",
+    "stimulus_id": 5,
+    "cue_word": "with",
+    "cue_word_index": 1,
+    "mass": {
+      "verb": 0.0067796016792271985,
+      "noun": 0.01426990070285683,
+      "function": 0.3690545646841201,
+      "other_open": 0.3116982212777657,
+      "punct": 0.0,
+      "non_wordstart": 0.21633229517374275,
+      "residual": 0.0818654164822874
+    },
+    "full_text": "the with wanted wask flub the to trug vrel",
+    "context_prefix": "the with",
+    "context_tokens": 2,
+    "context_display": "the with",
+    "top_candidates": [
+      {
+        "token": "' the'",
+        "word": "the",
+        "class": "function",
+        "prob": 0.10686350613832474
+      },
+      {
+        "token": "' a'",
+        "word": "a",
+        "class": "function",
+        "prob": 0.07952789962291718
+      },
+      {
+        "token": "' no'",
+        "word": "no",
+        "class": "function",
+        "prob": 0.01903383433818817
+      },
+      {
+        "token": "' an'",
+        "word": "an",
+        "class": "function",
+        "prob": 0.014272769913077354
+      },
+      {
+        "token": "' and'",
+        "word": "and",
+        "class": "function",
+        "prob": 0.010911631397902966
+      },
+      {
+        "token": "' which'",
+        "word": "which",
+        "class": "function",
+        "prob": 0.007311847060918808
+      },
+      {
+        "token": "' her'",
+        "word": "her",
+        "class": "function",
+        "prob": 0.006896385923027992
+      },
+      {
+        "token": "' his'",
+        "word": "his",
+        "class": "function",
+        "prob": 0.006838907953351736
+      },
+      {
+        "token": "' all'",
+        "word": "all",
+        "class": "function",
+        "prob": 0.006076273508369923
+      },
+      {
+        "token": "' their'",
+        "word": "their",
+        "class": "function",
+        "prob": 0.005893124267458916
+      },
+      {
+        "token": "' your'",
+        "word": "your",
+        "class": "function",
+        "prob": 0.005820869002491236
+      },
+      {
+        "token": "' it'",
+        "word": "it",
+        "class": "function",
+        "prob": 0.005606080871075392
+      },
+      {
+        "token": "' this'",
+        "word": "this",
+        "class": "function",
+        "prob": 0.005359961185604334
+      },
+      {
+        "token": "' him'",
+        "word": "him",
+        "class": "function",
+        "prob": 0.005162515211850405
+      },
+      {
+        "token": "' them'",
+        "word": "them",
+        "class": "function",
+        "prob": 0.004542714450508356
+      },
+      {
+        "token": "' you'",
+        "word": "you",
+        "class": "function",
+        "prob": 0.004278569482266903
+      },
+      {
+        "token": "' or'",
+        "word": "or",
+        "class": "function",
+        "prob": 0.004065698944032192
+      },
+      {
+        "token": "' whom'",
+        "word": "whom",
+        "class": "function",
+        "prob": 0.003956879023462534
+      },
+      {
+        "token": "' one'",
+        "word": "one",
+        "class": "other_open",
+        "prob": 0.0037557417526841164
+      },
+      {
+        "token": "' that'",
+        "word": "that",
+        "class": "function",
+        "prob": 0.0037100748158991337
+      }
+    ]
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "preposition",
+    "condition": "sentence",
+    "stimulus_id": 6,
+    "cue_word": "at",
+    "cue_word_index": 5,
+    "mass": {
+      "verb": 0.0033610733619298117,
+      "noun": 0.008198086350830636,
+      "function": 0.6716360876503131,
+      "other_open": 0.2918202490282056,
+      "punct": 0.0,
+      "non_wordstart": 0.016131288127326116,
+      "residual": 0.008853215481394727
+    },
+    "full_text": "the musician wanted to perform at the famous venue",
+    "context_prefix": "the musician wanted to perform at",
+    "context_tokens": 6,
+    "context_display": "the musician wanted to perform at",
+    "top_candidates": [
+      {
+        "token": "' the'",
+        "word": "the",
+        "class": "function",
+        "prob": 0.3317228853702545
+      },
+      {
+        "token": "' a'",
+        "word": "a",
+        "class": "function",
+        "prob": 0.16937190294265747
+      },
+      {
+        "token": "' his'",
+        "word": "his",
+        "class": "function",
+        "prob": 0.03479515761137009
+      },
+      {
+        "token": "' an'",
+        "word": "an",
+        "class": "function",
+        "prob": 0.02991805039346218
+      },
+      {
+        "token": "' this'",
+        "word": "this",
+        "class": "function",
+        "prob": 0.022461669519543648
+      },
+      {
+        "token": "' her'",
+        "word": "her",
+        "class": "function",
+        "prob": 0.010528376325964928
+      },
+      {
+        "token": "' my'",
+        "word": "my",
+        "class": "function",
+        "prob": 0.010405161418020725
+      },
+      {
+        "token": "' The'",
+        "word": "the",
+        "class": "function",
+        "prob": 0.00896850973367691
+      },
+      {
+        "token": "' their'",
+        "word": "their",
+        "class": "function",
+        "prob": 0.00709348451346159
+      },
+      {
+        "token": "' that'",
+        "word": "that",
+        "class": "function",
+        "prob": 0.006237761117517948
+      },
+      {
+        "token": "' one'",
+        "word": "one",
+        "class": "other_open",
+        "prob": 0.006184639874845743
+      },
+      {
+        "token": "' some'",
+        "word": "some",
+        "class": "function",
+        "prob": 0.00480958865955472
+      },
+      {
+        "token": "' our'",
+        "word": "our",
+        "class": "function",
+        "prob": 0.004022672306746244
+      },
+      {
+        "token": "' least'",
+        "word": "least",
+        "class": "other_open",
+        "prob": 0.003887353464961052
+      },
+      {
+        "token": "' another'",
+        "word": "another",
+        "class": "other_open",
+        "prob": 0.0034258957020938396
+      },
+      {
+        "token": "' St'",
+        "word": "st",
+        "class": "other_open",
+        "prob": 0.002865480026230216
+      },
+      {
+        "token": "' New'",
+        "word": "new",
+        "class": "other_open",
+        "prob": 0.0027728299610316753
+      },
+      {
+        "token": "' Madison'",
+        "word": "madison",
+        "class": "other_open",
+        "prob": 0.002499754773452878
+      },
+      {
+        "token": "' home'",
+        "word": "home",
+        "class": "noun",
+        "prob": 0.0023530188482254744
+      },
+      {
+        "token": "' last'",
+        "word": "last",
+        "class": "other_open",
+        "prob": 0.0022981956135481596
+      }
+    ]
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "preposition",
+    "condition": "jabberwocky_matched",
+    "stimulus_id": 6,
+    "cue_word": "at",
+    "cue_word_index": 5,
+    "mass": {
+      "verb": 0.0036959198155273043,
+      "noun": 0.020011452544622443,
+      "function": 0.5581669994439835,
+      "other_open": 0.3255252850576653,
+      "punct": 0.0,
+      "non_wordstart": 0.056156967167680705,
+      "residual": 0.03644337597052072
+    },
+    "full_text": "the wask wanted to wrib at the skel drell",
+    "context_prefix": "the wask wanted to wrib at",
+    "context_tokens": 8,
+    "context_display": "the wask wanted to wrib at",
+    "top_candidates": [
+      {
+        "token": "' the'",
+        "word": "the",
+        "class": "function",
+        "prob": 0.2232786864042282
+      },
+      {
+        "token": "' a'",
+        "word": "a",
+        "class": "function",
+        "prob": 0.04551782086491585
+      },
+      {
+        "token": "' his'",
+        "word": "his",
+        "class": "function",
+        "prob": 0.03839043155312538
+      },
+      {
+        "token": "' me'",
+        "word": "me",
+        "class": "function",
+        "prob": 0.02832806669175625
+      },
+      {
+        "token": "' her'",
+        "word": "her",
+        "class": "function",
+        "prob": 0.022425422444939613
+      },
+      {
+        "token": "' him'",
+        "word": "him",
+        "class": "function",
+        "prob": 0.021703651174902916
+      },
+      {
+        "token": "' least'",
+        "word": "least",
+        "class": "other_open",
+        "prob": 0.019894065335392952
+      },
+      {
+        "token": "' them'",
+        "word": "them",
+        "class": "function",
+        "prob": 0.0161287821829319
+      },
+      {
+        "token": "' my'",
+        "word": "my",
+        "class": "function",
+        "prob": 0.014678255654871464
+      },
+      {
+        "token": "' this'",
+        "word": "this",
+        "class": "function",
+        "prob": 0.011149771511554718
+      },
+      {
+        "token": "' you'",
+        "word": "you",
+        "class": "function",
+        "prob": 0.01102290116250515
+      },
+      {
+        "token": "' that'",
+        "word": "that",
+        "class": "function",
+        "prob": 0.010382824577391148
+      },
+      {
+        "token": "' home'",
+        "word": "home",
+        "class": "noun",
+        "prob": 0.009527451358735561
+      },
+      {
+        "token": "' their'",
+        "word": "their",
+        "class": "function",
+        "prob": 0.009518151171505451
+      },
+      {
+        "token": "' an'",
+        "word": "an",
+        "class": "function",
+        "prob": 0.00893622450530529
+      },
+      {
+        "token": "' its'",
+        "word": "its",
+        "class": "function",
+        "prob": 0.008547588251531124
+      },
+      {
+        "token": "' us'",
+        "word": "us",
+        "class": "function",
+        "prob": 0.008006592281162739
+      },
+      {
+        "token": "' all'",
+        "word": "all",
+        "class": "function",
+        "prob": 0.007881438359618187
+      },
+      {
+        "token": "' some'",
+        "word": "some",
+        "class": "function",
+        "prob": 0.006833943072706461
+      },
+      {
+        "token": "' any'",
+        "word": "any",
+        "class": "function",
+        "prob": 0.006727890111505985
+      }
+    ]
+  },
+  {
+    "model": "gpt2",
+    "cue_type": "preposition",
+    "condition": "scrambled_jabberwocky",
+    "stimulus_id": 6,
+    "cue_word": "at",
+    "cue_word_index": 7,
+    "mass": {
+      "verb": 0.0068414889656196465,
+      "noun": 0.01912609081773553,
+      "function": 0.4317408473643809,
+      "other_open": 0.3388921644855145,
+      "punct": 0.0,
+      "non_wordstart": 0.1445804054810651,
+      "residual": 0.05881900288568431
+    },
+    "full_text": "wanted the wrib wask to drell skel at the",
+    "context_prefix": "wanted the wrib wask to drell skel at",
+    "context_tokens": 13,
+    "context_display": "wanted the wrib wask to drell skel at",
+    "top_candidates": [
+      {
+        "token": "' the'",
+        "word": "the",
+        "class": "function",
+        "prob": 0.1499929279088974
+      },
+      {
+        "token": "' a'",
+        "word": "a",
+        "class": "function",
+        "prob": 0.04757371172308922
+      },
+      {
+        "token": "' his'",
+        "word": "his",
+        "class": "function",
+        "prob": 0.03465040773153305
+      },
+      {
+        "token": "' my'",
+        "word": "my",
+        "class": "function",
+        "prob": 0.032493483275175095
+      },
+      {
+        "token": "' me'",
+        "word": "me",
+        "class": "function",
+        "prob": 0.016668375581502914
+      },
+      {
+        "token": "' least'",
+        "word": "least",
+        "class": "other_open",
+        "prob": 0.014486819505691528
+      },
+      {
+        "token": "' her'",
+        "word": "her",
+        "class": "function",
+        "prob": 0.012981344014406204
+      },
+      {
+        "token": "' your'",
+        "word": "your",
+        "class": "function",
+        "prob": 0.012049184180796146
+      },
+      {
+        "token": "' him'",
+        "word": "him",
+        "class": "function",
+        "prob": 0.009882771410048008
+      },
+      {
+        "token": "' this'",
+        "word": "this",
+        "class": "function",
+        "prob": 0.008703434839844704
+      },
+      {
+        "token": "' an'",
+        "word": "an",
+        "class": "function",
+        "prob": 0.008210688829421997
+      },
+      {
+        "token": "' that'",
+        "word": "that",
+        "class": "function",
+        "prob": 0.008098146878182888
+      },
+      {
+        "token": "' some'",
+        "word": "some",
+        "class": "function",
+        "prob": 0.008059254847466946
+      },
+      {
+        "token": "' home'",
+        "word": "home",
+        "class": "noun",
+        "prob": 0.007551009301096201
+      },
+      {
+        "token": "' all'",
+        "word": "all",
+        "class": "function",
+        "prob": 0.007264228537678719
+      },
+      {
+        "token": "' you'",
+        "word": "you",
+        "class": "function",
+        "prob": 0.005483034532517195
+      },
+      {
+        "token": "' their'",
+        "word": "their",
+        "class": "function",
+        "prob": 0.005061700940132141
+      },
+      {
+        "token": "' one'",
+        "word": "one",
+        "class": "other_open",
+        "prob": 0.005041544791311026
+      },
+      {
+        "token": "' its'",
+        "word": "its",
+        "class": "function",
+        "prob": 0.004555003251880407
+      },
+      {
+        "token": "' any'",
+        "word": "any",
+        "class": "function",
+        "prob": 0.004370289389044046
+      }
+    ]
+  }
+]

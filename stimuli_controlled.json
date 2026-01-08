@@ -1,0 +1,242 @@
+[
+  {
+    "set_id": 1,
+    "sentence": "The teacher was explaining the concept to the students clearly",
+    "jabberwocky": "The nellick was trening the trell to the geffs blundlely",
+    "stripped": "freff nellick keff tren freff trell grofl freff geff blundle",
+    "nonwords": "zemble zrell kren bliv wreffin cremble plenth drell quorb heffin",
+    "num_words": 10
+  },
+  {
+    "set_id": 2,
+    "sentence": "A small bird landed softly on the wooden fence",
+    "jabberwocky": "A yendle vork whiffed glorply on the driv moxen",
+    "stripped": "vren yendle vork whiff glorp yalm hreff driv moxen",
+    "nonwords": "mornix cromple blenk drell plenth yeff remble trell gribble",
+    "num_words": 9
+  },
+  {
+    "set_id": 3,
+    "sentence": "The children were playing with their toys in the garden",
+    "jabberwocky": "The moxen were mornixing with their slenks in the trock",
+    "stripped": "tembly moxen blenk mornix sniv blemble slenk fleff tembly trock",
+    "nonwords": "heffin flenk demble grenth wreffin yendle frell glendle whill jendle",
+    "num_words": 10
+  },
+  {
+    "set_id": 4,
+    "sentence": "She has been reading that book very carefully",
+    "jabberwocky": "krendle has been yalming that klim very zinkly",
+    "stripped": "krendle drell cleff yalm yorbel klim grell zink",
+    "nonwords": "quorb tren plov nellick fleff wreffin jell snell",
+    "num_words": 8
+  },
+  {
+    "set_id": 5,
+    "sentence": "The scientist discovered a new species in the forest",
+    "jabberwocky": "The sprock ploved a moxen whiffs in the reffin",
+    "stripped": "veff sprock plov tembly moxen whiff pliff veff reffin",
+    "nonwords": "freff kren teff grent wreffin sniv jembly grell remble",
+    "num_words": 9
+  },
+  {
+    "set_id": 6,
+    "sentence": "They will finish the project by tomorrow morning",
+    "jabberwocky": "drell will deffin the yrell by crell mornixing",
+    "stripped": "drell vemble deffin whisp yrell sniv crell mornix",
+    "nonwords": "klorn gremble remble klorp gleb zell prell shill",
+    "num_words": 8
+  },
+  {
+    "set_id": 7,
+    "sentence": "A gentle breeze was blowing through the open window",
+    "jabberwocky": "A demble wexin was zomping through the creff daffin",
+    "stripped": "trock demble wexin blenth zomp brell jexen creff daffin",
+    "nonwords": "remble bren flenk kreb lemble yorbel flib quemble klorp",
+    "num_words": 9
+  },
+  {
+    "set_id": 8,
+    "sentence": "The musician played the melody beautifully on stage",
+    "jabberwocky": "The grenth wrembleed the freff plenthly on trell",
+    "stripped": "vemble grenth wremble vemble freff plenth yrell trell",
+    "nonwords": "quorb flib flurn glendle frell horp zell drell",
+    "num_words": 8
+  },
+  {
+    "set_id": 9,
+    "sentence": "He could have solved the problem more easily",
+    "jabberwocky": "zell could have veffed the flib bren plonkly",
+    "stripped": "zell blenth lemble veff blenk flib bren plonk",
+    "nonwords": "vork hemble trock reffin prell trell vreff horp",
+    "num_words": 8
+  },
+  {
+    "set_id": 10,
+    "sentence": "The committee is reviewing the proposal thoroughly",
+    "jabberwocky": "The whisp is quendleing the rellick grellly",
+    "stripped": "prell whisp urnble quendle prell rellick grell",
+    "nonwords": "lurnip wremble cremble tren slenk plenth zomp",
+    "num_words": 7
+  },
+  {
+    "set_id": 11,
+    "sentence": "A mysterious figure appeared suddenly in the darkness",
+    "jabberwocky": "A lurnips whill blorked klimly in the temblys",
+    "stripped": "snorf lurnip whill blork klim prock sken tembly",
+    "nonwords": "shill vren driv plib gribble plov urnix borp",
+    "num_words": 8
+  },
+  {
+    "set_id": 12,
+    "sentence": "The students should study the material very seriously",
+    "jabberwocky": "The blivs should sniv the mornix very whillly",
+    "stripped": "whisp bliv vellop sniv whisp mornix gleb whill",
+    "nonwords": "teff clorp tren yalp florp fleff skeff leppik",
+    "num_words": 8
+  },
+  {
+    "set_id": 13,
+    "sentence": "She was walking slowly through the quiet streets",
+    "jabberwocky": "jrenth was trening frellly through the grent keffs",
+    "stripped": "jrenth klim tren frell klorp gribble grent keff",
+    "nonwords": "fremble vren yeff whell creff veff grenth dwel",
+    "num_words": 8
+  },
+  {
+    "set_id": 14,
+    "sentence": "The engineers are designing a better system carefully",
+    "jabberwocky": "The zembles are skening a yendle dwel trockly",
+    "stripped": "creff zemble tren sken zeffin yendle dwel trock",
+    "nonwords": "grof blimp vork brell frell jexen whill trell",
+    "num_words": 8
+  },
+  {
+    "set_id": 15,
+    "sentence": "A young artist painted the landscape very skillfully",
+    "jabberwocky": "A drell jendle wreffined the pliff very slenkly",
+    "stripped": "grell drell jendle wreffin veff pliff prav slenk",
+    "nonwords": "snell jrenth jell jembly demble fremble brell yorbel",
+    "num_words": 8
+  },
+  {
+    "set_id": 16,
+    "sentence": "The dog had been barking loudly at the stranger",
+    "jabberwocky": "The fleff zeffin been yalming reffinly at the prock",
+    "stripped": "vork fleff zeffin jendle yalm reffin snorf vork prock",
+    "nonwords": "grell blicket fremble yeff jrenth mornix hreff wuggle mip",
+    "num_words": 9
+  },
+  {
+    "set_id": 17,
+    "sentence": "They were discussing the matter quite intensely",
+    "jabberwocky": "pliff were praving the gremble horp wexinly",
+    "stripped": "pliff sniv prav flimp gremble horp wexin",
+    "nonwords": "crendle yalm crell screll urnble shill zemble",
+    "num_words": 7
+  },
+  {
+    "set_id": 18,
+    "sentence": "The flowers are blooming beautifully in the spring",
+    "jabberwocky": "The wuggles are mornixing daxenly in the jelling",
+    "stripped": "prock wuggle neffin mornix daxen brell prock jell",
+    "nonwords": "cleff whill remble grofl tamp verm heffin gribble",
+    "num_words": 8
+  },
+  {
+    "set_id": 19,
+    "sentence": "A talented chef prepared the meal expertly",
+    "jabberwocky": "A blorked cremble krened the prock cromplely",
+    "stripped": "leppik blork cremble kren screll prock cromple",
+    "nonwords": "tren plenth trell pordel dwel flimp wexin",
+    "num_words": 7
+  },
+  {
+    "set_id": 20,
+    "sentence": "The researchers have discovered the answer recently",
+    "jabberwocky": "The yendles have crelled the brell borply",
+    "stripped": "plenth yendle vork crell plenth brell borp",
+    "nonwords": "mornix sprock sken quendle whisp driv drell",
+    "num_words": 7
+  },
+  {
+    "set_id": 21,
+    "sentence": "She will be traveling to the conference tomorrow",
+    "jabberwocky": "mip will keff quendleing to the wremble zeffin",
+    "stripped": "mip heffin keff quendle leppik skeff wremble zeffin",
+    "nonwords": "reffin glorp zell jell vren trell trock urnble",
+    "num_words": 8
+  },
+  {
+    "set_id": 22,
+    "sentence": "The workers were building the structure very carefully",
+    "jabberwocky": "The frells were quorbing the jell very lemblely",
+    "stripped": "shill frell urnix quorb shill jell jrenth lemble",
+    "nonwords": "sken quemble yalm blemble neffin screll blenth verm",
+    "num_words": 8
+  },
+  {
+    "set_id": 23,
+    "sentence": "A bright light was shining through the window",
+    "jabberwocky": "A lurnip fleff was skening through the dwel",
+    "stripped": "verm lurnip fleff wuggle sken zink flib dwel",
+    "nonwords": "vren cleff jembly teff glendle urnix kren rellick",
+    "num_words": 8
+  },
+  {
+    "set_id": 24,
+    "sentence": "The author has written several books successfully",
+    "jabberwocky": "The quemble has yendle plonk plovs fleffly",
+    "stripped": "kreb quemble jell yendle plonk plov fleff",
+    "nonwords": "blicket krendle grint wexin tembril trell blork",
+    "num_words": 7
+  },
+  {
+    "set_id": 25,
+    "sentence": "They could see the mountains clearly from here",
+    "jabberwocky": "sniv could vren the trells urnixly from neffin",
+    "stripped": "sniv whisp vren nellick trell urnix prock neffin",
+    "nonwords": "zell moxen kreb zink shill quorb blork grofl",
+    "num_words": 8
+  },
+  {
+    "set_id": 26,
+    "sentence": "The machine is processing the data quite rapidly",
+    "jabberwocky": "The veff is verming the prock teff ullickly",
+    "stripped": "jrenth veff whell verm jrenth prock teff ullick",
+    "nonwords": "zink flurn keff kreb kren lemble plonk creff",
+    "num_words": 8
+  },
+  {
+    "set_id": 27,
+    "sentence": "A skilled doctor examined the patient thoroughly",
+    "jabberwocky": "A drived kren blicketed the zemble florply",
+    "stripped": "zink driv kren blicket pliff zemble florp",
+    "nonwords": "slenk jembly grint blenk drell freff cleff",
+    "num_words": 7
+  },
+  {
+    "set_id": 28,
+    "sentence": "The team was celebrating the victory enthusiastically",
+    "jabberwocky": "The tembril was krening the dwel drellly",
+    "stripped": "fremble tembril flenk kren fremble dwel drell",
+    "nonwords": "vork yorbel daxen florp glorp tren blundle",
+    "num_words": 7
+  },
+  {
+    "set_id": 29,
+    "sentence": "She might have understood the concept more clearly",
+    "jabberwocky": "kren dwel have daffin the kreb flimp yalmly",
+    "stripped": "kren dwel trell daffin grell kreb flimp yalm",
+    "nonwords": "hemble slenk klim flenk veff flib bliv blenk",
+    "num_words": 8
+  },
+  {
+    "set_id": 30,
+    "sentence": "The investors are evaluating the opportunity very carefully",
+    "jabberwocky": "The wrembles are glendleing the driv very frellly",
+    "stripped": "tren wremble gremble glendle tren driv yalm frell",
+    "nonwords": "reffin veff vork tamp plib cremble plenth bren",
+    "num_words": 8
+  }
+]

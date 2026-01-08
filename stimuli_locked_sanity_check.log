@@ -1,0 +1,349 @@
+================================================================================
+STIMULUS SANITY CHECK LOG
+Generated: 2026-01-07T10:46:30.121040
+================================================================================
+
+
+============================================================
+CUE FAMILY: INFINITIVAL_TO
+============================================================
+
+Count: 30/30
+  PASS
+
+Cue occurrence check:
+  sentence            : 1.0 avg cues per sentence [PASS]
+  jabberwocky         : 1.0 avg cues per sentence [PASS]
+  full_scrambled      : 1.0 avg cues per sentence [PASS]
+  content_scrambled   : 1.0 avg cues per sentence [PASS]
+  function_scrambled  : 1.0 avg cues per sentence [PASS]
+  cue_deleted         : cue=0.0 avg, ke=1.0 avg [PASS]
+
+--- Examples (first 3 stimuli) ---
+
+Stimulus 1:
+  Cue word: 'to' at position 3
+  Target class: VERB
+
+  sentence            : the baker offered to process the elaborate discovery
+  jabberwocky         : the krash offered to smoosh the sceyz fleel
+  full_scrambled      : fleel krash smoosh to the the offered sceyz
+  content_scrambled   : the offered krash to smoosh the fleel sceyz
+  function_scrambled  : to krash offered the smoosh the sceyz fleel
+  cue_deleted         : the krash offered ke smoosh the sceyz fleel
+
+Stimulus 2:
+  Cue word: 'to' at position 3
+  Target class: VERB
+
+  sentence            : the student promised to finish the broken project
+  jabberwocky         : the teyll promised to crid the whex fle
+  full_scrambled      : fle teyll promised the the whex to crid
+  content_scrambled   : the fle teyll to whex the crid promised
+  function_scrambled  : the teyll promised the crid to whex fle
+  cue_deleted         : the teyll promised ke crid the whex fle
+
+Stimulus 3:
+  Cue word: 'to' at position 3
+  Target class: VERB
+
+  sentence            : the scientist attempted to present the unusual artifacts
+  jabberwocky         : the scill attempted to plie the staik dim
+  full_scrambled      : to the scill plie the staik dim attempted
+  content_scrambled   : the dim plie to staik the scill attempted
+  function_scrambled  : the scill attempted the plie to staik dim
+  cue_deleted         : the scill attempted ke plie the staik dim
+
+
+--- Scramble verification ---
+  full_scrambled same as jabberwocky: 0/30
+  content_scrambled same as jabberwocky: 0/30
+  function_scrambled same as jabberwocky: 0/30
+
+============================================================
+CUE FAMILY: MODALS
+============================================================
+
+Count: 30/30
+  PASS
+
+Cue occurrence check:
+  sentence            : 1.0 avg cues per sentence [PASS]
+  jabberwocky         : 1.0 avg cues per sentence [PASS]
+  full_scrambled      : 1.0 avg cues per sentence [PASS]
+  content_scrambled   : 1.0 avg cues per sentence [PASS]
+  function_scrambled  : 1.0 avg cues per sentence [PASS]
+  cue_deleted         : cue=0.0 avg, ke=1.0 avg [PASS]
+
+--- Examples (first 3 stimuli) ---
+
+Stimulus 1:
+  Cue word: 'can' at position 2
+  Target class: VERB
+
+  sentence            : the carpenter can create the remarkable solution
+  jabberwocky         : the stroun can fried the teef stries
+  full_scrambled      : teef the the can fried stroun stries
+  content_scrambled   : the stroun can stries the teef fried
+  function_scrambled  : the stroun the fried can teef stries
+  cue_deleted         : the stroun ke fried the teef stries
+
+Stimulus 2:
+  Cue word: 'must' at position 2
+  Target class: VERB
+
+  sentence            : the pilot must review the historical formula
+  jabberwocky         : the streyf must scisp the riel yon
+  full_scrambled      : scisp must the streyf riel the yon
+  content_scrambled   : the riel must streyf the scisp yon
+  function_scrambled  : the streyf the scisp must riel yon
+  cue_deleted         : the streyf ke scisp the riel yon
+
+Stimulus 3:
+  Cue word: 'will' at position 2
+  Target class: VERB
+
+  sentence            : the photographer will assess the rare specimens
+  jabberwocky         : the snisk will sad the grem swom
+  full_scrambled      : grem swom the will snisk sad the
+  content_scrambled   : the sad will swom the snisk grem
+  function_scrambled  : will snisk the sad the grem swom
+  cue_deleted         : the snisk ke sad the grem swom
+
+
+--- Scramble verification ---
+  full_scrambled same as jabberwocky: 0/30
+  content_scrambled same as jabberwocky: 0/30
+  function_scrambled same as jabberwocky: 0/30
+
+============================================================
+CUE FAMILY: DETERMINERS
+============================================================
+
+Count: 30/30
+  PASS
+
+Cue occurrence check:
+  sentence            : 1.0 avg cues per sentence [PASS]
+  jabberwocky         : 1.0 avg cues per sentence [PASS]
+  full_scrambled      : 1.0 avg cues per sentence [PASS]
+  content_scrambled   : 1.0 avg cues per sentence [PASS]
+  function_scrambled  : 1.0 avg cues per sentence [PASS]
+  cue_deleted         : cue=0.0 avg, ke=1.0 avg [PASS]
+
+--- Examples (first 3 stimuli) ---
+
+Stimulus 1:
+  Cue word: 'a' at position 5
+  Target class: NOUN_OR_ADJ
+
+  sentence            : the doctor needed and saw a advanced recipe
+  jabberwocky         : the neell smux and saw a preab crix
+  full_scrambled      : crix smux preab neell a and saw the
+  content_scrambled   : the smux crix and saw a neell preab
+  function_scrambled  : and neell smux the a saw preab crix
+  cue_deleted         : the neell smux and saw ke preab crix
+
+Stimulus 2:
+  Cue word: 'a' at position 5
+  Target class: NOUN_OR_ADJ
+
+  sentence            : the engineer prepared and saw a efficient strategy
+  jabberwocky         : the thous kaiz and saw a sceex geyg
+  full_scrambled      : kaiz a geyg thous and sceex saw the
+  content_scrambled   : the kaiz thous and saw a sceex geyg
+  function_scrambled  : the thous kaiz a and saw sceex geyg
+  cue_deleted         : the thous kaiz and saw ke sceex geyg
+
+Stimulus 3:
+  Cue word: 'a' at position 5
+  Target class: NOUN_OR_ADJ
+
+  sentence            : the mechanic meant and saw a intricate vehicle
+  jabberwocky         : the freyz kap and saw a pream quesh
+  full_scrambled      : saw a the pream freyz kap and quesh
+  content_scrambled   : the freyz quesh and saw a kap pream
+  function_scrambled  : and freyz kap the saw a pream quesh
+  cue_deleted         : the freyz kap and saw ke pream quesh
+
+
+--- Scramble verification ---
+  full_scrambled same as jabberwocky: 0/30
+  content_scrambled same as jabberwocky: 0/30
+  function_scrambled same as jabberwocky: 0/30
+
+============================================================
+CUE FAMILY: PREPOSITIONS
+============================================================
+
+Count: 30/30
+  PASS
+
+Cue occurrence check:
+  sentence            : 1.0 avg cues per sentence [PASS]
+  jabberwocky         : 1.0 avg cues per sentence [PASS]
+  full_scrambled      : 1.0 avg cues per sentence [PASS]
+  content_scrambled   : 1.0 avg cues per sentence [PASS]
+  function_scrambled  : 1.0 avg cues per sentence [PASS]
+  cue_deleted         : cue=0.0 avg, ke=1.0 avg [PASS]
+
+--- Examples (first 3 stimuli) ---
+
+Stimulus 1:
+  Cue word: 'at' at position 3
+  Target class: NP_START
+
+  sentence            : the mechanic learned at the important project
+  jabberwocky         : the mouk stick at the smi kreesp
+  full_scrambled      : smi at stick the kreesp mouk the
+  content_scrambled   : the smi mouk at the kreesp stick
+  function_scrambled  : the mouk stick the at smi kreesp
+  cue_deleted         : the mouk stick ke the smi kreesp
+
+Stimulus 2:
+  Cue word: 'in' at position 3
+  Target class: NP_START
+
+  sentence            : the architect agreed in the fundamental paintings
+  jabberwocky         : the boos smoor in the yok skail
+  full_scrambled      : smoor in the the yok boos skail
+  content_scrambled   : the skail smoor in the yok boos
+  function_scrambled  : in boos smoor the the yok skail
+  cue_deleted         : the boos smoor ke the yok skail
+
+Stimulus 3:
+  Cue word: 'at' at position 3
+  Target class: NP_START
+
+  sentence            : the carpenter loved at the experimental prototype
+  jabberwocky         : the keass dist at the siel loong
+  full_scrambled      : the siel dist the loong at keass
+  content_scrambled   : the siel loong at the dist keass
+  function_scrambled  : at keass dist the the siel loong
+  cue_deleted         : the keass dist ke the siel loong
+
+
+--- Scramble verification ---
+  full_scrambled same as jabberwocky: 0/30
+  content_scrambled same as jabberwocky: 0/30
+  function_scrambled same as jabberwocky: 0/30
+
+============================================================
+CUE FAMILY: AUXILIARIES
+============================================================
+
+Count: 30/30
+  PASS
+
+Cue occurrence check:
+  sentence            : 1.0 avg cues per sentence [PASS]
+  jabberwocky         : 1.0 avg cues per sentence [PASS]
+  full_scrambled      : 1.0 avg cues per sentence [PASS]
+  content_scrambled   : 1.0 avg cues per sentence [PASS]
+  function_scrambled  : 1.0 avg cues per sentence [PASS]
+  cue_deleted         : cue=0.0 avg, ke=1.0 avg [PASS]
+
+--- Examples (first 3 stimuli) ---
+
+Stimulus 1:
+  Cue word: 'was' at position 2
+  Target class: PARTICIPLE
+
+  sentence            : the coach was studying the historical manuscript
+  jabberwocky         : the mung was scob the drop fiez
+  full_scrambled      : fiez was the mung drop the scob
+  content_scrambled   : the fiez was drop the mung scob
+  function_scrambled  : the mung the scob was drop fiez
+  cue_deleted         : the mung ke scob the drop fiez
+
+Stimulus 2:
+  Cue word: 'were' at position 2
+  Target class: PARTICIPLE
+
+  sentence            : the musician were examined the ancient concept
+  jabberwocky         : the moog were krog the treat strusp
+  full_scrambled      : krog the treat strusp moog the were
+  content_scrambled   : the krog were treat the moog strusp
+  function_scrambled  : the moog the krog were treat strusp
+  cue_deleted         : the moog ke krog the treat strusp
+
+Stimulus 3:
+  Cue word: 'was' at position 2
+  Target class: PARTICIPLE
+
+  sentence            : the electrician was analyzing the intricate findings
+  jabberwocky         : the giess was lok the leth cais
+  full_scrambled      : the cais the lok leth was giess
+  content_scrambled   : the leth was giess the cais lok
+  function_scrambled  : was giess the lok the leth cais
+  cue_deleted         : the giess ke lok the leth cais
+
+
+--- Scramble verification ---
+  full_scrambled same as jabberwocky: 0/30
+  content_scrambled same as jabberwocky: 0/30
+  function_scrambled same as jabberwocky: 0/30
+
+============================================================
+CUE FAMILY: COMPLEMENTIZERS
+============================================================
+
+Count: 30/30
+  PASS
+
+Cue occurrence check:
+  sentence            : 1.0 avg cues per sentence [PASS]
+  jabberwocky         : 1.0 avg cues per sentence [PASS]
+  full_scrambled      : 1.0 avg cues per sentence [PASS]
+  content_scrambled   : 1.0 avg cues per sentence [PASS]
+  function_scrambled  : 1.0 avg cues per sentence [PASS]
+  cue_deleted         : cue=0.0 avg, ke=1.0 avg [PASS]
+
+--- Examples (first 3 stimuli) ---
+
+Stimulus 1:
+  Cue word: 'that' at position 3
+  Target class: CLAUSE_START
+
+  sentence            : the doctor hoped that the coach decided
+  jabberwocky         : the noost treag that the kleat coost
+  full_scrambled      : coost noost treag kleat the that the
+  content_scrambled   : the kleat coost that the treag noost
+  function_scrambled  : that noost treag the the kleat coost
+  cue_deleted         : the noost treag ke the kleat coost
+
+Stimulus 2:
+  Cue word: 'that' at position 3
+  Target class: CLAUSE_START
+
+  sentence            : the captain knew that the photographer refused
+  jabberwocky         : the bied sweyr that the yai pleyn
+  full_scrambled      : sweyr pleyn yai that the the bied
+  content_scrambled   : the yai sweyr that the pleyn bied
+  function_scrambled  : that bied sweyr the the yai pleyn
+  cue_deleted         : the bied sweyr ke the yai pleyn
+
+Stimulus 3:
+  Cue word: 'that' at position 3
+  Target class: CLAUSE_START
+
+  sentence            : the pilot thought that the pilot meant
+  jabberwocky         : the swith fud that the whin rieb
+  full_scrambled      : the that rieb fud swith the whin
+  content_scrambled   : the fud whin that the swith rieb
+  function_scrambled  : that swith fud the the whin rieb
+  cue_deleted         : the swith fud ke the whin rieb
+
+
+--- Scramble verification ---
+  full_scrambled same as jabberwocky: 0/30
+  content_scrambled same as jabberwocky: 0/30
+  function_scrambled same as jabberwocky: 0/30
+
+================================================================================
+SUMMARY
+================================================================================
+Total families: 6
+Total stimuli: 180
+Expected: 6 families × 30 = 180 stimuli
+Overall: PASS

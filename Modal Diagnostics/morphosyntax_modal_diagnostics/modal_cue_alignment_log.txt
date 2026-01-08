@@ -1,0 +1,39 @@
+MODAL CUE ALIGNMENT LOG (DYNAMIC LOCATION)
+Generated: 2026-01-08T14:58:15.137532
+============================================================
+
+This version DYNAMICALLY locates the cue in each condition,
+so scrambled conditions are now analyzed correctly.
+
+
+============================================================
+DYNAMIC CUE LOCATION SUMMARY
+============================================================
+
+SENTENCE:
+  Valid items: 30/30 (100.0%)
+  - ok: 30, missing: 0, ambiguous: 0
+  Cue positions: range [2-2], mean=2.0
+
+JABBERWOCKY:
+  Valid items: 30/30 (100.0%)
+  - ok: 30, missing: 0, ambiguous: 0
+  Cue positions: range [2-2], mean=2.0
+
+FULL_SCRAMBLED:
+  Valid items: 30/30 (100.0%)
+  - ok: 30, missing: 0, ambiguous: 0
+  Cue positions: range [0-6], mean=2.8
+
+CONTENT_SCRAMBLED:
+  Valid items: 30/30 (100.0%)
+  - ok: 30, missing: 0, ambiguous: 0
+  Cue positions: range [2-2], mean=2.0
+
+FUNCTION_SCRAMBLED:
+  Valid items: 30/30 (100.0%)
+  - ok: 30, missing: 0, ambiguous: 0
+  Cue positions: range [0-4], mean=2.0
+
+Total issues: 0
+Status: PASS

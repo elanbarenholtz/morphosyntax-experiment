@@ -1,0 +1,23 @@
+Waiting for experiments to complete...
+Will automatically run entropy analysis when ready.
+
+[19:58:40] ✓ GPT-2-medium complete! Running entropy analysis...
+[19:58:41] ✓ GPT-2-medium entropy analysis complete!
+[20:35:17] ✓ GPT-2-large complete! Running entropy analysis...
+[20:35:17] ✓ GPT-2-large entropy analysis complete!
+
+================================================================
+ALL ANALYSES COMPLETE!
+================================================================
+
+Results:
+  - entropy_analysis_gpt2_medium.txt
+  - entropy_analysis_gpt2_large.txt
+
+Creating scaling comparison plot...
+  File "/Users/elanbarenholtz/morphosyntax-experiment/create_scaling_plot.py", line 108
+    print(f"{'Model':<25} {'Params':<12} {'Δ Entropy':<15} {'Cohen's d':<12}")
+                                                            ^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+
+Done! Check scaling_analysis_plot.png

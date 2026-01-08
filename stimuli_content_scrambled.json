@@ -1,0 +1,602 @@
+[
+  {
+    "set_id": 1,
+    "sentence": "the scientist decided to study the ancient artifacts",
+    "jabberwocky_matched": "the prell decided to cleb the bril braz",
+    "content_scrambled_jabberwocky": "the cleb decided to braz the bril prell",
+    "scramble_seed": 24678276,
+    "content_permutation": [
+      "prell\u2192cleb",
+      "cleb\u2192braz",
+      "bril\u2192bril",
+      "braz\u2192prell"
+    ],
+    "template_type": "decided",
+    "content_words_replaced": [
+      "scientist",
+      "study",
+      "ancient",
+      "artifacts"
+    ]
+  },
+  {
+    "set_id": 2,
+    "sentence": "the teacher decided to explain the difficult concept",
+    "jabberwocky_matched": "the zept decided to yeb the cral blit",
+    "content_scrambled_jabberwocky": "the blit decided to yeb the cral zept",
+    "scramble_seed": 3193504906,
+    "content_permutation": [
+      "zept\u2192blit",
+      "yeb\u2192yeb",
+      "cral\u2192cral",
+      "blit\u2192zept"
+    ],
+    "template_type": "decided",
+    "content_words_replaced": [
+      "teacher",
+      "explain",
+      "difficult",
+      "concept"
+    ]
+  },
+  {
+    "set_id": 3,
+    "sentence": "the student decided to finish the important assignment",
+    "jabberwocky_matched": "the vling decided to brind the slib grift",
+    "content_scrambled_jabberwocky": "the brind decided to vling the grift slib",
+    "scramble_seed": 1747993697,
+    "content_permutation": [
+      "vling\u2192brind",
+      "brind\u2192vling",
+      "slib\u2192grift",
+      "grift\u2192slib"
+    ],
+    "template_type": "decided",
+    "content_words_replaced": [
+      "student",
+      "finish",
+      "important",
+      "assignment"
+    ]
+  },
+  {
+    "set_id": 4,
+    "sentence": "the artist decided to paint the beautiful landscape",
+    "jabberwocky_matched": "the prid decided to greb the skel yond",
+    "content_scrambled_jabberwocky": "the skel decided to yond the greb prid",
+    "scramble_seed": 27956152,
+    "content_permutation": [
+      "prid\u2192skel",
+      "greb\u2192yond",
+      "skel\u2192greb",
+      "yond\u2192prid"
+    ],
+    "template_type": "decided",
+    "content_words_replaced": [
+      "artist",
+      "paint",
+      "beautiful",
+      "landscape"
+    ]
+  },
+  {
+    "set_id": 5,
+    "sentence": "the doctor decided to examine the sick patient",
+    "jabberwocky_matched": "the throp decided to vreb the glib braz",
+    "content_scrambled_jabberwocky": "the glib decided to braz the vreb throp",
+    "scramble_seed": 2518812591,
+    "content_permutation": [
+      "throp\u2192glib",
+      "vreb\u2192braz",
+      "glib\u2192vreb",
+      "braz\u2192throp"
+    ],
+    "template_type": "decided",
+    "content_words_replaced": [
+      "doctor",
+      "examine",
+      "sick",
+      "patient"
+    ]
+  },
+  {
+    "set_id": 6,
+    "sentence": "the child wanted to play with the colorful toys",
+    "jabberwocky_matched": "the trug wanted to flub with the vrel wask",
+    "content_scrambled_jabberwocky": "the vrel wanted to trug with the wask flub",
+    "scramble_seed": 1956134337,
+    "content_permutation": [
+      "trug\u2192vrel",
+      "flub\u2192trug",
+      "vrel\u2192wask",
+      "wask\u2192flub"
+    ],
+    "template_type": "wanted",
+    "content_words_replaced": [
+      "child",
+      "play",
+      "colorful",
+      "toys"
+    ]
+  },
+  {
+    "set_id": 7,
+    "sentence": "the musician wanted to perform at the famous venue",
+    "jabberwocky_matched": "the wask wanted to wrib at the skel drell",
+    "content_scrambled_jabberwocky": "the skel wanted to wask at the drell wrib",
+    "scramble_seed": 1010652414,
+    "content_permutation": [
+      "wask\u2192skel",
+      "wrib\u2192wask",
+      "skel\u2192drell",
+      "drell\u2192wrib"
+    ],
+    "template_type": "wanted",
+    "content_words_replaced": [
+      "musician",
+      "perform",
+      "famous",
+      "venue"
+    ]
+  },
+  {
+    "set_id": 8,
+    "sentence": "the writer wanted to publish the controversial novel",
+    "jabberwocky_matched": "the drell wanted to slib the dril vrim",
+    "content_scrambled_jabberwocky": "the slib wanted to drell the vrim dril",
+    "scramble_seed": 249419443,
+    "content_permutation": [
+      "drell\u2192slib",
+      "slib\u2192drell",
+      "dril\u2192vrim",
+      "vrim\u2192dril"
+    ],
+    "template_type": "wanted",
+    "content_words_replaced": [
+      "writer",
+      "publish",
+      "controversial",
+      "novel"
+    ]
+  },
+  {
+    "set_id": 9,
+    "sentence": "the chef wanted to prepare the special dinner",
+    "jabberwocky_matched": "the krin wanted to plek the blip flust",
+    "content_scrambled_jabberwocky": "the plek wanted to flust the krin blip",
+    "scramble_seed": 980164498,
+    "content_permutation": [
+      "krin\u2192plek",
+      "plek\u2192flust",
+      "blip\u2192krin",
+      "flust\u2192blip"
+    ],
+    "template_type": "wanted",
+    "content_words_replaced": [
+      "chef",
+      "prepare",
+      "special",
+      "dinner"
+    ]
+  },
+  {
+    "set_id": 10,
+    "sentence": "the athlete wanted to win the important competition",
+    "jabberwocky_matched": "the crint wanted to skeb the trop glom",
+    "content_scrambled_jabberwocky": "the trop wanted to skeb the crint glom",
+    "scramble_seed": 4208951424,
+    "content_permutation": [
+      "crint\u2192trop",
+      "skeb\u2192skeb",
+      "trop\u2192crint",
+      "glom\u2192glom"
+    ],
+    "template_type": "wanted",
+    "content_words_replaced": [
+      "athlete",
+      "win",
+      "important",
+      "competition"
+    ]
+  },
+  {
+    "set_id": 11,
+    "sentence": "the professor began to teach the advanced course",
+    "jabberwocky_matched": "the drell began to blim the snel glom",
+    "content_scrambled_jabberwocky": "the glom began to drell the snel blim",
+    "scramble_seed": 3348080725,
+    "content_permutation": [
+      "drell\u2192glom",
+      "blim\u2192drell",
+      "snel\u2192snel",
+      "glom\u2192blim"
+    ],
+    "template_type": "began",
+    "content_words_replaced": [
+      "professor",
+      "teach",
+      "advanced",
+      "course"
+    ]
+  },
+  {
+    "set_id": 12,
+    "sentence": "the detective began to investigate the mysterious crime",
+    "jabberwocky_matched": "the bletch began to treb the trop trug",
+    "content_scrambled_jabberwocky": "the treb began to trug the trop bletch",
+    "scramble_seed": 1933196472,
+    "content_permutation": [
+      "bletch\u2192treb",
+      "treb\u2192trug",
+      "trop\u2192trop",
+      "trug\u2192bletch"
+    ],
+    "template_type": "began",
+    "content_words_replaced": [
+      "detective",
+      "investigate",
+      "mysterious",
+      "crime"
+    ]
+  },
+  {
+    "set_id": 13,
+    "sentence": "the engineer began to design the complex system",
+    "jabberwocky_matched": "the vrim began to trop the flom zorf",
+    "content_scrambled_jabberwocky": "the vrim began to flom the trop zorf",
+    "scramble_seed": 1058427863,
+    "content_permutation": [
+      "vrim\u2192vrim",
+      "trop\u2192flom",
+      "flom\u2192trop",
+      "zorf\u2192zorf"
+    ],
+    "template_type": "began",
+    "content_words_replaced": [
+      "engineer",
+      "design",
+      "complex",
+      "system"
+    ]
+  },
+  {
+    "set_id": 14,
+    "sentence": "the gardener began to plant the fresh seeds",
+    "jabberwocky_matched": "the blit began to sneb the skel tral",
+    "content_scrambled_jabberwocky": "the blit began to tral the sneb skel",
+    "scramble_seed": 2293044781,
+    "content_permutation": [
+      "blit\u2192blit",
+      "sneb\u2192tral",
+      "skel\u2192sneb",
+      "tral\u2192skel"
+    ],
+    "template_type": "began",
+    "content_words_replaced": [
+      "gardener",
+      "plant",
+      "fresh",
+      "seeds"
+    ]
+  },
+  {
+    "set_id": 15,
+    "sentence": "the driver began to repair the broken vehicle",
+    "jabberwocky_matched": "the zept began to slib the flul drest",
+    "content_scrambled_jabberwocky": "the slib began to zept the drest flul",
+    "scramble_seed": 2616991686,
+    "content_permutation": [
+      "zept\u2192slib",
+      "slib\u2192zept",
+      "flul\u2192drest",
+      "drest\u2192flul"
+    ],
+    "template_type": "began",
+    "content_words_replaced": [
+      "driver",
+      "repair",
+      "broken",
+      "vehicle"
+    ]
+  },
+  {
+    "set_id": 16,
+    "sentence": "the researcher tried to solve the difficult problem",
+    "jabberwocky_matched": "the blit tried to bleb the thrim drell",
+    "content_scrambled_jabberwocky": "the bleb tried to drell the blit thrim",
+    "scramble_seed": 3097659938,
+    "content_permutation": [
+      "blit\u2192bleb",
+      "bleb\u2192drell",
+      "thrim\u2192blit",
+      "drell\u2192thrim"
+    ],
+    "template_type": "tried",
+    "content_words_replaced": [
+      "researcher",
+      "solve",
+      "difficult",
+      "problem"
+    ]
+  },
+  {
+    "set_id": 17,
+    "sentence": "the manager tried to improve the poor performance",
+    "jabberwocky_matched": "the zept tried to treb the flom grop",
+    "content_scrambled_jabberwocky": "the zept tried to grop the flom treb",
+    "scramble_seed": 832174254,
+    "content_permutation": [
+      "zept\u2192zept",
+      "treb\u2192grop",
+      "flom\u2192flom",
+      "grop\u2192treb"
+    ],
+    "template_type": "tried",
+    "content_words_replaced": [
+      "manager",
+      "improve",
+      "poor",
+      "performance"
+    ]
+  },
+  {
+    "set_id": 18,
+    "sentence": "the programmer tried to debug the complex code",
+    "jabberwocky_matched": "the tral tried to blim the yel drell",
+    "content_scrambled_jabberwocky": "the tral tried to drell the blim yel",
+    "scramble_seed": 3909887941,
+    "content_permutation": [
+      "tral\u2192tral",
+      "blim\u2192drell",
+      "yel\u2192blim",
+      "drell\u2192yel"
+    ],
+    "template_type": "tried",
+    "content_words_replaced": [
+      "programmer",
+      "debug",
+      "complex",
+      "code"
+    ]
+  },
+  {
+    "set_id": 19,
+    "sentence": "the assistant tried to organize the messy files",
+    "jabberwocky_matched": "the flarn tried to slib the crel grift",
+    "content_scrambled_jabberwocky": "the crel tried to flarn the slib grift",
+    "scramble_seed": 2981748145,
+    "content_permutation": [
+      "flarn\u2192crel",
+      "slib\u2192flarn",
+      "crel\u2192slib",
+      "grift\u2192grift"
+    ],
+    "template_type": "tried",
+    "content_words_replaced": [
+      "assistant",
+      "organize",
+      "messy",
+      "files"
+    ]
+  },
+  {
+    "set_id": 20,
+    "sentence": "the lawyer tried to defend the innocent client",
+    "jabberwocky_matched": "the flust tried to cleb the trop crint",
+    "content_scrambled_jabberwocky": "the flust tried to crint the cleb trop",
+    "scramble_seed": 2611208565,
+    "content_permutation": [
+      "flust\u2192flust",
+      "cleb\u2192crint",
+      "trop\u2192cleb",
+      "crint\u2192trop"
+    ],
+    "template_type": "tried",
+    "content_words_replaced": [
+      "lawyer",
+      "defend",
+      "innocent",
+      "client"
+    ]
+  },
+  {
+    "set_id": 21,
+    "sentence": "the architect planned to build the modern structure",
+    "jabberwocky_matched": "the dron planned to flib the zril prid",
+    "content_scrambled_jabberwocky": "the flib planned to zril the prid dron",
+    "scramble_seed": 3052895980,
+    "content_permutation": [
+      "dron\u2192flib",
+      "flib\u2192zril",
+      "zril\u2192prid",
+      "prid\u2192dron"
+    ],
+    "template_type": "planned",
+    "content_words_replaced": [
+      "architect",
+      "build",
+      "modern",
+      "structure"
+    ]
+  },
+  {
+    "set_id": 22,
+    "sentence": "the director planned to film the dramatic scene",
+    "jabberwocky_matched": "the braz planned to gleb the glib vrim",
+    "content_scrambled_jabberwocky": "the gleb planned to vrim the glib braz",
+    "scramble_seed": 3932609544,
+    "content_permutation": [
+      "braz\u2192gleb",
+      "gleb\u2192vrim",
+      "glib\u2192glib",
+      "vrim\u2192braz"
+    ],
+    "template_type": "planned",
+    "content_words_replaced": [
+      "director",
+      "film",
+      "dramatic",
+      "scene"
+    ]
+  },
+  {
+    "set_id": 23,
+    "sentence": "the designer planned to create the elegant product",
+    "jabberwocky_matched": "the throp planned to crog the pril glom",
+    "content_scrambled_jabberwocky": "the pril planned to glom the crog throp",
+    "scramble_seed": 4059192283,
+    "content_permutation": [
+      "throp\u2192pril",
+      "crog\u2192glom",
+      "pril\u2192crog",
+      "glom\u2192throp"
+    ],
+    "template_type": "planned",
+    "content_words_replaced": [
+      "designer",
+      "create",
+      "elegant",
+      "product"
+    ]
+  },
+  {
+    "set_id": 24,
+    "sentence": "the merchant planned to sell the expensive goods",
+    "jabberwocky_matched": "the drest planned to slib the slib krin",
+    "content_scrambled_jabberwocky": "the slib planned to drest the slib krin",
+    "scramble_seed": 1262116476,
+    "content_permutation": [
+      "drest\u2192slib",
+      "slib\u2192drest",
+      "slib\u2192slib",
+      "krin\u2192krin"
+    ],
+    "template_type": "planned",
+    "content_words_replaced": [
+      "merchant",
+      "sell",
+      "expensive",
+      "goods"
+    ]
+  },
+  {
+    "set_id": 25,
+    "sentence": "the captain planned to sail the large vessel",
+    "jabberwocky_matched": "the crint planned to crog the grul dron",
+    "content_scrambled_jabberwocky": "the grul planned to crog the crint dron",
+    "scramble_seed": 605380421,
+    "content_permutation": [
+      "crint\u2192grul",
+      "crog\u2192crog",
+      "grul\u2192crint",
+      "dron\u2192dron"
+    ],
+    "template_type": "planned",
+    "content_words_replaced": [
+      "captain",
+      "sail",
+      "large",
+      "vessel"
+    ]
+  },
+  {
+    "set_id": 26,
+    "sentence": "the speaker continued to discuss the important topic",
+    "jabberwocky_matched": "the grop continued to vreb the yel zept",
+    "content_scrambled_jabberwocky": "the grop continued to yel the zept vreb",
+    "scramble_seed": 4004020225,
+    "content_permutation": [
+      "grop\u2192grop",
+      "vreb\u2192yel",
+      "yel\u2192zept",
+      "zept\u2192vreb"
+    ],
+    "template_type": "continued",
+    "content_words_replaced": [
+      "speaker",
+      "discuss",
+      "important",
+      "topic"
+    ]
+  },
+  {
+    "set_id": 27,
+    "sentence": "the reader continued to study the ancient texts",
+    "jabberwocky_matched": "the snar continued to wrib the yel vrim",
+    "content_scrambled_jabberwocky": "the wrib continued to yel the vrim snar",
+    "scramble_seed": 437941742,
+    "content_permutation": [
+      "snar\u2192wrib",
+      "wrib\u2192yel",
+      "yel\u2192vrim",
+      "vrim\u2192snar"
+    ],
+    "template_type": "continued",
+    "content_words_replaced": [
+      "reader",
+      "study",
+      "ancient",
+      "texts"
+    ]
+  },
+  {
+    "set_id": 28,
+    "sentence": "the worker continued to assemble the metal parts",
+    "jabberwocky_matched": "the trug continued to skeb the clom snib",
+    "content_scrambled_jabberwocky": "the skeb continued to trug the snib clom",
+    "scramble_seed": 3687217652,
+    "content_permutation": [
+      "trug\u2192skeb",
+      "skeb\u2192trug",
+      "clom\u2192snib",
+      "snib\u2192clom"
+    ],
+    "template_type": "continued",
+    "content_words_replaced": [
+      "worker",
+      "assemble",
+      "metal",
+      "parts"
+    ]
+  },
+  {
+    "set_id": 29,
+    "sentence": "the dancer continued to practice the difficult routine",
+    "jabberwocky_matched": "the drell continued to greb the zril flib",
+    "content_scrambled_jabberwocky": "the zril continued to greb the drell flib",
+    "scramble_seed": 559751690,
+    "content_permutation": [
+      "drell\u2192zril",
+      "greb\u2192greb",
+      "zril\u2192drell",
+      "flib\u2192flib"
+    ],
+    "template_type": "continued",
+    "content_words_replaced": [
+      "dancer",
+      "practice",
+      "difficult",
+      "routine"
+    ]
+  },
+  {
+    "set_id": 30,
+    "sentence": "the painter continued to refine the delicate details",
+    "jabberwocky_matched": "the grift continued to trop the drel glom",
+    "content_scrambled_jabberwocky": "the trop continued to drel the grift glom",
+    "scramble_seed": 1852123566,
+    "content_permutation": [
+      "grift\u2192trop",
+      "trop\u2192drel",
+      "drel\u2192grift",
+      "glom\u2192glom"
+    ],
+    "template_type": "continued",
+    "content_words_replaced": [
+      "painter",
+      "refine",
+      "delicate",
+      "details"
+    ]
+  }
+]

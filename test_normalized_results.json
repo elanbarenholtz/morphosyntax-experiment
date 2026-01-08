@@ -1,0 +1,482 @@
+[
+  {
+    "set_id": 1,
+    "conditions": {
+      "sentence": {
+        "text": "the teacher was explaining the concept to the students clearly",
+        "n_tokens": 9,
+        "mean_token_entropy": 7.185796313815647,
+        "mean_token_surprisal": 6.640132696781258,
+        "n_words": 10,
+        "mean_word_entropy": 7.185796313815647,
+        "mean_word_surprisal": 6.640132696781258,
+        "mean_word_entropy_sum": 7.185796313815647,
+        "mean_word_surprisal_sum": 6.640132696781258
+      }
+    }
+  },
+  {
+    "set_id": 2,
+    "conditions": {
+      "sentence": {
+        "text": "a small bird landed softly on the wooden fence",
+        "n_tokens": 8,
+        "mean_token_entropy": 7.031063079833984,
+        "mean_token_surprisal": 7.404926124304388,
+        "n_words": 9,
+        "mean_word_entropy": 7.031063079833984,
+        "mean_word_surprisal": 7.404926124304388,
+        "mean_word_entropy_sum": 7.031063079833984,
+        "mean_word_surprisal_sum": 7.404926124304388
+      }
+    }
+  },
+  {
+    "set_id": 3,
+    "conditions": {
+      "sentence": {
+        "text": "the children were playing with their toys in the garden",
+        "n_tokens": 9,
+        "mean_token_entropy": 7.257108926773071,
+        "mean_token_surprisal": 4.698851455817202,
+        "n_words": 10,
+        "mean_word_entropy": 7.257108926773071,
+        "mean_word_surprisal": 4.698851455817202,
+        "mean_word_entropy_sum": 7.257108926773071,
+        "mean_word_surprisal_sum": 4.698851455817202
+      }
+    }
+  },
+  {
+    "set_id": 4,
+    "conditions": {
+      "sentence": {
+        "text": "she has been reading that book very carefully",
+        "n_tokens": 7,
+        "mean_token_entropy": 7.939732006617954,
+        "mean_token_surprisal": 6.596812101562291,
+        "n_words": 8,
+        "mean_word_entropy": 7.939732006617954,
+        "mean_word_surprisal": 6.596812101562291,
+        "mean_word_entropy_sum": 7.939732006617954,
+        "mean_word_surprisal_sum": 6.596812101562291
+      }
+    }
+  },
+  {
+    "set_id": 5,
+    "conditions": {
+      "sentence": {
+        "text": "the scientist discovered a new species in the forest",
+        "n_tokens": 8,
+        "mean_token_entropy": 7.849585086107254,
+        "mean_token_surprisal": 6.523041801701719,
+        "n_words": 9,
+        "mean_word_entropy": 7.849585086107254,
+        "mean_word_surprisal": 6.523041801701719,
+        "mean_word_entropy_sum": 7.849585086107254,
+        "mean_word_surprisal_sum": 6.523041801701719
+      }
+    }
+  },
+  {
+    "set_id": 6,
+    "conditions": {
+      "sentence": {
+        "text": "they will finish the project by tomorrow morning",
+        "n_tokens": 7,
+        "mean_token_entropy": 7.3818632534572055,
+        "mean_token_surprisal": 6.273638310765347,
+        "n_words": 8,
+        "mean_word_entropy": 7.3818632534572055,
+        "mean_word_surprisal": 6.273638310765347,
+        "mean_word_entropy_sum": 7.3818632534572055,
+        "mean_word_surprisal_sum": 6.273638310765347
+      }
+    }
+  },
+  {
+    "set_id": 7,
+    "conditions": {
+      "sentence": {
+        "text": "a gentle breeze was blowing through the open window",
+        "n_tokens": 8,
+        "mean_token_entropy": 7.54354664683342,
+        "mean_token_surprisal": 5.601748404142073,
+        "n_words": 9,
+        "mean_word_entropy": 7.54354664683342,
+        "mean_word_surprisal": 5.601748404142073,
+        "mean_word_entropy_sum": 7.54354664683342,
+        "mean_word_surprisal_sum": 5.601748404142073
+      }
+    }
+  },
+  {
+    "set_id": 8,
+    "conditions": {
+      "sentence": {
+        "text": "the musician played the melody beautifully on stage",
+        "n_tokens": 7,
+        "mean_token_entropy": 7.302667140960693,
+        "mean_token_surprisal": 8.128198503620398,
+        "n_words": 8,
+        "mean_word_entropy": 7.302667140960693,
+        "mean_word_surprisal": 8.128198503620398,
+        "mean_word_entropy_sum": 7.302667140960693,
+        "mean_word_surprisal_sum": 8.128198503620398
+      }
+    }
+  },
+  {
+    "set_id": 9,
+    "conditions": {
+      "sentence": {
+        "text": "he could have solved the problem more easily",
+        "n_tokens": 7,
+        "mean_token_entropy": 6.770012821469988,
+        "mean_token_surprisal": 5.114904657430062,
+        "n_words": 8,
+        "mean_word_entropy": 6.770012821469988,
+        "mean_word_surprisal": 5.114904657430062,
+        "mean_word_entropy_sum": 6.770012821469988,
+        "mean_word_surprisal_sum": 5.114904657430062
+      }
+    }
+  },
+  {
+    "set_id": 10,
+    "conditions": {
+      "sentence": {
+        "text": "the committee is reviewing the proposal thoroughly",
+        "n_tokens": 6,
+        "mean_token_entropy": 8.29889464378357,
+        "mean_token_surprisal": 7.543389670639972,
+        "n_words": 7,
+        "mean_word_entropy": 8.29889464378357,
+        "mean_word_surprisal": 7.543389670639972,
+        "mean_word_entropy_sum": 8.29889464378357,
+        "mean_word_surprisal_sum": 7.543389670639972
+      }
+    }
+  },
+  {
+    "set_id": 11,
+    "conditions": {
+      "sentence": {
+        "text": "a mysterious figure appeared suddenly in the darkness",
+        "n_tokens": 7,
+        "mean_token_entropy": 7.289831978934152,
+        "mean_token_surprisal": 6.6684998579144334,
+        "n_words": 8,
+        "mean_word_entropy": 7.289831978934152,
+        "mean_word_surprisal": 6.6684998579144334,
+        "mean_word_entropy_sum": 7.289831978934152,
+        "mean_word_surprisal_sum": 6.6684998579144334
+      }
+    }
+  },
+  {
+    "set_id": 12,
+    "conditions": {
+      "sentence": {
+        "text": "the students should study the material very seriously",
+        "n_tokens": 7,
+        "mean_token_entropy": 7.574606112071446,
+        "mean_token_surprisal": 7.481759303371597,
+        "n_words": 8,
+        "mean_word_entropy": 7.574606112071446,
+        "mean_word_surprisal": 7.481759303371597,
+        "mean_word_entropy_sum": 7.574606112071446,
+        "mean_word_surprisal_sum": 7.481759303371597
+      }
+    }
+  },
+  {
+    "set_id": 13,
+    "conditions": {
+      "sentence": {
+        "text": "she was walking slowly through the quiet streets",
+        "n_tokens": 7,
+        "mean_token_entropy": 7.262502193450928,
+        "mean_token_surprisal": 5.730352185548182,
+        "n_words": 8,
+        "mean_word_entropy": 7.262502193450928,
+        "mean_word_surprisal": 5.730352185548182,
+        "mean_word_entropy_sum": 7.262502193450928,
+        "mean_word_surprisal_sum": 5.730352185548182
+      }
+    }
+  },
+  {
+    "set_id": 14,
+    "conditions": {
+      "sentence": {
+        "text": "the engineers are designing a better system carefully",
+        "n_tokens": 7,
+        "mean_token_entropy": 8.342225006648473,
+        "mean_token_surprisal": 8.821618420115058,
+        "n_words": 8,
+        "mean_word_entropy": 8.342225006648473,
+        "mean_word_surprisal": 8.821618420115058,
+        "mean_word_entropy_sum": 8.342225006648473,
+        "mean_word_surprisal_sum": 8.821618420115058
+      }
+    }
+  },
+  {
+    "set_id": 15,
+    "conditions": {
+      "sentence": {
+        "text": "a young artist painted the landscape very skillfully",
+        "n_tokens": 8,
+        "mean_token_entropy": 6.7795819928869605,
+        "mean_token_surprisal": 9.065605755310852,
+        "n_words": 8,
+        "mean_word_entropy": 6.7795819928869605,
+        "mean_word_surprisal": 9.065605755310852,
+        "mean_word_entropy_sum": 6.7795819928869605,
+        "mean_word_surprisal_sum": 9.065605755310852
+      }
+    }
+  },
+  {
+    "set_id": 16,
+    "conditions": {
+      "sentence": {
+        "text": "the dog had been barking loudly at the stranger",
+        "n_tokens": 8,
+        "mean_token_entropy": 7.907162308692932,
+        "mean_token_surprisal": 6.828551418516237,
+        "n_words": 9,
+        "mean_word_entropy": 7.907162308692932,
+        "mean_word_surprisal": 6.828551418516237,
+        "mean_word_entropy_sum": 7.907162308692932,
+        "mean_word_surprisal_sum": 6.828551418516237
+      }
+    }
+  },
+  {
+    "set_id": 17,
+    "conditions": {
+      "sentence": {
+        "text": "they were discussing the matter quite intensely",
+        "n_tokens": 6,
+        "mean_token_entropy": 8.385239283243815,
+        "mean_token_surprisal": 7.807543459996751,
+        "n_words": 7,
+        "mean_word_entropy": 8.385239283243815,
+        "mean_word_surprisal": 7.807543459996751,
+        "mean_word_entropy_sum": 8.385239283243815,
+        "mean_word_surprisal_sum": 7.807543459996751
+      }
+    }
+  },
+  {
+    "set_id": 18,
+    "conditions": {
+      "sentence": {
+        "text": "the flowers are blooming beautifully in the spring",
+        "n_tokens": 8,
+        "mean_token_entropy": 6.722060450352728,
+        "mean_token_surprisal": 5.795605755732933,
+        "n_words": 8,
+        "mean_word_entropy": 7.247431896094765,
+        "mean_word_surprisal": 5.974324576442782,
+        "mean_word_entropy_sum": 7.682354800403118,
+        "mean_word_surprisal_sum": 6.623549435123351
+      }
+    }
+  },
+  {
+    "set_id": 19,
+    "conditions": {
+      "sentence": {
+        "text": "a talented chef prepared the meal expertly",
+        "n_tokens": 7,
+        "mean_token_entropy": 6.727775714227131,
+        "mean_token_surprisal": 9.242975533256288,
+        "n_words": 7,
+        "mean_word_entropy": 6.727775714227131,
+        "mean_word_surprisal": 9.242975533256288,
+        "mean_word_entropy_sum": 6.727775714227131,
+        "mean_word_surprisal_sum": 9.242975533256288
+      }
+    }
+  },
+  {
+    "set_id": 20,
+    "conditions": {
+      "sentence": {
+        "text": "the researchers have discovered the answer recently",
+        "n_tokens": 6,
+        "mean_token_entropy": 7.706311662991841,
+        "mean_token_surprisal": 8.568376689406294,
+        "n_words": 7,
+        "mean_word_entropy": 7.706311662991841,
+        "mean_word_surprisal": 8.568376689406294,
+        "mean_word_entropy_sum": 7.706311662991841,
+        "mean_word_surprisal_sum": 8.568376689406294
+      }
+    }
+  },
+  {
+    "set_id": 21,
+    "conditions": {
+      "sentence": {
+        "text": "she will be traveling to the conference tomorrow",
+        "n_tokens": 7,
+        "mean_token_entropy": 8.23159749167306,
+        "mean_token_surprisal": 6.0450621878276465,
+        "n_words": 8,
+        "mean_word_entropy": 8.23159749167306,
+        "mean_word_surprisal": 6.0450621878276465,
+        "mean_word_entropy_sum": 8.23159749167306,
+        "mean_word_surprisal_sum": 6.0450621878276465
+      }
+    }
+  },
+  {
+    "set_id": 22,
+    "conditions": {
+      "sentence": {
+        "text": "the workers were building the structure very carefully",
+        "n_tokens": 7,
+        "mean_token_entropy": 8.200203759329659,
+        "mean_token_surprisal": 8.048450046716239,
+        "n_words": 8,
+        "mean_word_entropy": 8.200203759329659,
+        "mean_word_surprisal": 8.048450046716239,
+        "mean_word_entropy_sum": 8.200203759329659,
+        "mean_word_surprisal_sum": 8.048450046716239
+      }
+    }
+  },
+  {
+    "set_id": 23,
+    "conditions": {
+      "sentence": {
+        "text": "a bright light was shining through the window",
+        "n_tokens": 7,
+        "mean_token_entropy": 7.7443428720746725,
+        "mean_token_surprisal": 5.128778768011569,
+        "n_words": 8,
+        "mean_word_entropy": 7.7443428720746725,
+        "mean_word_surprisal": 5.128778768011569,
+        "mean_word_entropy_sum": 7.7443428720746725,
+        "mean_word_surprisal_sum": 5.128778768011569
+      }
+    }
+  },
+  {
+    "set_id": 24,
+    "conditions": {
+      "sentence": {
+        "text": "the author has written several books successfully",
+        "n_tokens": 6,
+        "mean_token_entropy": 6.946870843569438,
+        "mean_token_surprisal": 7.254989836901058,
+        "n_words": 7,
+        "mean_word_entropy": 6.946870843569438,
+        "mean_word_surprisal": 7.254989836901058,
+        "mean_word_entropy_sum": 6.946870843569438,
+        "mean_word_surprisal_sum": 7.254989836901058
+      }
+    }
+  },
+  {
+    "set_id": 25,
+    "conditions": {
+      "sentence": {
+        "text": "they could see the mountains clearly from here",
+        "n_tokens": 7,
+        "mean_token_entropy": 7.791883672986712,
+        "mean_token_surprisal": 6.817764857858611,
+        "n_words": 8,
+        "mean_word_entropy": 7.791883672986712,
+        "mean_word_surprisal": 6.817764857858611,
+        "mean_word_entropy_sum": 7.791883672986712,
+        "mean_word_surprisal_sum": 6.817764857858611
+      }
+    }
+  },
+  {
+    "set_id": 26,
+    "conditions": {
+      "sentence": {
+        "text": "the machine is processing the data quite rapidly",
+        "n_tokens": 7,
+        "mean_token_entropy": 8.446825981140137,
+        "mean_token_surprisal": 7.468472992358114,
+        "n_words": 8,
+        "mean_word_entropy": 8.446825981140137,
+        "mean_word_surprisal": 7.468472992358114,
+        "mean_word_entropy_sum": 8.446825981140137,
+        "mean_word_surprisal_sum": 7.468472992358114
+      }
+    }
+  },
+  {
+    "set_id": 27,
+    "conditions": {
+      "sentence": {
+        "text": "a skilled doctor examined the patient thoroughly",
+        "n_tokens": 6,
+        "mean_token_entropy": 7.542190313339233,
+        "mean_token_surprisal": 8.75975880274656,
+        "n_words": 7,
+        "mean_word_entropy": 7.542190313339233,
+        "mean_word_surprisal": 8.75975880274656,
+        "mean_word_entropy_sum": 7.542190313339233,
+        "mean_word_surprisal_sum": 8.75975880274656
+      }
+    }
+  },
+  {
+    "set_id": 28,
+    "conditions": {
+      "sentence": {
+        "text": "the team was celebrating the victory enthusiastically",
+        "n_tokens": 6,
+        "mean_token_entropy": 8.496696710586548,
+        "mean_token_surprisal": 8.54884453711053,
+        "n_words": 7,
+        "mean_word_entropy": 8.496696710586548,
+        "mean_word_surprisal": 8.54884453711053,
+        "mean_word_entropy_sum": 8.496696710586548,
+        "mean_word_surprisal_sum": 8.54884453711053
+      }
+    }
+  },
+  {
+    "set_id": 29,
+    "conditions": {
+      "sentence": {
+        "text": "she might have understood the concept more clearly",
+        "n_tokens": 7,
+        "mean_token_entropy": 7.239721638815744,
+        "mean_token_surprisal": 6.036154556924514,
+        "n_words": 8,
+        "mean_word_entropy": 7.239721638815744,
+        "mean_word_surprisal": 6.036154556924514,
+        "mean_word_entropy_sum": 7.239721638815744,
+        "mean_word_surprisal_sum": 6.036154556924514
+      }
+    }
+  },
+  {
+    "set_id": 30,
+    "conditions": {
+      "sentence": {
+        "text": "the investors are evaluating the opportunity very carefully",
+        "n_tokens": 7,
+        "mean_token_entropy": 7.480089698519025,
+        "mean_token_surprisal": 7.864777017369653,
+        "n_words": 8,
+        "mean_word_entropy": 7.480089698519025,
+        "mean_word_surprisal": 7.864777017369653,
+        "mean_word_entropy_sum": 7.480089698519025,
+        "mean_word_surprisal_sum": 7.864777017369653
+      }
+    }
+  }
+]

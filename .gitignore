@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Experiment outputs (keep only the final results)
+# Commented out to keep all results for now
+# experiment_results_*.json
+# *.log
+
+# Environment
+.env
+
+# Colab packages (can regenerate)
+colab_upload_package/
+colab_locked_package/
+*.tar.gz
+
+# Large lexicon files
+nonce_lexicon*.json
+
+# Temp output logs
+modal_output.log
+modal_diagnostics_output.log

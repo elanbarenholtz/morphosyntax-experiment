@@ -1,0 +1,632 @@
+[
+  {
+    "set_id": 1,
+    "template_type": "decided",
+    "content_words_replaced": [
+      "scientist",
+      "study",
+      "ancient",
+      "artifacts"
+    ],
+    "sentence": "the scientist decided to study the ancient artifacts",
+    "jabberwocky": "the prell decided to cleb the bril braz",
+    "full_scrambled": "to decided braz cleb the bril the prell",
+    "content_scrambled": "the braz decided to cleb the prell bril",
+    "function_scrambled": "the prell the decided cleb to bril braz",
+    "cue_deleted": "the prell decided ke cleb the bril braz",
+    "seeds": {
+      "full_scramble": 189858216,
+      "content_scramble": 1900551636,
+      "function_scramble": 1285017840
+    }
+  },
+  {
+    "set_id": 2,
+    "template_type": "decided",
+    "content_words_replaced": [
+      "teacher",
+      "explain",
+      "difficult",
+      "concept"
+    ],
+    "sentence": "the teacher decided to explain the difficult concept",
+    "jabberwocky": "the zept decided to yeb the cral blit",
+    "full_scrambled": "the decided the cral zept yeb to blit",
+    "content_scrambled": "the cral decided to yeb the zept blit",
+    "function_scrambled": "to zept the decided yeb the cral blit",
+    "cue_deleted": "the zept decided ke yeb the cral blit",
+    "seeds": {
+      "full_scramble": 2106259378,
+      "content_scramble": 1393882236,
+      "function_scramble": 562148168
+    }
+  },
+  {
+    "set_id": 3,
+    "template_type": "decided",
+    "content_words_replaced": [
+      "student",
+      "finish",
+      "important",
+      "assignment"
+    ],
+    "sentence": "the student decided to finish the important assignment",
+    "jabberwocky": "the vling decided to brind the slib grift",
+    "full_scrambled": "slib brind the the to grift decided vling",
+    "content_scrambled": "the slib decided to vling the brind grift",
+    "function_scrambled": "to vling the decided brind the slib grift",
+    "cue_deleted": "the vling decided ke brind the slib grift",
+    "seeds": {
+      "full_scramble": 2799779060,
+      "content_scramble": 3613609145,
+      "function_scramble": 1925837548
+    }
+  },
+  {
+    "set_id": 4,
+    "template_type": "decided",
+    "content_words_replaced": [
+      "artist",
+      "paint",
+      "beautiful",
+      "landscape"
+    ],
+    "sentence": "the artist decided to paint the beautiful landscape",
+    "jabberwocky": "the prid decided to greb the skel yond",
+    "full_scrambled": "decided prid the the to skel yond greb",
+    "content_scrambled": "the prid decided to yond the skel greb",
+    "function_scrambled": "decided prid the the greb to skel yond",
+    "cue_deleted": "the prid decided ke greb the skel yond",
+    "seeds": {
+      "full_scramble": 1676986122,
+      "content_scramble": 4089082550,
+      "function_scramble": 205960189
+    }
+  },
+  {
+    "set_id": 5,
+    "template_type": "decided",
+    "content_words_replaced": [
+      "doctor",
+      "examine",
+      "sick",
+      "patient"
+    ],
+    "sentence": "the doctor decided to examine the sick patient",
+    "jabberwocky": "the throp decided to vreb the glib braz",
+    "full_scrambled": "decided braz the throp the to vreb glib",
+    "content_scrambled": "the braz decided to throp the vreb glib",
+    "function_scrambled": "to throp the decided vreb the glib braz",
+    "cue_deleted": "the throp decided ke vreb the glib braz",
+    "seeds": {
+      "full_scramble": 2213485939,
+      "content_scramble": 131896966,
+      "function_scramble": 771253935
+    }
+  },
+  {
+    "set_id": 6,
+    "template_type": "wanted",
+    "content_words_replaced": [
+      "child",
+      "play",
+      "colorful",
+      "toys"
+    ],
+    "sentence": "the child wanted to play with the colorful toys",
+    "jabberwocky": "the trug wanted to flub with the vrel wask",
+    "full_scrambled": "with wanted flub to wask the vrel trug the",
+    "content_scrambled": "the trug wanted to flub with the wask vrel",
+    "function_scrambled": "the trug wanted with flub the to vrel wask",
+    "cue_deleted": "the trug wanted ke flub with the vrel wask",
+    "seeds": {
+      "full_scramble": 3589024284,
+      "content_scramble": 2650361280,
+      "function_scramble": 29081136
+    }
+  },
+  {
+    "set_id": 7,
+    "template_type": "wanted",
+    "content_words_replaced": [
+      "musician",
+      "perform",
+      "famous",
+      "venue"
+    ],
+    "sentence": "the musician wanted to perform at the famous venue",
+    "jabberwocky": "the wask wanted to wrib at the skel drell",
+    "full_scrambled": "the drell the to at wanted wrib wask skel",
+    "content_scrambled": "the drell wanted to wask at the skel wrib",
+    "function_scrambled": "the wask the at wrib wanted to skel drell",
+    "cue_deleted": "the wask wanted ke wrib at the skel drell",
+    "seeds": {
+      "full_scramble": 3943076274,
+      "content_scramble": 2486722707,
+      "function_scramble": 3118197399
+    }
+  },
+  {
+    "set_id": 8,
+    "template_type": "wanted",
+    "content_words_replaced": [
+      "writer",
+      "publish",
+      "controversial",
+      "novel"
+    ],
+    "sentence": "the writer wanted to publish the controversial novel",
+    "jabberwocky": "the drell wanted to slib the dril vrim",
+    "full_scrambled": "vrim the wanted drell slib the dril to",
+    "content_scrambled": "the slib wanted to drell the vrim dril",
+    "function_scrambled": "the drell to the slib wanted dril vrim",
+    "cue_deleted": "the drell wanted ke slib the dril vrim",
+    "seeds": {
+      "full_scramble": 3997306193,
+      "content_scramble": 371369439,
+      "function_scramble": 3173075563
+    }
+  },
+  {
+    "set_id": 9,
+    "template_type": "wanted",
+    "content_words_replaced": [
+      "chef",
+      "prepare",
+      "special",
+      "dinner"
+    ],
+    "sentence": "the chef wanted to prepare the special dinner",
+    "jabberwocky": "the krin wanted to plek the blip flust",
+    "full_scrambled": "blip the plek flust to the krin wanted",
+    "content_scrambled": "the flust wanted to blip the krin plek",
+    "function_scrambled": "wanted krin to the plek the blip flust",
+    "cue_deleted": "the krin wanted ke plek the blip flust",
+    "seeds": {
+      "full_scramble": 3944780168,
+      "content_scramble": 322110492,
+      "function_scramble": 1670239843
+    }
+  },
+  {
+    "set_id": 10,
+    "template_type": "wanted",
+    "content_words_replaced": [
+      "athlete",
+      "win",
+      "important",
+      "competition"
+    ],
+    "sentence": "the athlete wanted to win the important competition",
+    "jabberwocky": "the crint wanted to skeb the trop glom",
+    "full_scrambled": "trop to glom wanted skeb the the crint",
+    "content_scrambled": "the glom wanted to trop the crint skeb",
+    "function_scrambled": "to crint the the skeb wanted trop glom",
+    "cue_deleted": "the crint wanted ke skeb the trop glom",
+    "seeds": {
+      "full_scramble": 2292256576,
+      "content_scramble": 1994639105,
+      "function_scramble": 4115400734
+    }
+  },
+  {
+    "set_id": 11,
+    "template_type": "began",
+    "content_words_replaced": [
+      "professor",
+      "teach",
+      "advanced",
+      "course"
+    ],
+    "sentence": "the professor began to teach the advanced course",
+    "jabberwocky": "the drell began to blim the snel glom",
+    "full_scrambled": "began drell the blim to snel the glom",
+    "content_scrambled": "the glom began to blim the snel drell",
+    "function_scrambled": "to drell began the blim the snel glom",
+    "cue_deleted": "the drell began ke blim the snel glom",
+    "seeds": {
+      "full_scramble": 3766266763,
+      "content_scramble": 2366286543,
+      "function_scramble": 3057489480
+    }
+  },
+  {
+    "set_id": 12,
+    "template_type": "began",
+    "content_words_replaced": [
+      "detective",
+      "investigate",
+      "mysterious",
+      "crime"
+    ],
+    "sentence": "the detective began to investigate the mysterious crime",
+    "jabberwocky": "the bletch began to treb the trop trug",
+    "full_scrambled": "the treb trop bletch began trug to the",
+    "content_scrambled": "the treb began to trop the trug bletch",
+    "function_scrambled": "began bletch to the treb the trop trug",
+    "cue_deleted": "the bletch began ke treb the trop trug",
+    "seeds": {
+      "full_scramble": 2918230519,
+      "content_scramble": 2945946489,
+      "function_scramble": 3734228987
+    }
+  },
+  {
+    "set_id": 13,
+    "template_type": "began",
+    "content_words_replaced": [
+      "engineer",
+      "design",
+      "complex",
+      "system"
+    ],
+    "sentence": "the engineer began to design the complex system",
+    "jabberwocky": "the vrim began to trop the flom zorf",
+    "full_scrambled": "to the zorf the vrim flom trop began",
+    "content_scrambled": "the flom began to vrim the trop zorf",
+    "function_scrambled": "the vrim the to trop began flom zorf",
+    "cue_deleted": "the vrim began ke trop the flom zorf",
+    "seeds": {
+      "full_scramble": 1448039024,
+      "content_scramble": 3742385531,
+      "function_scramble": 2818266854
+    }
+  },
+  {
+    "set_id": 14,
+    "template_type": "began",
+    "content_words_replaced": [
+      "gardener",
+      "plant",
+      "fresh",
+      "seeds"
+    ],
+    "sentence": "the gardener began to plant the fresh seeds",
+    "jabberwocky": "the blit began to sneb the skel tral",
+    "full_scrambled": "skel began to the tral sneb blit the",
+    "content_scrambled": "the blit began to tral the sneb skel",
+    "function_scrambled": "to blit began the sneb the skel tral",
+    "cue_deleted": "the blit began ke sneb the skel tral",
+    "seeds": {
+      "full_scramble": 1089293528,
+      "content_scramble": 3079978556,
+      "function_scramble": 647079245
+    }
+  },
+  {
+    "set_id": 15,
+    "template_type": "began",
+    "content_words_replaced": [
+      "driver",
+      "repair",
+      "broken",
+      "vehicle"
+    ],
+    "sentence": "the driver began to repair the broken vehicle",
+    "jabberwocky": "the zept began to slib the flul drest",
+    "full_scrambled": "to flul slib drest began the the zept",
+    "content_scrambled": "the slib began to zept the flul drest",
+    "function_scrambled": "began zept to the slib the flul drest",
+    "cue_deleted": "the zept began ke slib the flul drest",
+    "seeds": {
+      "full_scramble": 2602664189,
+      "content_scramble": 3658899093,
+      "function_scramble": 3606432995
+    }
+  },
+  {
+    "set_id": 16,
+    "template_type": "tried",
+    "content_words_replaced": [
+      "researcher",
+      "solve",
+      "difficult",
+      "problem"
+    ],
+    "sentence": "the researcher tried to solve the difficult problem",
+    "jabberwocky": "the blit tried to bleb the thrim drell",
+    "full_scrambled": "tried the the drell thrim blit to bleb",
+    "content_scrambled": "the drell tried to bleb the blit thrim",
+    "function_scrambled": "the blit to tried bleb the thrim drell",
+    "cue_deleted": "the blit tried ke bleb the thrim drell",
+    "seeds": {
+      "full_scramble": 995290428,
+      "content_scramble": 3167939413,
+      "function_scramble": 1188670785
+    }
+  },
+  {
+    "set_id": 17,
+    "template_type": "tried",
+    "content_words_replaced": [
+      "manager",
+      "improve",
+      "poor",
+      "performance"
+    ],
+    "sentence": "the manager tried to improve the poor performance",
+    "jabberwocky": "the zept tried to treb the flom grop",
+    "full_scrambled": "treb to grop the the flom zept tried",
+    "content_scrambled": "the grop tried to zept the flom treb",
+    "function_scrambled": "tried zept the the treb to flom grop",
+    "cue_deleted": "the zept tried ke treb the flom grop",
+    "seeds": {
+      "full_scramble": 2284978029,
+      "content_scramble": 1694765876,
+      "function_scramble": 1726433239
+    }
+  },
+  {
+    "set_id": 18,
+    "template_type": "tried",
+    "content_words_replaced": [
+      "programmer",
+      "debug",
+      "complex",
+      "code"
+    ],
+    "sentence": "the programmer tried to debug the complex code",
+    "jabberwocky": "the tral tried to blim the yel drell",
+    "full_scrambled": "drell tried blim the the tral yel to",
+    "content_scrambled": "the yel tried to drell the blim tral",
+    "function_scrambled": "the tral to tried blim the yel drell",
+    "cue_deleted": "the tral tried ke blim the yel drell",
+    "seeds": {
+      "full_scramble": 2131383702,
+      "content_scramble": 4231822583,
+      "function_scramble": 4266749785
+    }
+  },
+  {
+    "set_id": 19,
+    "template_type": "tried",
+    "content_words_replaced": [
+      "assistant",
+      "organize",
+      "messy",
+      "files"
+    ],
+    "sentence": "the assistant tried to organize the messy files",
+    "jabberwocky": "the flarn tried to slib the crel grift",
+    "full_scrambled": "to crel grift flarn slib the the tried",
+    "content_scrambled": "the slib tried to flarn the crel grift",
+    "function_scrambled": "tried flarn to the slib the crel grift",
+    "cue_deleted": "the flarn tried ke slib the crel grift",
+    "seeds": {
+      "full_scramble": 552662171,
+      "content_scramble": 1107569909,
+      "function_scramble": 1927099201
+    }
+  },
+  {
+    "set_id": 20,
+    "template_type": "tried",
+    "content_words_replaced": [
+      "lawyer",
+      "defend",
+      "innocent",
+      "client"
+    ],
+    "sentence": "the lawyer tried to defend the innocent client",
+    "jabberwocky": "the flust tried to cleb the trop crint",
+    "full_scrambled": "crint to cleb trop flust the the tried",
+    "content_scrambled": "the crint tried to trop the cleb flust",
+    "function_scrambled": "to flust the tried cleb the trop crint",
+    "cue_deleted": "the flust tried ke cleb the trop crint",
+    "seeds": {
+      "full_scramble": 3438819191,
+      "content_scramble": 1735987234,
+      "function_scramble": 1665113737
+    }
+  },
+  {
+    "set_id": 21,
+    "template_type": "planned",
+    "content_words_replaced": [
+      "architect",
+      "build",
+      "modern",
+      "structure"
+    ],
+    "sentence": "the architect planned to build the modern structure",
+    "jabberwocky": "the dron planned to flib the zril prid",
+    "full_scrambled": "the planned to dron prid flib the zril",
+    "content_scrambled": "the prid planned to flib the zril dron",
+    "function_scrambled": "to dron the planned flib the zril prid",
+    "cue_deleted": "the dron planned ke flib the zril prid",
+    "seeds": {
+      "full_scramble": 1372460592,
+      "content_scramble": 979648883,
+      "function_scramble": 951543213
+    }
+  },
+  {
+    "set_id": 22,
+    "template_type": "planned",
+    "content_words_replaced": [
+      "director",
+      "film",
+      "dramatic",
+      "scene"
+    ],
+    "sentence": "the director planned to film the dramatic scene",
+    "jabberwocky": "the braz planned to gleb the glib vrim",
+    "full_scrambled": "the gleb glib the braz to planned vrim",
+    "content_scrambled": "the vrim planned to braz the gleb glib",
+    "function_scrambled": "the braz the planned gleb to glib vrim",
+    "cue_deleted": "the braz planned ke gleb the glib vrim",
+    "seeds": {
+      "full_scramble": 1188836752,
+      "content_scramble": 68799698,
+      "function_scramble": 1562651929
+    }
+  },
+  {
+    "set_id": 23,
+    "template_type": "planned",
+    "content_words_replaced": [
+      "designer",
+      "create",
+      "elegant",
+      "product"
+    ],
+    "sentence": "the designer planned to create the elegant product",
+    "jabberwocky": "the throp planned to crog the pril glom",
+    "full_scrambled": "the pril throp planned the glom to crog",
+    "content_scrambled": "the pril planned to glom the throp crog",
+    "function_scrambled": "to throp the planned crog the pril glom",
+    "cue_deleted": "the throp planned ke crog the pril glom",
+    "seeds": {
+      "full_scramble": 305708491,
+      "content_scramble": 4190945655,
+      "function_scramble": 2302887753
+    }
+  },
+  {
+    "set_id": 24,
+    "template_type": "planned",
+    "content_words_replaced": [
+      "merchant",
+      "sell",
+      "expensive",
+      "goods"
+    ],
+    "sentence": "the merchant planned to sell the expensive goods",
+    "jabberwocky": "the drest planned to slib the slib krin",
+    "full_scrambled": "planned drest slib the to the krin slib",
+    "content_scrambled": "the slib planned to slib the drest krin",
+    "function_scrambled": "to drest the the slib planned slib krin",
+    "cue_deleted": "the drest planned ke slib the slib krin",
+    "seeds": {
+      "full_scramble": 2822241737,
+      "content_scramble": 337099718,
+      "function_scramble": 654016883
+    }
+  },
+  {
+    "set_id": 25,
+    "template_type": "planned",
+    "content_words_replaced": [
+      "captain",
+      "sail",
+      "large",
+      "vessel"
+    ],
+    "sentence": "the captain planned to sail the large vessel",
+    "jabberwocky": "the crint planned to crog the grul dron",
+    "full_scrambled": "crog planned to crint the dron the grul",
+    "content_scrambled": "the crint planned to dron the crog grul",
+    "function_scrambled": "the crint to the crog planned grul dron",
+    "cue_deleted": "the crint planned ke crog the grul dron",
+    "seeds": {
+      "full_scramble": 1875595634,
+      "content_scramble": 3645465240,
+      "function_scramble": 2541048177
+    }
+  },
+  {
+    "set_id": 26,
+    "template_type": "continued",
+    "content_words_replaced": [
+      "speaker",
+      "discuss",
+      "important",
+      "topic"
+    ],
+    "sentence": "the speaker continued to discuss the important topic",
+    "jabberwocky": "the grop continued to vreb the yel zept",
+    "full_scrambled": "grop the vreb to yel continued the zept",
+    "content_scrambled": "the yel continued to vreb the zept grop",
+    "function_scrambled": "the grop the continued vreb to yel zept",
+    "cue_deleted": "the grop continued ke vreb the yel zept",
+    "seeds": {
+      "full_scramble": 804490642,
+      "content_scramble": 1809024928,
+      "function_scramble": 2496190510
+    }
+  },
+  {
+    "set_id": 27,
+    "template_type": "continued",
+    "content_words_replaced": [
+      "reader",
+      "study",
+      "ancient",
+      "texts"
+    ],
+    "sentence": "the reader continued to study the ancient texts",
+    "jabberwocky": "the snar continued to wrib the yel vrim",
+    "full_scrambled": "wrib the continued snar to vrim yel the",
+    "content_scrambled": "the snar continued to vrim the wrib yel",
+    "function_scrambled": "continued snar to the wrib the yel vrim",
+    "cue_deleted": "the snar continued ke wrib the yel vrim",
+    "seeds": {
+      "full_scramble": 1148354758,
+      "content_scramble": 878415226,
+      "function_scramble": 3816203467
+    }
+  },
+  {
+    "set_id": 28,
+    "template_type": "continued",
+    "content_words_replaced": [
+      "worker",
+      "assemble",
+      "metal",
+      "parts"
+    ],
+    "sentence": "the worker continued to assemble the metal parts",
+    "jabberwocky": "the trug continued to skeb the clom snib",
+    "full_scrambled": "snib continued the to the trug clom skeb",
+    "content_scrambled": "the clom continued to trug the skeb snib",
+    "function_scrambled": "the trug the continued skeb to clom snib",
+    "cue_deleted": "the trug continued ke skeb the clom snib",
+    "seeds": {
+      "full_scramble": 1893601981,
+      "content_scramble": 3520220186,
+      "function_scramble": 1596655470
+    }
+  },
+  {
+    "set_id": 29,
+    "template_type": "continued",
+    "content_words_replaced": [
+      "dancer",
+      "practice",
+      "difficult",
+      "routine"
+    ],
+    "sentence": "the dancer continued to practice the difficult routine",
+    "jabberwocky": "the drell continued to greb the zril flib",
+    "full_scrambled": "flib continued greb the to the zril drell",
+    "content_scrambled": "the zril continued to drell the greb flib",
+    "function_scrambled": "the drell to continued greb the zril flib",
+    "cue_deleted": "the drell continued ke greb the zril flib",
+    "seeds": {
+      "full_scramble": 1935510895,
+      "content_scramble": 904458159,
+      "function_scramble": 865140082
+    }
+  },
+  {
+    "set_id": 30,
+    "template_type": "continued",
+    "content_words_replaced": [
+      "painter",
+      "refine",
+      "delicate",
+      "details"
+    ],
+    "sentence": "the painter continued to refine the delicate details",
+    "jabberwocky": "the grift continued to trop the drel glom",
+    "full_scrambled": "trop grift glom continued the to drel the",
+    "content_scrambled": "the trop continued to glom the drel grift",
+    "function_scrambled": "the grift the to trop continued drel glom",
+    "cue_deleted": "the grift continued ke trop the drel glom",
+    "seeds": {
+      "full_scramble": 4113320400,
+      "content_scramble": 90114359,
+      "function_scramble": 4166081480
+    }
+  }
+]

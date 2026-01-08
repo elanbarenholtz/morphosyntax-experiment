@@ -1,0 +1,33 @@
+================================================================================
+MORPHOSYNTAX CONSTRAINT EXPERIMENT - RESULTS TABLES
+================================================================================
+
+TABLE 1: DESCRIPTIVE STATISTICS BY CONDITION
+================================================================================
+              N   Mean     SD    Min    Max  Median
+condition                                          
+sentence     30  1.084  0.981  0.011  3.207   0.842
+jabberwocky  30  1.632  0.902  0.331  3.249   1.655
+stripped     30  0.626  0.441  0.087  1.753   0.527
+nonwords     30  1.014  0.695  0.209  2.776   0.784
+
+TABLE 2: STATISTICAL COMPARISONS (Paired t-tests)
+================================================================================
+                                                  Comparison  Mean 1  Mean 2  Difference  t-statistic  p-value  Cohen's d Sig.
+        Jabberwocky vs Stripped (function word contribution)  1.6317  0.6259      1.0058       5.1747   0.0000     1.4170  ***
+Jabberwocky vs Nonwords (total morphosyntactic contribution)  1.6317  1.0143      0.6174       3.4085   0.0019     0.7670   **
+         Sentence vs Jabberwocky (content word contribution)  1.0836  1.6317     -0.5481      -2.6517   0.0128    -0.5816    *
+                      Sentence vs Nonwords (full constraint)  1.0836  1.0143      0.0694       0.3130   0.7565     0.0816 n.s.
+                  Stripped vs Nonwords (residual constraint)  0.6259  1.0143     -0.3883      -2.3462   0.0260    -0.6673    *
+
+Significance: *** p < 0.001, ** p < 0.01, * p < 0.05, n.s. = not significant
+
+TABLE 4: PAIRWISE EFFECT SIZES (Cohen's d)
+================================================================================
+            sentence jabberwocky stripped nonwords
+sentence           —       -0.58      NaN     0.08
+jabberwocky     0.58           —     1.42     0.77
+stripped         NaN       -1.42        —    -0.67
+nonwords       -0.08       -0.77     0.67        —
+
+Cohen's d interpretation: Small = 0.2, Medium = 0.5, Large = 0.8

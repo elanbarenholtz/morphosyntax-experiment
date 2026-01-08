@@ -1,0 +1,25 @@
+================================================================================
+MORPHOSYNTAX EXPERIMENT - LOCAL MODEL
+================================================================================
+
+Loading model: distilgpt2
+Using device: cpu
+Model loaded successfully!
+
+Loaded 30 stimulus sets
+Total items: 120
+
+Processing stimulus sets:   0%|          | 0/30 [00:00<?, ?it/s]`loss_type=None` was set in the config but it is unrecognized. Using the default loss: `ForCausalLMLoss`.
+Processing stimulus sets:   3%|▎         | 1/30 [00:01<00:39,  1.37s/it]Processing stimulus sets:   7%|▋         | 2/30 [00:01<00:18,  1.54it/s]Processing stimulus sets:  10%|█         | 3/30 [00:01<00:11,  2.33it/s]Processing stimulus sets:  13%|█▎        | 4/30 [00:01<00:09,  2.88it/s]Processing stimulus sets:  17%|█▋        | 5/30 [00:02<00:06,  3.61it/s]Processing stimulus sets:  20%|██        | 6/30 [00:02<00:05,  4.28it/s]Processing stimulus sets:  23%|██▎       | 7/30 [00:02<00:04,  4.77it/s]Processing stimulus sets:  27%|██▋       | 8/30 [00:02<00:04,  5.15it/s]Processing stimulus sets:  30%|███       | 9/30 [00:02<00:03,  5.62it/s]Processing stimulus sets:  33%|███▎      | 10/30 [00:02<00:03,  6.03it/s]Processing stimulus sets:  37%|███▋      | 11/30 [00:02<00:03,  6.08it/s]Processing stimulus sets:  40%|████      | 12/30 [00:03<00:02,  6.38it/s]Processing stimulus sets:  43%|████▎     | 13/30 [00:03<00:02,  6.63it/s]Processing stimulus sets:  47%|████▋     | 14/30 [00:03<00:02,  6.83it/s]Processing stimulus sets:  50%|█████     | 15/30 [00:03<00:02,  6.81it/s]Processing stimulus sets:  53%|█████▎    | 16/30 [00:03<00:02,  6.84it/s]Processing stimulus sets:  57%|█████▋    | 17/30 [00:03<00:01,  7.12it/s]Processing stimulus sets:  60%|██████    | 18/30 [00:03<00:01,  6.95it/s]Processing stimulus sets:  63%|██████▎   | 19/30 [00:04<00:01,  6.64it/s]Processing stimulus sets:  67%|██████▋   | 20/30 [00:04<00:01,  6.52it/s]Processing stimulus sets:  70%|███████   | 21/30 [00:04<00:01,  4.92it/s]Processing stimulus sets:  73%|███████▎  | 22/30 [00:04<00:01,  5.33it/s]Processing stimulus sets:  77%|███████▋  | 23/30 [00:04<00:01,  5.37it/s]Processing stimulus sets:  80%|████████  | 24/30 [00:05<00:01,  5.80it/s]Processing stimulus sets:  83%|████████▎ | 25/30 [00:05<00:00,  6.13it/s]Processing stimulus sets:  87%|████████▋ | 26/30 [00:05<00:00,  6.42it/s]Processing stimulus sets:  90%|█████████ | 27/30 [00:05<00:00,  6.83it/s]Processing stimulus sets:  93%|█████████▎| 28/30 [00:05<00:00,  7.08it/s]Processing stimulus sets:  97%|█████████▋| 29/30 [00:05<00:00,  6.04it/s]Processing stimulus sets: 100%|██████████| 30/30 [00:06<00:00,  5.83it/s]Processing stimulus sets: 100%|██████████| 30/30 [00:06<00:00,  4.99it/s]
+
+
+Experiment complete!
+Results saved to: experiment_results_distilgpt2.json
+
+================================================================================
+SUMMARY STATISTICS
+================================================================================
+sentence       : 7.535 ± 0.540 bits
+jabberwocky    : 7.849 ± 0.701 bits
+stripped       : 9.023 ± 0.396 bits
+nonwords       : 9.107 ± 0.440 bits

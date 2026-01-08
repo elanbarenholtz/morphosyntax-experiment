@@ -1,0 +1,121 @@
+set_id,condition,text,mean_entropy,mean_next_token_prob,num_tokens
+1,sentence,The teacher was explaining the concept to the students clearly,7.05157306459215,0.10378299856084697,10
+1,jabberwocky,The nellick was trening the trell to the geffs blundlely,8.402565871967989,0.015447291500737158,18
+1,stripped,freff nellick keff tren freff trell grofl freff geff blundle,8.537034130096435,0.047155128541180605,21
+1,nonwords,zemble zrell kren bliv wreffin cremble plenth drell quorb heffin,9.346810926090587,0.00440890311319464,23
+2,sentence,A small bird landed softly on the wooden fence,7.0250403881073,0.13234902710246388,9
+2,jabberwocky,A yendle vork whiffed glorply on the driv moxen,8.084256947040558,0.0383269019161645,17
+2,stripped,vren yendle vork whiff glorp yalm hreff driv moxen,9.72688172992907,0.005000307179017227,20
+2,nonwords,mornix cromple blenk drell plenth yeff remble trell gribble,9.862412770589193,0.0161215024130624,22
+3,sentence,The children were playing with their toys in the garden,7.007629924350315,0.1422352662419952,10
+3,jabberwocky,The moxen were mornixing with their slenks in the trock,7.707815352608176,0.019520102942217763,18
+3,stripped,tembly moxen blenk mornix sniv blemble slenk fleff tembly trock,8.461804847354474,0.01066821518635725,24
+3,nonwords,heffin flenk demble grenth wreffin yendle frell glendle whill jendle,9.209475212097168,0.018340734773282748,26
+4,sentence,She has been reading that book very carefully,7.7798221451895575,0.05580713005786363,8
+4,jabberwocky,krendle has been yalming that klim very zinkly,8.387168220111302,0.025839566352650372,15
+4,stripped,krendle drell cleff yalm yorbel klim grell zink,9.801401166354909,0.0036358432876916007,18
+4,nonwords,quorb tren plov nellick fleff wreffin jell snell,9.701808059916777,0.0030448871157739846,18
+5,sentence,The scientist discovered a new species in the forest,7.693221315741539,0.06727015643309642,9
+5,jabberwocky,The sprock ploved a moxen whiffs in the reffin,6.608046754201253,0.023105199989960093,16
+5,stripped,veff sprock plov tembly moxen whiff pliff veff reffin,8.333781369858318,0.004202246150477941,19
+5,nonwords,freff kren teff grent wreffin sniv jembly grell remble,8.89095906207436,0.0015989956646798849,20
+6,sentence,They will finish the project by tomorrow morning,7.271746703556606,0.06228601173331429,8
+6,jabberwocky,drell will deffin the yrell by crell mornixing,8.753629970550538,0.006154949733415075,16
+6,stripped,drell vemble deffin whisp yrell sniv crell mornix,9.396767672370462,0.006605324592796665,18
+6,nonwords,klorn gremble remble klorp gleb zell prell shill,9.472543912775377,0.004038868209189626,18
+7,sentence,A gentle breeze was blowing through the open window,7.403736889362335,0.18668692677351828,9
+7,jabberwocky,A demble wexin was zomping through the creff daffin,8.530488014221191,0.025998390669926152,17
+7,stripped,trock demble wexin blenth zomp brell jexen creff daffin,9.251878929138183,0.0033392921871950422,21
+7,nonwords,remble bren flenk kreb lemble yorbel flib quemble klorp,9.435610135396322,0.0034045293045296817,22
+8,sentence,The musician played the melody beautifully on stage,7.330390248979841,0.03155287488828305,8
+8,jabberwocky,The grenth wrembleed the freff plenthly on trell,8.055091762542725,0.00970664346546073,16
+8,stripped,vemble grenth wremble vemble freff plenth yrell trell,8.711566895246506,0.0032565928176992998,17
+8,nonwords,quorb flib flurn glendle frell horp zell drell,8.426099926233292,0.001371346654991612,17
+9,sentence,He could have solved the problem more easily,6.625439132962908,0.17466342899466067,8
+9,jabberwocky,zell could have veffed the flib bren plonkly,6.701272930701574,0.10487238217598739,16
+9,stripped,zell blenth lemble veff blenk flib bren plonk,8.668604542227353,0.025456826657238495,18
+9,nonwords,vork hemble trock reffin prell trell vreff horp,8.991194023805505,0.004078615384892129,18
+10,sentence,The committee is reviewing the proposal thoroughly,7.98953382174174,0.07326317914218332,7
+10,jabberwocky,The whisp is quendleing the rellick grellly,7.532298479761396,0.0020805710137860194,15
+10,stripped,prell whisp urnble quendle prell rellick grell,9.055979371070862,0.059382064413171065,17
+10,nonwords,lurnip wremble cremble tren slenk plenth zomp,9.72728407382965,0.0026334907196314816,17
+11,sentence,A mysterious figure appeared suddenly in the darkness,7.211753300258091,0.11954371291462199,8
+11,jabberwocky,A lurnips whill blorked klimly in the temblys,8.722394317388535,0.024501139912729286,17
+11,stripped,snorf lurnip whill blork klim prock sken tembly,9.728528387406293,0.0021078563673547573,18
+11,nonwords,shill vren driv plib gribble plov urnix borp,9.547161410836612,0.009436394960857797,18
+12,sentence,The students should study the material very seriously,7.6639030660901755,0.02410418547723176,8
+12,jabberwocky,The blivs should sniv the mornix very whillly,7.698164360863822,0.006296390994456098,15
+12,stripped,whisp bliv vellop sniv whisp mornix gleb whill,8.88549383948831,0.01257365021014908,18
+12,nonwords,teff clorp tren yalp florp fleff skeff leppik,9.311658662908217,0.005669806573624716,18
+13,sentence,She was walking slowly through the quiet streets,7.1176901544843405,0.12610524749782467,8
+13,jabberwocky,jrenth was trening frellly through the grent keffs,8.052622477213541,0.03291358080922085,16
+13,stripped,jrenth klim tren frell klorp gribble grent keff,8.664402961730957,0.005723291538844124,19
+13,nonwords,fremble vren yeff whell creff veff grenth dwel,9.453920602798462,0.027090428622727813,17
+14,sentence,The engineers are designing a better system carefully,7.950680800846645,0.07344429916832139,8
+14,jabberwocky,The zembles are skening a yendle dwel trockly,8.342336495717367,0.014705505298960968,16
+14,stripped,creff zemble tren sken zeffin yendle dwel trock,8.920426156785753,0.012336888001654087,19
+14,nonwords,grof blimp vork brell frell jexen whill trell,9.06579977273941,0.009148290565462958,17
+15,sentence,A young artist painted the landscape very skillfully,6.879065126180649,0.13653005538253637,9
+15,jabberwocky,A drell jendle wreffined the pliff very slenkly,8.962996751070023,0.010477837963236425,17
+15,stripped,grell drell jendle wreffin veff pliff prav slenk,8.744582851727804,0.004741486692043711,19
+15,nonwords,snell jrenth jell jembly demble fremble brell yorbel,9.29148989253574,0.0017844072609326151,19
+16,sentence,The dog had been barking loudly at the stranger,7.806452512741089,0.08236124776340148,9
+16,jabberwocky,The fleff zeffin been yalming reffinly at the prock,8.79483572174521,0.018604801799537038,18
+16,stripped,vork fleff zeffin jendle yalm reffin snorf vork prock,9.111739301681519,0.019569762158909043,21
+16,nonwords,grell blicket fremble yeff jrenth mornix hreff wuggle mip,9.35288338661194,0.0048342345254122066,21
+17,sentence,They were discussing the matter quite intensely,7.943672100702922,0.037116627247693636,7
+17,jabberwocky,pliff were praving the gremble horp wexinly,7.807925082743168,0.004312959640969893,15
+17,stripped,pliff sniv prav flimp gremble horp wexin,9.267642625172932,0.003378478137650139,16
+17,nonwords,crendle yalm crell screll urnble shill zemble,9.607128232717514,0.0073354219856867076,17
+18,sentence,The flowers are blooming beautifully in the spring,6.743479376658797,0.22341364776934824,9
+18,jabberwocky,The wuggles are mornixing daxenly in the jelling,8.196062505245209,0.036899099598088014,17
+18,stripped,prock wuggle neffin mornix daxen brell prock jell,9.046461555692884,0.015786602575404787,19
+18,nonwords,cleff whill remble grofl tamp verm heffin gribble,9.881395548582077,0.00641730525865114,17
+19,sentence,A talented chef prepared the meal expertly,6.680656939744949,0.16342495841256874,8
+19,jabberwocky,A blorked cremble krened the prock cromplely,8.278610261281331,0.00876199927051123,16
+19,stripped,leppik blork cremble kren screll prock cromple,9.145357863108318,0.0012694769914105564,16
+19,nonwords,tren plenth trell pordel dwel flimp wexin,9.156466515858968,0.009593457812540389,16
+20,sentence,The researchers have discovered the answer recently,7.41051705678304,0.01735961985226216,7
+20,jabberwocky,The yendles have crelled the brell borply,7.323310017585754,0.003442195216014928,13
+20,stripped,plenth yendle vork crell plenth brell borp,9.442495891026088,0.0020650186301541646,15
+20,nonwords,mornix sprock sken quendle whisp driv drell,8.823258896668753,0.0017152268090024829,16
+21,sentence,She will be traveling to the conference tomorrow,8.121414933885847,0.09768495457579515,8
+21,jabberwocky,mip will keff quendleing to the wremble zeffin,9.019917130470276,0.01185052595661773,17
+21,stripped,mip heffin keff quendle leppik skeff wremble zeffin,9.124179661273956,0.005440411160407166,21
+21,nonwords,reffin glorp zell jell vren trell trock urnble,8.779967840980081,0.008231705875004991,18
+22,sentence,The workers were building the structure very carefully,8.037573405674525,0.04208285142626015,8
+22,jabberwocky,The frells were quorbing the jell very lemblely,7.485878654888698,0.02925729918816192,15
+22,stripped,shill frell urnix quorb shill jell jrenth lemble,9.05659263274249,0.026795015670325696,18
+22,nonwords,sken quemble yalm blemble neffin screll blenth verm,9.447065914378447,0.0021995366843892794,18
+23,sentence,A bright light was shining through the window,7.578508683613369,0.15635314574163722,8
+23,jabberwocky,A lurnip fleff was skening through the dwel,7.943490664164226,0.04669484604088817,13
+23,stripped,verm lurnip fleff wuggle sken zink flib dwel,9.277511924505234,0.0034555901311108528,17
+23,nonwords,vren cleff jembly teff glendle urnix kren rellick,9.818135738372803,0.004254196385940496,20
+24,sentence,The author has written several books successfully,6.737002770105998,0.12276080967239977,7
+24,jabberwocky,The quemble has yendle plonk plovs fleffly,8.062965229153633,0.014356755893572881,17
+24,stripped,kreb quemble jell yendle plonk plov fleff,9.055690199136734,0.006143334452985982,17
+24,nonwords,blicket krendle grint wexin tembril trell blork,9.230990886688232,0.003039329196269591,17
+25,sentence,They could see the mountains clearly from here,7.600628239767892,0.041800269665795246,8
+25,jabberwocky,sniv could vren the trells urnixly from neffin,8.25011507794261,0.013708712757736663,17
+25,stripped,sniv whisp vren nellick trell urnix prock neffin,9.59095867474874,0.009451605034655586,19
+25,nonwords,zell moxen kreb zink shill quorb blork grofl,8.998969562351704,0.0014680288293220656,17
+26,sentence,The machine is processing the data quite rapidly,8.395508084978376,0.06361950976393668,8
+26,jabberwocky,The veff is verming the prock teff ullickly,8.830662761415754,0.008172420103489588,15
+26,stripped,jrenth veff whell verm jrenth prock teff ullick,9.36438344584571,0.047522510348446505,19
+26,nonwords,zink flurn keff kreb kren lemble plonk creff,9.099776327610016,0.020961553567609315,17
+27,sentence,A skilled doctor examined the patient thoroughly,7.732332309087117,0.1066559960407479,7
+27,jabberwocky,A drived kren blicketed the zemble florply,7.081847293036325,0.006844559943049587,15
+27,stripped,zink driv kren blicket pliff zemble florp,8.610083375658308,0.0017109442285832951,15
+27,nonwords,slenk jembly grint blenk drell freff cleff,9.140109926462173,0.04231272330548563,17
+28,sentence,The team was celebrating the victory enthusiastically,8.229402701059977,0.03291415194325964,7
+28,jabberwocky,The tembril was krening the dwel drellly,8.531704352452206,0.007285980305158983,14
+28,stripped,fremble tembril flenk kren fremble dwel drell,8.794701993465424,0.0035570915432288075,17
+28,nonwords,vork yorbel daxen florp glorp tren blundle,9.78668155670166,0.0021796295914403648,16
+29,sentence,She might have understood the concept more clearly,7.076073510306222,0.06271988195034542,8
+29,jabberwocky,kren dwel have daffin the kreb flimp yalmly,9.032190736134847,0.0036229044038312472,16
+29,stripped,kren dwel trell daffin grell kreb flimp yalm,9.456879287958145,0.006090849893155337,17
+29,nonwords,hemble slenk klim flenk veff flib bliv blenk,8.34042719999949,0.03400614207263667,19
+30,sentence,The investors are evaluating the opportunity very carefully,7.33907277243478,0.1577488825184576,8
+30,jabberwocky,The wrembles are glendleing the driv very frellly,6.14437916825215,0.016004872904957067,16
+30,stripped,tren wremble gremble glendle tren driv yalm frell,8.965097771750557,0.01845246247022361,19
+30,nonwords,reffin veff vork tamp plib cremble plenth bren,8.967960739135743,0.001799929739199039,16

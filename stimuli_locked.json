@@ -1,0 +1,5402 @@
+[
+  {
+    "set_id": 1,
+    "cue_family": "infinitival_to",
+    "cue_word": "to",
+    "cue_position": 3,
+    "target_class": "VERB",
+    "sentence": "the baker offered to process the elaborate discovery",
+    "jabberwocky": "the krash offered to smoosh the sceyz fleel",
+    "full_scrambled": "fleel krash smoosh to the the offered sceyz",
+    "content_scrambled": "the offered krash to smoosh the fleel sceyz",
+    "function_scrambled": "to krash offered the smoosh the sceyz fleel",
+    "cue_deleted": "the krash offered ke smoosh the sceyz fleel",
+    "content_words": [
+      "baker",
+      "process",
+      "elaborate",
+      "discovery"
+    ],
+    "nonce_words": [
+      "krash",
+      "smoosh",
+      "sceyz",
+      "fleel"
+    ],
+    "seeds": {
+      "full_scramble": 252984580,
+      "content_scramble": 252984581,
+      "function_scramble": 252984582
+    }
+  },
+  {
+    "set_id": 2,
+    "cue_family": "infinitival_to",
+    "cue_word": "to",
+    "cue_position": 3,
+    "target_class": "VERB",
+    "sentence": "the student promised to finish the broken project",
+    "jabberwocky": "the teyll promised to crid the whex fle",
+    "full_scrambled": "fle teyll promised the the whex to crid",
+    "content_scrambled": "the fle teyll to whex the crid promised",
+    "function_scrambled": "the teyll promised the crid to whex fle",
+    "cue_deleted": "the teyll promised ke crid the whex fle",
+    "content_words": [
+      "student",
+      "finish",
+      "broken",
+      "project"
+    ],
+    "nonce_words": [
+      "teyll",
+      "crid",
+      "whex",
+      "fle"
+    ],
+    "seeds": {
+      "full_scramble": 1725169427,
+      "content_scramble": 1725169428,
+      "function_scramble": 1725169429
+    }
+  },
+  {
+    "set_id": 3,
+    "cue_family": "infinitival_to",
+    "cue_word": "to",
+    "cue_position": 3,
+    "target_class": "VERB",
+    "sentence": "the scientist attempted to present the unusual artifacts",
+    "jabberwocky": "the scill attempted to plie the staik dim",
+    "full_scrambled": "to the scill plie the staik dim attempted",
+    "content_scrambled": "the dim plie to staik the scill attempted",
+    "function_scrambled": "the scill attempted the plie to staik dim",
+    "cue_deleted": "the scill attempted ke plie the staik dim",
+    "content_words": [
+      "scientist",
+      "present",
+      "unusual",
+      "artifacts"
+    ],
+    "nonce_words": [
+      "scill",
+      "plie",
+      "staik",
+      "dim"
+    ],
+    "seeds": {
+      "full_scramble": 764203438,
+      "content_scramble": 764203439,
+      "function_scramble": 764203440
+    }
+  },
+  {
+    "set_id": 4,
+    "cue_family": "infinitival_to",
+    "cue_word": "to",
+    "cue_position": 3,
+    "target_class": "VERB",
+    "sentence": "the lawyer needed to repair the difficult method",
+    "jabberwocky": "the heeg needed to spesk the beap braisp",
+    "full_scrambled": "needed to spesk the braisp heeg beap the",
+    "content_scrambled": "the spesk heeg to needed the beap braisp",
+    "function_scrambled": "the heeg needed the spesk to beap braisp",
+    "cue_deleted": "the heeg needed ke spesk the beap braisp",
+    "content_words": [
+      "lawyer",
+      "repair",
+      "difficult",
+      "method"
+    ],
+    "nonce_words": [
+      "heeg",
+      "spesk",
+      "beap",
+      "braisp"
+    ],
+    "seeds": {
+      "full_scramble": 1692362178,
+      "content_scramble": 1692362179,
+      "function_scramble": 1692362180
+    }
+  },
+  {
+    "set_id": 5,
+    "cue_family": "infinitival_to",
+    "cue_word": "to",
+    "cue_position": 3,
+    "target_class": "VERB",
+    "sentence": "the author tried to inspect the beautiful prototype",
+    "jabberwocky": "the cruk tried to sleyx the plid teyck",
+    "full_scrambled": "tried to teyck cruk the plid sleyx the",
+    "content_scrambled": "the teyck tried to sleyx the cruk plid",
+    "function_scrambled": "to cruk the tried sleyx the plid teyck",
+    "cue_deleted": "the cruk tried ke sleyx the plid teyck",
+    "content_words": [
+      "author",
+      "inspect",
+      "beautiful",
+      "prototype"
+    ],
+    "nonce_words": [
+      "cruk",
+      "sleyx",
+      "plid",
+      "teyck"
+    ],
+    "seeds": {
+      "full_scramble": 1688566864,
+      "content_scramble": 1688566865,
+      "function_scramble": 1688566866
+    }
+  },
+  {
+    "set_id": 6,
+    "cue_family": "infinitival_to",
+    "cue_word": "to",
+    "cue_position": 3,
+    "target_class": "VERB",
+    "sentence": "the musician continued to organize the remarkable patient",
+    "jabberwocky": "the yeyn continued to queex the ploos gleeck",
+    "full_scrambled": "ploos the to gleeck queex the continued yeyn",
+    "content_scrambled": "the ploos continued to gleeck the yeyn queex",
+    "function_scrambled": "the yeyn the to queex continued ploos gleeck",
+    "cue_deleted": "the yeyn continued ke queex the ploos gleeck",
+    "content_words": [
+      "musician",
+      "organize",
+      "remarkable",
+      "patient"
+    ],
+    "nonce_words": [
+      "yeyn",
+      "queex",
+      "ploos",
+      "gleeck"
+    ],
+    "seeds": {
+      "full_scramble": 1239960170,
+      "content_scramble": 1239960171,
+      "function_scramble": 1239960172
+    }
+  },
+  {
+    "set_id": 7,
+    "cue_family": "infinitival_to",
+    "cue_word": "to",
+    "cue_position": 3,
+    "target_class": "VERB",
+    "sentence": "the journalist decided to improve the efficient findings",
+    "jabberwocky": "the meax decided to troun the frieth scousk",
+    "full_scrambled": "meax to scousk the frieth the decided troun",
+    "content_scrambled": "the frieth decided to troun the meax scousk",
+    "function_scrambled": "decided meax to the troun the frieth scousk",
+    "cue_deleted": "the meax decided ke troun the frieth scousk",
+    "content_words": [
+      "journalist",
+      "improve",
+      "efficient",
+      "findings"
+    ],
+    "nonce_words": [
+      "meax",
+      "troun",
+      "frieth",
+      "scousk"
+    ],
+    "seeds": {
+      "full_scramble": 996800283,
+      "content_scramble": 996800284,
+      "function_scramble": 996800285
+    }
+  },
+  {
+    "set_id": 8,
+    "cue_family": "infinitival_to",
+    "cue_word": "to",
+    "cue_position": 3,
+    "target_class": "VERB",
+    "sentence": "the doctor struggled to design the comprehensive recipe",
+    "jabberwocky": "the faib struggled to clor the dath neep",
+    "full_scrambled": "clor dath the neep struggled to faib the",
+    "content_scrambled": "the dath neep to faib the clor struggled",
+    "function_scrambled": "the faib struggled the clor to dath neep",
+    "cue_deleted": "the faib struggled ke clor the dath neep",
+    "content_words": [
+      "doctor",
+      "design",
+      "comprehensive",
+      "recipe"
+    ],
+    "nonce_words": [
+      "faib",
+      "clor",
+      "dath",
+      "neep"
+    ],
+    "seeds": {
+      "full_scramble": 875449473,
+      "content_scramble": 875449474,
+      "function_scramble": 875449475
+    }
+  },
+  {
+    "set_id": 9,
+    "cue_family": "infinitival_to",
+    "cue_word": "to",
+    "cue_position": 3,
+    "target_class": "VERB",
+    "sentence": "the gardener hoped to discuss the practical blueprint",
+    "jabberwocky": "the paish hoped to cep the snaig clesh",
+    "full_scrambled": "paish the hoped to clesh cep the snaig",
+    "content_scrambled": "the snaig hoped to cep the clesh paish",
+    "function_scrambled": "hoped paish the the cep to snaig clesh",
+    "cue_deleted": "the paish hoped ke cep the snaig clesh",
+    "content_words": [
+      "gardener",
+      "discuss",
+      "practical",
+      "blueprint"
+    ],
+    "nonce_words": [
+      "paish",
+      "cep",
+      "snaig",
+      "clesh"
+    ],
+    "seeds": {
+      "full_scramble": 2071687269,
+      "content_scramble": 2071687270,
+      "function_scramble": 2071687271
+    }
+  },
+  {
+    "set_id": 10,
+    "cue_family": "infinitival_to",
+    "cue_word": "to",
+    "cue_position": 3,
+    "target_class": "VERB",
+    "sentence": "the coach managed to develop the significant engine",
+    "jabberwocky": "the whom managed to rees the faisk sceyp",
+    "full_scrambled": "the faisk to rees sceyp whom the managed",
+    "content_scrambled": "the whom sceyp to rees the faisk managed",
+    "function_scrambled": "the whom managed the rees to faisk sceyp",
+    "cue_deleted": "the whom managed ke rees the faisk sceyp",
+    "content_words": [
+      "coach",
+      "develop",
+      "significant",
+      "engine"
+    ],
+    "nonce_words": [
+      "whom",
+      "rees",
+      "faisk",
+      "sceyp"
+    ],
+    "seeds": {
+      "full_scramble": 1331841812,
+      "content_scramble": 1331841813,
+      "function_scramble": 1331841814
+    }
+  },
+  {
+    "set_id": 11,
+    "cue_family": "infinitival_to",
+    "cue_word": "to",
+    "cue_position": 3,
+    "target_class": "VERB",
+    "sentence": "the teacher began to investigate the important landscape",
+    "jabberwocky": "the queask began to flieb the cooth weer",
+    "full_scrambled": "cooth flieb began weer the the to queask",
+    "content_scrambled": "the flieb began to cooth the weer queask",
+    "function_scrambled": "to queask the began flieb the cooth weer",
+    "cue_deleted": "the queask began ke flieb the cooth weer",
+    "content_words": [
+      "teacher",
+      "investigate",
+      "important",
+      "landscape"
+    ],
+    "nonce_words": [
+      "queask",
+      "flieb",
+      "cooth",
+      "weer"
+    ],
+    "seeds": {
+      "full_scramble": 2087366144,
+      "content_scramble": 2087366145,
+      "function_scramble": 2087366146
+    }
+  },
+  {
+    "set_id": 12,
+    "cue_family": "infinitival_to",
+    "cue_word": "to",
+    "cue_position": 3,
+    "target_class": "VERB",
+    "sentence": "the director expected to assess the challenging symphony",
+    "jabberwocky": "the sloog expected to smiz the sciss greesh",
+    "full_scrambled": "smiz expected to sloog the greesh sciss the",
+    "content_scrambled": "the smiz expected to greesh the sciss sloog",
+    "function_scrambled": "to sloog the expected smiz the sciss greesh",
+    "cue_deleted": "the sloog expected ke smiz the sciss greesh",
+    "content_words": [
+      "director",
+      "assess",
+      "challenging",
+      "symphony"
+    ],
+    "nonce_words": [
+      "sloog",
+      "smiz",
+      "sciss",
+      "greesh"
+    ],
+    "seeds": {
+      "full_scramble": 301002545,
+      "content_scramble": 301002546,
+      "function_scramble": 301002547
+    }
+  },
+  {
+    "set_id": 13,
+    "cue_family": "infinitival_to",
+    "cue_word": "to",
+    "cue_position": 3,
+    "target_class": "VERB",
+    "sentence": "the photographer wanted to prepare the innovative strategy",
+    "jabberwocky": "the gloob wanted to gousp the scaid zoor",
+    "full_scrambled": "the scaid to zoor the wanted gloob gousp",
+    "content_scrambled": "the scaid wanted to zoor the gloob gousp",
+    "function_scrambled": "wanted gloob the to gousp the scaid zoor",
+    "cue_deleted": "the gloob wanted ke gousp the scaid zoor",
+    "content_words": [
+      "photographer",
+      "prepare",
+      "innovative",
+      "strategy"
+    ],
+    "nonce_words": [
+      "gloob",
+      "gousp",
+      "scaid",
+      "zoor"
+    ],
+    "seeds": {
+      "full_scramble": 891007753,
+      "content_scramble": 891007754,
+      "function_scramble": 891007755
+    }
+  },
+  {
+    "set_id": 14,
+    "cue_family": "infinitival_to",
+    "cue_word": "to",
+    "cue_position": 3,
+    "target_class": "VERB",
+    "sentence": "the artist agreed to evaluate the preliminary assignment",
+    "jabberwocky": "the liesk agreed to brooll the priest smull",
+    "full_scrambled": "the smull the liesk agreed priest brooll to",
+    "content_scrambled": "the liesk brooll to agreed the smull priest",
+    "function_scrambled": "to liesk agreed the brooll the priest smull",
+    "cue_deleted": "the liesk agreed ke brooll the priest smull",
+    "content_words": [
+      "artist",
+      "evaluate",
+      "preliminary",
+      "assignment"
+    ],
+    "nonce_words": [
+      "liesk",
+      "brooll",
+      "priest",
+      "smull"
+    ],
+    "seeds": {
+      "full_scramble": 615431186,
+      "content_scramble": 615431187,
+      "function_scramble": 615431188
+    }
+  },
+  {
+    "set_id": 15,
+    "cue_family": "infinitival_to",
+    "cue_word": "to",
+    "cue_position": 3,
+    "target_class": "VERB",
+    "sentence": "the electrician planned to solve the intricate concept",
+    "jabberwocky": "the sosh planned to scaim the cleysp swoll",
+    "full_scrambled": "the swoll scaim planned to cleysp sosh the",
+    "content_scrambled": "the scaim planned to swoll the sosh cleysp",
+    "function_scrambled": "planned sosh the the scaim to cleysp swoll",
+    "cue_deleted": "the sosh planned ke scaim the cleysp swoll",
+    "content_words": [
+      "electrician",
+      "solve",
+      "intricate",
+      "concept"
+    ],
+    "nonce_words": [
+      "sosh",
+      "scaim",
+      "cleysp",
+      "swoll"
+    ],
+    "seeds": {
+      "full_scramble": 1437401726,
+      "content_scramble": 1437401727,
+      "function_scramble": 1437401728
+    }
+  },
+  {
+    "set_id": 16,
+    "cue_family": "infinitival_to",
+    "cue_word": "to",
+    "cue_position": 3,
+    "target_class": "VERB",
+    "sentence": "the professor offered to build the mysterious vehicle",
+    "jabberwocky": "the swun offered to kli the nouss smeef",
+    "full_scrambled": "kli nouss offered the the to smeef swun",
+    "content_scrambled": "the swun kli to offered the nouss smeef",
+    "function_scrambled": "the swun offered the kli to nouss smeef",
+    "cue_deleted": "the swun offered ke kli the nouss smeef",
+    "content_words": [
+      "professor",
+      "build",
+      "mysterious",
+      "vehicle"
+    ],
+    "nonce_words": [
+      "swun",
+      "kli",
+      "nouss",
+      "smeef"
+    ],
+    "seeds": {
+      "full_scramble": 1912796368,
+      "content_scramble": 1912796369,
+      "function_scramble": 1912796370
+    }
+  },
+  {
+    "set_id": 17,
+    "cue_family": "infinitival_to",
+    "cue_word": "to",
+    "cue_position": 3,
+    "target_class": "VERB",
+    "sentence": "the pilot promised to test the delicious paintings",
+    "jabberwocky": "the stap promised to skoung the peell smusk",
+    "full_scrambled": "stap skoung to peell smusk promised the the",
+    "content_scrambled": "the stap peell to smusk the skoung promised",
+    "function_scrambled": "to stap promised the skoung the peell smusk",
+    "cue_deleted": "the stap promised ke skoung the peell smusk",
+    "content_words": [
+      "pilot",
+      "test",
+      "delicious",
+      "paintings"
+    ],
+    "nonce_words": [
+      "stap",
+      "skoung",
+      "peell",
+      "smusk"
+    ],
+    "seeds": {
+      "full_scramble": 1782203191,
+      "content_scramble": 1782203192,
+      "function_scramble": 1782203193
+    }
+  },
+  {
+    "set_id": 18,
+    "cue_family": "infinitival_to",
+    "cue_word": "to",
+    "cue_position": 3,
+    "target_class": "VERB",
+    "sentence": "the librarian attempted to publish the experimental solution",
+    "jabberwocky": "the krock attempted to joob the spean gif",
+    "full_scrambled": "joob the to attempted gif spean the krock",
+    "content_scrambled": "the attempted spean to krock the gif joob",
+    "function_scrambled": "to krock attempted the joob the spean gif",
+    "cue_deleted": "the krock attempted ke joob the spean gif",
+    "content_words": [
+      "librarian",
+      "publish",
+      "experimental",
+      "solution"
+    ],
+    "nonce_words": [
+      "krock",
+      "joob",
+      "spean",
+      "gif"
+    ],
+    "seeds": {
+      "full_scramble": 858523505,
+      "content_scramble": 858523506,
+      "function_scramble": 858523507
+    }
+  },
+  {
+    "set_id": 19,
+    "cue_family": "infinitival_to",
+    "cue_word": "to",
+    "cue_position": 3,
+    "target_class": "VERB",
+    "sentence": "the carpenter needed to create the fundamental experiment",
+    "jabberwocky": "the jull needed to queyn the swib floost",
+    "full_scrambled": "needed to the the jull queyn floost swib",
+    "content_scrambled": "the needed swib to jull the floost queyn",
+    "function_scrambled": "the jull needed the queyn to swib floost",
+    "cue_deleted": "the jull needed ke queyn the swib floost",
+    "content_words": [
+      "carpenter",
+      "create",
+      "fundamental",
+      "experiment"
+    ],
+    "nonce_words": [
+      "jull",
+      "queyn",
+      "swib",
+      "floost"
+    ],
+    "seeds": {
+      "full_scramble": 719269683,
+      "content_scramble": 719269684,
+      "function_scramble": 719269685
+    }
+  },
+  {
+    "set_id": 20,
+    "cue_family": "infinitival_to",
+    "cue_word": "to",
+    "cue_position": 3,
+    "target_class": "VERB",
+    "sentence": "the mechanic tried to demonstrate the valuable software",
+    "jabberwocky": "the peez tried to lie the prick zoob",
+    "full_scrambled": "lie peez the tried zoob prick the to",
+    "content_scrambled": "the lie tried to peez the zoob prick",
+    "function_scrambled": "the peez to tried lie the prick zoob",
+    "cue_deleted": "the peez tried ke lie the prick zoob",
+    "content_words": [
+      "mechanic",
+      "demonstrate",
+      "valuable",
+      "software"
+    ],
+    "nonce_words": [
+      "peez",
+      "lie",
+      "prick",
+      "zoob"
+    ],
+    "seeds": {
+      "full_scramble": 1688771526,
+      "content_scramble": 1688771527,
+      "function_scramble": 1688771528
+    }
+  },
+  {
+    "set_id": 21,
+    "cue_family": "infinitival_to",
+    "cue_word": "to",
+    "cue_position": 3,
+    "target_class": "VERB",
+    "sentence": "the captain continued to review the complex instrument",
+    "jabberwocky": "the blak continued to dreaf the scoss fol",
+    "full_scrambled": "dreaf fol continued the blak the to scoss",
+    "content_scrambled": "the scoss continued to blak the dreaf fol",
+    "function_scrambled": "to blak the continued dreaf the scoss fol",
+    "cue_deleted": "the blak continued ke dreaf the scoss fol",
+    "content_words": [
+      "captain",
+      "review",
+      "complex",
+      "instrument"
+    ],
+    "nonce_words": [
+      "blak",
+      "dreaf",
+      "scoss",
+      "fol"
+    ],
+    "seeds": {
+      "full_scramble": 1992179201,
+      "content_scramble": 1992179202,
+      "function_scramble": 1992179203
+    }
+  },
+  {
+    "set_id": 22,
+    "cue_family": "infinitival_to",
+    "cue_word": "to",
+    "cue_position": 3,
+    "target_class": "VERB",
+    "sentence": "the architect decided to explore the fascinating design",
+    "jabberwocky": "the tes decided to nap the vaiss brienk",
+    "full_scrambled": "the vaiss the tes nap to decided brienk",
+    "content_scrambled": "the nap decided to vaiss the tes brienk",
+    "function_scrambled": "decided tes to the nap the vaiss brienk",
+    "cue_deleted": "the tes decided ke nap the vaiss brienk",
+    "content_words": [
+      "architect",
+      "explore",
+      "fascinating",
+      "design"
+    ],
+    "nonce_words": [
+      "tes",
+      "nap",
+      "vaiss",
+      "brienk"
+    ],
+    "seeds": {
+      "full_scramble": 2018710319,
+      "content_scramble": 2018710320,
+      "function_scramble": 2018710321
+    }
+  },
+  {
+    "set_id": 23,
+    "cue_family": "infinitival_to",
+    "cue_word": "to",
+    "cue_position": 3,
+    "target_class": "VERB",
+    "sentence": "the researcher struggled to analyze the modern novel",
+    "jabberwocky": "the glash struggled to long the bleaf douss",
+    "full_scrambled": "struggled douss bleaf glash the to the long",
+    "content_scrambled": "the struggled douss to long the glash bleaf",
+    "function_scrambled": "the glash struggled the long to bleaf douss",
+    "cue_deleted": "the glash struggled ke long the bleaf douss",
+    "content_words": [
+      "researcher",
+      "analyze",
+      "modern",
+      "novel"
+    ],
+    "nonce_words": [
+      "glash",
+      "long",
+      "bleaf",
+      "douss"
+    ],
+    "seeds": {
+      "full_scramble": 1233336716,
+      "content_scramble": 1233336717,
+      "function_scramble": 1233336718
+    }
+  },
+  {
+    "set_id": 24,
+    "cue_family": "infinitival_to",
+    "cue_word": "to",
+    "cue_position": 3,
+    "target_class": "VERB",
+    "sentence": "the chef hoped to complete the theoretical documents",
+    "jabberwocky": "the slast hoped to fak the blob brix",
+    "full_scrambled": "blob the slast hoped brix fak to the",
+    "content_scrambled": "the fak hoped to blob the slast brix",
+    "function_scrambled": "to slast the hoped fak the blob brix",
+    "cue_deleted": "the slast hoped ke fak the blob brix",
+    "content_words": [
+      "chef",
+      "complete",
+      "theoretical",
+      "documents"
+    ],
+    "nonce_words": [
+      "slast",
+      "fak",
+      "blob",
+      "brix"
+    ],
+    "seeds": {
+      "full_scramble": 1709139367,
+      "content_scramble": 1709139368,
+      "function_scramble": 1709139369
+    }
+  },
+  {
+    "set_id": 25,
+    "cue_family": "infinitival_to",
+    "cue_word": "to",
+    "cue_position": 3,
+    "target_class": "VERB",
+    "sentence": "the engineer managed to explain the basic formula",
+    "jabberwocky": "the pouss managed to creex the klusp reenk",
+    "full_scrambled": "klusp the reenk managed to creex pouss the",
+    "content_scrambled": "the reenk klusp to pouss the managed creex",
+    "function_scrambled": "to pouss managed the creex the klusp reenk",
+    "cue_deleted": "the pouss managed ke creex the klusp reenk",
+    "content_words": [
+      "engineer",
+      "explain",
+      "basic",
+      "formula"
+    ],
+    "nonce_words": [
+      "pouss",
+      "creex",
+      "klusp",
+      "reenk"
+    ],
+    "seeds": {
+      "full_scramble": 345544925,
+      "content_scramble": 345544926,
+      "function_scramble": 345544927
+    }
+  },
+  {
+    "set_id": 26,
+    "cue_family": "infinitival_to",
+    "cue_word": "to",
+    "cue_position": 3,
+    "target_class": "VERB",
+    "sentence": "the surgeon began to study the rare specimens",
+    "jabberwocky": "the grieb began to cum the yoong skaig",
+    "full_scrambled": "the grieb to began yoong cum skaig the",
+    "content_scrambled": "the cum began to yoong the skaig grieb",
+    "function_scrambled": "the grieb the began cum to yoong skaig",
+    "cue_deleted": "the grieb began ke cum the yoong skaig",
+    "content_words": [
+      "surgeon",
+      "study",
+      "rare",
+      "specimens"
+    ],
+    "nonce_words": [
+      "grieb",
+      "cum",
+      "yoong",
+      "skaig"
+    ],
+    "seeds": {
+      "full_scramble": 690088178,
+      "content_scramble": 690088179,
+      "function_scramble": 690088180
+    }
+  },
+  {
+    "set_id": 27,
+    "cue_family": "infinitival_to",
+    "cue_word": "to",
+    "cue_position": 3,
+    "target_class": "VERB",
+    "sentence": "the plumber expected to research the advanced data",
+    "jabberwocky": "the whok expected to floong the waisk spat",
+    "full_scrambled": "floong whok spat to waisk the expected the",
+    "content_scrambled": "the waisk expected to spat the floong whok",
+    "function_scrambled": "to whok expected the floong the waisk spat",
+    "cue_deleted": "the whok expected ke floong the waisk spat",
+    "content_words": [
+      "plumber",
+      "research",
+      "advanced",
+      "data"
+    ],
+    "nonce_words": [
+      "whok",
+      "floong",
+      "waisk",
+      "spat"
+    ],
+    "seeds": {
+      "full_scramble": 2096914928,
+      "content_scramble": 2096914929,
+      "function_scramble": 2096914930
+    }
+  },
+  {
+    "set_id": 28,
+    "cue_family": "infinitival_to",
+    "cue_word": "to",
+    "cue_position": 3,
+    "target_class": "VERB",
+    "sentence": "the programmer wanted to document the historical equipment",
+    "jabberwocky": "the spous wanted to hair the brooth slep",
+    "full_scrambled": "spous brooth to slep wanted the the hair",
+    "content_scrambled": "the brooth wanted to spous the slep hair",
+    "function_scrambled": "the spous to the hair wanted brooth slep",
+    "cue_deleted": "the spous wanted ke hair the brooth slep",
+    "content_words": [
+      "programmer",
+      "document",
+      "historical",
+      "equipment"
+    ],
+    "nonce_words": [
+      "spous",
+      "hair",
+      "brooth",
+      "slep"
+    ],
+    "seeds": {
+      "full_scramble": 184711812,
+      "content_scramble": 184711813,
+      "function_scramble": 184711814
+    }
+  },
+  {
+    "set_id": 29,
+    "cue_family": "infinitival_to",
+    "cue_word": "to",
+    "cue_position": 3,
+    "target_class": "VERB",
+    "sentence": "the detective agreed to fix the critical technique",
+    "jabberwocky": "the poo agreed to neax the sweab stoup",
+    "full_scrambled": "to the the neax agreed stoup sweab poo",
+    "content_scrambled": "the poo stoup to agreed the sweab neax",
+    "function_scrambled": "to poo agreed the neax the sweab stoup",
+    "cue_deleted": "the poo agreed ke neax the sweab stoup",
+    "content_words": [
+      "detective",
+      "fix",
+      "critical",
+      "technique"
+    ],
+    "nonce_words": [
+      "poo",
+      "neax",
+      "sweab",
+      "stoup"
+    ],
+    "seeds": {
+      "full_scramble": 177803098,
+      "content_scramble": 177803099,
+      "function_scramble": 177803100
+    }
+  },
+  {
+    "set_id": 30,
+    "cue_family": "infinitival_to",
+    "cue_word": "to",
+    "cue_position": 3,
+    "target_class": "VERB",
+    "sentence": "the farmer planned to examine the ancient manuscript",
+    "jabberwocky": "the scosk planned to skoog the deyp meyth",
+    "full_scrambled": "the scosk to meyth planned skoog deyp the",
+    "content_scrambled": "the deyp planned to skoog the meyth scosk",
+    "function_scrambled": "to scosk planned the skoog the deyp meyth",
+    "cue_deleted": "the scosk planned ke skoog the deyp meyth",
+    "content_words": [
+      "farmer",
+      "examine",
+      "ancient",
+      "manuscript"
+    ],
+    "nonce_words": [
+      "scosk",
+      "skoog",
+      "deyp",
+      "meyth"
+    ],
+    "seeds": {
+      "full_scramble": 372607322,
+      "content_scramble": 372607323,
+      "function_scramble": 372607324
+    }
+  },
+  {
+    "set_id": 1,
+    "cue_family": "modals",
+    "cue_word": "can",
+    "cue_position": 2,
+    "target_class": "VERB",
+    "sentence": "the carpenter can create the remarkable solution",
+    "jabberwocky": "the stroun can fried the teef stries",
+    "full_scrambled": "teef the the can fried stroun stries",
+    "content_scrambled": "the stroun can stries the teef fried",
+    "function_scrambled": "the stroun the fried can teef stries",
+    "cue_deleted": "the stroun ke fried the teef stries",
+    "content_words": [
+      "carpenter",
+      "create",
+      "remarkable",
+      "solution"
+    ],
+    "nonce_words": [
+      "stroun",
+      "fried",
+      "teef",
+      "stries"
+    ],
+    "seeds": {
+      "full_scramble": 1347197017,
+      "content_scramble": 1347197018,
+      "function_scramble": 1347197019
+    }
+  },
+  {
+    "set_id": 2,
+    "cue_family": "modals",
+    "cue_word": "must",
+    "cue_position": 2,
+    "target_class": "VERB",
+    "sentence": "the pilot must review the historical formula",
+    "jabberwocky": "the streyf must scisp the riel yon",
+    "full_scrambled": "scisp must the streyf riel the yon",
+    "content_scrambled": "the riel must streyf the scisp yon",
+    "function_scrambled": "the streyf the scisp must riel yon",
+    "cue_deleted": "the streyf ke scisp the riel yon",
+    "content_words": [
+      "pilot",
+      "review",
+      "historical",
+      "formula"
+    ],
+    "nonce_words": [
+      "streyf",
+      "scisp",
+      "riel",
+      "yon"
+    ],
+    "seeds": {
+      "full_scramble": 104955503,
+      "content_scramble": 104955504,
+      "function_scramble": 104955505
+    }
+  },
+  {
+    "set_id": 3,
+    "cue_family": "modals",
+    "cue_word": "will",
+    "cue_position": 2,
+    "target_class": "VERB",
+    "sentence": "the photographer will assess the rare specimens",
+    "jabberwocky": "the snisk will sad the grem swom",
+    "full_scrambled": "grem swom the will snisk sad the",
+    "content_scrambled": "the sad will swom the snisk grem",
+    "function_scrambled": "will snisk the sad the grem swom",
+    "cue_deleted": "the snisk ke sad the grem swom",
+    "content_words": [
+      "photographer",
+      "assess",
+      "rare",
+      "specimens"
+    ],
+    "nonce_words": [
+      "snisk",
+      "sad",
+      "grem",
+      "swom"
+    ],
+    "seeds": {
+      "full_scramble": 59264284,
+      "content_scramble": 59264285,
+      "function_scramble": 59264286
+    }
+  },
+  {
+    "set_id": 4,
+    "cue_family": "modals",
+    "cue_word": "might",
+    "cue_position": 2,
+    "target_class": "VERB",
+    "sentence": "the farmer might develop the delicious instrument",
+    "jabberwocky": "the wem might trouss the grad gooll",
+    "full_scrambled": "trouss grad wem the the might gooll",
+    "content_scrambled": "the gooll might trouss the wem grad",
+    "function_scrambled": "might wem the trouss the grad gooll",
+    "cue_deleted": "the wem ke trouss the grad gooll",
+    "content_words": [
+      "farmer",
+      "develop",
+      "delicious",
+      "instrument"
+    ],
+    "nonce_words": [
+      "wem",
+      "trouss",
+      "grad",
+      "gooll"
+    ],
+    "seeds": {
+      "full_scramble": 240430409,
+      "content_scramble": 240430410,
+      "function_scramble": 240430411
+    }
+  },
+  {
+    "set_id": 5,
+    "cue_family": "modals",
+    "cue_word": "may",
+    "cue_position": 2,
+    "target_class": "VERB",
+    "sentence": "the teacher may evaluate the innovative symphony",
+    "jabberwocky": "the klaz may foud the kleast hain",
+    "full_scrambled": "klaz kleast foud the hain the may",
+    "content_scrambled": "the foud may hain the kleast klaz",
+    "function_scrambled": "may klaz the foud the kleast hain",
+    "cue_deleted": "the klaz ke foud the kleast hain",
+    "content_words": [
+      "teacher",
+      "evaluate",
+      "innovative",
+      "symphony"
+    ],
+    "nonce_words": [
+      "klaz",
+      "foud",
+      "kleast",
+      "hain"
+    ],
+    "seeds": {
+      "full_scramble": 128995276,
+      "content_scramble": 128995277,
+      "function_scramble": 128995278
+    }
+  },
+  {
+    "set_id": 6,
+    "cue_family": "modals",
+    "cue_word": "can",
+    "cue_position": 2,
+    "target_class": "VERB",
+    "sentence": "the researcher can analyze the modern landscape",
+    "jabberwocky": "the kreck can sweall the yot greysk",
+    "full_scrambled": "greysk yot the the kreck sweall can",
+    "content_scrambled": "the sweall can kreck the greysk yot",
+    "function_scrambled": "the kreck the sweall can yot greysk",
+    "cue_deleted": "the kreck ke sweall the yot greysk",
+    "content_words": [
+      "researcher",
+      "analyze",
+      "modern",
+      "landscape"
+    ],
+    "nonce_words": [
+      "kreck",
+      "sweall",
+      "yot",
+      "greysk"
+    ],
+    "seeds": {
+      "full_scramble": 2038758500,
+      "content_scramble": 2038758501,
+      "function_scramble": 2038758502
+    }
+  },
+  {
+    "set_id": 7,
+    "cue_family": "modals",
+    "cue_word": "will",
+    "cue_position": 2,
+    "target_class": "VERB",
+    "sentence": "the journalist will research the fundamental data",
+    "jabberwocky": "the fraid will ked the vung geesk",
+    "full_scrambled": "fraid the geesk vung ked the will",
+    "content_scrambled": "the geesk will ked the fraid vung",
+    "function_scrambled": "will fraid the ked the vung geesk",
+    "cue_deleted": "the fraid ke ked the vung geesk",
+    "content_words": [
+      "journalist",
+      "research",
+      "fundamental",
+      "data"
+    ],
+    "nonce_words": [
+      "fraid",
+      "ked",
+      "vung",
+      "geesk"
+    ],
+    "seeds": {
+      "full_scramble": 1182302710,
+      "content_scramble": 1182302711,
+      "function_scramble": 1182302712
+    }
+  },
+  {
+    "set_id": 8,
+    "cue_family": "modals",
+    "cue_word": "must",
+    "cue_position": 2,
+    "target_class": "VERB",
+    "sentence": "the plumber must complete the experimental patient",
+    "jabberwocky": "the nif must bou the youss hith",
+    "full_scrambled": "the the bou youss hith nif must",
+    "content_scrambled": "the nif must bou the hith youss",
+    "function_scrambled": "must nif the bou the youss hith",
+    "cue_deleted": "the nif ke bou the youss hith",
+    "content_words": [
+      "plumber",
+      "complete",
+      "experimental",
+      "patient"
+    ],
+    "nonce_words": [
+      "nif",
+      "bou",
+      "youss",
+      "hith"
+    ],
+    "seeds": {
+      "full_scramble": 749596062,
+      "content_scramble": 749596063,
+      "function_scramble": 749596064
+    }
+  },
+  {
+    "set_id": 9,
+    "cue_family": "modals",
+    "cue_word": "will",
+    "cue_position": 2,
+    "target_class": "VERB",
+    "sentence": "the detective will explore the broken documents",
+    "jabberwocky": "the snooz will whieg the draik stung",
+    "full_scrambled": "snooz stung whieg draik will the the",
+    "content_scrambled": "the whieg will snooz the stung draik",
+    "function_scrambled": "will snooz the whieg the draik stung",
+    "cue_deleted": "the snooz ke whieg the draik stung",
+    "content_words": [
+      "detective",
+      "explore",
+      "broken",
+      "documents"
+    ],
+    "nonce_words": [
+      "snooz",
+      "whieg",
+      "draik",
+      "stung"
+    ],
+    "seeds": {
+      "full_scramble": 2095969035,
+      "content_scramble": 2095969036,
+      "function_scramble": 2095969037
+    }
+  },
+  {
+    "set_id": 10,
+    "cue_family": "modals",
+    "cue_word": "will",
+    "cue_position": 2,
+    "target_class": "VERB",
+    "sentence": "the professor will examine the theoretical project",
+    "jabberwocky": "the seast will sies the strep thenk",
+    "full_scrambled": "will strep thenk sies the the seast",
+    "content_scrambled": "the strep will seast the sies thenk",
+    "function_scrambled": "will seast the sies the strep thenk",
+    "cue_deleted": "the seast ke sies the strep thenk",
+    "content_words": [
+      "professor",
+      "examine",
+      "theoretical",
+      "project"
+    ],
+    "nonce_words": [
+      "seast",
+      "sies",
+      "strep",
+      "thenk"
+    ],
+    "seeds": {
+      "full_scramble": 1064857884,
+      "content_scramble": 1064857885,
+      "function_scramble": 1064857886
+    }
+  },
+  {
+    "set_id": 11,
+    "cue_family": "modals",
+    "cue_word": "might",
+    "cue_position": 2,
+    "target_class": "VERB",
+    "sentence": "the author might present the basic artifacts",
+    "jabberwocky": "the cleyk might sceag the breyt neyx",
+    "full_scrambled": "the sceag might breyt neyx the cleyk",
+    "content_scrambled": "the neyx might breyt the sceag cleyk",
+    "function_scrambled": "might cleyk the sceag the breyt neyx",
+    "cue_deleted": "the cleyk ke sceag the breyt neyx",
+    "content_words": [
+      "author",
+      "present",
+      "basic",
+      "artifacts"
+    ],
+    "nonce_words": [
+      "cleyk",
+      "sceag",
+      "breyt",
+      "neyx"
+    ],
+    "seeds": {
+      "full_scramble": 2062952216,
+      "content_scramble": 2062952217,
+      "function_scramble": 2062952218
+    }
+  },
+  {
+    "set_id": 12,
+    "cue_family": "modals",
+    "cue_word": "should",
+    "cue_position": 2,
+    "target_class": "VERB",
+    "sentence": "the coach should study the comprehensive blueprint",
+    "jabberwocky": "the zoul should thost the dood troosp",
+    "full_scrambled": "troosp dood should the thost zoul the",
+    "content_scrambled": "the dood should troosp the zoul thost",
+    "function_scrambled": "should zoul the thost the dood troosp",
+    "cue_deleted": "the zoul ke thost the dood troosp",
+    "content_words": [
+      "coach",
+      "study",
+      "comprehensive",
+      "blueprint"
+    ],
+    "nonce_words": [
+      "zoul",
+      "thost",
+      "dood",
+      "troosp"
+    ],
+    "seeds": {
+      "full_scramble": 1866264761,
+      "content_scramble": 1866264762,
+      "function_scramble": 1866264763
+    }
+  },
+  {
+    "set_id": 13,
+    "cue_family": "modals",
+    "cue_word": "would",
+    "cue_position": 2,
+    "target_class": "VERB",
+    "sentence": "the scientist would discuss the challenging equipment",
+    "jabberwocky": "the spum would prast the whup smasp",
+    "full_scrambled": "would whup prast the smasp the spum",
+    "content_scrambled": "the whup would prast the smasp spum",
+    "function_scrambled": "would spum the prast the whup smasp",
+    "cue_deleted": "the spum ke prast the whup smasp",
+    "content_words": [
+      "scientist",
+      "discuss",
+      "challenging",
+      "equipment"
+    ],
+    "nonce_words": [
+      "spum",
+      "prast",
+      "whup",
+      "smasp"
+    ],
+    "seeds": {
+      "full_scramble": 1190956538,
+      "content_scramble": 1190956539,
+      "function_scramble": 1190956540
+    }
+  },
+  {
+    "set_id": 14,
+    "cue_family": "modals",
+    "cue_word": "may",
+    "cue_position": 2,
+    "target_class": "VERB",
+    "sentence": "the student may publish the intricate prototype",
+    "jabberwocky": "the greyst may dienk the nooth smask",
+    "full_scrambled": "the greyst dienk may nooth the smask",
+    "content_scrambled": "the dienk may nooth the greyst smask",
+    "function_scrambled": "the greyst the dienk may nooth smask",
+    "cue_deleted": "the greyst ke dienk the nooth smask",
+    "content_words": [
+      "student",
+      "publish",
+      "intricate",
+      "prototype"
+    ],
+    "nonce_words": [
+      "greyst",
+      "dienk",
+      "nooth",
+      "smask"
+    ],
+    "seeds": {
+      "full_scramble": 1338126035,
+      "content_scramble": 1338126036,
+      "function_scramble": 1338126037
+    }
+  },
+  {
+    "set_id": 15,
+    "cue_family": "modals",
+    "cue_word": "may",
+    "cue_position": 2,
+    "target_class": "VERB",
+    "sentence": "the surgeon may solve the preliminary assignment",
+    "jabberwocky": "the kall may bliz the len drir",
+    "full_scrambled": "may the drir kall bliz len the",
+    "content_scrambled": "the len may drir the kall bliz",
+    "function_scrambled": "the kall the bliz may len drir",
+    "cue_deleted": "the kall ke bliz the len drir",
+    "content_words": [
+      "surgeon",
+      "solve",
+      "preliminary",
+      "assignment"
+    ],
+    "nonce_words": [
+      "kall",
+      "bliz",
+      "len",
+      "drir"
+    ],
+    "seeds": {
+      "full_scramble": 2048304696,
+      "content_scramble": 2048304697,
+      "function_scramble": 2048304698
+    }
+  },
+  {
+    "set_id": 16,
+    "cue_family": "modals",
+    "cue_word": "will",
+    "cue_position": 2,
+    "target_class": "VERB",
+    "sentence": "the lawyer will inspect the advanced manuscript",
+    "jabberwocky": "the krail will flom the neep beyg",
+    "full_scrambled": "beyg will flom neep the krail the",
+    "content_scrambled": "the krail will flom the beyg neep",
+    "function_scrambled": "will krail the flom the neep beyg",
+    "cue_deleted": "the krail ke flom the neep beyg",
+    "content_words": [
+      "lawyer",
+      "inspect",
+      "advanced",
+      "manuscript"
+    ],
+    "nonce_words": [
+      "krail",
+      "flom",
+      "neep",
+      "beyg"
+    ],
+    "seeds": {
+      "full_scramble": 598201877,
+      "content_scramble": 598201878,
+      "function_scramble": 598201879
+    }
+  },
+  {
+    "set_id": 17,
+    "cue_family": "modals",
+    "cue_word": "can",
+    "cue_position": 2,
+    "target_class": "VERB",
+    "sentence": "the programmer can fix the fascinating findings",
+    "jabberwocky": "the geyn can loosk the pleell tear",
+    "full_scrambled": "tear loosk geyn the the can pleell",
+    "content_scrambled": "the geyn can pleell the tear loosk",
+    "function_scrambled": "the geyn the loosk can pleell tear",
+    "cue_deleted": "the geyn ke loosk the pleell tear",
+    "content_words": [
+      "programmer",
+      "fix",
+      "fascinating",
+      "findings"
+    ],
+    "nonce_words": [
+      "geyn",
+      "loosk",
+      "pleell",
+      "tear"
+    ],
+    "seeds": {
+      "full_scramble": 765300450,
+      "content_scramble": 765300451,
+      "function_scramble": 765300452
+    }
+  },
+  {
+    "set_id": 18,
+    "cue_family": "modals",
+    "cue_word": "would",
+    "cue_position": 2,
+    "target_class": "VERB",
+    "sentence": "the chef would process the efficient experiment",
+    "jabberwocky": "the buz would crot the nus swam",
+    "full_scrambled": "swam the would crot the buz nus",
+    "content_scrambled": "the nus would swam the buz crot",
+    "function_scrambled": "the buz the crot would nus swam",
+    "cue_deleted": "the buz ke crot the nus swam",
+    "content_words": [
+      "chef",
+      "process",
+      "efficient",
+      "experiment"
+    ],
+    "nonce_words": [
+      "buz",
+      "crot",
+      "nus",
+      "swam"
+    ],
+    "seeds": {
+      "full_scramble": 1570270458,
+      "content_scramble": 1570270459,
+      "function_scramble": 1570270460
+    }
+  },
+  {
+    "set_id": 19,
+    "cue_family": "modals",
+    "cue_word": "would",
+    "cue_position": 2,
+    "target_class": "VERB",
+    "sentence": "the artist would document the beautiful method",
+    "jabberwocky": "the dob would prees the praix cless",
+    "full_scrambled": "prees the the dob would cless praix",
+    "content_scrambled": "the praix would prees the dob cless",
+    "function_scrambled": "the dob the prees would praix cless",
+    "cue_deleted": "the dob ke prees the praix cless",
+    "content_words": [
+      "artist",
+      "document",
+      "beautiful",
+      "method"
+    ],
+    "nonce_words": [
+      "dob",
+      "prees",
+      "praix",
+      "cless"
+    ],
+    "seeds": {
+      "full_scramble": 2122755108,
+      "content_scramble": 2122755109,
+      "function_scramble": 2122755110
+    }
+  },
+  {
+    "set_id": 20,
+    "cue_family": "modals",
+    "cue_word": "would",
+    "cue_position": 2,
+    "target_class": "VERB",
+    "sentence": "the doctor would explain the important strategy",
+    "jabberwocky": "the krill would spox the zoung streak",
+    "full_scrambled": "would spox the krill the zoung streak",
+    "content_scrambled": "the streak would krill the zoung spox",
+    "function_scrambled": "the krill the spox would zoung streak",
+    "cue_deleted": "the krill ke spox the zoung streak",
+    "content_words": [
+      "doctor",
+      "explain",
+      "important",
+      "strategy"
+    ],
+    "nonce_words": [
+      "krill",
+      "spox",
+      "zoung",
+      "streak"
+    ],
+    "seeds": {
+      "full_scramble": 455765802,
+      "content_scramble": 455765803,
+      "function_scramble": 455765804
+    }
+  },
+  {
+    "set_id": 21,
+    "cue_family": "modals",
+    "cue_word": "must",
+    "cue_position": 2,
+    "target_class": "VERB",
+    "sentence": "the engineer must finish the valuable design",
+    "jabberwocky": "the gonk must kreeb the ziz sceyg",
+    "full_scrambled": "kreeb sceyg ziz must gonk the the",
+    "content_scrambled": "the ziz must gonk the sceyg kreeb",
+    "function_scrambled": "the gonk the kreeb must ziz sceyg",
+    "cue_deleted": "the gonk ke kreeb the ziz sceyg",
+    "content_words": [
+      "engineer",
+      "finish",
+      "valuable",
+      "design"
+    ],
+    "nonce_words": [
+      "gonk",
+      "kreeb",
+      "ziz",
+      "sceyg"
+    ],
+    "seeds": {
+      "full_scramble": 484863510,
+      "content_scramble": 484863511,
+      "function_scramble": 484863512
+    }
+  },
+  {
+    "set_id": 22,
+    "cue_family": "modals",
+    "cue_word": "must",
+    "cue_position": 2,
+    "target_class": "VERB",
+    "sentence": "the librarian must prepare the mysterious vehicle",
+    "jabberwocky": "the fiez must scip the crom frast",
+    "full_scrambled": "fiez scip frast must the the crom",
+    "content_scrambled": "the crom must fiez the frast scip",
+    "function_scrambled": "the fiez the scip must crom frast",
+    "cue_deleted": "the fiez ke scip the crom frast",
+    "content_words": [
+      "librarian",
+      "prepare",
+      "mysterious",
+      "vehicle"
+    ],
+    "nonce_words": [
+      "fiez",
+      "scip",
+      "crom",
+      "frast"
+    ],
+    "seeds": {
+      "full_scramble": 593265723,
+      "content_scramble": 593265724,
+      "function_scramble": 593265725
+    }
+  },
+  {
+    "set_id": 23,
+    "cue_family": "modals",
+    "cue_word": "might",
+    "cue_position": 2,
+    "target_class": "VERB",
+    "sentence": "the musician might repair the practical paintings",
+    "jabberwocky": "the gush might houg the blosk scess",
+    "full_scrambled": "might houg scess gush the the blosk",
+    "content_scrambled": "the gush might blosk the scess houg",
+    "function_scrambled": "the gush the houg might blosk scess",
+    "cue_deleted": "the gush ke houg the blosk scess",
+    "content_words": [
+      "musician",
+      "repair",
+      "practical",
+      "paintings"
+    ],
+    "nonce_words": [
+      "gush",
+      "houg",
+      "blosk",
+      "scess"
+    ],
+    "seeds": {
+      "full_scramble": 1463362874,
+      "content_scramble": 1463362875,
+      "function_scramble": 1463362876
+    }
+  },
+  {
+    "set_id": 24,
+    "cue_family": "modals",
+    "cue_word": "can",
+    "cue_position": 2,
+    "target_class": "VERB",
+    "sentence": "the director can test the ancient software",
+    "jabberwocky": "the vees can stap the jaib quul",
+    "full_scrambled": "the jaib vees the stap quul can",
+    "content_scrambled": "the vees can stap the quul jaib",
+    "function_scrambled": "can vees the stap the jaib quul",
+    "cue_deleted": "the vees ke stap the jaib quul",
+    "content_words": [
+      "director",
+      "test",
+      "ancient",
+      "software"
+    ],
+    "nonce_words": [
+      "vees",
+      "stap",
+      "jaib",
+      "quul"
+    ],
+    "seeds": {
+      "full_scramble": 967898627,
+      "content_scramble": 967898628,
+      "function_scramble": 967898629
+    }
+  },
+  {
+    "set_id": 25,
+    "cue_family": "modals",
+    "cue_word": "would",
+    "cue_position": 2,
+    "target_class": "VERB",
+    "sentence": "the gardener would build the complex recipe",
+    "jabberwocky": "the strienk would goul the friep thep",
+    "full_scrambled": "friep strienk thep would the goul the",
+    "content_scrambled": "the friep would thep the goul strienk",
+    "function_scrambled": "the strienk the goul would friep thep",
+    "cue_deleted": "the strienk ke goul the friep thep",
+    "content_words": [
+      "gardener",
+      "build",
+      "complex",
+      "recipe"
+    ],
+    "nonce_words": [
+      "strienk",
+      "goul",
+      "friep",
+      "thep"
+    ],
+    "seeds": {
+      "full_scramble": 1690146287,
+      "content_scramble": 1690146288,
+      "function_scramble": 1690146289
+    }
+  },
+  {
+    "set_id": 26,
+    "cue_family": "modals",
+    "cue_word": "could",
+    "cue_position": 2,
+    "target_class": "VERB",
+    "sentence": "the captain could demonstrate the critical engine",
+    "jabberwocky": "the keyl could neex the klaix speenk",
+    "full_scrambled": "neex keyl could the speenk the klaix",
+    "content_scrambled": "the keyl could klaix the neex speenk",
+    "function_scrambled": "could keyl the neex the klaix speenk",
+    "cue_deleted": "the keyl ke neex the klaix speenk",
+    "content_words": [
+      "captain",
+      "demonstrate",
+      "critical",
+      "engine"
+    ],
+    "nonce_words": [
+      "keyl",
+      "neex",
+      "klaix",
+      "speenk"
+    ],
+    "seeds": {
+      "full_scramble": 733877461,
+      "content_scramble": 733877462,
+      "function_scramble": 733877463
+    }
+  },
+  {
+    "set_id": 27,
+    "cue_family": "modals",
+    "cue_word": "may",
+    "cue_position": 2,
+    "target_class": "VERB",
+    "sentence": "the architect may improve the unusual discovery",
+    "jabberwocky": "the yaith may pooll the groor pep",
+    "full_scrambled": "may pep the yaith the pooll groor",
+    "content_scrambled": "the groor may yaith the pep pooll",
+    "function_scrambled": "the yaith the pooll may groor pep",
+    "cue_deleted": "the yaith ke pooll the groor pep",
+    "content_words": [
+      "architect",
+      "improve",
+      "unusual",
+      "discovery"
+    ],
+    "nonce_words": [
+      "yaith",
+      "pooll",
+      "groor",
+      "pep"
+    ],
+    "seeds": {
+      "full_scramble": 1667632990,
+      "content_scramble": 1667632991,
+      "function_scramble": 1667632992
+    }
+  },
+  {
+    "set_id": 28,
+    "cue_family": "modals",
+    "cue_word": "will",
+    "cue_position": 2,
+    "target_class": "VERB",
+    "sentence": "the electrician will organize the difficult concept",
+    "jabberwocky": "the rul will blair the trip par",
+    "full_scrambled": "rul par blair the the trip will",
+    "content_scrambled": "the blair will rul the par trip",
+    "function_scrambled": "the rul the blair will trip par",
+    "cue_deleted": "the rul ke blair the trip par",
+    "content_words": [
+      "electrician",
+      "organize",
+      "difficult",
+      "concept"
+    ],
+    "nonce_words": [
+      "rul",
+      "blair",
+      "trip",
+      "par"
+    ],
+    "seeds": {
+      "full_scramble": 558794542,
+      "content_scramble": 558794543,
+      "function_scramble": 558794544
+    }
+  },
+  {
+    "set_id": 29,
+    "cue_family": "modals",
+    "cue_word": "will",
+    "cue_position": 2,
+    "target_class": "VERB",
+    "sentence": "the mechanic will investigate the significant technique",
+    "jabberwocky": "the cleax will meest the spoog dreap",
+    "full_scrambled": "meest will the spoog dreap the cleax",
+    "content_scrambled": "the cleax will spoog the meest dreap",
+    "function_scrambled": "will cleax the meest the spoog dreap",
+    "cue_deleted": "the cleax ke meest the spoog dreap",
+    "content_words": [
+      "mechanic",
+      "investigate",
+      "significant",
+      "technique"
+    ],
+    "nonce_words": [
+      "cleax",
+      "meest",
+      "spoog",
+      "dreap"
+    ],
+    "seeds": {
+      "full_scramble": 298869779,
+      "content_scramble": 298869780,
+      "function_scramble": 298869781
+    }
+  },
+  {
+    "set_id": 30,
+    "cue_family": "modals",
+    "cue_word": "would",
+    "cue_position": 2,
+    "target_class": "VERB",
+    "sentence": "the baker would design the elaborate novel",
+    "jabberwocky": "the joug would whaick the treaf ceyst",
+    "full_scrambled": "the ceyst would the joug whaick treaf",
+    "content_scrambled": "the ceyst would treaf the whaick joug",
+    "function_scrambled": "would joug the whaick the treaf ceyst",
+    "cue_deleted": "the joug ke whaick the treaf ceyst",
+    "content_words": [
+      "baker",
+      "design",
+      "elaborate",
+      "novel"
+    ],
+    "nonce_words": [
+      "joug",
+      "whaick",
+      "treaf",
+      "ceyst"
+    ],
+    "seeds": {
+      "full_scramble": 2146247999,
+      "content_scramble": 2146248000,
+      "function_scramble": 2146248001
+    }
+  },
+  {
+    "set_id": 1,
+    "cue_family": "determiners",
+    "cue_word": "a",
+    "cue_position": 5,
+    "target_class": "NOUN_OR_ADJ",
+    "sentence": "the doctor needed and saw a advanced recipe",
+    "jabberwocky": "the neell smux and saw a preab crix",
+    "full_scrambled": "crix smux preab neell a and saw the",
+    "content_scrambled": "the smux crix and saw a neell preab",
+    "function_scrambled": "and neell smux the a saw preab crix",
+    "cue_deleted": "the neell smux and saw ke preab crix",
+    "content_words": [
+      "doctor",
+      "needed",
+      "advanced",
+      "recipe"
+    ],
+    "nonce_words": [
+      "neell",
+      "smux",
+      "preab",
+      "crix"
+    ],
+    "seeds": {
+      "full_scramble": 1411145194,
+      "content_scramble": 1411145195,
+      "function_scramble": 1411145196
+    }
+  },
+  {
+    "set_id": 2,
+    "cue_family": "determiners",
+    "cue_word": "a",
+    "cue_position": 5,
+    "target_class": "NOUN_OR_ADJ",
+    "sentence": "the engineer prepared and saw a efficient strategy",
+    "jabberwocky": "the thous kaiz and saw a sceex geyg",
+    "full_scrambled": "kaiz a geyg thous and sceex saw the",
+    "content_scrambled": "the kaiz thous and saw a sceex geyg",
+    "function_scrambled": "the thous kaiz a and saw sceex geyg",
+    "cue_deleted": "the thous kaiz and saw ke sceex geyg",
+    "content_words": [
+      "engineer",
+      "prepared",
+      "efficient",
+      "strategy"
+    ],
+    "nonce_words": [
+      "thous",
+      "kaiz",
+      "sceex",
+      "geyg"
+    ],
+    "seeds": {
+      "full_scramble": 306167595,
+      "content_scramble": 306167596,
+      "function_scramble": 306167597
+    }
+  },
+  {
+    "set_id": 3,
+    "cue_family": "determiners",
+    "cue_word": "a",
+    "cue_position": 5,
+    "target_class": "NOUN_OR_ADJ",
+    "sentence": "the mechanic meant and saw a intricate vehicle",
+    "jabberwocky": "the freyz kap and saw a pream quesh",
+    "full_scrambled": "saw a the pream freyz kap and quesh",
+    "content_scrambled": "the freyz quesh and saw a kap pream",
+    "function_scrambled": "and freyz kap the saw a pream quesh",
+    "cue_deleted": "the freyz kap and saw ke pream quesh",
+    "content_words": [
+      "mechanic",
+      "meant",
+      "intricate",
+      "vehicle"
+    ],
+    "nonce_words": [
+      "freyz",
+      "kap",
+      "pream",
+      "quesh"
+    ],
+    "seeds": {
+      "full_scramble": 172552122,
+      "content_scramble": 172552123,
+      "function_scramble": 172552124
+    }
+  },
+  {
+    "set_id": 4,
+    "cue_family": "determiners",
+    "cue_word": "a",
+    "cue_position": 5,
+    "target_class": "NOUN_OR_ADJ",
+    "sentence": "the gardener wanted and saw a comprehensive project",
+    "jabberwocky": "the thess stieck and saw a moock streest",
+    "full_scrambled": "saw moock and thess stieck the streest a",
+    "content_scrambled": "the streest moock and saw a thess stieck",
+    "function_scrambled": "a thess stieck the saw and moock streest",
+    "cue_deleted": "the thess stieck and saw ke moock streest",
+    "content_words": [
+      "gardener",
+      "wanted",
+      "comprehensive",
+      "project"
+    ],
+    "nonce_words": [
+      "thess",
+      "stieck",
+      "moock",
+      "streest"
+    ],
+    "seeds": {
+      "full_scramble": 1613588236,
+      "content_scramble": 1613588237,
+      "function_scramble": 1613588238
+    }
+  },
+  {
+    "set_id": 5,
+    "cue_family": "determiners",
+    "cue_word": "a",
+    "cue_position": 5,
+    "target_class": "NOUN_OR_ADJ",
+    "sentence": "the artist began and saw a delicious specimens",
+    "jabberwocky": "the scounk jull and saw a rasp snaist",
+    "full_scrambled": "jull the scounk saw and a rasp snaist",
+    "content_scrambled": "the snaist rasp and saw a scounk jull",
+    "function_scrambled": "the scounk jull a saw and rasp snaist",
+    "cue_deleted": "the scounk jull and saw ke rasp snaist",
+    "content_words": [
+      "artist",
+      "began",
+      "delicious",
+      "specimens"
+    ],
+    "nonce_words": [
+      "scounk",
+      "jull",
+      "rasp",
+      "snaist"
+    ],
+    "seeds": {
+      "full_scramble": 1963736987,
+      "content_scramble": 1963736988,
+      "function_scramble": 1963736989
+    }
+  },
+  {
+    "set_id": 6,
+    "cue_family": "determiners",
+    "cue_word": "a",
+    "cue_position": 5,
+    "target_class": "NOUN_OR_ADJ",
+    "sentence": "the director liked and saw a preliminary blueprint",
+    "jabberwocky": "the dreen bried and saw a treesh swast",
+    "full_scrambled": "treesh bried and a swast the saw dreen",
+    "content_scrambled": "the treesh dreen and saw a swast bried",
+    "function_scrambled": "the dreen bried a saw and treesh swast",
+    "cue_deleted": "the dreen bried and saw ke treesh swast",
+    "content_words": [
+      "director",
+      "liked",
+      "preliminary",
+      "blueprint"
+    ],
+    "nonce_words": [
+      "dreen",
+      "bried",
+      "treesh",
+      "swast"
+    ],
+    "seeds": {
+      "full_scramble": 1686069962,
+      "content_scramble": 1686069963,
+      "function_scramble": 1686069964
+    }
+  },
+  {
+    "set_id": 7,
+    "cue_family": "determiners",
+    "cue_word": "a",
+    "cue_position": 5,
+    "target_class": "NOUN_OR_ADJ",
+    "sentence": "the lawyer struggled and saw a rare engine",
+    "jabberwocky": "the whuf meyk and saw a blob lil",
+    "full_scrambled": "the whuf lil saw and meyk blob a",
+    "content_scrambled": "the lil blob and saw a whuf meyk",
+    "function_scrambled": "a whuf meyk saw and the blob lil",
+    "cue_deleted": "the whuf meyk and saw ke blob lil",
+    "content_words": [
+      "lawyer",
+      "struggled",
+      "rare",
+      "engine"
+    ],
+    "nonce_words": [
+      "whuf",
+      "meyk",
+      "blob",
+      "lil"
+    ],
+    "seeds": {
+      "full_scramble": 220348695,
+      "content_scramble": 220348696,
+      "function_scramble": 220348697
+    }
+  },
+  {
+    "set_id": 8,
+    "cue_family": "determiners",
+    "cue_word": "a",
+    "cue_position": 5,
+    "target_class": "NOUN_OR_ADJ",
+    "sentence": "the coach started and saw a unusual symphony",
+    "jabberwocky": "the sog misk and saw a nup loull",
+    "full_scrambled": "loull a and the saw misk nup sog",
+    "content_scrambled": "the misk nup and saw a sog loull",
+    "function_scrambled": "a sog misk the and saw nup loull",
+    "cue_deleted": "the sog misk and saw ke nup loull",
+    "content_words": [
+      "coach",
+      "started",
+      "unusual",
+      "symphony"
+    ],
+    "nonce_words": [
+      "sog",
+      "misk",
+      "nup",
+      "loull"
+    ],
+    "seeds": {
+      "full_scramble": 65224962,
+      "content_scramble": 65224963,
+      "function_scramble": 65224964
+    }
+  },
+  {
+    "set_id": 9,
+    "cue_family": "determiners",
+    "cue_word": "a",
+    "cue_position": 5,
+    "target_class": "NOUN_OR_ADJ",
+    "sentence": "the carpenter intended and saw a practical design",
+    "jabberwocky": "the mep blill and saw a treesp kousk",
+    "full_scrambled": "blill the kousk a mep saw and treesp",
+    "content_scrambled": "the treesp kousk and saw a blill mep",
+    "function_scrambled": "and mep blill a saw the treesp kousk",
+    "cue_deleted": "the mep blill and saw ke treesp kousk",
+    "content_words": [
+      "carpenter",
+      "intended",
+      "practical",
+      "design"
+    ],
+    "nonce_words": [
+      "mep",
+      "blill",
+      "treesp",
+      "kousk"
+    ],
+    "seeds": {
+      "full_scramble": 825766826,
+      "content_scramble": 825766827,
+      "function_scramble": 825766828
+    }
+  },
+  {
+    "set_id": 10,
+    "cue_family": "determiners",
+    "cue_word": "a",
+    "cue_position": 5,
+    "target_class": "NOUN_OR_ADJ",
+    "sentence": "the programmer decided and saw a fundamental method",
+    "jabberwocky": "the fleeck wher and saw a sli closs",
+    "full_scrambled": "fleeck a closs the and saw wher sli",
+    "content_scrambled": "the closs sli and saw a fleeck wher",
+    "function_scrambled": "and fleeck wher a the saw sli closs",
+    "cue_deleted": "the fleeck wher and saw ke sli closs",
+    "content_words": [
+      "programmer",
+      "decided",
+      "fundamental",
+      "method"
+    ],
+    "nonce_words": [
+      "fleeck",
+      "wher",
+      "sli",
+      "closs"
+    ],
+    "seeds": {
+      "full_scramble": 145936810,
+      "content_scramble": 145936811,
+      "function_scramble": 145936812
+    }
+  },
+  {
+    "set_id": 11,
+    "cue_family": "determiners",
+    "cue_word": "a",
+    "cue_position": 5,
+    "target_class": "NOUN_OR_ADJ",
+    "sentence": "the pilot promised and saw a modern novel",
+    "jabberwocky": "the spaist gloll and saw a skiesp frist",
+    "full_scrambled": "saw gloll spaist a and skiesp frist the",
+    "content_scrambled": "the spaist frist and saw a gloll skiesp",
+    "function_scrambled": "saw spaist gloll a and the skiesp frist",
+    "cue_deleted": "the spaist gloll and saw ke skiesp frist",
+    "content_words": [
+      "pilot",
+      "promised",
+      "modern",
+      "novel"
+    ],
+    "nonce_words": [
+      "spaist",
+      "gloll",
+      "skiesp",
+      "frist"
+    ],
+    "seeds": {
+      "full_scramble": 988028355,
+      "content_scramble": 988028356,
+      "function_scramble": 988028357
+    }
+  },
+  {
+    "set_id": 12,
+    "cue_family": "determiners",
+    "cue_word": "a",
+    "cue_position": 5,
+    "target_class": "NOUN_OR_ADJ",
+    "sentence": "the farmer planned and saw a ancient technique",
+    "jabberwocky": "the breysh swik and saw a grour breg",
+    "full_scrambled": "the swik and a grour breg saw breysh",
+    "content_scrambled": "the grour breg and saw a breysh swik",
+    "function_scrambled": "and breysh swik a the saw grour breg",
+    "cue_deleted": "the breysh swik and saw ke grour breg",
+    "content_words": [
+      "farmer",
+      "planned",
+      "ancient",
+      "technique"
+    ],
+    "nonce_words": [
+      "breysh",
+      "swik",
+      "grour",
+      "breg"
+    ],
+    "seeds": {
+      "full_scramble": 592657766,
+      "content_scramble": 592657767,
+      "function_scramble": 592657768
+    }
+  },
+  {
+    "set_id": 13,
+    "cue_family": "determiners",
+    "cue_word": "a",
+    "cue_position": 5,
+    "target_class": "NOUN_OR_ADJ",
+    "sentence": "the captain preferred and saw a significant experiment",
+    "jabberwocky": "the glouss thiek and saw a treat graith",
+    "full_scrambled": "the treat a and glouss graith saw thiek",
+    "content_scrambled": "the graith treat and saw a glouss thiek",
+    "function_scrambled": "a glouss thiek the saw and treat graith",
+    "cue_deleted": "the glouss thiek and saw ke treat graith",
+    "content_words": [
+      "captain",
+      "preferred",
+      "significant",
+      "experiment"
+    ],
+    "nonce_words": [
+      "glouss",
+      "thiek",
+      "treat",
+      "graith"
+    ],
+    "seeds": {
+      "full_scramble": 772547311,
+      "content_scramble": 772547312,
+      "function_scramble": 772547313
+    }
+  },
+  {
+    "set_id": 14,
+    "cue_family": "determiners",
+    "cue_word": "a",
+    "cue_position": 5,
+    "target_class": "NOUN_OR_ADJ",
+    "sentence": "the professor continued and saw a remarkable landscape",
+    "jabberwocky": "the weyx doos and saw a vax coug",
+    "full_scrambled": "the saw coug vax a and weyx doos",
+    "content_scrambled": "the coug weyx and saw a vax doos",
+    "function_scrambled": "a weyx doos and saw the vax coug",
+    "cue_deleted": "the weyx doos and saw ke vax coug",
+    "content_words": [
+      "professor",
+      "continued",
+      "remarkable",
+      "landscape"
+    ],
+    "nonce_words": [
+      "weyx",
+      "doos",
+      "vax",
+      "coug"
+    ],
+    "seeds": {
+      "full_scramble": 2133465120,
+      "content_scramble": 2133465121,
+      "function_scramble": 2133465122
+    }
+  },
+  {
+    "set_id": 15,
+    "cue_family": "determiners",
+    "cue_word": "a",
+    "cue_position": 5,
+    "target_class": "NOUN_OR_ADJ",
+    "sentence": "the chef offered and saw a important software",
+    "jabberwocky": "the breesh lod and saw a miess geak",
+    "full_scrambled": "saw miess breesh a geak and the lod",
+    "content_scrambled": "the geak lod and saw a miess breesh",
+    "function_scrambled": "a breesh lod saw and the miess geak",
+    "cue_deleted": "the breesh lod and saw ke miess geak",
+    "content_words": [
+      "chef",
+      "offered",
+      "important",
+      "software"
+    ],
+    "nonce_words": [
+      "breesh",
+      "lod",
+      "miess",
+      "geak"
+    ],
+    "seeds": {
+      "full_scramble": 586702385,
+      "content_scramble": 586702386,
+      "function_scramble": 586702387
+    }
+  },
+  {
+    "set_id": 16,
+    "cue_family": "determiners",
+    "cue_word": "a",
+    "cue_position": 5,
+    "target_class": "NOUN_OR_ADJ",
+    "sentence": "the scientist forgot and saw a mysterious instrument",
+    "jabberwocky": "the lisp snour and saw a zeyp jeask",
+    "full_scrambled": "saw the jeask lisp snour and a zeyp",
+    "content_scrambled": "the jeask snour and saw a zeyp lisp",
+    "function_scrambled": "the lisp snour a saw and zeyp jeask",
+    "cue_deleted": "the lisp snour and saw ke zeyp jeask",
+    "content_words": [
+      "scientist",
+      "forgot",
+      "mysterious",
+      "instrument"
+    ],
+    "nonce_words": [
+      "lisp",
+      "snour",
+      "zeyp",
+      "jeask"
+    ],
+    "seeds": {
+      "full_scramble": 1446795770,
+      "content_scramble": 1446795771,
+      "function_scramble": 1446795772
+    }
+  },
+  {
+    "set_id": 17,
+    "cue_family": "determiners",
+    "cue_word": "a",
+    "cue_position": 5,
+    "target_class": "NOUN_OR_ADJ",
+    "sentence": "the author attempted and saw a difficult patient",
+    "jabberwocky": "the flour zess and saw a quoll wheez",
+    "full_scrambled": "quoll zess wheez and a flour saw the",
+    "content_scrambled": "the quoll wheez and saw a flour zess",
+    "function_scrambled": "saw flour zess the and a quoll wheez",
+    "cue_deleted": "the flour zess and saw ke quoll wheez",
+    "content_words": [
+      "author",
+      "attempted",
+      "difficult",
+      "patient"
+    ],
+    "nonce_words": [
+      "flour",
+      "zess",
+      "quoll",
+      "wheez"
+    ],
+    "seeds": {
+      "full_scramble": 1174830222,
+      "content_scramble": 1174830223,
+      "function_scramble": 1174830224
+    }
+  },
+  {
+    "set_id": 18,
+    "cue_family": "determiners",
+    "cue_word": "a",
+    "cue_position": 5,
+    "target_class": "NOUN_OR_ADJ",
+    "sentence": "the journalist hoped and saw a complex documents",
+    "jabberwocky": "the cleell tush and saw a maif waik",
+    "full_scrambled": "waik a the and tush cleell maif saw",
+    "content_scrambled": "the cleell maif and saw a waik tush",
+    "function_scrambled": "saw cleell tush a the and maif waik",
+    "cue_deleted": "the cleell tush and saw ke maif waik",
+    "content_words": [
+      "journalist",
+      "hoped",
+      "complex",
+      "documents"
+    ],
+    "nonce_words": [
+      "cleell",
+      "tush",
+      "maif",
+      "waik"
+    ],
+    "seeds": {
+      "full_scramble": 1424989398,
+      "content_scramble": 1424989399,
+      "function_scramble": 1424989400
+    }
+  },
+  {
+    "set_id": 19,
+    "cue_family": "determiners",
+    "cue_word": "a",
+    "cue_position": 5,
+    "target_class": "NOUN_OR_ADJ",
+    "sentence": "the teacher refused and saw a beautiful paintings",
+    "jabberwocky": "the lem pig and saw a meyck scick",
+    "full_scrambled": "a the pig saw scick meyck lem and",
+    "content_scrambled": "the meyck pig and saw a lem scick",
+    "function_scrambled": "and lem pig a the saw meyck scick",
+    "cue_deleted": "the lem pig and saw ke meyck scick",
+    "content_words": [
+      "teacher",
+      "refused",
+      "beautiful",
+      "paintings"
+    ],
+    "nonce_words": [
+      "lem",
+      "pig",
+      "meyck",
+      "scick"
+    ],
+    "seeds": {
+      "full_scramble": 1089753838,
+      "content_scramble": 1089753839,
+      "function_scramble": 1089753840
+    }
+  },
+  {
+    "set_id": 20,
+    "cue_family": "determiners",
+    "cue_word": "a",
+    "cue_position": 5,
+    "target_class": "NOUN_OR_ADJ",
+    "sentence": "the researcher demanded and saw a theoretical artifacts",
+    "jabberwocky": "the frask stek and saw a meab trig",
+    "full_scrambled": "the stek trig meab a frask saw and",
+    "content_scrambled": "the meab frask and saw a stek trig",
+    "function_scrambled": "the frask stek saw and a meab trig",
+    "cue_deleted": "the frask stek and saw ke meab trig",
+    "content_words": [
+      "researcher",
+      "demanded",
+      "theoretical",
+      "artifacts"
+    ],
+    "nonce_words": [
+      "frask",
+      "stek",
+      "meab",
+      "trig"
+    ],
+    "seeds": {
+      "full_scramble": 630799201,
+      "content_scramble": 630799202,
+      "function_scramble": 630799203
+    }
+  },
+  {
+    "set_id": 21,
+    "cue_family": "determiners",
+    "cue_word": "a",
+    "cue_position": 5,
+    "target_class": "NOUN_OR_ADJ",
+    "sentence": "the electrician loved and saw a innovative manuscript",
+    "jabberwocky": "the lieg fop and saw a meys vak",
+    "full_scrambled": "meys the saw a vak lieg fop and",
+    "content_scrambled": "the meys fop and saw a vak lieg",
+    "function_scrambled": "the lieg fop and a saw meys vak",
+    "cue_deleted": "the lieg fop and saw ke meys vak",
+    "content_words": [
+      "electrician",
+      "loved",
+      "innovative",
+      "manuscript"
+    ],
+    "nonce_words": [
+      "lieg",
+      "fop",
+      "meys",
+      "vak"
+    ],
+    "seeds": {
+      "full_scramble": 2071984827,
+      "content_scramble": 2071984828,
+      "function_scramble": 2071984829
+    }
+  },
+  {
+    "set_id": 22,
+    "cue_family": "determiners",
+    "cue_word": "a",
+    "cue_position": 5,
+    "target_class": "NOUN_OR_ADJ",
+    "sentence": "the baker agreed and saw a experimental data",
+    "jabberwocky": "the jain vaf and saw a rat ceb",
+    "full_scrambled": "jain the a rat vaf and ceb saw",
+    "content_scrambled": "the ceb rat and saw a jain vaf",
+    "function_scrambled": "and jain vaf a saw the rat ceb",
+    "cue_deleted": "the jain vaf and saw ke rat ceb",
+    "content_words": [
+      "baker",
+      "agreed",
+      "experimental",
+      "data"
+    ],
+    "nonce_words": [
+      "jain",
+      "vaf",
+      "rat",
+      "ceb"
+    ],
+    "seeds": {
+      "full_scramble": 1696034546,
+      "content_scramble": 1696034547,
+      "function_scramble": 1696034548
+    }
+  },
+  {
+    "set_id": 23,
+    "cue_family": "determiners",
+    "cue_word": "a",
+    "cue_position": 5,
+    "target_class": "NOUN_OR_ADJ",
+    "sentence": "the student requested and saw a challenging solution",
+    "jabberwocky": "the whoub noll and saw a wheeng praist",
+    "full_scrambled": "whoub wheeng the a praist and noll saw",
+    "content_scrambled": "the wheeng praist and saw a whoub noll",
+    "function_scrambled": "saw whoub noll a the and wheeng praist",
+    "cue_deleted": "the whoub noll and saw ke wheeng praist",
+    "content_words": [
+      "student",
+      "requested",
+      "challenging",
+      "solution"
+    ],
+    "nonce_words": [
+      "whoub",
+      "noll",
+      "wheeng",
+      "praist"
+    ],
+    "seeds": {
+      "full_scramble": 537066079,
+      "content_scramble": 537066080,
+      "function_scramble": 537066081
+    }
+  },
+  {
+    "set_id": 24,
+    "cue_family": "determiners",
+    "cue_word": "a",
+    "cue_position": 5,
+    "target_class": "NOUN_OR_ADJ",
+    "sentence": "the musician remembered and saw a critical discovery",
+    "jabberwocky": "the neess glouf and saw a flieth creeg",
+    "full_scrambled": "the and a neess saw flieth glouf creeg",
+    "content_scrambled": "the creeg flieth and saw a neess glouf",
+    "function_scrambled": "and neess glouf the saw a flieth creeg",
+    "cue_deleted": "the neess glouf and saw ke flieth creeg",
+    "content_words": [
+      "musician",
+      "remembered",
+      "critical",
+      "discovery"
+    ],
+    "nonce_words": [
+      "neess",
+      "glouf",
+      "flieth",
+      "creeg"
+    ],
+    "seeds": {
+      "full_scramble": 977443326,
+      "content_scramble": 977443327,
+      "function_scramble": 977443328
+    }
+  },
+  {
+    "set_id": 25,
+    "cue_family": "determiners",
+    "cue_word": "a",
+    "cue_position": 5,
+    "target_class": "NOUN_OR_ADJ",
+    "sentence": "the detective chose and saw a basic equipment",
+    "jabberwocky": "the drook dril and saw a flass bren",
+    "full_scrambled": "dril and flass a the bren saw drook",
+    "content_scrambled": "the bren dril and saw a drook flass",
+    "function_scrambled": "saw drook dril and a the flass bren",
+    "cue_deleted": "the drook dril and saw ke flass bren",
+    "content_words": [
+      "detective",
+      "chose",
+      "basic",
+      "equipment"
+    ],
+    "nonce_words": [
+      "drook",
+      "dril",
+      "flass",
+      "bren"
+    ],
+    "seeds": {
+      "full_scramble": 1857146922,
+      "content_scramble": 1857146923,
+      "function_scramble": 1857146924
+    }
+  },
+  {
+    "set_id": 26,
+    "cue_family": "determiners",
+    "cue_word": "a",
+    "cue_position": 5,
+    "target_class": "NOUN_OR_ADJ",
+    "sentence": "the librarian expected and saw a valuable findings",
+    "jabberwocky": "the snim gud and saw a diet flaif",
+    "full_scrambled": "diet the a and flaif saw gud snim",
+    "content_scrambled": "the diet gud and saw a snim flaif",
+    "function_scrambled": "the snim gud a saw and diet flaif",
+    "cue_deleted": "the snim gud and saw ke diet flaif",
+    "content_words": [
+      "librarian",
+      "expected",
+      "valuable",
+      "findings"
+    ],
+    "nonce_words": [
+      "snim",
+      "gud",
+      "diet",
+      "flaif"
+    ],
+    "seeds": {
+      "full_scramble": 682613383,
+      "content_scramble": 682613384,
+      "function_scramble": 682613385
+    }
+  },
+  {
+    "set_id": 27,
+    "cue_family": "determiners",
+    "cue_word": "a",
+    "cue_position": 5,
+    "target_class": "NOUN_OR_ADJ",
+    "sentence": "the photographer wished and saw a broken concept",
+    "jabberwocky": "the cud cas and saw a hosk tram",
+    "full_scrambled": "cas a hosk cud tram the and saw",
+    "content_scrambled": "the cas tram and saw a cud hosk",
+    "function_scrambled": "and cud cas the saw a hosk tram",
+    "cue_deleted": "the cud cas and saw ke hosk tram",
+    "content_words": [
+      "photographer",
+      "wished",
+      "broken",
+      "concept"
+    ],
+    "nonce_words": [
+      "cud",
+      "cas",
+      "hosk",
+      "tram"
+    ],
+    "seeds": {
+      "full_scramble": 1650022876,
+      "content_scramble": 1650022877,
+      "function_scramble": 1650022878
+    }
+  },
+  {
+    "set_id": 28,
+    "cue_family": "determiners",
+    "cue_word": "a",
+    "cue_position": 5,
+    "target_class": "NOUN_OR_ADJ",
+    "sentence": "the architect tried and saw a elaborate formula",
+    "jabberwocky": "the sneel glaim and saw a koull sleynk",
+    "full_scrambled": "saw koull and sneel a glaim sleynk the",
+    "content_scrambled": "the sneel koull and saw a sleynk glaim",
+    "function_scrambled": "and sneel glaim saw the a koull sleynk",
+    "cue_deleted": "the sneel glaim and saw ke koull sleynk",
+    "content_words": [
+      "architect",
+      "tried",
+      "elaborate",
+      "formula"
+    ],
+    "nonce_words": [
+      "sneel",
+      "glaim",
+      "koull",
+      "sleynk"
+    ],
+    "seeds": {
+      "full_scramble": 182820847,
+      "content_scramble": 182820848,
+      "function_scramble": 182820849
+    }
+  },
+  {
+    "set_id": 29,
+    "cue_family": "determiners",
+    "cue_word": "a",
+    "cue_position": 5,
+    "target_class": "NOUN_OR_ADJ",
+    "sentence": "the surgeon learned and saw a fascinating prototype",
+    "jabberwocky": "the speyss zar and saw a lul yeyr",
+    "full_scrambled": "lul a zar speyss saw and the yeyr",
+    "content_scrambled": "the speyss yeyr and saw a zar lul",
+    "function_scrambled": "and speyss zar saw the a lul yeyr",
+    "cue_deleted": "the speyss zar and saw ke lul yeyr",
+    "content_words": [
+      "surgeon",
+      "learned",
+      "fascinating",
+      "prototype"
+    ],
+    "nonce_words": [
+      "speyss",
+      "zar",
+      "lul",
+      "yeyr"
+    ],
+    "seeds": {
+      "full_scramble": 580763955,
+      "content_scramble": 580763956,
+      "function_scramble": 580763957
+    }
+  },
+  {
+    "set_id": 30,
+    "cue_family": "determiners",
+    "cue_word": "a",
+    "cue_position": 5,
+    "target_class": "NOUN_OR_ADJ",
+    "sentence": "the plumber managed and saw a historical assignment",
+    "jabberwocky": "the crem stiez and saw a neep slosp",
+    "full_scrambled": "crem and a saw slosp the stiez neep",
+    "content_scrambled": "the slosp stiez and saw a crem neep",
+    "function_scrambled": "the crem stiez saw and a neep slosp",
+    "cue_deleted": "the crem stiez and saw ke neep slosp",
+    "content_words": [
+      "plumber",
+      "managed",
+      "historical",
+      "assignment"
+    ],
+    "nonce_words": [
+      "crem",
+      "stiez",
+      "neep",
+      "slosp"
+    ],
+    "seeds": {
+      "full_scramble": 831038978,
+      "content_scramble": 831038979,
+      "function_scramble": 831038980
+    }
+  },
+  {
+    "set_id": 1,
+    "cue_family": "prepositions",
+    "cue_word": "at",
+    "cue_position": 3,
+    "target_class": "NP_START",
+    "sentence": "the mechanic learned at the important project",
+    "jabberwocky": "the mouk stick at the smi kreesp",
+    "full_scrambled": "smi at stick the kreesp mouk the",
+    "content_scrambled": "the smi mouk at the kreesp stick",
+    "function_scrambled": "the mouk stick the at smi kreesp",
+    "cue_deleted": "the mouk stick ke the smi kreesp",
+    "content_words": [
+      "mechanic",
+      "learned",
+      "important",
+      "project"
+    ],
+    "nonce_words": [
+      "mouk",
+      "stick",
+      "smi",
+      "kreesp"
+    ],
+    "seeds": {
+      "full_scramble": 1582034245,
+      "content_scramble": 1582034246,
+      "function_scramble": 1582034247
+    }
+  },
+  {
+    "set_id": 2,
+    "cue_family": "prepositions",
+    "cue_word": "in",
+    "cue_position": 3,
+    "target_class": "NP_START",
+    "sentence": "the architect agreed in the fundamental paintings",
+    "jabberwocky": "the boos smoor in the yok skail",
+    "full_scrambled": "smoor in the the yok boos skail",
+    "content_scrambled": "the skail smoor in the yok boos",
+    "function_scrambled": "in boos smoor the the yok skail",
+    "cue_deleted": "the boos smoor ke the yok skail",
+    "content_words": [
+      "architect",
+      "agreed",
+      "fundamental",
+      "paintings"
+    ],
+    "nonce_words": [
+      "boos",
+      "smoor",
+      "yok",
+      "skail"
+    ],
+    "seeds": {
+      "full_scramble": 593253795,
+      "content_scramble": 593253796,
+      "function_scramble": 593253797
+    }
+  },
+  {
+    "set_id": 3,
+    "cue_family": "prepositions",
+    "cue_word": "at",
+    "cue_position": 3,
+    "target_class": "NP_START",
+    "sentence": "the carpenter loved at the experimental prototype",
+    "jabberwocky": "the keass dist at the siel loong",
+    "full_scrambled": "the siel dist the loong at keass",
+    "content_scrambled": "the siel loong at the dist keass",
+    "function_scrambled": "at keass dist the the siel loong",
+    "cue_deleted": "the keass dist ke the siel loong",
+    "content_words": [
+      "carpenter",
+      "loved",
+      "experimental",
+      "prototype"
+    ],
+    "nonce_words": [
+      "keass",
+      "dist",
+      "siel",
+      "loong"
+    ],
+    "seeds": {
+      "full_scramble": 1394801662,
+      "content_scramble": 1394801663,
+      "function_scramble": 1394801664
+    }
+  },
+  {
+    "set_id": 4,
+    "cue_family": "prepositions",
+    "cue_word": "at",
+    "cue_position": 3,
+    "target_class": "NP_START",
+    "sentence": "the artist struggled at the intricate equipment",
+    "jabberwocky": "the bree poosp at the tril bred",
+    "full_scrambled": "bree tril bred at poosp the the",
+    "content_scrambled": "the tril bred at the poosp bree",
+    "function_scrambled": "at bree poosp the the tril bred",
+    "cue_deleted": "the bree poosp ke the tril bred",
+    "content_words": [
+      "artist",
+      "struggled",
+      "intricate",
+      "equipment"
+    ],
+    "nonce_words": [
+      "bree",
+      "poosp",
+      "tril",
+      "bred"
+    ],
+    "seeds": {
+      "full_scramble": 114115329,
+      "content_scramble": 114115330,
+      "function_scramble": 114115331
+    }
+  },
+  {
+    "set_id": 5,
+    "cue_family": "prepositions",
+    "cue_word": "with",
+    "cue_position": 3,
+    "target_class": "NP_START",
+    "sentence": "the gardener promised with the significant novel",
+    "jabberwocky": "the lis joock with the toost feack",
+    "full_scrambled": "lis the joock with the feack toost",
+    "content_scrambled": "the lis feack with the toost joock",
+    "function_scrambled": "the lis joock the with toost feack",
+    "cue_deleted": "the lis joock ke the toost feack",
+    "content_words": [
+      "gardener",
+      "promised",
+      "significant",
+      "novel"
+    ],
+    "nonce_words": [
+      "lis",
+      "joock",
+      "toost",
+      "feack"
+    ],
+    "seeds": {
+      "full_scramble": 907573223,
+      "content_scramble": 907573224,
+      "function_scramble": 907573225
+    }
+  },
+  {
+    "set_id": 6,
+    "cue_family": "prepositions",
+    "cue_word": "about",
+    "cue_position": 3,
+    "target_class": "NP_START",
+    "sentence": "the engineer managed about the valuable symphony",
+    "jabberwocky": "the slis fleak about the whesp spie",
+    "full_scrambled": "slis about whesp spie fleak the the",
+    "content_scrambled": "the whesp spie about the fleak slis",
+    "function_scrambled": "the slis fleak the about whesp spie",
+    "cue_deleted": "the slis fleak ke the whesp spie",
+    "content_words": [
+      "engineer",
+      "managed",
+      "valuable",
+      "symphony"
+    ],
+    "nonce_words": [
+      "slis",
+      "fleak",
+      "whesp",
+      "spie"
+    ],
+    "seeds": {
+      "full_scramble": 426524961,
+      "content_scramble": 426524962,
+      "function_scramble": 426524963
+    }
+  },
+  {
+    "set_id": 7,
+    "cue_family": "prepositions",
+    "cue_word": "in",
+    "cue_position": 3,
+    "target_class": "NP_START",
+    "sentence": "the pilot preferred in the theoretical manuscript",
+    "jabberwocky": "the susp dis in the scoonk quooll",
+    "full_scrambled": "in quooll susp the scoonk the dis",
+    "content_scrambled": "the scoonk quooll in the dis susp",
+    "function_scrambled": "in susp dis the the scoonk quooll",
+    "cue_deleted": "the susp dis ke the scoonk quooll",
+    "content_words": [
+      "pilot",
+      "preferred",
+      "theoretical",
+      "manuscript"
+    ],
+    "nonce_words": [
+      "susp",
+      "dis",
+      "scoonk",
+      "quooll"
+    ],
+    "seeds": {
+      "full_scramble": 1969132404,
+      "content_scramble": 1969132405,
+      "function_scramble": 1969132406
+    }
+  },
+  {
+    "set_id": 8,
+    "cue_family": "prepositions",
+    "cue_word": "in",
+    "cue_position": 3,
+    "target_class": "NP_START",
+    "sentence": "the musician prepared in the advanced data",
+    "jabberwocky": "the snouz vair in the truf gri",
+    "full_scrambled": "vair in snouz truf the the gri",
+    "content_scrambled": "the snouz truf in the vair gri",
+    "function_scrambled": "the snouz vair the in truf gri",
+    "cue_deleted": "the snouz vair ke the truf gri",
+    "content_words": [
+      "musician",
+      "prepared",
+      "advanced",
+      "data"
+    ],
+    "nonce_words": [
+      "snouz",
+      "vair",
+      "truf",
+      "gri"
+    ],
+    "seeds": {
+      "full_scramble": 563131987,
+      "content_scramble": 563131988,
+      "function_scramble": 563131989
+    }
+  },
+  {
+    "set_id": 9,
+    "cue_family": "prepositions",
+    "cue_word": "for",
+    "cue_position": 3,
+    "target_class": "NP_START",
+    "sentence": "the lawyer forgot for the modern software",
+    "jabberwocky": "the wheg swig for the swuz roux",
+    "full_scrambled": "swig the wheg for swuz roux the",
+    "content_scrambled": "the wheg roux for the swig swuz",
+    "function_scrambled": "for wheg swig the the swuz roux",
+    "cue_deleted": "the wheg swig ke the swuz roux",
+    "content_words": [
+      "lawyer",
+      "forgot",
+      "modern",
+      "software"
+    ],
+    "nonce_words": [
+      "wheg",
+      "swig",
+      "swuz",
+      "roux"
+    ],
+    "seeds": {
+      "full_scramble": 1767616753,
+      "content_scramble": 1767616754,
+      "function_scramble": 1767616755
+    }
+  },
+  {
+    "set_id": 10,
+    "cue_family": "prepositions",
+    "cue_word": "with",
+    "cue_position": 3,
+    "target_class": "NP_START",
+    "sentence": "the student planned with the basic discovery",
+    "jabberwocky": "the bleesh zab with the reenk clul",
+    "full_scrambled": "reenk clul bleesh zab the the with",
+    "content_scrambled": "the zab bleesh with the clul reenk",
+    "function_scrambled": "the bleesh zab the with reenk clul",
+    "cue_deleted": "the bleesh zab ke the reenk clul",
+    "content_words": [
+      "student",
+      "planned",
+      "basic",
+      "discovery"
+    ],
+    "nonce_words": [
+      "bleesh",
+      "zab",
+      "reenk",
+      "clul"
+    ],
+    "seeds": {
+      "full_scramble": 635321122,
+      "content_scramble": 635321123,
+      "function_scramble": 635321124
+    }
+  },
+  {
+    "set_id": 11,
+    "cue_family": "prepositions",
+    "cue_word": "with",
+    "cue_position": 3,
+    "target_class": "NP_START",
+    "sentence": "the electrician hoped with the challenging formula",
+    "jabberwocky": "the driet crooth with the rief creyg",
+    "full_scrambled": "the crooth rief with driet the creyg",
+    "content_scrambled": "the crooth creyg with the rief driet",
+    "function_scrambled": "the driet crooth the with rief creyg",
+    "cue_deleted": "the driet crooth ke the rief creyg",
+    "content_words": [
+      "electrician",
+      "hoped",
+      "challenging",
+      "formula"
+    ],
+    "nonce_words": [
+      "driet",
+      "crooth",
+      "rief",
+      "creyg"
+    ],
+    "seeds": {
+      "full_scramble": 145859668,
+      "content_scramble": 145859669,
+      "function_scramble": 145859670
+    }
+  },
+  {
+    "set_id": 12,
+    "cue_family": "prepositions",
+    "cue_word": "about",
+    "cue_position": 3,
+    "target_class": "NP_START",
+    "sentence": "the coach intended about the elaborate artifacts",
+    "jabberwocky": "the klig skass about the krom beyn",
+    "full_scrambled": "krom skass beyn klig the about the",
+    "content_scrambled": "the klig beyn about the krom skass",
+    "function_scrambled": "the klig skass the about krom beyn",
+    "cue_deleted": "the klig skass ke the krom beyn",
+    "content_words": [
+      "coach",
+      "intended",
+      "elaborate",
+      "artifacts"
+    ],
+    "nonce_words": [
+      "klig",
+      "skass",
+      "krom",
+      "beyn"
+    ],
+    "seeds": {
+      "full_scramble": 1678650898,
+      "content_scramble": 1678650899,
+      "function_scramble": 1678650900
+    }
+  },
+  {
+    "set_id": 13,
+    "cue_family": "prepositions",
+    "cue_word": "at",
+    "cue_position": 3,
+    "target_class": "NP_START",
+    "sentence": "the photographer demanded at the broken method",
+    "jabberwocky": "the koum smur at the thouss crouck",
+    "full_scrambled": "crouck smur the the koum at thouss",
+    "content_scrambled": "the thouss crouck at the smur koum",
+    "function_scrambled": "at koum smur the the thouss crouck",
+    "cue_deleted": "the koum smur ke the thouss crouck",
+    "content_words": [
+      "photographer",
+      "demanded",
+      "broken",
+      "method"
+    ],
+    "nonce_words": [
+      "koum",
+      "smur",
+      "thouss",
+      "crouck"
+    ],
+    "seeds": {
+      "full_scramble": 1185265765,
+      "content_scramble": 1185265766,
+      "function_scramble": 1185265767
+    }
+  },
+  {
+    "set_id": 14,
+    "cue_family": "prepositions",
+    "cue_word": "for",
+    "cue_position": 3,
+    "target_class": "NP_START",
+    "sentence": "the doctor continued for the innovative experiment",
+    "jabberwocky": "the nousk maif for the krail tooth",
+    "full_scrambled": "maif for the krail nousk the tooth",
+    "content_scrambled": "the maif tooth for the krail nousk",
+    "function_scrambled": "for nousk maif the the krail tooth",
+    "cue_deleted": "the nousk maif ke the krail tooth",
+    "content_words": [
+      "doctor",
+      "continued",
+      "innovative",
+      "experiment"
+    ],
+    "nonce_words": [
+      "nousk",
+      "maif",
+      "krail",
+      "tooth"
+    ],
+    "seeds": {
+      "full_scramble": 1895482963,
+      "content_scramble": 1895482964,
+      "function_scramble": 1895482965
+    }
+  },
+  {
+    "set_id": 15,
+    "cue_family": "prepositions",
+    "cue_word": "on",
+    "cue_position": 3,
+    "target_class": "NP_START",
+    "sentence": "the surgeon wished on the beautiful blueprint",
+    "jabberwocky": "the sposk deth on the meeb whid",
+    "full_scrambled": "whid sposk meeb the the on deth",
+    "content_scrambled": "the deth whid on the meeb sposk",
+    "function_scrambled": "the sposk deth the on meeb whid",
+    "cue_deleted": "the sposk deth ke the meeb whid",
+    "content_words": [
+      "surgeon",
+      "wished",
+      "beautiful",
+      "blueprint"
+    ],
+    "nonce_words": [
+      "sposk",
+      "deth",
+      "meeb",
+      "whid"
+    ],
+    "seeds": {
+      "full_scramble": 142430226,
+      "content_scramble": 142430227,
+      "function_scramble": 142430228
+    }
+  },
+  {
+    "set_id": 16,
+    "cue_family": "prepositions",
+    "cue_word": "about",
+    "cue_position": 3,
+    "target_class": "NP_START",
+    "sentence": "the director chose about the practical landscape",
+    "jabberwocky": "the fik dill about the nub hoth",
+    "full_scrambled": "the about nub the dill hoth fik",
+    "content_scrambled": "the nub fik about the dill hoth",
+    "function_scrambled": "about fik dill the the nub hoth",
+    "cue_deleted": "the fik dill ke the nub hoth",
+    "content_words": [
+      "director",
+      "chose",
+      "practical",
+      "landscape"
+    ],
+    "nonce_words": [
+      "fik",
+      "dill",
+      "nub",
+      "hoth"
+    ],
+    "seeds": {
+      "full_scramble": 989981253,
+      "content_scramble": 989981254,
+      "function_scramble": 989981255
+    }
+  },
+  {
+    "set_id": 17,
+    "cue_family": "prepositions",
+    "cue_word": "at",
+    "cue_position": 3,
+    "target_class": "NP_START",
+    "sentence": "the teacher needed at the rare recipe",
+    "jabberwocky": "the kruf grour at the krik conk",
+    "full_scrambled": "at kruf the the krik grour conk",
+    "content_scrambled": "the grour kruf at the conk krik",
+    "function_scrambled": "the kruf grour the at krik conk",
+    "cue_deleted": "the kruf grour ke the krik conk",
+    "content_words": [
+      "teacher",
+      "needed",
+      "rare",
+      "recipe"
+    ],
+    "nonce_words": [
+      "kruf",
+      "grour",
+      "krik",
+      "conk"
+    ],
+    "seeds": {
+      "full_scramble": 1100732795,
+      "content_scramble": 1100732796,
+      "function_scramble": 1100732797
+    }
+  },
+  {
+    "set_id": 18,
+    "cue_family": "prepositions",
+    "cue_word": "for",
+    "cue_position": 3,
+    "target_class": "NP_START",
+    "sentence": "the researcher decided for the ancient design",
+    "jabberwocky": "the kraist plast for the gra feyt",
+    "full_scrambled": "kraist plast the the gra for feyt",
+    "content_scrambled": "the gra kraist for the feyt plast",
+    "function_scrambled": "the kraist plast the for gra feyt",
+    "cue_deleted": "the kraist plast ke the gra feyt",
+    "content_words": [
+      "researcher",
+      "decided",
+      "ancient",
+      "design"
+    ],
+    "nonce_words": [
+      "kraist",
+      "plast",
+      "gra",
+      "feyt"
+    ],
+    "seeds": {
+      "full_scramble": 37581022,
+      "content_scramble": 37581023,
+      "function_scramble": 37581024
+    }
+  },
+  {
+    "set_id": 19,
+    "cue_family": "prepositions",
+    "cue_word": "on",
+    "cue_position": 3,
+    "target_class": "NP_START",
+    "sentence": "the detective liked on the remarkable technique",
+    "jabberwocky": "the stor kreenk on the gif freesh",
+    "full_scrambled": "on freesh the the stor kreenk gif",
+    "content_scrambled": "the freesh kreenk on the stor gif",
+    "function_scrambled": "on stor kreenk the the gif freesh",
+    "cue_deleted": "the stor kreenk ke the gif freesh",
+    "content_words": [
+      "detective",
+      "liked",
+      "remarkable",
+      "technique"
+    ],
+    "nonce_words": [
+      "stor",
+      "kreenk",
+      "gif",
+      "freesh"
+    ],
+    "seeds": {
+      "full_scramble": 1228364911,
+      "content_scramble": 1228364912,
+      "function_scramble": 1228364913
+    }
+  },
+  {
+    "set_id": 20,
+    "cue_family": "prepositions",
+    "cue_word": "on",
+    "cue_position": 3,
+    "target_class": "NP_START",
+    "sentence": "the journalist attempted on the preliminary patient",
+    "jabberwocky": "the clot priss on the fliek geyx",
+    "full_scrambled": "geyx on clot the fliek priss the",
+    "content_scrambled": "the clot fliek on the priss geyx",
+    "function_scrambled": "the clot priss the on fliek geyx",
+    "cue_deleted": "the clot priss ke the fliek geyx",
+    "content_words": [
+      "journalist",
+      "attempted",
+      "preliminary",
+      "patient"
+    ],
+    "nonce_words": [
+      "clot",
+      "priss",
+      "fliek",
+      "geyx"
+    ],
+    "seeds": {
+      "full_scramble": 789385794,
+      "content_scramble": 789385795,
+      "function_scramble": 789385796
+    }
+  },
+  {
+    "set_id": 21,
+    "cue_family": "prepositions",
+    "cue_word": "with",
+    "cue_position": 3,
+    "target_class": "NP_START",
+    "sentence": "the scientist tried with the critical engine",
+    "jabberwocky": "the teaz floum with the greek quusk",
+    "full_scrambled": "teaz with greek quusk the the floum",
+    "content_scrambled": "the quusk greek with the floum teaz",
+    "function_scrambled": "the teaz floum the with greek quusk",
+    "cue_deleted": "the teaz floum ke the greek quusk",
+    "content_words": [
+      "scientist",
+      "tried",
+      "critical",
+      "engine"
+    ],
+    "nonce_words": [
+      "teaz",
+      "floum",
+      "greek",
+      "quusk"
+    ],
+    "seeds": {
+      "full_scramble": 523877572,
+      "content_scramble": 523877573,
+      "function_scramble": 523877574
+    }
+  },
+  {
+    "set_id": 22,
+    "cue_family": "prepositions",
+    "cue_word": "for",
+    "cue_position": 3,
+    "target_class": "NP_START",
+    "sentence": "the farmer offered for the delicious documents",
+    "jabberwocky": "the cleenk lex for the gus thak",
+    "full_scrambled": "the lex the thak cleenk gus for",
+    "content_scrambled": "the thak lex for the cleenk gus",
+    "function_scrambled": "the cleenk lex the for gus thak",
+    "cue_deleted": "the cleenk lex ke the gus thak",
+    "content_words": [
+      "farmer",
+      "offered",
+      "delicious",
+      "documents"
+    ],
+    "nonce_words": [
+      "cleenk",
+      "lex",
+      "gus",
+      "thak"
+    ],
+    "seeds": {
+      "full_scramble": 1149389392,
+      "content_scramble": 1149389393,
+      "function_scramble": 1149389394
+    }
+  },
+  {
+    "set_id": 23,
+    "cue_family": "prepositions",
+    "cue_word": "about",
+    "cue_position": 3,
+    "target_class": "NP_START",
+    "sentence": "the chef started about the fascinating solution",
+    "jabberwocky": "the preysk dru about the zush keyb",
+    "full_scrambled": "keyb the zush dru the preysk about",
+    "content_scrambled": "the zush dru about the preysk keyb",
+    "function_scrambled": "about preysk dru the the zush keyb",
+    "cue_deleted": "the preysk dru ke the zush keyb",
+    "content_words": [
+      "chef",
+      "started",
+      "fascinating",
+      "solution"
+    ],
+    "nonce_words": [
+      "preysk",
+      "dru",
+      "zush",
+      "keyb"
+    ],
+    "seeds": {
+      "full_scramble": 1112975605,
+      "content_scramble": 1112975606,
+      "function_scramble": 1112975607
+    }
+  },
+  {
+    "set_id": 24,
+    "cue_family": "prepositions",
+    "cue_word": "about",
+    "cue_position": 3,
+    "target_class": "NP_START",
+    "sentence": "the programmer refused about the unusual vehicle",
+    "jabberwocky": "the swool whill about the spoock peth",
+    "full_scrambled": "about spoock peth the whill swool the",
+    "content_scrambled": "the whill spoock about the swool peth",
+    "function_scrambled": "about swool whill the the spoock peth",
+    "cue_deleted": "the swool whill ke the spoock peth",
+    "content_words": [
+      "programmer",
+      "refused",
+      "unusual",
+      "vehicle"
+    ],
+    "nonce_words": [
+      "swool",
+      "whill",
+      "spoock",
+      "peth"
+    ],
+    "seeds": {
+      "full_scramble": 1108050472,
+      "content_scramble": 1108050473,
+      "function_scramble": 1108050474
+    }
+  },
+  {
+    "set_id": 25,
+    "cue_family": "prepositions",
+    "cue_word": "about",
+    "cue_position": 3,
+    "target_class": "NP_START",
+    "sentence": "the baker remembered about the mysterious strategy",
+    "jabberwocky": "the croong krash about the weenk whoop",
+    "full_scrambled": "croong krash weenk the the whoop about",
+    "content_scrambled": "the krash weenk about the whoop croong",
+    "function_scrambled": "about croong krash the the weenk whoop",
+    "cue_deleted": "the croong krash ke the weenk whoop",
+    "content_words": [
+      "baker",
+      "remembered",
+      "mysterious",
+      "strategy"
+    ],
+    "nonce_words": [
+      "croong",
+      "krash",
+      "weenk",
+      "whoop"
+    ],
+    "seeds": {
+      "full_scramble": 810089562,
+      "content_scramble": 810089563,
+      "function_scramble": 810089564
+    }
+  },
+  {
+    "set_id": 26,
+    "cue_family": "prepositions",
+    "cue_word": "for",
+    "cue_position": 3,
+    "target_class": "NP_START",
+    "sentence": "the plumber expected for the difficult concept",
+    "jabberwocky": "the clith goog for the stof glieg",
+    "full_scrambled": "clith goog for the glieg stof the",
+    "content_scrambled": "the goog clith for the stof glieg",
+    "function_scrambled": "the clith goog the for stof glieg",
+    "cue_deleted": "the clith goog ke the stof glieg",
+    "content_words": [
+      "plumber",
+      "expected",
+      "difficult",
+      "concept"
+    ],
+    "nonce_words": [
+      "clith",
+      "goog",
+      "stof",
+      "glieg"
+    ],
+    "seeds": {
+      "full_scramble": 1379472465,
+      "content_scramble": 1379472466,
+      "function_scramble": 1379472467
+    }
+  },
+  {
+    "set_id": 27,
+    "cue_family": "prepositions",
+    "cue_word": "in",
+    "cue_position": 3,
+    "target_class": "NP_START",
+    "sentence": "the author wanted in the complex specimens",
+    "jabberwocky": "the laiz thu in the drab quif",
+    "full_scrambled": "the in the thu drab laiz quif",
+    "content_scrambled": "the quif drab in the laiz thu",
+    "function_scrambled": "in laiz thu the the drab quif",
+    "cue_deleted": "the laiz thu ke the drab quif",
+    "content_words": [
+      "author",
+      "wanted",
+      "complex",
+      "specimens"
+    ],
+    "nonce_words": [
+      "laiz",
+      "thu",
+      "drab",
+      "quif"
+    ],
+    "seeds": {
+      "full_scramble": 676707414,
+      "content_scramble": 676707415,
+      "function_scramble": 676707416
+    }
+  },
+  {
+    "set_id": 28,
+    "cue_family": "prepositions",
+    "cue_word": "for",
+    "cue_position": 3,
+    "target_class": "NP_START",
+    "sentence": "the librarian began for the comprehensive findings",
+    "jabberwocky": "the peyx speap for the krieck frais",
+    "full_scrambled": "frais the peyx for krieck speap the",
+    "content_scrambled": "the frais krieck for the peyx speap",
+    "function_scrambled": "the peyx speap the for krieck frais",
+    "cue_deleted": "the peyx speap ke the krieck frais",
+    "content_words": [
+      "librarian",
+      "began",
+      "comprehensive",
+      "findings"
+    ],
+    "nonce_words": [
+      "peyx",
+      "speap",
+      "krieck",
+      "frais"
+    ],
+    "seeds": {
+      "full_scramble": 1268490818,
+      "content_scramble": 1268490819,
+      "function_scramble": 1268490820
+    }
+  },
+  {
+    "set_id": 29,
+    "cue_family": "prepositions",
+    "cue_word": "for",
+    "cue_position": 3,
+    "target_class": "NP_START",
+    "sentence": "the captain requested for the efficient assignment",
+    "jabberwocky": "the preyf nef for the coung thisp",
+    "full_scrambled": "the thisp coung preyf the nef for",
+    "content_scrambled": "the preyf thisp for the coung nef",
+    "function_scrambled": "for preyf nef the the coung thisp",
+    "cue_deleted": "the preyf nef ke the coung thisp",
+    "content_words": [
+      "captain",
+      "requested",
+      "efficient",
+      "assignment"
+    ],
+    "nonce_words": [
+      "preyf",
+      "nef",
+      "coung",
+      "thisp"
+    ],
+    "seeds": {
+      "full_scramble": 532317396,
+      "content_scramble": 532317397,
+      "function_scramble": 532317398
+    }
+  },
+  {
+    "set_id": 30,
+    "cue_family": "prepositions",
+    "cue_word": "on",
+    "cue_position": 3,
+    "target_class": "NP_START",
+    "sentence": "the professor meant on the historical instrument",
+    "jabberwocky": "the scick treyg on the whef quiem",
+    "full_scrambled": "quiem treyg on the scick whef the",
+    "content_scrambled": "the whef quiem on the scick treyg",
+    "function_scrambled": "the scick treyg the on whef quiem",
+    "cue_deleted": "the scick treyg ke the whef quiem",
+    "content_words": [
+      "professor",
+      "meant",
+      "historical",
+      "instrument"
+    ],
+    "nonce_words": [
+      "scick",
+      "treyg",
+      "whef",
+      "quiem"
+    ],
+    "seeds": {
+      "full_scramble": 1310055691,
+      "content_scramble": 1310055692,
+      "function_scramble": 1310055693
+    }
+  },
+  {
+    "set_id": 1,
+    "cue_family": "auxiliaries",
+    "cue_word": "was",
+    "cue_position": 2,
+    "target_class": "PARTICIPLE",
+    "sentence": "the coach was studying the historical manuscript",
+    "jabberwocky": "the mung was scob the drop fiez",
+    "full_scrambled": "fiez was the mung drop the scob",
+    "content_scrambled": "the fiez was drop the mung scob",
+    "function_scrambled": "the mung the scob was drop fiez",
+    "cue_deleted": "the mung ke scob the drop fiez",
+    "content_words": [
+      "coach",
+      "studying",
+      "historical",
+      "manuscript"
+    ],
+    "nonce_words": [
+      "mung",
+      "scob",
+      "drop",
+      "fiez"
+    ],
+    "seeds": {
+      "full_scramble": 1983855363,
+      "content_scramble": 1983855364,
+      "function_scramble": 1983855365
+    }
+  },
+  {
+    "set_id": 2,
+    "cue_family": "auxiliaries",
+    "cue_word": "were",
+    "cue_position": 2,
+    "target_class": "PARTICIPLE",
+    "sentence": "the musician were examined the ancient concept",
+    "jabberwocky": "the moog were krog the treat strusp",
+    "full_scrambled": "krog the treat strusp moog the were",
+    "content_scrambled": "the krog were treat the moog strusp",
+    "function_scrambled": "the moog the krog were treat strusp",
+    "cue_deleted": "the moog ke krog the treat strusp",
+    "content_words": [
+      "musician",
+      "examined",
+      "ancient",
+      "concept"
+    ],
+    "nonce_words": [
+      "moog",
+      "krog",
+      "treat",
+      "strusp"
+    ],
+    "seeds": {
+      "full_scramble": 2046939425,
+      "content_scramble": 2046939426,
+      "function_scramble": 2046939427
+    }
+  },
+  {
+    "set_id": 3,
+    "cue_family": "auxiliaries",
+    "cue_word": "was",
+    "cue_position": 2,
+    "target_class": "PARTICIPLE",
+    "sentence": "the electrician was analyzing the intricate findings",
+    "jabberwocky": "the giess was lok the leth cais",
+    "full_scrambled": "the cais the lok leth was giess",
+    "content_scrambled": "the leth was giess the cais lok",
+    "function_scrambled": "was giess the lok the leth cais",
+    "cue_deleted": "the giess ke lok the leth cais",
+    "content_words": [
+      "electrician",
+      "analyzing",
+      "intricate",
+      "findings"
+    ],
+    "nonce_words": [
+      "giess",
+      "lok",
+      "leth",
+      "cais"
+    ],
+    "seeds": {
+      "full_scramble": 1071862501,
+      "content_scramble": 1071862502,
+      "function_scramble": 1071862503
+    }
+  },
+  {
+    "set_id": 4,
+    "cue_family": "auxiliaries",
+    "cue_word": "were",
+    "cue_position": 2,
+    "target_class": "PARTICIPLE",
+    "sentence": "the student were explored the comprehensive software",
+    "jabberwocky": "the spieck were sleek the fruck swick",
+    "full_scrambled": "fruck swick the spieck the sleek were",
+    "content_scrambled": "the swick were sleek the spieck fruck",
+    "function_scrambled": "the spieck the sleek were fruck swick",
+    "cue_deleted": "the spieck ke sleek the fruck swick",
+    "content_words": [
+      "student",
+      "explored",
+      "comprehensive",
+      "software"
+    ],
+    "nonce_words": [
+      "spieck",
+      "sleek",
+      "fruck",
+      "swick"
+    ],
+    "seeds": {
+      "full_scramble": 1723013367,
+      "content_scramble": 1723013368,
+      "function_scramble": 1723013369
+    }
+  },
+  {
+    "set_id": 5,
+    "cue_family": "auxiliaries",
+    "cue_word": "is",
+    "cue_position": 2,
+    "target_class": "PARTICIPLE",
+    "sentence": "the detective is investigating the mysterious novel",
+    "jabberwocky": "the klais is kos the steet heez",
+    "full_scrambled": "steet the klais the is heez kos",
+    "content_scrambled": "the heez is steet the kos klais",
+    "function_scrambled": "is klais the kos the steet heez",
+    "cue_deleted": "the klais ke kos the steet heez",
+    "content_words": [
+      "detective",
+      "investigating",
+      "mysterious",
+      "novel"
+    ],
+    "nonce_words": [
+      "klais",
+      "kos",
+      "steet",
+      "heez"
+    ],
+    "seeds": {
+      "full_scramble": 1420583844,
+      "content_scramble": 1420583845,
+      "function_scramble": 1420583846
+    }
+  },
+  {
+    "set_id": 6,
+    "cue_family": "auxiliaries",
+    "cue_word": "is",
+    "cue_position": 2,
+    "target_class": "PARTICIPLE",
+    "sentence": "the doctor is reviewed the challenging engine",
+    "jabberwocky": "the tee is skef the snoll club",
+    "full_scrambled": "the snoll tee the is club skef",
+    "content_scrambled": "the club is tee the snoll skef",
+    "function_scrambled": "the tee the skef is snoll club",
+    "cue_deleted": "the tee ke skef the snoll club",
+    "content_words": [
+      "doctor",
+      "reviewed",
+      "challenging",
+      "engine"
+    ],
+    "nonce_words": [
+      "tee",
+      "skef",
+      "snoll",
+      "club"
+    ],
+    "seeds": {
+      "full_scramble": 1869661037,
+      "content_scramble": 1869661038,
+      "function_scramble": 1869661039
+    }
+  },
+  {
+    "set_id": 7,
+    "cue_family": "auxiliaries",
+    "cue_word": "was",
+    "cue_position": 2,
+    "target_class": "PARTICIPLE",
+    "sentence": "the carpenter was inspecting the experimental blueprint",
+    "jabberwocky": "the prait was briep the lull yosk",
+    "full_scrambled": "prait briep was the lull the yosk",
+    "content_scrambled": "the lull was prait the briep yosk",
+    "function_scrambled": "was prait the briep the lull yosk",
+    "cue_deleted": "the prait ke briep the lull yosk",
+    "content_words": [
+      "carpenter",
+      "inspecting",
+      "experimental",
+      "blueprint"
+    ],
+    "nonce_words": [
+      "prait",
+      "briep",
+      "lull",
+      "yosk"
+    ],
+    "seeds": {
+      "full_scramble": 2077061538,
+      "content_scramble": 2077061539,
+      "function_scramble": 2077061540
+    }
+  },
+  {
+    "set_id": 8,
+    "cue_family": "auxiliaries",
+    "cue_word": "is",
+    "cue_position": 2,
+    "target_class": "PARTICIPLE",
+    "sentence": "the pilot is evaluated the rare technique",
+    "jabberwocky": "the stroop is skair the haz feyf",
+    "full_scrambled": "stroop the the is skair haz feyf",
+    "content_scrambled": "the skair is haz the feyf stroop",
+    "function_scrambled": "the stroop the skair is haz feyf",
+    "cue_deleted": "the stroop ke skair the haz feyf",
+    "content_words": [
+      "pilot",
+      "evaluated",
+      "rare",
+      "technique"
+    ],
+    "nonce_words": [
+      "stroop",
+      "skair",
+      "haz",
+      "feyf"
+    ],
+    "seeds": {
+      "full_scramble": 7450532,
+      "content_scramble": 7450533,
+      "function_scramble": 7450534
+    }
+  },
+  {
+    "set_id": 9,
+    "cue_family": "auxiliaries",
+    "cue_word": "is",
+    "cue_position": 2,
+    "target_class": "PARTICIPLE",
+    "sentence": "the professor is assessing the unusual documents",
+    "jabberwocky": "the proox is cain the deef zick",
+    "full_scrambled": "the deef zick cain the proox is",
+    "content_scrambled": "the proox is zick the cain deef",
+    "function_scrambled": "is proox the cain the deef zick",
+    "cue_deleted": "the proox ke cain the deef zick",
+    "content_words": [
+      "professor",
+      "assessing",
+      "unusual",
+      "documents"
+    ],
+    "nonce_words": [
+      "proox",
+      "cain",
+      "deef",
+      "zick"
+    ],
+    "seeds": {
+      "full_scramble": 2015259717,
+      "content_scramble": 2015259718,
+      "function_scramble": 2015259719
+    }
+  },
+  {
+    "set_id": 10,
+    "cue_family": "auxiliaries",
+    "cue_word": "are",
+    "cue_position": 2,
+    "target_class": "PARTICIPLE",
+    "sentence": "the librarian are tested the fundamental design",
+    "jabberwocky": "the claz are ril the klaip scag",
+    "full_scrambled": "scag klaip claz are the ril the",
+    "content_scrambled": "the ril are klaip the scag claz",
+    "function_scrambled": "are claz the ril the klaip scag",
+    "cue_deleted": "the claz ke ril the klaip scag",
+    "content_words": [
+      "librarian",
+      "tested",
+      "fundamental",
+      "design"
+    ],
+    "nonce_words": [
+      "claz",
+      "ril",
+      "klaip",
+      "scag"
+    ],
+    "seeds": {
+      "full_scramble": 951614484,
+      "content_scramble": 951614485,
+      "function_scramble": 951614486
+    }
+  },
+  {
+    "set_id": 11,
+    "cue_family": "auxiliaries",
+    "cue_word": "was",
+    "cue_position": 2,
+    "target_class": "PARTICIPLE",
+    "sentence": "the farmer was repairing the efficient landscape",
+    "jabberwocky": "the droo was cub the roost stost",
+    "full_scrambled": "the droo roost stost cub was the",
+    "content_scrambled": "the stost was roost the cub droo",
+    "function_scrambled": "the droo the cub was roost stost",
+    "cue_deleted": "the droo ke cub the roost stost",
+    "content_words": [
+      "farmer",
+      "repairing",
+      "efficient",
+      "landscape"
+    ],
+    "nonce_words": [
+      "droo",
+      "cub",
+      "roost",
+      "stost"
+    ],
+    "seeds": {
+      "full_scramble": 369034573,
+      "content_scramble": 369034574,
+      "function_scramble": 369034575
+    }
+  },
+  {
+    "set_id": 12,
+    "cue_family": "auxiliaries",
+    "cue_word": "is",
+    "cue_position": 2,
+    "target_class": "PARTICIPLE",
+    "sentence": "the programmer is built the basic instrument",
+    "jabberwocky": "the breank is leyll the klol fuz",
+    "full_scrambled": "leyll is breank fuz the klol the",
+    "content_scrambled": "the breank is klol the leyll fuz",
+    "function_scrambled": "is breank the leyll the klol fuz",
+    "cue_deleted": "the breank ke leyll the klol fuz",
+    "content_words": [
+      "programmer",
+      "built",
+      "basic",
+      "instrument"
+    ],
+    "nonce_words": [
+      "breank",
+      "leyll",
+      "klol",
+      "fuz"
+    ],
+    "seeds": {
+      "full_scramble": 1146842138,
+      "content_scramble": 1146842139,
+      "function_scramble": 1146842140
+    }
+  },
+  {
+    "set_id": 13,
+    "cue_family": "auxiliaries",
+    "cue_word": "was",
+    "cue_position": 2,
+    "target_class": "PARTICIPLE",
+    "sentence": "the lawyer was designing the critical discovery",
+    "jabberwocky": "the kiz was trez the yag quaz",
+    "full_scrambled": "trez yag the the kiz quaz was",
+    "content_scrambled": "the trez was kiz the quaz yag",
+    "function_scrambled": "was kiz the trez the yag quaz",
+    "cue_deleted": "the kiz ke trez the yag quaz",
+    "content_words": [
+      "lawyer",
+      "designing",
+      "critical",
+      "discovery"
+    ],
+    "nonce_words": [
+      "kiz",
+      "trez",
+      "yag",
+      "quaz"
+    ],
+    "seeds": {
+      "full_scramble": 81530504,
+      "content_scramble": 81530505,
+      "function_scramble": 81530506
+    }
+  },
+  {
+    "set_id": 14,
+    "cue_family": "auxiliaries",
+    "cue_word": "is",
+    "cue_position": 2,
+    "target_class": "PARTICIPLE",
+    "sentence": "the surgeon is created the innovative experiment",
+    "jabberwocky": "the peynk is keynk the glos yux",
+    "full_scrambled": "is the yux keynk the peynk glos",
+    "content_scrambled": "the glos is keynk the yux peynk",
+    "function_scrambled": "is peynk the keynk the glos yux",
+    "cue_deleted": "the peynk ke keynk the glos yux",
+    "content_words": [
+      "surgeon",
+      "created",
+      "innovative",
+      "experiment"
+    ],
+    "nonce_words": [
+      "peynk",
+      "keynk",
+      "glos",
+      "yux"
+    ],
+    "seeds": {
+      "full_scramble": 52726177,
+      "content_scramble": 52726178,
+      "function_scramble": 52726179
+    }
+  },
+  {
+    "set_id": 15,
+    "cue_family": "auxiliaries",
+    "cue_word": "was",
+    "cue_position": 2,
+    "target_class": "PARTICIPLE",
+    "sentence": "the photographer was developing the significant vehicle",
+    "jabberwocky": "the swusk was pleas the freek plig",
+    "full_scrambled": "plig the pleas freek swusk was the",
+    "content_scrambled": "the plig was pleas the swusk freek",
+    "function_scrambled": "the swusk the pleas was freek plig",
+    "cue_deleted": "the swusk ke pleas the freek plig",
+    "content_words": [
+      "photographer",
+      "developing",
+      "significant",
+      "vehicle"
+    ],
+    "nonce_words": [
+      "swusk",
+      "pleas",
+      "freek",
+      "plig"
+    ],
+    "seeds": {
+      "full_scramble": 1722395301,
+      "content_scramble": 1722395302,
+      "function_scramble": 1722395303
+    }
+  },
+  {
+    "set_id": 16,
+    "cue_family": "auxiliaries",
+    "cue_word": "is",
+    "cue_position": 2,
+    "target_class": "PARTICIPLE",
+    "sentence": "the captain is improved the remarkable data",
+    "jabberwocky": "the thieth is cleesh the frar speyf",
+    "full_scrambled": "the is speyf frar thieth cleesh the",
+    "content_scrambled": "the frar is cleesh the speyf thieth",
+    "function_scrambled": "is thieth the cleesh the frar speyf",
+    "cue_deleted": "the thieth ke cleesh the frar speyf",
+    "content_words": [
+      "captain",
+      "improved",
+      "remarkable",
+      "data"
+    ],
+    "nonce_words": [
+      "thieth",
+      "cleesh",
+      "frar",
+      "speyf"
+    ],
+    "seeds": {
+      "full_scramble": 1792370044,
+      "content_scramble": 1792370045,
+      "function_scramble": 1792370046
+    }
+  },
+  {
+    "set_id": 17,
+    "cue_family": "auxiliaries",
+    "cue_word": "is",
+    "cue_position": 2,
+    "target_class": "PARTICIPLE",
+    "sentence": "the author is fixing the advanced assignment",
+    "jabberwocky": "the snoug is kot the mooll sneak",
+    "full_scrambled": "the the sneak is kot mooll snoug",
+    "content_scrambled": "the kot is mooll the snoug sneak",
+    "function_scrambled": "the snoug the kot is mooll sneak",
+    "cue_deleted": "the snoug ke kot the mooll sneak",
+    "content_words": [
+      "author",
+      "fixing",
+      "advanced",
+      "assignment"
+    ],
+    "nonce_words": [
+      "snoug",
+      "kot",
+      "mooll",
+      "sneak"
+    ],
+    "seeds": {
+      "full_scramble": 924571541,
+      "content_scramble": 924571542,
+      "function_scramble": 924571543
+    }
+  },
+  {
+    "set_id": 18,
+    "cue_family": "auxiliaries",
+    "cue_word": "are",
+    "cue_position": 2,
+    "target_class": "PARTICIPLE",
+    "sentence": "the gardener are completed the broken paintings",
+    "jabberwocky": "the teyb are caing the genk whain",
+    "full_scrambled": "caing genk whain the are teyb the",
+    "content_scrambled": "the teyb are whain the genk caing",
+    "function_scrambled": "the teyb the caing are genk whain",
+    "cue_deleted": "the teyb ke caing the genk whain",
+    "content_words": [
+      "gardener",
+      "completed",
+      "broken",
+      "paintings"
+    ],
+    "nonce_words": [
+      "teyb",
+      "caing",
+      "genk",
+      "whain"
+    ],
+    "seeds": {
+      "full_scramble": 551220444,
+      "content_scramble": 551220445,
+      "function_scramble": 551220446
+    }
+  },
+  {
+    "set_id": 19,
+    "cue_family": "auxiliaries",
+    "cue_word": "is",
+    "cue_position": 2,
+    "target_class": "PARTICIPLE",
+    "sentence": "the teacher is finishing the delicious symphony",
+    "jabberwocky": "the sni is quook the laim stenk",
+    "full_scrambled": "quook the is sni the stenk laim",
+    "content_scrambled": "the quook is laim the stenk sni",
+    "function_scrambled": "is sni the quook the laim stenk",
+    "cue_deleted": "the sni ke quook the laim stenk",
+    "content_words": [
+      "teacher",
+      "finishing",
+      "delicious",
+      "symphony"
+    ],
+    "nonce_words": [
+      "sni",
+      "quook",
+      "laim",
+      "stenk"
+    ],
+    "seeds": {
+      "full_scramble": 1431738055,
+      "content_scramble": 1431738056,
+      "function_scramble": 1431738057
+    }
+  },
+  {
+    "set_id": 20,
+    "cue_family": "auxiliaries",
+    "cue_word": "was",
+    "cue_position": 2,
+    "target_class": "PARTICIPLE",
+    "sentence": "the researcher was prepared the valuable prototype",
+    "jabberwocky": "the reyl was fait the hiesk drey",
+    "full_scrambled": "hiesk the drey was fait reyl the",
+    "content_scrambled": "the hiesk was drey the reyl fait",
+    "function_scrambled": "was reyl the fait the hiesk drey",
+    "cue_deleted": "the reyl ke fait the hiesk drey",
+    "content_words": [
+      "researcher",
+      "prepared",
+      "valuable",
+      "prototype"
+    ],
+    "nonce_words": [
+      "reyl",
+      "fait",
+      "hiesk",
+      "drey"
+    ],
+    "seeds": {
+      "full_scramble": 1161217526,
+      "content_scramble": 1161217527,
+      "function_scramble": 1161217528
+    }
+  },
+  {
+    "set_id": 21,
+    "cue_family": "auxiliaries",
+    "cue_word": "was",
+    "cue_position": 2,
+    "target_class": "PARTICIPLE",
+    "sentence": "the director was organizing the fascinating patient",
+    "jabberwocky": "the glith was tris the swied whosp",
+    "full_scrambled": "the was tris whosp swied glith the",
+    "content_scrambled": "the whosp was tris the swied glith",
+    "function_scrambled": "was glith the tris the swied whosp",
+    "cue_deleted": "the glith ke tris the swied whosp",
+    "content_words": [
+      "director",
+      "organizing",
+      "fascinating",
+      "patient"
+    ],
+    "nonce_words": [
+      "glith",
+      "tris",
+      "swied",
+      "whosp"
+    ],
+    "seeds": {
+      "full_scramble": 642013318,
+      "content_scramble": 642013319,
+      "function_scramble": 642013320
+    }
+  },
+  {
+    "set_id": 22,
+    "cue_family": "auxiliaries",
+    "cue_word": "were",
+    "cue_position": 2,
+    "target_class": "PARTICIPLE",
+    "sentence": "the journalist were documented the difficult method",
+    "jabberwocky": "the lif were weap the blail yaid",
+    "full_scrambled": "yaid were blail the weap lif the",
+    "content_scrambled": "the yaid were blail the lif weap",
+    "function_scrambled": "were lif the weap the blail yaid",
+    "cue_deleted": "the lif ke weap the blail yaid",
+    "content_words": [
+      "journalist",
+      "documented",
+      "difficult",
+      "method"
+    ],
+    "nonce_words": [
+      "lif",
+      "weap",
+      "blail",
+      "yaid"
+    ],
+    "seeds": {
+      "full_scramble": 458056770,
+      "content_scramble": 458056771,
+      "function_scramble": 458056772
+    }
+  },
+  {
+    "set_id": 23,
+    "cue_family": "auxiliaries",
+    "cue_word": "is",
+    "cue_position": 2,
+    "target_class": "PARTICIPLE",
+    "sentence": "the plumber is presenting the preliminary strategy",
+    "jabberwocky": "the tul is smoz the jank pang",
+    "full_scrambled": "smoz pang jank is tul the the",
+    "content_scrambled": "the tul is pang the smoz jank",
+    "function_scrambled": "the tul the smoz is jank pang",
+    "cue_deleted": "the tul ke smoz the jank pang",
+    "content_words": [
+      "plumber",
+      "presenting",
+      "preliminary",
+      "strategy"
+    ],
+    "nonce_words": [
+      "tul",
+      "smoz",
+      "jank",
+      "pang"
+    ],
+    "seeds": {
+      "full_scramble": 1290129404,
+      "content_scramble": 1290129405,
+      "function_scramble": 1290129406
+    }
+  },
+  {
+    "set_id": 24,
+    "cue_family": "auxiliaries",
+    "cue_word": "was",
+    "cue_position": 2,
+    "target_class": "PARTICIPLE",
+    "sentence": "the engineer was explained the beautiful recipe",
+    "jabberwocky": "the tooth was thess the weell bronk",
+    "full_scrambled": "weell tooth bronk the thess the was",
+    "content_scrambled": "the tooth was weell the bronk thess",
+    "function_scrambled": "the tooth the thess was weell bronk",
+    "cue_deleted": "the tooth ke thess the weell bronk",
+    "content_words": [
+      "engineer",
+      "explained",
+      "beautiful",
+      "recipe"
+    ],
+    "nonce_words": [
+      "tooth",
+      "thess",
+      "weell",
+      "bronk"
+    ],
+    "seeds": {
+      "full_scramble": 687841150,
+      "content_scramble": 687841151,
+      "function_scramble": 687841152
+    }
+  },
+  {
+    "set_id": 25,
+    "cue_family": "auxiliaries",
+    "cue_word": "is",
+    "cue_position": 2,
+    "target_class": "PARTICIPLE",
+    "sentence": "the chef is discussing the complex artifacts",
+    "jabberwocky": "the breyck is spel the die skus",
+    "full_scrambled": "is skus breyck die the the spel",
+    "content_scrambled": "the die is skus the breyck spel",
+    "function_scrambled": "is breyck the spel the die skus",
+    "cue_deleted": "the breyck ke spel the die skus",
+    "content_words": [
+      "chef",
+      "discussing",
+      "complex",
+      "artifacts"
+    ],
+    "nonce_words": [
+      "breyck",
+      "spel",
+      "die",
+      "skus"
+    ],
+    "seeds": {
+      "full_scramble": 1977546555,
+      "content_scramble": 1977546556,
+      "function_scramble": 1977546557
+    }
+  },
+  {
+    "set_id": 26,
+    "cue_family": "auxiliaries",
+    "cue_word": "were",
+    "cue_position": 2,
+    "target_class": "PARTICIPLE",
+    "sentence": "the architect were published the theoretical specimens",
+    "jabberwocky": "the queyl were croo the glull glouss",
+    "full_scrambled": "queyl were the glull croo the glouss",
+    "content_scrambled": "the croo were glouss the glull queyl",
+    "function_scrambled": "were queyl the croo the glull glouss",
+    "cue_deleted": "the queyl ke croo the glull glouss",
+    "content_words": [
+      "architect",
+      "published",
+      "theoretical",
+      "specimens"
+    ],
+    "nonce_words": [
+      "queyl",
+      "croo",
+      "glull",
+      "glouss"
+    ],
+    "seeds": {
+      "full_scramble": 1570540032,
+      "content_scramble": 1570540033,
+      "function_scramble": 1570540034
+    }
+  },
+  {
+    "set_id": 27,
+    "cue_family": "auxiliaries",
+    "cue_word": "is",
+    "cue_position": 2,
+    "target_class": "PARTICIPLE",
+    "sentence": "the mechanic is researching the elaborate project",
+    "jabberwocky": "the graid is voop the snir streyck",
+    "full_scrambled": "graid streyck the the voop is snir",
+    "content_scrambled": "the voop is streyck the snir graid",
+    "function_scrambled": "the graid the voop is snir streyck",
+    "cue_deleted": "the graid ke voop the snir streyck",
+    "content_words": [
+      "mechanic",
+      "researching",
+      "elaborate",
+      "project"
+    ],
+    "nonce_words": [
+      "graid",
+      "voop",
+      "snir",
+      "streyck"
+    ],
+    "seeds": {
+      "full_scramble": 1014796187,
+      "content_scramble": 1014796188,
+      "function_scramble": 1014796189
+    }
+  },
+  {
+    "set_id": 28,
+    "cue_family": "auxiliaries",
+    "cue_word": "was",
+    "cue_position": 2,
+    "target_class": "PARTICIPLE",
+    "sentence": "the baker was demonstrated the practical equipment",
+    "jabberwocky": "the biesh was zest the jef klez",
+    "full_scrambled": "the jef the zest was biesh klez",
+    "content_scrambled": "the zest was biesh the jef klez",
+    "function_scrambled": "was biesh the zest the jef klez",
+    "cue_deleted": "the biesh ke zest the jef klez",
+    "content_words": [
+      "baker",
+      "demonstrated",
+      "practical",
+      "equipment"
+    ],
+    "nonce_words": [
+      "biesh",
+      "zest",
+      "jef",
+      "klez"
+    ],
+    "seeds": {
+      "full_scramble": 307112671,
+      "content_scramble": 307112672,
+      "function_scramble": 307112673
+    }
+  },
+  {
+    "set_id": 29,
+    "cue_family": "auxiliaries",
+    "cue_word": "is",
+    "cue_position": 2,
+    "target_class": "PARTICIPLE",
+    "sentence": "the scientist is solving the important solution",
+    "jabberwocky": "the fasp is wea the grousp grieb",
+    "full_scrambled": "grousp the wea the fasp grieb is",
+    "content_scrambled": "the grousp is wea the fasp grieb",
+    "function_scrambled": "the fasp the wea is grousp grieb",
+    "cue_deleted": "the fasp ke wea the grousp grieb",
+    "content_words": [
+      "scientist",
+      "solving",
+      "important",
+      "solution"
+    ],
+    "nonce_words": [
+      "fasp",
+      "wea",
+      "grousp",
+      "grieb"
+    ],
+    "seeds": {
+      "full_scramble": 1409688703,
+      "content_scramble": 1409688704,
+      "function_scramble": 1409688705
+    }
+  },
+  {
+    "set_id": 30,
+    "cue_family": "auxiliaries",
+    "cue_word": "were",
+    "cue_position": 2,
+    "target_class": "PARTICIPLE",
+    "sentence": "the artist were processed the modern formula",
+    "jabberwocky": "the vack were scick the jost haik",
+    "full_scrambled": "vack the scick the jost haik were",
+    "content_scrambled": "the haik were vack the scick jost",
+    "function_scrambled": "were vack the scick the jost haik",
+    "cue_deleted": "the vack ke scick the jost haik",
+    "content_words": [
+      "artist",
+      "processed",
+      "modern",
+      "formula"
+    ],
+    "nonce_words": [
+      "vack",
+      "scick",
+      "jost",
+      "haik"
+    ],
+    "seeds": {
+      "full_scramble": 738610332,
+      "content_scramble": 738610333,
+      "function_scramble": 738610334
+    }
+  },
+  {
+    "set_id": 1,
+    "cue_family": "complementizers",
+    "cue_word": "that",
+    "cue_position": 3,
+    "target_class": "CLAUSE_START",
+    "sentence": "the doctor hoped that the coach decided",
+    "jabberwocky": "the noost treag that the kleat coost",
+    "full_scrambled": "coost noost treag kleat the that the",
+    "content_scrambled": "the kleat coost that the treag noost",
+    "function_scrambled": "that noost treag the the kleat coost",
+    "cue_deleted": "the noost treag ke the kleat coost",
+    "content_words": [
+      "doctor",
+      "hoped",
+      "coach",
+      "decided"
+    ],
+    "nonce_words": [
+      "noost",
+      "treag",
+      "kleat",
+      "coost"
+    ],
+    "seeds": {
+      "full_scramble": 858332389,
+      "content_scramble": 858332390,
+      "function_scramble": 858332391
+    }
+  },
+  {
+    "set_id": 2,
+    "cue_family": "complementizers",
+    "cue_word": "that",
+    "cue_position": 3,
+    "target_class": "CLAUSE_START",
+    "sentence": "the captain knew that the photographer refused",
+    "jabberwocky": "the bied sweyr that the yai pleyn",
+    "full_scrambled": "sweyr pleyn yai that the the bied",
+    "content_scrambled": "the yai sweyr that the pleyn bied",
+    "function_scrambled": "that bied sweyr the the yai pleyn",
+    "cue_deleted": "the bied sweyr ke the yai pleyn",
+    "content_words": [
+      "captain",
+      "knew",
+      "photographer",
+      "refused"
+    ],
+    "nonce_words": [
+      "bied",
+      "sweyr",
+      "yai",
+      "pleyn"
+    ],
+    "seeds": {
+      "full_scramble": 1394783722,
+      "content_scramble": 1394783723,
+      "function_scramble": 1394783724
+    }
+  },
+  {
+    "set_id": 3,
+    "cue_family": "complementizers",
+    "cue_word": "that",
+    "cue_position": 3,
+    "target_class": "CLAUSE_START",
+    "sentence": "the pilot thought that the pilot meant",
+    "jabberwocky": "the swith fud that the whin rieb",
+    "full_scrambled": "the that rieb fud swith the whin",
+    "content_scrambled": "the fud whin that the swith rieb",
+    "function_scrambled": "that swith fud the the whin rieb",
+    "cue_deleted": "the swith fud ke the whin rieb",
+    "content_words": [
+      "pilot",
+      "thought",
+      "pilot",
+      "meant"
+    ],
+    "nonce_words": [
+      "swith",
+      "fud",
+      "whin",
+      "rieb"
+    ],
+    "seeds": {
+      "full_scramble": 1240255141,
+      "content_scramble": 1240255142,
+      "function_scramble": 1240255143
+    }
+  },
+  {
+    "set_id": 4,
+    "cue_family": "complementizers",
+    "cue_word": "that",
+    "cue_position": 3,
+    "target_class": "CLAUSE_START",
+    "sentence": "the student believed that the electrician promised",
+    "jabberwocky": "the voul smooll that the reck sneyb",
+    "full_scrambled": "smooll voul reck sneyb the the that",
+    "content_scrambled": "the smooll sneyb that the voul reck",
+    "function_scrambled": "the voul smooll the that reck sneyb",
+    "cue_deleted": "the voul smooll ke the reck sneyb",
+    "content_words": [
+      "student",
+      "believed",
+      "electrician",
+      "promised"
+    ],
+    "nonce_words": [
+      "voul",
+      "smooll",
+      "reck",
+      "sneyb"
+    ],
+    "seeds": {
+      "full_scramble": 1712402877,
+      "content_scramble": 1712402878,
+      "function_scramble": 1712402879
+    }
+  },
+  {
+    "set_id": 5,
+    "cue_family": "complementizers",
+    "cue_word": "that",
+    "cue_position": 3,
+    "target_class": "CLAUSE_START",
+    "sentence": "the director discovered that the teacher continued",
+    "jabberwocky": "the drait toon that the streem deysh",
+    "full_scrambled": "the deysh that drait the toon streem",
+    "content_scrambled": "the toon deysh that the streem drait",
+    "function_scrambled": "that drait toon the the streem deysh",
+    "cue_deleted": "the drait toon ke the streem deysh",
+    "content_words": [
+      "director",
+      "discovered",
+      "teacher",
+      "continued"
+    ],
+    "nonce_words": [
+      "drait",
+      "toon",
+      "streem",
+      "deysh"
+    ],
+    "seeds": {
+      "full_scramble": 487103204,
+      "content_scramble": 487103205,
+      "function_scramble": 487103206
+    }
+  },
+  {
+    "set_id": 6,
+    "cue_family": "complementizers",
+    "cue_word": "that",
+    "cue_position": 3,
+    "target_class": "CLAUSE_START",
+    "sentence": "the engineer noticed that the professor prepared",
+    "jabberwocky": "the diess skenk that the dath smoul",
+    "full_scrambled": "the dath diess the skenk that smoul",
+    "content_scrambled": "the smoul dath that the diess skenk",
+    "function_scrambled": "the diess skenk the that dath smoul",
+    "cue_deleted": "the diess skenk ke the dath smoul",
+    "content_words": [
+      "engineer",
+      "noticed",
+      "professor",
+      "prepared"
+    ],
+    "nonce_words": [
+      "diess",
+      "skenk",
+      "dath",
+      "smoul"
+    ],
+    "seeds": {
+      "full_scramble": 2042056961,
+      "content_scramble": 2042056962,
+      "function_scramble": 2042056963
+    }
+  },
+  {
+    "set_id": 7,
+    "cue_family": "complementizers",
+    "cue_word": "that",
+    "cue_position": 3,
+    "target_class": "CLAUSE_START",
+    "sentence": "the detective understood that the programmer hoped",
+    "jabberwocky": "the kess grul that the dox rouck",
+    "full_scrambled": "dox the the that rouck kess grul",
+    "content_scrambled": "the rouck dox that the kess grul",
+    "function_scrambled": "the kess grul the that dox rouck",
+    "cue_deleted": "the kess grul ke the dox rouck",
+    "content_words": [
+      "detective",
+      "understood",
+      "programmer",
+      "hoped"
+    ],
+    "nonce_words": [
+      "kess",
+      "grul",
+      "dox",
+      "rouck"
+    ],
+    "seeds": {
+      "full_scramble": 1784311693,
+      "content_scramble": 1784311694,
+      "function_scramble": 1784311695
+    }
+  },
+  {
+    "set_id": 8,
+    "cue_family": "complementizers",
+    "cue_word": "that",
+    "cue_position": 3,
+    "target_class": "CLAUSE_START",
+    "sentence": "the surgeon realized that the scientist attempted",
+    "jabberwocky": "the peeth ploll that the cleet cleat",
+    "full_scrambled": "cleet that the ploll cleat peeth the",
+    "content_scrambled": "the peeth cleet that the cleat ploll",
+    "function_scrambled": "that peeth ploll the the cleet cleat",
+    "cue_deleted": "the peeth ploll ke the cleet cleat",
+    "content_words": [
+      "surgeon",
+      "realized",
+      "scientist",
+      "attempted"
+    ],
+    "nonce_words": [
+      "peeth",
+      "ploll",
+      "cleet",
+      "cleat"
+    ],
+    "seeds": {
+      "full_scramble": 1359483051,
+      "content_scramble": 1359483052,
+      "function_scramble": 1359483053
+    }
+  },
+  {
+    "set_id": 9,
+    "cue_family": "complementizers",
+    "cue_word": "that",
+    "cue_position": 3,
+    "target_class": "CLAUSE_START",
+    "sentence": "the author expected that the lawyer needed",
+    "jabberwocky": "the roun meyl that the brenk blooss",
+    "full_scrambled": "meyl roun blooss brenk the the that",
+    "content_scrambled": "the meyl brenk that the roun blooss",
+    "function_scrambled": "the roun meyl the that brenk blooss",
+    "cue_deleted": "the roun meyl ke the brenk blooss",
+    "content_words": [
+      "author",
+      "expected",
+      "lawyer",
+      "needed"
+    ],
+    "nonce_words": [
+      "roun",
+      "meyl",
+      "brenk",
+      "blooss"
+    ],
+    "seeds": {
+      "full_scramble": 814466187,
+      "content_scramble": 814466188,
+      "function_scramble": 814466189
+    }
+  },
+  {
+    "set_id": 10,
+    "cue_family": "complementizers",
+    "cue_word": "that",
+    "cue_position": 3,
+    "target_class": "CLAUSE_START",
+    "sentence": "the architect said that the captain intended",
+    "jabberwocky": "the roth zisp that the rean quil",
+    "full_scrambled": "quil zisp roth the rean that the",
+    "content_scrambled": "the roth quil that the rean zisp",
+    "function_scrambled": "the roth zisp the that rean quil",
+    "cue_deleted": "the roth zisp ke the rean quil",
+    "content_words": [
+      "architect",
+      "said",
+      "captain",
+      "intended"
+    ],
+    "nonce_words": [
+      "roth",
+      "zisp",
+      "rean",
+      "quil"
+    ],
+    "seeds": {
+      "full_scramble": 1191865151,
+      "content_scramble": 1191865152,
+      "function_scramble": 1191865153
+    }
+  },
+  {
+    "set_id": 11,
+    "cue_family": "complementizers",
+    "cue_word": "that",
+    "cue_position": 3,
+    "target_class": "CLAUSE_START",
+    "sentence": "the chef hoped that the plumber loved",
+    "jabberwocky": "the hank gaib that the deall broth",
+    "full_scrambled": "gaib the broth that hank the deall",
+    "content_scrambled": "the hank deall that the gaib broth",
+    "function_scrambled": "that hank gaib the the deall broth",
+    "cue_deleted": "the hank gaib ke the deall broth",
+    "content_words": [
+      "chef",
+      "hoped",
+      "plumber",
+      "loved"
+    ],
+    "nonce_words": [
+      "hank",
+      "gaib",
+      "deall",
+      "broth"
+    ],
+    "seeds": {
+      "full_scramble": 483454045,
+      "content_scramble": 483454046,
+      "function_scramble": 483454047
+    }
+  },
+  {
+    "set_id": 12,
+    "cue_family": "complementizers",
+    "cue_word": "that",
+    "cue_position": 3,
+    "target_class": "CLAUSE_START",
+    "sentence": "the plumber knew that the engineer chose",
+    "jabberwocky": "the sot slek that the theesk fesh",
+    "full_scrambled": "fesh that slek theesk the the sot",
+    "content_scrambled": "the fesh slek that the theesk sot",
+    "function_scrambled": "that sot slek the the theesk fesh",
+    "cue_deleted": "the sot slek ke the theesk fesh",
+    "content_words": [
+      "plumber",
+      "knew",
+      "engineer",
+      "chose"
+    ],
+    "nonce_words": [
+      "sot",
+      "slek",
+      "theesk",
+      "fesh"
+    ],
+    "seeds": {
+      "full_scramble": 610538493,
+      "content_scramble": 610538494,
+      "function_scramble": 610538495
+    }
+  },
+  {
+    "set_id": 13,
+    "cue_family": "complementizers",
+    "cue_word": "that",
+    "cue_position": 3,
+    "target_class": "CLAUSE_START",
+    "sentence": "the farmer thought that the chef forgot",
+    "jabberwocky": "the fleeg criesh that the sief zey",
+    "full_scrambled": "zey the fleeg criesh that the sief",
+    "content_scrambled": "the sief zey that the criesh fleeg",
+    "function_scrambled": "the fleeg criesh the that sief zey",
+    "cue_deleted": "the fleeg criesh ke the sief zey",
+    "content_words": [
+      "farmer",
+      "thought",
+      "chef",
+      "forgot"
+    ],
+    "nonce_words": [
+      "fleeg",
+      "criesh",
+      "sief",
+      "zey"
+    ],
+    "seeds": {
+      "full_scramble": 1991527954,
+      "content_scramble": 1991527955,
+      "function_scramble": 1991527956
+    }
+  },
+  {
+    "set_id": 14,
+    "cue_family": "complementizers",
+    "cue_word": "that",
+    "cue_position": 3,
+    "target_class": "CLAUSE_START",
+    "sentence": "the mechanic believed that the gardener started",
+    "jabberwocky": "the griz brid that the thiss taing",
+    "full_scrambled": "that brid thiss taing the griz the",
+    "content_scrambled": "the brid thiss that the griz taing",
+    "function_scrambled": "that griz brid the the thiss taing",
+    "cue_deleted": "the griz brid ke the thiss taing",
+    "content_words": [
+      "mechanic",
+      "believed",
+      "gardener",
+      "started"
+    ],
+    "nonce_words": [
+      "griz",
+      "brid",
+      "thiss",
+      "taing"
+    ],
+    "seeds": {
+      "full_scramble": 2098220708,
+      "content_scramble": 2098220709,
+      "function_scramble": 2098220710
+    }
+  },
+  {
+    "set_id": 15,
+    "cue_family": "complementizers",
+    "cue_word": "that",
+    "cue_position": 3,
+    "target_class": "CLAUSE_START",
+    "sentence": "the carpenter discovered that the musician wished",
+    "jabberwocky": "the clull zaix that the ceash krud",
+    "full_scrambled": "zaix the clull that the krud ceash",
+    "content_scrambled": "the clull krud that the zaix ceash",
+    "function_scrambled": "that clull zaix the the ceash krud",
+    "cue_deleted": "the clull zaix ke the ceash krud",
+    "content_words": [
+      "carpenter",
+      "discovered",
+      "musician",
+      "wished"
+    ],
+    "nonce_words": [
+      "clull",
+      "zaix",
+      "ceash",
+      "krud"
+    ],
+    "seeds": {
+      "full_scramble": 1259282832,
+      "content_scramble": 1259282833,
+      "function_scramble": 1259282834
+    }
+  },
+  {
+    "set_id": 16,
+    "cue_family": "complementizers",
+    "cue_word": "that",
+    "cue_position": 3,
+    "target_class": "CLAUSE_START",
+    "sentence": "the professor noticed that the baker wanted",
+    "jabberwocky": "the stath neyb that the queyr riet",
+    "full_scrambled": "stath riet the that the queyr neyb",
+    "content_scrambled": "the queyr riet that the stath neyb",
+    "function_scrambled": "that stath neyb the the queyr riet",
+    "cue_deleted": "the stath neyb ke the queyr riet",
+    "content_words": [
+      "professor",
+      "noticed",
+      "baker",
+      "wanted"
+    ],
+    "nonce_words": [
+      "stath",
+      "neyb",
+      "queyr",
+      "riet"
+    ],
+    "seeds": {
+      "full_scramble": 539216380,
+      "content_scramble": 539216381,
+      "function_scramble": 539216382
+    }
+  },
+  {
+    "set_id": 17,
+    "cue_family": "complementizers",
+    "cue_word": "that",
+    "cue_position": 3,
+    "target_class": "CLAUSE_START",
+    "sentence": "the scientist understood that the farmer tried",
+    "jabberwocky": "the coull trax that the whiet juck",
+    "full_scrambled": "that the trax juck whiet coull the",
+    "content_scrambled": "the juck coull that the whiet trax",
+    "function_scrambled": "that coull trax the the whiet juck",
+    "cue_deleted": "the coull trax ke the whiet juck",
+    "content_words": [
+      "scientist",
+      "understood",
+      "farmer",
+      "tried"
+    ],
+    "nonce_words": [
+      "coull",
+      "trax",
+      "whiet",
+      "juck"
+    ],
+    "seeds": {
+      "full_scramble": 2118088072,
+      "content_scramble": 2118088073,
+      "function_scramble": 2118088074
+    }
+  },
+  {
+    "set_id": 18,
+    "cue_family": "complementizers",
+    "cue_word": "that",
+    "cue_position": 3,
+    "target_class": "CLAUSE_START",
+    "sentence": "the librarian realized that the mechanic preferred",
+    "jabberwocky": "the heyth cees that the jeyz boull",
+    "full_scrambled": "boull jeyz that heyth the the cees",
+    "content_scrambled": "the cees boull that the jeyz heyth",
+    "function_scrambled": "that heyth cees the the jeyz boull",
+    "cue_deleted": "the heyth cees ke the jeyz boull",
+    "content_words": [
+      "librarian",
+      "realized",
+      "mechanic",
+      "preferred"
+    ],
+    "nonce_words": [
+      "heyth",
+      "cees",
+      "jeyz",
+      "boull"
+    ],
+    "seeds": {
+      "full_scramble": 2014833398,
+      "content_scramble": 2014833399,
+      "function_scramble": 2014833400
+    }
+  },
+  {
+    "set_id": 19,
+    "cue_family": "complementizers",
+    "cue_word": "that",
+    "cue_position": 3,
+    "target_class": "CLAUSE_START",
+    "sentence": "the lawyer expected that the researcher demanded",
+    "jabberwocky": "the dusp reyg that the mouck dall",
+    "full_scrambled": "mouck the the that reyg dusp dall",
+    "content_scrambled": "the dall dusp that the reyg mouck",
+    "function_scrambled": "the dusp reyg the that mouck dall",
+    "cue_deleted": "the dusp reyg ke the mouck dall",
+    "content_words": [
+      "lawyer",
+      "expected",
+      "researcher",
+      "demanded"
+    ],
+    "nonce_words": [
+      "dusp",
+      "reyg",
+      "mouck",
+      "dall"
+    ],
+    "seeds": {
+      "full_scramble": 664117224,
+      "content_scramble": 664117225,
+      "function_scramble": 664117226
+    }
+  },
+  {
+    "set_id": 20,
+    "cue_family": "complementizers",
+    "cue_word": "that",
+    "cue_position": 3,
+    "target_class": "CLAUSE_START",
+    "sentence": "the programmer said that the doctor expected",
+    "jabberwocky": "the skesk preyt that the smeang pril",
+    "full_scrambled": "the the preyt that skesk smeang pril",
+    "content_scrambled": "the smeang pril that the preyt skesk",
+    "function_scrambled": "that skesk preyt the the smeang pril",
+    "cue_deleted": "the skesk preyt ke the smeang pril",
+    "content_words": [
+      "programmer",
+      "said",
+      "doctor",
+      "expected"
+    ],
+    "nonce_words": [
+      "skesk",
+      "preyt",
+      "smeang",
+      "pril"
+    ],
+    "seeds": {
+      "full_scramble": 241604224,
+      "content_scramble": 241604225,
+      "function_scramble": 241604226
+    }
+  },
+  {
+    "set_id": 21,
+    "cue_family": "complementizers",
+    "cue_word": "that",
+    "cue_position": 3,
+    "target_class": "CLAUSE_START",
+    "sentence": "the journalist hoped that the surgeon remembered",
+    "jabberwocky": "the nail prie that the cist preysp",
+    "full_scrambled": "preysp the cist prie the nail that",
+    "content_scrambled": "the cist preysp that the prie nail",
+    "function_scrambled": "that nail prie the the cist preysp",
+    "cue_deleted": "the nail prie ke the cist preysp",
+    "content_words": [
+      "journalist",
+      "hoped",
+      "surgeon",
+      "remembered"
+    ],
+    "nonce_words": [
+      "nail",
+      "prie",
+      "cist",
+      "preysp"
+    ],
+    "seeds": {
+      "full_scramble": 725491134,
+      "content_scramble": 725491135,
+      "function_scramble": 725491136
+    }
+  },
+  {
+    "set_id": 22,
+    "cue_family": "complementizers",
+    "cue_word": "that",
+    "cue_position": 3,
+    "target_class": "CLAUSE_START",
+    "sentence": "the baker knew that the student struggled",
+    "jabberwocky": "the striest cit that the greym klell",
+    "full_scrambled": "striest klell greym cit that the the",
+    "content_scrambled": "the cit greym that the klell striest",
+    "function_scrambled": "that striest cit the the greym klell",
+    "cue_deleted": "the striest cit ke the greym klell",
+    "content_words": [
+      "baker",
+      "knew",
+      "student",
+      "struggled"
+    ],
+    "nonce_words": [
+      "striest",
+      "cit",
+      "greym",
+      "klell"
+    ],
+    "seeds": {
+      "full_scramble": 2104137598,
+      "content_scramble": 2104137599,
+      "function_scramble": 2104137600
+    }
+  },
+  {
+    "set_id": 23,
+    "cue_family": "complementizers",
+    "cue_word": "that",
+    "cue_position": 3,
+    "target_class": "CLAUSE_START",
+    "sentence": "the gardener thought that the detective liked",
+    "jabberwocky": "the maix dus that the kleng josh",
+    "full_scrambled": "dus the the josh that kleng maix",
+    "content_scrambled": "the dus maix that the josh kleng",
+    "function_scrambled": "the maix dus the that kleng josh",
+    "cue_deleted": "the maix dus ke the kleng josh",
+    "content_words": [
+      "gardener",
+      "thought",
+      "detective",
+      "liked"
+    ],
+    "nonce_words": [
+      "maix",
+      "dus",
+      "kleng",
+      "josh"
+    ],
+    "seeds": {
+      "full_scramble": 482648458,
+      "content_scramble": 482648459,
+      "function_scramble": 482648460
+    }
+  },
+  {
+    "set_id": 24,
+    "cue_family": "complementizers",
+    "cue_word": "that",
+    "cue_position": 3,
+    "target_class": "CLAUSE_START",
+    "sentence": "the photographer believed that the author requested",
+    "jabberwocky": "the dill fiesh that the heym fesp",
+    "full_scrambled": "fesp that heym fiesh the the dill",
+    "content_scrambled": "the fiesh fesp that the dill heym",
+    "function_scrambled": "that dill fiesh the the heym fesp",
+    "cue_deleted": "the dill fiesh ke the heym fesp",
+    "content_words": [
+      "photographer",
+      "believed",
+      "author",
+      "requested"
+    ],
+    "nonce_words": [
+      "dill",
+      "fiesh",
+      "heym",
+      "fesp"
+    ],
+    "seeds": {
+      "full_scramble": 1818666299,
+      "content_scramble": 1818666300,
+      "function_scramble": 1818666301
+    }
+  },
+  {
+    "set_id": 25,
+    "cue_family": "complementizers",
+    "cue_word": "that",
+    "cue_position": 3,
+    "target_class": "CLAUSE_START",
+    "sentence": "the researcher discovered that the journalist managed",
+    "jabberwocky": "the strib spoo that the sleank trast",
+    "full_scrambled": "spoo the sleank trast strib that the",
+    "content_scrambled": "the strib trast that the sleank spoo",
+    "function_scrambled": "that strib spoo the the sleank trast",
+    "cue_deleted": "the strib spoo ke the sleank trast",
+    "content_words": [
+      "researcher",
+      "discovered",
+      "journalist",
+      "managed"
+    ],
+    "nonce_words": [
+      "strib",
+      "spoo",
+      "sleank",
+      "trast"
+    ],
+    "seeds": {
+      "full_scramble": 833040027,
+      "content_scramble": 833040028,
+      "function_scramble": 833040029
+    }
+  },
+  {
+    "set_id": 26,
+    "cue_family": "complementizers",
+    "cue_word": "that",
+    "cue_position": 3,
+    "target_class": "CLAUSE_START",
+    "sentence": "the artist noticed that the carpenter agreed",
+    "jabberwocky": "the klait graip that the broof sneell",
+    "full_scrambled": "sneell the that klait broof the graip",
+    "content_scrambled": "the klait broof that the graip sneell",
+    "function_scrambled": "that klait graip the the broof sneell",
+    "cue_deleted": "the klait graip ke the broof sneell",
+    "content_words": [
+      "artist",
+      "noticed",
+      "carpenter",
+      "agreed"
+    ],
+    "nonce_words": [
+      "klait",
+      "graip",
+      "broof",
+      "sneell"
+    ],
+    "seeds": {
+      "full_scramble": 1772639137,
+      "content_scramble": 1772639138,
+      "function_scramble": 1772639139
+    }
+  },
+  {
+    "set_id": 27,
+    "cue_family": "complementizers",
+    "cue_word": "that",
+    "cue_position": 3,
+    "target_class": "CLAUSE_START",
+    "sentence": "the electrician understood that the director planned",
+    "jabberwocky": "the thush plool that the tag weg",
+    "full_scrambled": "weg that plool the tag thush the",
+    "content_scrambled": "the tag plool that the weg thush",
+    "function_scrambled": "the thush plool the that tag weg",
+    "cue_deleted": "the thush plool ke the tag weg",
+    "content_words": [
+      "electrician",
+      "understood",
+      "director",
+      "planned"
+    ],
+    "nonce_words": [
+      "thush",
+      "plool",
+      "tag",
+      "weg"
+    ],
+    "seeds": {
+      "full_scramble": 1476430321,
+      "content_scramble": 1476430322,
+      "function_scramble": 1476430323
+    }
+  },
+  {
+    "set_id": 28,
+    "cue_family": "complementizers",
+    "cue_word": "that",
+    "cue_position": 3,
+    "target_class": "CLAUSE_START",
+    "sentence": "the teacher realized that the librarian learned",
+    "jabberwocky": "the snooll rod that the spiell press",
+    "full_scrambled": "the spiell snooll rod the press that",
+    "content_scrambled": "the rod snooll that the spiell press",
+    "function_scrambled": "that snooll rod the the spiell press",
+    "cue_deleted": "the snooll rod ke the spiell press",
+    "content_words": [
+      "teacher",
+      "realized",
+      "librarian",
+      "learned"
+    ],
+    "nonce_words": [
+      "snooll",
+      "rod",
+      "spiell",
+      "press"
+    ],
+    "seeds": {
+      "full_scramble": 1682591712,
+      "content_scramble": 1682591713,
+      "function_scramble": 1682591714
+    }
+  },
+  {
+    "set_id": 29,
+    "cue_family": "complementizers",
+    "cue_word": "that",
+    "cue_position": 3,
+    "target_class": "CLAUSE_START",
+    "sentence": "the coach expected that the artist began",
+    "jabberwocky": "the fieb frid that the veeng fliest",
+    "full_scrambled": "fieb the that veeng frid fliest the",
+    "content_scrambled": "the frid fieb that the fliest veeng",
+    "function_scrambled": "that fieb frid the the veeng fliest",
+    "cue_deleted": "the fieb frid ke the veeng fliest",
+    "content_words": [
+      "coach",
+      "expected",
+      "artist",
+      "began"
+    ],
+    "nonce_words": [
+      "fieb",
+      "frid",
+      "veeng",
+      "fliest"
+    ],
+    "seeds": {
+      "full_scramble": 425592860,
+      "content_scramble": 425592861,
+      "function_scramble": 425592862
+    }
+  },
+  {
+    "set_id": 30,
+    "cue_family": "complementizers",
+    "cue_word": "that",
+    "cue_position": 3,
+    "target_class": "CLAUSE_START",
+    "sentence": "the musician said that the architect offered",
+    "jabberwocky": "the friz blis that the craiz sweeck",
+    "full_scrambled": "the sweeck friz craiz blis the that",
+    "content_scrambled": "the sweeck craiz that the blis friz",
+    "function_scrambled": "that friz blis the the craiz sweeck",
+    "cue_deleted": "the friz blis ke the craiz sweeck",
+    "content_words": [
+      "musician",
+      "said",
+      "architect",
+      "offered"
+    ],
+    "nonce_words": [
+      "friz",
+      "blis",
+      "craiz",
+      "sweeck"
+    ],
+    "seeds": {
+      "full_scramble": 781660807,
+      "content_scramble": 781660808,
+      "function_scramble": 781660809
+    }
+  }
+]

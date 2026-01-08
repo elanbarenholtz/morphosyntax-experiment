@@ -1,0 +1,50 @@
+====================================================================================================
+SCALING ANALYSIS: Syntactic Constraint Effect Across Model Sizes
+====================================================================================================
+
+Table 1: Entropy Reduction Effect by Model Size
+----------------------------------------------------------------------------------------------------
+Model        Size     Params   Jab Entropy          Scr Entropy          ΔEntropy     Cohen d   
+                      (M)      (mean ± SD bits)     (mean ± SD bits)     (bits)                 
+----------------------------------------------------------------------------------------------------
+GPT-2        124M     124      8.341 ± 0.133        8.769 ± 0.147             -0.427     -0.557
+Pythia       160M     162      8.523 ± 0.138        8.775 ± 0.142             -0.252     -0.329
+Pythia       410M     410      8.364 ± 0.117        8.634 ± 0.140             -0.270     -0.382
+GPT-2        774M     774      8.260 ± 0.150        8.376 ± 0.177             -0.116     -0.129
+----------------------------------------------------------------------------------------------------
+
+Figure 1: See scaling_plot.png
+
+====================================================================================================
+
+METHODS NOTE: Word-Aligned Entropy Analysis
+
+Normalization: All stimuli were length-matched within triplets (real sentence, jabberwocky,
+scrambled jabberwocky) to control for sequence length effects on entropy. Nonce words were
+constructed to match real words in syllable count and phonotactic structure.
+
+In-context tokenization: To avoid tokenization confounds from BPE sensitivity to leading
+whitespace and context, all stimuli were tokenized as complete sequences (not word-by-word),
+and token-level predictions were aggregated to word boundaries using offset mapping. This
+ensures that entropy reflects the model's predictions in natural reading context rather than
+artifacts of isolated word tokenization.
+
+Word-aligned entropy: For each word position w, we computed Shannon entropy H(w) =
+-Σ p(token) × log₂(p(token)) over the model's predicted distribution at the final token
+of word w. When a word spans multiple BPE tokens, we used the distribution at the final
+token position, as this reflects the model's prediction after processing the complete word
+form. Word-level entropies were then averaged across all content positions (excluding
+sentence-initial and sentence-final words).
+
+Scrambled control: For each jabberwocky stimulus, we created a scrambled version by
+randomly permuting word order while preserving the exact lexical items (including all
+nonce words). This eliminates syntactic structure while controlling for lexical identity,
+allowing us to isolate the effect of word order/syntactic relationships on predictive
+entropy. Scrambling was performed deterministically with a fixed random seed to ensure
+reproducibility.
+
+Effect size: We report Cohen's d as (μ_jab - μ_scr) / σ_pooled, where σ_pooled is the
+pooled standard deviation across the 30 stimulus triplets. Negative d indicates lower
+entropy (stronger constraint) in syntactically structured jabberwocky relative to
+scrambled controls.
+====================================================================================================

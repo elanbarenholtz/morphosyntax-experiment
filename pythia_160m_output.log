@@ -1,0 +1,19 @@
+<string>:9: SyntaxWarning: invalid escape sequence '\!'
+Running Pythia-160m...
+================================================================================
+MORPHOSYNTAX EXPERIMENT - FINAL ANALYSIS
+================================================================================
+
+Model: EleutherAI/pythia-160m
+Stimuli: stimuli_with_scrambled.json
+
+Loading model... (device: cpu)
+Loaded 30 stimulus sets
+
+Processing stimuli:   0%|          | 0/30 [00:00<?, ?it/s]Processing stimuli:   3%|▎         | 1/30 [00:00<00:21,  1.34it/s]Processing stimuli:   7%|▋         | 2/30 [00:01<00:16,  1.71it/s]Processing stimuli:  10%|█         | 3/30 [00:01<00:14,  1.88it/s]Processing stimuli:  13%|█▎        | 4/30 [00:02<00:14,  1.81it/s]Processing stimuli:  17%|█▋        | 5/30 [00:02<00:12,  2.01it/s]Processing stimuli:  20%|██        | 6/30 [00:03<00:11,  2.03it/s]Processing stimuli:  23%|██▎       | 7/30 [00:03<00:13,  1.70it/s]Processing stimuli:  27%|██▋       | 8/30 [00:04<00:13,  1.65it/s]Processing stimuli:  30%|███       | 9/30 [00:06<00:21,  1.05s/it]Processing stimuli:  33%|███▎      | 10/30 [00:07<00:17,  1.12it/s]Processing stimuli:  37%|███▋      | 11/30 [00:07<00:14,  1.33it/s]Processing stimuli:  40%|████      | 12/30 [00:08<00:13,  1.36it/s]Processing stimuli:  43%|████▎     | 13/30 [00:08<00:11,  1.43it/s]Processing stimuli:  47%|████▋     | 14/30 [00:09<00:10,  1.46it/s]Processing stimuli:  50%|█████     | 15/30 [00:10<00:10,  1.42it/s]Processing stimuli:  53%|█████▎    | 16/30 [00:10<00:08,  1.63it/s]Processing stimuli:  57%|█████▋    | 17/30 [00:11<00:07,  1.80it/s]Processing stimuli:  60%|██████    | 18/30 [00:11<00:06,  1.98it/s]Processing stimuli:  63%|██████▎   | 19/30 [00:11<00:05,  2.10it/s]Processing stimuli:  67%|██████▋   | 20/30 [00:12<00:04,  2.23it/s]Processing stimuli:  70%|███████   | 21/30 [00:12<00:03,  2.32it/s]Processing stimuli:  73%|███████▎  | 22/30 [00:13<00:03,  2.38it/s]Processing stimuli:  77%|███████▋  | 23/30 [00:13<00:02,  2.45it/s]Processing stimuli:  80%|████████  | 24/30 [00:13<00:02,  2.45it/s]Processing stimuli:  83%|████████▎ | 25/30 [00:14<00:02,  2.46it/s]Processing stimuli:  87%|████████▋ | 26/30 [00:14<00:01,  2.28it/s]Processing stimuli:  90%|█████████ | 27/30 [00:15<00:01,  2.26it/s]Processing stimuli:  93%|█████████▎| 28/30 [00:15<00:00,  2.31it/s]Processing stimuli:  97%|█████████▋| 29/30 [00:16<00:00,  2.24it/s]Processing stimuli: 100%|██████████| 30/30 [00:16<00:00,  2.20it/s]Processing stimuli: 100%|██████████| 30/30 [00:16<00:00,  1.81it/s]
+
+
+Experiment complete!
+Results saved to: experiment_results_pythia_160m_final.json
+
+Pythia-160m complete\!

@@ -1,0 +1,1952 @@
+[
+  {
+    "set_id": 1,
+    "conditions": {
+      "sentence": {
+        "text": "The teacher was explaining the concept to the students clearly",
+        "tokens": [
+          " and"
+        ],
+        "token_entropies": [
+          1.1666343482861243
+        ],
+        "mean_entropy": 1.1666343482861243,
+        "top1_probs": [
+          0.7301432143793348
+        ],
+        "mean_top1": 0.7301432143793348,
+        "num_tokens": 1
+      },
+      "jabberwocky": {
+        "text": "The blicket was florping the daxen to the wuggles grentily",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          0.5517725434419781
+        ],
+        "mean_entropy": 0.5517725434419781,
+        "top1_probs": [
+          0.9231836163257474
+        ],
+        "mean_top1": 0.9231836163257474,
+        "num_tokens": 1
+      },
+      "stripped": {
+        "text": "Ke blicket nar florp ke daxen po ke wuggle grenti",
+        "tokens": [
+          "T"
+        ],
+        "token_entropies": [
+          0.5033881790084667
+        ],
+        "mean_entropy": 0.5033881790084667,
+        "top1_probs": [
+          0.9255073086732835
+        ],
+        "mean_top1": 0.9255073086732835,
+        "num_tokens": 1
+      },
+      "nonwords": {
+        "text": "blimp pliff flurn dwel verm zent flimp geff trel klent",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          1.846604025130728
+        ],
+        "mean_entropy": 1.846604025130728,
+        "top1_probs": [
+          0.4408256646271297
+        ],
+        "mean_top1": 0.4408256646271297,
+        "num_tokens": 1
+      }
+    }
+  },
+  {
+    "set_id": 2,
+    "conditions": {
+      "sentence": {
+        "text": "A small bird landed softly on the wooden fence",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          0.20249667023542775
+        ],
+        "mean_entropy": 0.20249667023542775,
+        "top1_probs": [
+          0.975455322068613
+        ],
+        "mean_top1": 0.975455322068613,
+        "num_tokens": 1
+      },
+      "jabberwocky": {
+        "text": "A flimp zorf tamped grofly on the plonken gleb",
+        "tokens": [
+          "The"
+        ],
+        "token_entropies": [
+          2.6794238602845293
+        ],
+        "mean_entropy": 2.6794238602845293,
+        "top1_probs": [
+          0.35129558057204685
+        ],
+        "mean_top1": 0.35129558057204685,
+        "num_tokens": 1
+      },
+      "stripped": {
+        "text": "Na flimp zorf tamp grofl ko ke plonk gleb",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.37328357510509486
+        ],
+        "mean_entropy": 0.37328357510509486,
+        "top1_probs": [
+          0.937117419775452
+        ],
+        "mean_top1": 0.937117419775452,
+        "num_tokens": 1
+      },
+      "nonwords": {
+        "text": "vork yalp sken kren drell zorf verm trock flib",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          1.0147569922794453
+        ],
+        "mean_entropy": 1.0147569922794453,
+        "top1_probs": [
+          0.7280678970178238
+        ],
+        "mean_top1": 0.7280678970178238,
+        "num_tokens": 1
+      }
+    }
+  },
+  {
+    "set_id": 3,
+    "conditions": {
+      "sentence": {
+        "text": "The children were playing with their toys in the garden",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          0.8748083523600183
+        ],
+        "mean_entropy": 0.8748083523600183,
+        "top1_probs": [
+          0.8368048749360931
+        ],
+        "mean_top1": 0.8368048749360931,
+        "num_tokens": 1
+      },
+      "jabberwocky": {
+        "text": "The blickets were florping with their daxens in the wuggle",
+        "tokens": [
+          " forest"
+        ],
+        "token_entropies": [
+          2.486949423052702
+        ],
+        "mean_entropy": 2.486949423052702,
+        "top1_probs": [
+          0.5058618351720999
+        ],
+        "mean_top1": 0.5058618351720999,
+        "num_tokens": 1
+      },
+      "stripped": {
+        "text": "Ke blicket nar florp pe zi daxen ne ke wuggle",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.7024257501254005
+        ],
+        "mean_entropy": 0.7024257501254005,
+        "top1_probs": [
+          0.8808473209948009
+        ],
+        "mean_top1": 0.8808473209948009,
+        "num_tokens": 1
+      },
+      "nonwords": {
+        "text": "tamp sken trel grint grent yalm teff trock plonken gleb",
+        "tokens": [
+          "Sorry"
+        ],
+        "token_entropies": [
+          1.3575020361090777
+        ],
+        "mean_entropy": 1.3575020361090777,
+        "top1_probs": [
+          0.6206841509770111
+        ],
+        "mean_top1": 0.6206841509770111,
+        "num_tokens": 1
+      }
+    }
+  },
+  {
+    "set_id": 4,
+    "conditions": {
+      "sentence": {
+        "text": "She has been reading that book very carefully",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          2.6846683382291667
+        ],
+        "mean_entropy": 2.6846683382291667,
+        "top1_probs": [
+          0.2596451728117003
+        ],
+        "mean_top1": 0.2596451728117003,
+        "num_tokens": 1
+      },
+      "jabberwocky": {
+        "text": "She has been florping that daxen very grentily",
+        "tokens": [
+          ".\n\n"
+        ],
+        "token_entropies": [
+          2.629081367453517
+        ],
+        "mean_entropy": 2.629081367453517,
+        "top1_probs": [
+          0.47433104210034754
+        ],
+        "mean_top1": 0.47433104210034754,
+        "num_tokens": 1
+      },
+      "stripped": {
+        "text": "Sho ha nar florp ze daxen vo grenti",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.3146347323121762
+        ],
+        "mean_entropy": 0.3146347323121762,
+        "top1_probs": [
+          0.955574248389514
+        ],
+        "mean_top1": 0.955574248389514,
+        "num_tokens": 1
+      },
+      "nonwords": {
+        "text": "mip whiff bliv flimp kren plonk plov trell",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.20856135336099343
+        ],
+        "mean_entropy": 0.20856135336099343,
+        "top1_probs": [
+          0.9700686468891225
+        ],
+        "mean_top1": 0.9700686468891225,
+        "num_tokens": 1
+      }
+    }
+  },
+  {
+    "set_id": 5,
+    "conditions": {
+      "sentence": {
+        "text": "The scientist discovered a new species in the forest",
+        "tokens": [
+          "after"
+        ],
+        "token_entropies": [
+          3.0312187581324213
+        ],
+        "mean_entropy": 3.0312187581324213,
+        "top1_probs": [
+          0.2354618204264902
+        ],
+        "mean_top1": 0.2354618204264902,
+        "num_tokens": 1
+      },
+      "jabberwocky": {
+        "text": "The blicket florped a flimp zorf in the wuggle",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          1.9323189623567
+        ],
+        "mean_entropy": 1.9323189623567,
+        "top1_probs": [
+          0.600831650095786
+        ],
+        "mean_top1": 0.600831650095786,
+        "num_tokens": 1
+      },
+      "stripped": {
+        "text": "Ke blicket florp na flimp zorf ne ke wuggle",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          1.3249601063686842
+        ],
+        "mean_entropy": 1.3249601063686842,
+        "top1_probs": [
+          0.7205887231797024
+        ],
+        "mean_top1": 0.7205887231797024,
+        "num_tokens": 1
+      },
+      "nonwords": {
+        "text": "snorf grof klent plov vork zent grint sniv yalm",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.6945717423318952
+        ],
+        "mean_entropy": 0.6945717423318952,
+        "top1_probs": [
+          0.8922193933268979
+        ],
+        "mean_top1": 0.8922193933268979,
+        "num_tokens": 1
+      }
+    }
+  },
+  {
+    "set_id": 6,
+    "conditions": {
+      "sentence": {
+        "text": "They will finish the project by tomorrow morning",
+        "tokens": [
+          "."
+        ],
+        "token_entropies": [
+          1.0695666206693157
+        ],
+        "mean_entropy": 1.0695666206693157,
+        "top1_probs": [
+          0.8458043000105533
+        ],
+        "mean_top1": 0.8458043000105533,
+        "num_tokens": 1
+      },
+      "jabberwocky": {
+        "text": "They will florp the daxen by plonk gleb",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.726815625591657
+        ],
+        "mean_entropy": 0.726815625591657,
+        "top1_probs": [
+          0.8785735171463188
+        ],
+        "mean_top1": 0.8785735171463188,
+        "num_tokens": 1
+      },
+      "stripped": {
+        "text": "Zi wi florp ke daxen le plonk gleb",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.2440074820674838
+        ],
+        "mean_entropy": 0.2440074820674838,
+        "top1_probs": [
+          0.9663180100448885
+        ],
+        "mean_top1": 0.9663180100448885,
+        "num_tokens": 1
+      },
+      "nonwords": {
+        "text": "flib vent yent trell grent zell klent grell",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.8036288571592145
+        ],
+        "mean_entropy": 0.8036288571592145,
+        "top1_probs": [
+          0.8663714207904661
+        ],
+        "mean_top1": 0.8663714207904661,
+        "num_tokens": 1
+      }
+    }
+  },
+  {
+    "set_id": 7,
+    "conditions": {
+      "sentence": {
+        "text": "A gentle breeze was blowing through the open window",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          0.14790163871668371
+        ],
+        "mean_entropy": 0.14790163871668371,
+        "top1_probs": [
+          0.981539568267765
+        ],
+        "mean_top1": 0.981539568267765,
+        "num_tokens": 1
+      },
+      "jabberwocky": {
+        "text": "A flimp zorf was florping through the plonken gleb",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          1.1121773500193681
+        ],
+        "mean_entropy": 1.1121773500193681,
+        "top1_probs": [
+          0.8117598206102405
+        ],
+        "mean_top1": 0.8117598206102405,
+        "num_tokens": 1
+      },
+      "stripped": {
+        "text": "Na flimp zorf nar florp so ke plonk gleb",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.5515637252827795
+        ],
+        "mean_entropy": 0.5515637252827795,
+        "top1_probs": [
+          0.8998039794418433
+        ],
+        "mean_top1": 0.8998039794418433,
+        "num_tokens": 1
+      },
+      "nonwords": {
+        "text": "brell kreb dwel skeff whisp grell whif zell blicket",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.6558341567270813
+        ],
+        "mean_entropy": 0.6558341567270813,
+        "top1_probs": [
+          0.8679470486864929
+        ],
+        "mean_top1": 0.8679470486864929,
+        "num_tokens": 1
+      }
+    }
+  },
+  {
+    "set_id": 8,
+    "conditions": {
+      "sentence": {
+        "text": "The musician played the melody beautifully on stage",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          0.011047863433245314
+        ],
+        "mean_entropy": 0.011047863433245314,
+        "top1_probs": [
+          0.9992164080686312
+        ],
+        "mean_top1": 0.9992164080686312,
+        "num_tokens": 1
+      },
+      "jabberwocky": {
+        "text": "The blicket florped the daxen grentily on wuggle",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.7990860594950582
+        ],
+        "mean_entropy": 0.7990860594950582,
+        "top1_probs": [
+          0.7970445058755586
+        ],
+        "mean_top1": 0.7970445058755586,
+        "num_tokens": 1
+      },
+      "stripped": {
+        "text": "Ke blicket florp ke daxen grenti ko wuggle",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.38928345439814643
+        ],
+        "mean_entropy": 0.38928345439814643,
+        "top1_probs": [
+          0.9430770805269023
+        ],
+        "mean_top1": 0.9430770805269023,
+        "num_tokens": 1
+      },
+      "nonwords": {
+        "text": "blicket whill skeff pliff bren sprock drell verm",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.4462731457487967
+        ],
+        "mean_entropy": 0.4462731457487967,
+        "top1_probs": [
+          0.92073792320635
+        ],
+        "mean_top1": 0.92073792320635,
+        "num_tokens": 1
+      }
+    }
+  },
+  {
+    "set_id": 9,
+    "conditions": {
+      "sentence": {
+        "text": "He could have solved the problem more easily",
+        "tokens": [
+          "if"
+        ],
+        "token_entropies": [
+          1.1908894121360278
+        ],
+        "mean_entropy": 1.1908894121360278,
+        "top1_probs": [
+          0.7067069619376336
+        ],
+        "mean_top1": 0.7067069619376336,
+        "num_tokens": 1
+      },
+      "jabberwocky": {
+        "text": "He could have florped the daxen more grentily",
+        "tokens": [
+          "Perhaps"
+        ],
+        "token_entropies": [
+          0.7509304003413956
+        ],
+        "mean_entropy": 0.7509304003413956,
+        "top1_probs": [
+          0.8991172089309655
+        ],
+        "mean_top1": 0.8991172089309655,
+        "num_tokens": 1
+      },
+      "stripped": {
+        "text": "Ho ku ha florp ke daxen mo grenti",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.2733245677319117
+        ],
+        "mean_entropy": 0.2733245677319117,
+        "top1_probs": [
+          0.9660290207853677
+        ],
+        "mean_top1": 0.9660290207853677,
+        "num_tokens": 1
+      },
+      "nonwords": {
+        "text": "whif bren blif driv zomp grenti prock keff",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.230926075225342
+        ],
+        "mean_entropy": 0.230926075225342,
+        "top1_probs": [
+          0.9694719569388824
+        ],
+        "mean_top1": 0.9694719569388824,
+        "num_tokens": 1
+      }
+    }
+  },
+  {
+    "set_id": 10,
+    "conditions": {
+      "sentence": {
+        "text": "The committee is reviewing the proposal thoroughly",
+        "tokens": [
+          " to"
+        ],
+        "token_entropies": [
+          0.9688519207359503
+        ],
+        "mean_entropy": 0.9688519207359503,
+        "top1_probs": [
+          0.8254803084457891
+        ],
+        "mean_top1": 0.8254803084457891,
+        "num_tokens": 1
+      },
+      "jabberwocky": {
+        "text": "The blicket is florping the daxen grentily",
+        "tokens": [
+          "Sorry"
+        ],
+        "token_entropies": [
+          2.9542373393921117
+        ],
+        "mean_entropy": 2.9542373393921117,
+        "top1_probs": [
+          0.25791288657780204
+        ],
+        "mean_top1": 0.25791288657780204,
+        "num_tokens": 1
+      },
+      "stripped": {
+        "text": "Ke blicket nar florp ke daxen grenti",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          1.1485078980660912
+        ],
+        "mean_entropy": 1.1485078980660912,
+        "top1_probs": [
+          0.8029865217865224
+        ],
+        "mean_top1": 0.8029865217865224,
+        "num_tokens": 1
+      },
+      "nonwords": {
+        "text": "plov sniv plov snorf brell vent cleff",
+        "tokens": [
+          "It"
+        ],
+        "token_entropies": [
+          0.7048565818955439
+        ],
+        "mean_entropy": 0.7048565818955439,
+        "top1_probs": [
+          0.8805364543755134
+        ],
+        "mean_top1": 0.8805364543755134,
+        "num_tokens": 1
+      }
+    }
+  },
+  {
+    "set_id": 11,
+    "conditions": {
+      "sentence": {
+        "text": "A mysterious figure appeared suddenly in the darkness",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          0.05215499159884459
+        ],
+        "mean_entropy": 0.05215499159884459,
+        "top1_probs": [
+          0.994625755203571
+        ],
+        "mean_top1": 0.994625755203571,
+        "num_tokens": 1
+      },
+      "jabberwocky": {
+        "text": "A flimp zorf florped grentily in the wuggle",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          1.5831595087446597
+        ],
+        "mean_entropy": 1.5831595087446597,
+        "top1_probs": [
+          0.7444426733680294
+        ],
+        "mean_top1": 0.7444426733680294,
+        "num_tokens": 1
+      },
+      "stripped": {
+        "text": "Na flimp zorf florp grenti ne ke wuggle",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.3423719872901671
+        ],
+        "mean_entropy": 0.3423719872901671,
+        "top1_probs": [
+          0.942478228180992
+        ],
+        "mean_top1": 0.942478228180992,
+        "num_tokens": 1
+      },
+      "nonwords": {
+        "text": "plonk snorf fleff sken geff cleff mip kren",
+        "tokens": [
+          "Hello"
+        ],
+        "token_entropies": [
+          2.1050693303468813
+        ],
+        "mean_entropy": 2.1050693303468813,
+        "top1_probs": [
+          0.506714895425624
+        ],
+        "mean_top1": 0.506714895425624,
+        "num_tokens": 1
+      }
+    }
+  },
+  {
+    "set_id": 12,
+    "conditions": {
+      "sentence": {
+        "text": "The students should study the material very seriously",
+        "tokens": [
+          "and"
+        ],
+        "token_entropies": [
+          2.1605377951897116
+        ],
+        "mean_entropy": 2.1605377951897116,
+        "top1_probs": [
+          0.4564695428554352
+        ],
+        "mean_top1": 0.4564695428554352,
+        "num_tokens": 1
+      },
+      "jabberwocky": {
+        "text": "The blickets should florp the daxen very grentily",
+        "tokens": [
+          "to"
+        ],
+        "token_entropies": [
+          2.1213590090429375
+        ],
+        "mean_entropy": 2.1213590090429375,
+        "top1_probs": [
+          0.5981783950729156
+        ],
+        "mean_top1": 0.5981783950729156,
+        "num_tokens": 1
+      },
+      "stripped": {
+        "text": "Ke blicket shu florp ke daxen vo grenti",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.5567521342080105
+        ],
+        "mean_entropy": 0.5567521342080105,
+        "top1_probs": [
+          0.9173556547072268
+        ],
+        "mean_top1": 0.9173556547072268,
+        "num_tokens": 1
+      },
+      "nonwords": {
+        "text": "trock yeff kreb prav flimp verm klent yent",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.3861153064589477
+        ],
+        "mean_entropy": 0.3861153064589477,
+        "top1_probs": [
+          0.9366584758545129
+        ],
+        "mean_top1": 0.9366584758545129,
+        "num_tokens": 1
+      }
+    }
+  },
+  {
+    "set_id": 13,
+    "conditions": {
+      "sentence": {
+        "text": "She was walking slowly through the quiet streets",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          0.4645657905382017
+        ],
+        "mean_entropy": 0.4645657905382017,
+        "top1_probs": [
+          0.9231689839813904
+        ],
+        "mean_top1": 0.9231689839813904,
+        "num_tokens": 1
+      },
+      "jabberwocky": {
+        "text": "She was florping grentily through the flimp wuggles",
+        "tokens": [
+          " of"
+        ],
+        "token_entropies": [
+          1.0915974561742228
+        ],
+        "mean_entropy": 1.0915974561742228,
+        "top1_probs": [
+          0.817784209294446
+        ],
+        "mean_top1": 0.817784209294446,
+        "num_tokens": 1
+      },
+      "stripped": {
+        "text": "Sho nar florp grenti so ke flimp wuggle",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.08742251961433829
+        ],
+        "mean_entropy": 0.08742251961433829,
+        "top1_probs": [
+          0.9905970329870599
+        ],
+        "mean_top1": 0.9905970329870599,
+        "num_tokens": 1
+      },
+      "nonwords": {
+        "text": "geff veff plov bren trell fleff yeff brell",
+        "tokens": [
+          "H"
+        ],
+        "token_entropies": [
+          1.3569988772966137
+        ],
+        "mean_entropy": 1.3569988772966137,
+        "top1_probs": [
+          0.7060448617164349
+        ],
+        "mean_top1": 0.7060448617164349,
+        "num_tokens": 1
+      }
+    }
+  },
+  {
+    "set_id": 14,
+    "conditions": {
+      "sentence": {
+        "text": "The engineers are designing a better system carefully",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          0.7821329471191097
+        ],
+        "mean_entropy": 0.7821329471191097,
+        "top1_probs": [
+          0.8978917981298407
+        ],
+        "mean_top1": 0.8978917981298407,
+        "num_tokens": 1
+      },
+      "jabberwocky": {
+        "text": "The blickets are florping a flimp zorf grentily",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          3.2491298314498938
+        ],
+        "mean_entropy": 3.2491298314498938,
+        "top1_probs": [
+          0.3206950844388393
+        ],
+        "mean_top1": 0.3206950844388393,
+        "num_tokens": 1
+      },
+      "stripped": {
+        "text": "Ke blicket nar florp na flimp zorf grenti",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          1.2822470536937076
+        ],
+        "mean_entropy": 1.2822470536937076,
+        "top1_probs": [
+          0.7021877504018547
+        ],
+        "mean_top1": 0.7021877504018547,
+        "num_tokens": 1
+      },
+      "nonwords": {
+        "text": "blimp plov sniv yalm tamp prock mip grell",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.8819597454852413
+        ],
+        "mean_entropy": 0.8819597454852413,
+        "top1_probs": [
+          0.8306698877846834
+        ],
+        "mean_top1": 0.8306698877846834,
+        "num_tokens": 1
+      }
+    }
+  },
+  {
+    "set_id": 15,
+    "conditions": {
+      "sentence": {
+        "text": "A young artist painted the landscape very skillfully",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          0.37260894217124607
+        ],
+        "mean_entropy": 0.37260894217124607,
+        "top1_probs": [
+          0.9507998549993012
+        ],
+        "mean_top1": 0.9507998549993012,
+        "num_tokens": 1
+      },
+      "jabberwocky": {
+        "text": "A flimp blicket florped the daxen very grentily",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          0.5063090644752551
+        ],
+        "mean_entropy": 0.5063090644752551,
+        "top1_probs": [
+          0.9382261227486219
+        ],
+        "mean_top1": 0.9382261227486219,
+        "num_tokens": 1
+      },
+      "stripped": {
+        "text": "Na flimp blicket florp ke daxen vo grenti",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          1.752795807954075
+        ],
+        "mean_entropy": 1.752795807954075,
+        "top1_probs": [
+          0.6512427294299421
+        ],
+        "mean_top1": 0.6512427294299421,
+        "num_tokens": 1
+      },
+      "nonwords": {
+        "text": "whill borp pliff grent plov yalm zorf vren",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.6288591038911032
+        ],
+        "mean_entropy": 0.6288591038911032,
+        "top1_probs": [
+          0.8958168100318875
+        ],
+        "mean_top1": 0.8958168100318875,
+        "num_tokens": 1
+      }
+    }
+  },
+  {
+    "set_id": 16,
+    "conditions": {
+      "sentence": {
+        "text": "The dog had been barking loudly at the stranger",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          2.856277437256055
+        ],
+        "mean_entropy": 2.856277437256055,
+        "top1_probs": [
+          0.3944659319367565
+        ],
+        "mean_top1": 0.3944659319367565,
+        "num_tokens": 1
+      },
+      "jabberwocky": {
+        "text": "The zorf had been florping grentily at the blicket",
+        "tokens": [
+          " for"
+        ],
+        "token_entropies": [
+          1.8113198195434965
+        ],
+        "mean_entropy": 1.8113198195434965,
+        "top1_probs": [
+          0.6658298909904349
+        ],
+        "mean_top1": 0.6658298909904349,
+        "num_tokens": 1
+      },
+      "stripped": {
+        "text": "Ke zorf ha nar florp grenti fe ke blicket",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.6522096646535973
+        ],
+        "mean_entropy": 0.6522096646535973,
+        "top1_probs": [
+          0.8948383603310779
+        ],
+        "mean_top1": 0.8948383603310779,
+        "num_tokens": 1
+      },
+      "nonwords": {
+        "text": "fleff bliv grofly shill trell yalm grof flurn drell",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.3294007424832236
+        ],
+        "mean_entropy": 0.3294007424832236,
+        "top1_probs": [
+          0.9472267917910885
+        ],
+        "mean_top1": 0.9472267917910885,
+        "num_tokens": 1
+      }
+    }
+  },
+  {
+    "set_id": 17,
+    "conditions": {
+      "sentence": {
+        "text": "They were discussing the matter quite intensely",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          0.18818031680130703
+        ],
+        "mean_entropy": 0.18818031680130703,
+        "top1_probs": [
+          0.9795449097308082
+        ],
+        "mean_top1": 0.9795449097308082,
+        "num_tokens": 1
+      },
+      "jabberwocky": {
+        "text": "They were florping the daxen quite grentily",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          0.5584226111809987
+        ],
+        "mean_entropy": 0.5584226111809987,
+        "top1_probs": [
+          0.9299409309123673
+        ],
+        "mean_top1": 0.9299409309123673,
+        "num_tokens": 1
+      },
+      "stripped": {
+        "text": "Zi nar florp ke daxen qui grenti",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.22306943722932013
+        ],
+        "mean_entropy": 0.22306943722932013,
+        "top1_probs": [
+          0.9718544330242531
+        ],
+        "mean_top1": 0.9718544330242531,
+        "num_tokens": 1
+      },
+      "nonwords": {
+        "text": "dwel zomp prock brell klent kren yent",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.3627744458613239
+        ],
+        "mean_entropy": 0.3627744458613239,
+        "top1_probs": [
+          0.9393526980695994
+        ],
+        "mean_top1": 0.9393526980695994,
+        "num_tokens": 1
+      }
+    }
+  },
+  {
+    "set_id": 18,
+    "conditions": {
+      "sentence": {
+        "text": "The flowers are blooming beautifully in the spring",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          1.620668157503383
+        ],
+        "mean_entropy": 1.620668157503383,
+        "top1_probs": [
+          0.5786825411172015
+        ],
+        "mean_top1": 0.5786825411172015,
+        "num_tokens": 1
+      },
+      "jabberwocky": {
+        "text": "The wuggles are florping grentily in the plonk",
+        "tokens": [
+          " field"
+        ],
+        "token_entropies": [
+          2.7878952358792266
+        ],
+        "mean_entropy": 2.7878952358792266,
+        "top1_probs": [
+          0.33700854259650537
+        ],
+        "mean_top1": 0.33700854259650537,
+        "num_tokens": 1
+      },
+      "stripped": {
+        "text": "Ke wuggle nar florp grenti ne ke plonk",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.6017333155861702
+        ],
+        "mean_entropy": 0.6017333155861702,
+        "top1_probs": [
+          0.907454683161648
+        ],
+        "mean_top1": 0.907454683161648,
+        "num_tokens": 1
+      },
+      "nonwords": {
+        "text": "whisp grofly zomp klent flurn skeff sprock vent",
+        "tokens": [
+          "V"
+        ],
+        "token_entropies": [
+          2.2576281246438024
+        ],
+        "mean_entropy": 2.2576281246438024,
+        "top1_probs": [
+          0.528858113260124
+        ],
+        "mean_top1": 0.528858113260124,
+        "num_tokens": 1
+      }
+    }
+  },
+  {
+    "set_id": 19,
+    "conditions": {
+      "sentence": {
+        "text": "A talented chef prepared the meal expertly",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          0.23037360888485814
+        ],
+        "mean_entropy": 0.23037360888485814,
+        "top1_probs": [
+          0.9758870028890538
+        ],
+        "mean_top1": 0.9758870028890538,
+        "num_tokens": 1
+      },
+      "jabberwocky": {
+        "text": "A flimp blicket florped the daxen grentily",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          0.8499762738743216
+        ],
+        "mean_entropy": 0.8499762738743216,
+        "top1_probs": [
+          0.8679118454681242
+        ],
+        "mean_top1": 0.8679118454681242,
+        "num_tokens": 1
+      },
+      "stripped": {
+        "text": "Na flimp blicket florp ke daxen grenti",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          1.1862534273890588
+        ],
+        "mean_entropy": 1.1862534273890588,
+        "top1_probs": [
+          0.7549119039885733
+        ],
+        "mean_top1": 0.7549119039885733,
+        "num_tokens": 1
+      },
+      "nonwords": {
+        "text": "drell grofly snorf yalm plonken plonk driv",
+        "tokens": [
+          "Sorry"
+        ],
+        "token_entropies": [
+          0.5798736474353565
+        ],
+        "mean_entropy": 0.5798736474353565,
+        "top1_probs": [
+          0.8746785338626261
+        ],
+        "mean_top1": 0.8746785338626261,
+        "num_tokens": 1
+      }
+    }
+  },
+  {
+    "set_id": 20,
+    "conditions": {
+      "sentence": {
+        "text": "The researchers have discovered the answer recently",
+        "tokens": [
+          ".\n\n"
+        ],
+        "token_entropies": [
+          3.206704019166732
+        ],
+        "mean_entropy": 3.206704019166732,
+        "top1_probs": [
+          0.28734008488012325
+        ],
+        "mean_top1": 0.28734008488012325,
+        "num_tokens": 1
+      },
+      "jabberwocky": {
+        "text": "The blickets have florped the daxen grentily",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          1.2182544422271138
+        ],
+        "mean_entropy": 1.2182544422271138,
+        "top1_probs": [
+          0.8028871583526906
+        ],
+        "mean_top1": 0.8028871583526906,
+        "num_tokens": 1
+      },
+      "stripped": {
+        "text": "Ke blicket ha florp ke daxen grenti",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.6065999535316409
+        ],
+        "mean_entropy": 0.6065999535316409,
+        "top1_probs": [
+          0.9115218168890978
+        ],
+        "mean_top1": 0.9115218168890978,
+        "num_tokens": 1
+      },
+      "nonwords": {
+        "text": "whisp blimp pliff zent trock kren daxen",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          1.6530387986929276
+        ],
+        "mean_entropy": 1.6530387986929276,
+        "top1_probs": [
+          0.5953529238216063
+        ],
+        "mean_top1": 0.5953529238216063,
+        "num_tokens": 1
+      }
+    }
+  },
+  {
+    "set_id": 21,
+    "conditions": {
+      "sentence": {
+        "text": "She will be traveling to the conference tomorrow",
+        "tokens": [
+          ".\n\n"
+        ],
+        "token_entropies": [
+          2.7345122733143143
+        ],
+        "mean_entropy": 2.7345122733143143,
+        "top1_probs": [
+          0.33997418184676614
+        ],
+        "mean_top1": 0.33997418184676614,
+        "num_tokens": 1
+      },
+      "jabberwocky": {
+        "text": "She will be florping to the wuggle plonk",
+        "tokens": [
+          "Sorry"
+        ],
+        "token_entropies": [
+          2.9180531531827034
+        ],
+        "mean_entropy": 2.9180531531827034,
+        "top1_probs": [
+          0.2983182527781607
+        ],
+        "mean_top1": 0.2983182527781607,
+        "num_tokens": 1
+      },
+      "stripped": {
+        "text": "Sho wi nar florp po ke wuggle plonk",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.09473846674048193
+        ],
+        "mean_entropy": 0.09473846674048193,
+        "top1_probs": [
+          0.9892053024574707
+        ],
+        "mean_top1": 0.9892053024574707,
+        "num_tokens": 1
+      },
+      "nonwords": {
+        "text": "grof yalp tamp yent mip vent zell daxen",
+        "tokens": [
+          "Sorry"
+        ],
+        "token_entropies": [
+          2.086101839129695
+        ],
+        "mean_entropy": 2.086101839129695,
+        "top1_probs": [
+          0.48725771839078574
+        ],
+        "mean_top1": 0.48725771839078574,
+        "num_tokens": 1
+      }
+    }
+  },
+  {
+    "set_id": 22,
+    "conditions": {
+      "sentence": {
+        "text": "The workers were building the structure very carefully",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          0.1671800830954822
+        ],
+        "mean_entropy": 0.1671800830954822,
+        "top1_probs": [
+          0.9814142837198089
+        ],
+        "mean_top1": 0.9814142837198089,
+        "num_tokens": 1
+      },
+      "jabberwocky": {
+        "text": "The blickets were florping the zorf very grentily",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          0.3306036682769887
+        ],
+        "mean_entropy": 0.3306036682769887,
+        "top1_probs": [
+          0.9618888139602316
+        ],
+        "mean_top1": 0.9618888139602316,
+        "num_tokens": 1
+      },
+      "stripped": {
+        "text": "Ke blicket nar florp ke zorf vo grenti",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.993364364604275
+        ],
+        "mean_entropy": 0.993364364604275,
+        "top1_probs": [
+          0.8168695225477214
+        ],
+        "mean_top1": 0.8168695225477214,
+        "num_tokens": 1
+      },
+      "nonwords": {
+        "text": "grofly grof vent yeff grofly plonken vork blicket",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.3668366177332478
+        ],
+        "mean_entropy": 0.3668366177332478,
+        "top1_probs": [
+          0.9439417502350171
+        ],
+        "mean_top1": 0.9439417502350171,
+        "num_tokens": 1
+      }
+    }
+  },
+  {
+    "set_id": 23,
+    "conditions": {
+      "sentence": {
+        "text": "A bright light was shining through the window",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          0.04859947754347374
+        ],
+        "mean_entropy": 0.04859947754347374,
+        "top1_probs": [
+          0.9958726724253528
+        ],
+        "mean_top1": 0.9958726724253528,
+        "num_tokens": 1
+      },
+      "jabberwocky": {
+        "text": "A flimp daxen was florping through the gleb",
+        "tokens": [
+          "and"
+        ],
+        "token_entropies": [
+          1.745577730190058
+        ],
+        "mean_entropy": 1.745577730190058,
+        "top1_probs": [
+          0.6989459251788094
+        ],
+        "mean_top1": 0.6989459251788094,
+        "num_tokens": 1
+      },
+      "stripped": {
+        "text": "Na flimp daxen nar florp so ke gleb",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.40286687391252984
+        ],
+        "mean_entropy": 0.40286687391252984,
+        "top1_probs": [
+          0.939907047731116
+        ],
+        "mean_top1": 0.939907047731116,
+        "num_tokens": 1
+      },
+      "nonwords": {
+        "text": "sprock blimp pliff teff grof bliv trell yalp",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.9596339245715423
+        ],
+        "mean_entropy": 0.9596339245715423,
+        "top1_probs": [
+          0.807826040541629
+        ],
+        "mean_top1": 0.807826040541629,
+        "num_tokens": 1
+      }
+    }
+  },
+  {
+    "set_id": 24,
+    "conditions": {
+      "sentence": {
+        "text": "The author has written several books successfully",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          1.5315953450409245
+        ],
+        "mean_entropy": 1.5315953450409245,
+        "top1_probs": [
+          0.7110487614681867
+        ],
+        "mean_top1": 0.7110487614681867,
+        "num_tokens": 1
+      },
+      "jabberwocky": {
+        "text": "The blicket has florped flimp wuggles grentily",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          1.7273483205617552
+        ],
+        "mean_entropy": 1.7273483205617552,
+        "top1_probs": [
+          0.6725069385586754
+        ],
+        "mean_top1": 0.6725069385586754,
+        "num_tokens": 1
+      },
+      "stripped": {
+        "text": "Ke blicket ha florp flimp wuggle grenti",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.31168279135105104
+        ],
+        "mean_entropy": 0.31168279135105104,
+        "top1_probs": [
+          0.9537255598813826
+        ],
+        "mean_top1": 0.9537255598813826,
+        "num_tokens": 1
+      },
+      "nonwords": {
+        "text": "plonken kren klent snorf prav mip zent",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.7634779697463623
+        ],
+        "mean_entropy": 0.7634779697463623,
+        "top1_probs": [
+          0.8371541213662193
+        ],
+        "mean_top1": 0.8371541213662193,
+        "num_tokens": 1
+      }
+    }
+  },
+  {
+    "set_id": 25,
+    "conditions": {
+      "sentence": {
+        "text": "They could see the mountains clearly from here",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          0.3583451642236144
+        ],
+        "mean_entropy": 0.3583451642236144,
+        "top1_probs": [
+          0.9483749993588019
+        ],
+        "mean_top1": 0.9483749993588019,
+        "num_tokens": 1
+      },
+      "jabberwocky": {
+        "text": "They could florp the wuggles grentily from here",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          2.023893689378372
+        ],
+        "mean_entropy": 2.023893689378372,
+        "top1_probs": [
+          0.5840809282407116
+        ],
+        "mean_top1": 0.5840809282407116,
+        "num_tokens": 1
+      },
+      "stripped": {
+        "text": "Zi ku florp ke wuggle grenti mo here",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.17095641253592048
+        ],
+        "mean_entropy": 0.17095641253592048,
+        "top1_probs": [
+          0.9781607582173032
+        ],
+        "mean_top1": 0.9781607582173032,
+        "num_tokens": 1
+      },
+      "nonwords": {
+        "text": "bren kren verm drell klim blimp drell tren",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          2.7757233196288404
+        ],
+        "mean_entropy": 2.7757233196288404,
+        "top1_probs": [
+          0.304389575390065
+        ],
+        "mean_top1": 0.304389575390065,
+        "num_tokens": 1
+      }
+    }
+  },
+  {
+    "set_id": 26,
+    "conditions": {
+      "sentence": {
+        "text": "The machine is processing the data quite rapidly",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          0.4724617040297433
+        ],
+        "mean_entropy": 0.4724617040297433,
+        "top1_probs": [
+          0.9404441230196565
+        ],
+        "mean_top1": 0.9404441230196565,
+        "num_tokens": 1
+      },
+      "jabberwocky": {
+        "text": "The zorf is florping the daxen quite grentily",
+        "tokens": [
+          "."
+        ],
+        "token_entropies": [
+          2.625187122128758
+        ],
+        "mean_entropy": 2.625187122128758,
+        "top1_probs": [
+          0.4672605284976777
+        ],
+        "mean_top1": 0.4672605284976777,
+        "num_tokens": 1
+      },
+      "stripped": {
+        "text": "Ke zorf nar florp ke daxen qui grenti",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.26881252168982694
+        ],
+        "mean_entropy": 0.26881252168982694,
+        "top1_probs": [
+          0.964605358702857
+        ],
+        "mean_top1": 0.964605358702857,
+        "num_tokens": 1
+      },
+      "nonwords": {
+        "text": "sken grint grof zent zomp prock sprock plonk",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          1.7773194646833628
+        ],
+        "mean_entropy": 1.7773194646833628,
+        "top1_probs": [
+          0.5284390535500026
+        ],
+        "mean_top1": 0.5284390535500026,
+        "num_tokens": 1
+      }
+    }
+  },
+  {
+    "set_id": 27,
+    "conditions": {
+      "sentence": {
+        "text": "A skilled doctor examined the patient thoroughly",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          1.217066668854246
+        ],
+        "mean_entropy": 1.217066668854246,
+        "top1_probs": [
+          0.5000979498728975
+        ],
+        "mean_top1": 0.5000979498728975,
+        "num_tokens": 1
+      },
+      "jabberwocky": {
+        "text": "A flimp blicket florped the wuggle grentily",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          0.8074994212151833
+        ],
+        "mean_entropy": 0.8074994212151833,
+        "top1_probs": [
+          0.8885497675114932
+        ],
+        "mean_top1": 0.8885497675114932,
+        "num_tokens": 1
+      },
+      "stripped": {
+        "text": "Na flimp blicket florp ke wuggle grenti",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.8398156365429204
+        ],
+        "mean_entropy": 0.8398156365429204,
+        "top1_probs": [
+          0.8256292385265221
+        ],
+        "mean_top1": 0.8256292385265221,
+        "num_tokens": 1
+      },
+      "nonwords": {
+        "text": "vork bren sniv zent plonk grof driv",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.3674321161640551
+        ],
+        "mean_entropy": 0.3674321161640551,
+        "top1_probs": [
+          0.9401621768834686
+        ],
+        "mean_top1": 0.9401621768834686,
+        "num_tokens": 1
+      }
+    }
+  },
+  {
+    "set_id": 28,
+    "conditions": {
+      "sentence": {
+        "text": "The team was celebrating the victory enthusiastically",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          0.8087493305870346
+        ],
+        "mean_entropy": 0.8087493305870346,
+        "top1_probs": [
+          0.8726360987188131
+        ],
+        "mean_top1": 0.8726360987188131,
+        "num_tokens": 1
+      },
+      "jabberwocky": {
+        "text": "The blicket was florping the daxen grentily",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          0.5067146638020464
+        ],
+        "mean_entropy": 0.5067146638020464,
+        "top1_probs": [
+          0.9363217233832195
+        ],
+        "mean_top1": 0.9363217233832195,
+        "num_tokens": 1
+      },
+      "stripped": {
+        "text": "Ke blicket nar florp ke daxen grenti",
+        "tokens": [
+          "Den"
+        ],
+        "token_entropies": [
+          1.3485514030135455
+        ],
+        "mean_entropy": 1.3485514030135455,
+        "top1_probs": [
+          0.7606989479365627
+        ],
+        "mean_top1": 0.7606989479365627,
+        "num_tokens": 1
+      },
+      "nonwords": {
+        "text": "snorf whiff yalm flurn geff flimp zomp",
+        "tokens": [
+          "It"
+        ],
+        "token_entropies": [
+          1.5181380837575966
+        ],
+        "mean_entropy": 1.5181380837575966,
+        "top1_probs": [
+          0.48591493561494
+        ],
+        "mean_top1": 0.48591493561494,
+        "num_tokens": 1
+      }
+    }
+  },
+  {
+    "set_id": 29,
+    "conditions": {
+      "sentence": {
+        "text": "She might have understood the concept more clearly",
+        "tokens": [
+          " if"
+        ],
+        "token_entropies": [
+          0.6746668495747691
+        ],
+        "mean_entropy": 0.6746668495747691,
+        "top1_probs": [
+          0.8681304652751605
+        ],
+        "mean_top1": 0.8681304652751605,
+        "num_tokens": 1
+      },
+      "jabberwocky": {
+        "text": "She might have florped the daxen more grentily",
+        "tokens": [
+          "if"
+        ],
+        "token_entropies": [
+          2.5796811952310152
+        ],
+        "mean_entropy": 2.5796811952310152,
+        "top1_probs": [
+          0.5412417728814456
+        ],
+        "mean_top1": 0.5412417728814456,
+        "num_tokens": 1
+      },
+      "stripped": {
+        "text": "Sho mi ha florp ke daxen mo grenti",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.20112897923446793
+        ],
+        "mean_entropy": 0.20112897923446793,
+        "top1_probs": [
+          0.9757444254794923
+        ],
+        "mean_top1": 0.9757444254794923,
+        "num_tokens": 1
+      },
+      "nonwords": {
+        "text": "verm sniv grof yent bliv blicket whif sken",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.4524141292030913
+        ],
+        "mean_entropy": 0.4524141292030913,
+        "top1_probs": [
+          0.9275569729740075
+        ],
+        "mean_top1": 0.9275569729740075,
+        "num_tokens": 1
+      }
+    }
+  },
+  {
+    "set_id": 30,
+    "conditions": {
+      "sentence": {
+        "text": "The investors are evaluating the opportunity very carefully",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          1.213559708534546
+        ],
+        "mean_entropy": 1.213559708534546,
+        "top1_probs": [
+          0.8142399398615504
+        ],
+        "mean_top1": 0.8142399398615504,
+        "num_tokens": 1
+      },
+      "jabberwocky": {
+        "text": "The blickets are florping the wuggle very grentily",
+        "tokens": [
+          ","
+        ],
+        "token_entropies": [
+          1.286463974458297
+        ],
+        "mean_entropy": 1.286463974458297,
+        "top1_probs": [
+          0.8037643739356373
+        ],
+        "mean_top1": 0.8037643739356373,
+        "num_tokens": 1
+      },
+      "stripped": {
+        "text": "Ke blicket nar florp ke wuggle vo grenti",
+        "tokens": [
+          "\n"
+        ],
+        "token_entropies": [
+          1.0296463166634682
+        ],
+        "mean_entropy": 1.0296463166634682,
+        "top1_probs": [
+          0.8194839959754415
+        ],
+        "mean_top1": 0.8194839959754415,
+        "num_tokens": 1
+      },
+      "nonwords": {
+        "text": "blicket zorf plov plib bliv flib trel verm",
+        "tokens": [
+          "I"
+        ],
+        "token_entropies": [
+          0.8558364417204797
+        ],
+        "mean_entropy": 0.8558364417204797,
+        "top1_probs": [
+          0.8206986083783286
+        ],
+        "mean_top1": 0.8206986083783286,
+        "num_tokens": 1
+      }
+    }
+  }
+]

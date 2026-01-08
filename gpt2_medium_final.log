@@ -1,0 +1,18 @@
+Running GPT-2-MEDIUM with all 7 conditions...
+================================================================================
+MORPHOSYNTAX EXPERIMENT - FINAL ANALYSIS
+================================================================================
+
+Model: gpt2-medium
+Stimuli: stimuli_with_scrambled.json
+
+Loading model... (device: cpu)
+Loaded 30 stimulus sets
+
+Processing stimuli:   0%|          | 0/30 [00:00<?, ?it/s]`loss_type=None` was set in the config but it is unrecognized. Using the default loss: `ForCausalLMLoss`.
+Processing stimuli:   3%|▎         | 1/30 [01:01<29:57, 61.97s/it]Processing stimuli:   7%|▋         | 2/30 [02:06<29:42, 63.65s/it]Processing stimuli:  10%|█         | 3/30 [03:12<29:07, 64.70s/it]Processing stimuli:  13%|█▎        | 4/30 [04:14<27:32, 63.55s/it]Processing stimuli:  17%|█▋        | 5/30 [05:18<26:33, 63.73s/it]Processing stimuli:  20%|██        | 6/30 [06:23<25:40, 64.20s/it]Processing stimuli:  23%|██▎       | 7/30 [07:34<25:25, 66.34s/it]Processing stimuli:  27%|██▋       | 8/30 [08:44<24:46, 67.58s/it]Processing stimuli:  30%|███       | 9/30 [09:53<23:48, 68.05s/it]Processing stimuli:  33%|███▎      | 10/30 [10:57<22:16, 66.84s/it]Processing stimuli:  37%|███▋      | 11/30 [12:04<21:11, 66.91s/it]Processing stimuli:  40%|████      | 12/30 [13:07<19:40, 65.59s/it]Processing stimuli:  43%|████▎     | 13/30 [14:12<18:30, 65.30s/it]Processing stimuli:  47%|████▋     | 14/30 [15:15<17:16, 64.77s/it]Processing stimuli:  50%|█████     | 15/30 [16:18<16:01, 64.11s/it]Processing stimuli:  53%|█████▎    | 16/30 [17:22<14:59, 64.24s/it]Processing stimuli:  57%|█████▋    | 17/30 [18:27<13:56, 64.35s/it]Processing stimuli:  60%|██████    | 18/30 [19:29<12:45, 63.81s/it]Processing stimuli:  63%|██████▎   | 19/30 [20:35<11:48, 64.44s/it]Processing stimuli:  67%|██████▋   | 20/30 [21:40<10:44, 64.49s/it]Processing stimuli:  70%|███████   | 21/30 [22:44<09:38, 64.26s/it]Processing stimuli:  73%|███████▎  | 22/30 [23:54<08:49, 66.21s/it]Processing stimuli:  77%|███████▋  | 23/30 [24:57<07:35, 65.07s/it]Processing stimuli:  80%|████████  | 24/30 [26:03<06:31, 65.23s/it]Processing stimuli:  83%|████████▎ | 25/30 [27:05<05:22, 64.44s/it]Processing stimuli:  87%|████████▋ | 26/30 [28:07<04:14, 63.69s/it]Processing stimuli:  90%|█████████ | 27/30 [29:09<03:09, 63.31s/it]Processing stimuli:  93%|█████████▎| 28/30 [30:15<02:07, 63.88s/it]Processing stimuli:  97%|█████████▋| 29/30 [31:18<01:03, 63.66s/it]Processing stimuli: 100%|██████████| 30/30 [32:20<00:00, 63.32s/it]Processing stimuli: 100%|██████████| 30/30 [32:20<00:00, 64.70s/it]
+
+
+Experiment complete!
+Results saved to: experiment_results_gpt2_medium_final.json
+

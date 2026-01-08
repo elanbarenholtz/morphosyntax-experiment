@@ -1,0 +1,25 @@
+================================================================================
+CONTEXT-LENGTH ABLATION ANALYSIS
+================================================================================
+
+Model: gpt2
+Stimuli: stimuli_comprehensive.json
+Cue families: ['infinitival_to', 'determiners']
+Conditions: ['JABBERWOCKY', 'FUNCTION_SCRAMBLED', 'FULL_SCRAMBLED']
+Context lengths (k): [1, 2, 4, None]
+Output: context_ablation_gpt2.csv
+
+Loading model...
+✓ Using CPU
+
+Loading stimuli...
+✓ Loaded 30 stimulus sets
+
+✓ Analyzer ready
+
+================================================================================
+RUNNING ABLATION
+================================================================================
+
+Progress:   0%|          | 0/1080 [00:00<?, ?it/s]/opt/homebrew/Cellar/python@3.13/3.13.3/Frameworks/Python.framework/Versions/3.13/lib/python3.13/multiprocessing/resource_tracker.py:301: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown: {'/mp-zarqp4_l'}
+  warnings.warn(

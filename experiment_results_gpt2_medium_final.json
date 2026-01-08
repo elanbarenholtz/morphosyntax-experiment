@@ -1,0 +1,6324 @@
+[
+  {
+    "set_id": 1,
+    "conditions": {
+      "sentence": {
+        "text": "the teacher was explaining the concept to the students clearly",
+        "n_tokens": 9,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 10,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "jabberwocky_matched": {
+        "text": "the lift was bud the rays to the mask rug",
+        "n_tokens": 9,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 10,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "scrambled_jabberwocky": {
+        "text": "to mask rug the rays bud the the lift was",
+        "n_tokens": 9,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 10,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_real": {
+        "text": "the teacher to the concept the clearly students was explaining",
+        "n_tokens": 9,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 10,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "skeleton_function_words": {
+        "text": "the sed was tra the pun to the plot heav",
+        "n_tokens": 9,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 10,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_1tok": {
+        "text": "Loos best sweet kin short mov thief reef ast peach",
+        "n_tokens": 10,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 10,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_2tok": {
+        "text": "Flur wopt kwid veyt tierk vask roisk spoank heang sleel",
+        "n_tokens": 19,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 10,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      }
+    }
+  },
+  {
+    "set_id": 2,
+    "conditions": {
+      "sentence": {
+        "text": "a small bird landed softly on the wooden fence",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "jabberwocky_matched": {
+        "text": "a grief book droid streak on the free mov",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "scrambled_jabberwocky": {
+        "text": "droid the streak on free book mov grief a",
+        "n_tokens": 9,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_real": {
+        "text": "softly on fence landed small the a bird wooden",
+        "n_tokens": 9,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "skeleton_function_words": {
+        "text": "a fret chap don lie on the tow resp",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_1tok": {
+        "text": "Steer stark brush bom diet van tried down nib",
+        "n_tokens": 9,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_2tok": {
+        "text": "Gint skusk droaft shaid nupt seang krous spag swal",
+        "n_tokens": 17,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      }
+    }
+  },
+  {
+    "set_id": 3,
+    "conditions": {
+      "sentence": {
+        "text": "the children were playing with their toys in the garden",
+        "n_tokens": 9,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 10,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "jabberwocky_matched": {
+        "text": "the shown were shook with their blo in the green",
+        "n_tokens": 9,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 10,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "scrambled_jabberwocky": {
+        "text": "shown their blo the green with in were the shook",
+        "n_tokens": 9,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 10,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_real": {
+        "text": "toys children with their the in were garden the playing",
+        "n_tokens": 10,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 10,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "skeleton_function_words": {
+        "text": "the sou were mark with their peach in the pies",
+        "n_tokens": 9,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 10,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_1tok": {
+        "text": "Reg sob rad prob rows end lid tried lik ret",
+        "n_tokens": 9,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 10,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_2tok": {
+        "text": "Stosp strayng healn toyft zeest jarp treft spreeg preft foif",
+        "n_tokens": 19,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 10,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      }
+    }
+  },
+  {
+    "set_id": 4,
+    "conditions": {
+      "sentence": {
+        "text": "she has been reading that book very carefully",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "jabberwocky_matched": {
+        "text": "she has been span that tint very fert",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "scrambled_jabberwocky": {
+        "text": "has very tint that fert she been span",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_real": {
+        "text": "she carefully been book has reading very that",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "skeleton_function_words": {
+        "text": "she has been deb that mart very mor",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_1tok": {
+        "text": "Pra gust grop sweet thorn torn toast sprink",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_2tok": {
+        "text": "Keas stoang weech hoamp bowk keal maiv droank",
+        "n_tokens": 15,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      }
+    }
+  },
+  {
+    "set_id": 5,
+    "conditions": {
+      "sentence": {
+        "text": "the scientist discovered a new species in the forest",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "jabberwocky_matched": {
+        "text": "the oun feed a just sneak in the pub",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "scrambled_jabberwocky": {
+        "text": "feed a oun the pub the in sneak just",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_real": {
+        "text": "species a scientist forest in the discovered the new",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "skeleton_function_words": {
+        "text": "the vis hun a tal hip in the blo",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_1tok": {
+        "text": "Gren son bool mourn piv upt ain way blot",
+        "n_tokens": 9,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_2tok": {
+        "text": "Sko zis shoasp gant grearn sneask veln ployb nank",
+        "n_tokens": 17,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      }
+    }
+  },
+  {
+    "set_id": 6,
+    "conditions": {
+      "sentence": {
+        "text": "they will finish the project by tomorrow morning",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "jabberwocky_matched": {
+        "text": "they will sep the sprink by gear fra",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "scrambled_jabberwocky": {
+        "text": "by fra gear sprink they sep the will",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_real": {
+        "text": "will tomorrow finish they by project the morning",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "skeleton_function_words": {
+        "text": "they will end the tried by gown sto",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_1tok": {
+        "text": "Sub flip ste cheat hop mun tom grop",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_2tok": {
+        "text": "Thain soart beep playng vouf peyr fesh weav",
+        "n_tokens": 15,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      }
+    }
+  },
+  {
+    "set_id": 7,
+    "conditions": {
+      "sentence": {
+        "text": "a gentle breeze was blowing through the open window",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "jabberwocky_matched": {
+        "text": "a lie wood was pump through the spat strand",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "scrambled_jabberwocky": {
+        "text": "lie the spat pump a strand was wood through",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_real": {
+        "text": "through window gentle was blowing breeze the open a",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "skeleton_function_words": {
+        "text": "a plum year was hun through the pair fer",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_1tok": {
+        "text": "Cho nap fan sheet prot grat vow brain moist",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_2tok": {
+        "text": "Poing voyrm deaj gros hayl goyl lef seys rayt",
+        "n_tokens": 17,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      }
+    }
+  },
+  {
+    "set_id": 8,
+    "conditions": {
+      "sentence": {
+        "text": "the musician played the melody beautifully on stage",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "jabberwocky_matched": {
+        "text": "the rooft charm the slit flood on green",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "scrambled_jabberwocky": {
+        "text": "flood the on slit rooft green charm the",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_real": {
+        "text": "played melody stage musician the the beautifully on",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "skeleton_function_words": {
+        "text": "the fost gre the resh graft on short",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_1tok": {
+        "text": "Food moist gear rink graz bus bees bung",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_2tok": {
+        "text": "Townd towm spart graimp lelp stayft skras gil",
+        "n_tokens": 16,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      }
+    }
+  },
+  {
+    "set_id": 9,
+    "conditions": {
+      "sentence": {
+        "text": "he could have solved the problem more easily",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "jabberwocky_matched": {
+        "text": "he could have hop the bred steal bour",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "scrambled_jabberwocky": {
+        "text": "hop steal he could bred have the bour",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_real": {
+        "text": "the have solved he more could problem easily",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "skeleton_function_words": {
+        "text": "he could have year the strap pair mound",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_1tok": {
+        "text": "Waist oun folk mus bout sow slow murm",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_2tok": {
+        "text": "Teyp nesh pralt cheym soang snowk joarn geash",
+        "n_tokens": 16,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      }
+    }
+  },
+  {
+    "set_id": 10,
+    "conditions": {
+      "sentence": {
+        "text": "the committee is reviewing the proposal thoroughly",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "jabberwocky_matched": {
+        "text": "the prot is sund the bunk wow",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "scrambled_jabberwocky": {
+        "text": "prot bunk is wow sund the the",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_real": {
+        "text": "is proposal reviewing committee the the thoroughly",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "skeleton_function_words": {
+        "text": "the rib is each the bund aim",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_1tok": {
+        "text": "String drank bip vig trig bast tom",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_2tok": {
+        "text": "Dooft bois plaind flif stoopt towmp sprul",
+        "n_tokens": 14,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      }
+    }
+  },
+  {
+    "set_id": 11,
+    "conditions": {
+      "sentence": {
+        "text": "a mysterious figure appeared suddenly in the darkness",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "jabberwocky_matched": {
+        "text": "a skin nun wik mail in the bou",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "scrambled_jabberwocky": {
+        "text": "skin a nun in wik mail the bou",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_real": {
+        "text": "suddenly mysterious appeared a darkness figure in the",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "skeleton_function_words": {
+        "text": "a pump spat sund grou in the rev",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_1tok": {
+        "text": "Nour prot lich snag slang mist smear cheat",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_2tok": {
+        "text": "Doach ayn spouch skais foip woaj poaf pran",
+        "n_tokens": 15,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      }
+    }
+  },
+  {
+    "set_id": 12,
+    "conditions": {
+      "sentence": {
+        "text": "the students should study the material very seriously",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "jabberwocky_matched": {
+        "text": "the sam should che the doi very thru",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "scrambled_jabberwocky": {
+        "text": "che sam the very the doi should thru",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_real": {
+        "text": "material students seriously very the the should study",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "skeleton_function_words": {
+        "text": "the pier should log the flo very mount",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_1tok": {
+        "text": "Free mun group drib slain yea fool far",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_2tok": {
+        "text": "Pleand straych skeang wowv chie sweerk bloam spej",
+        "n_tokens": 16,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      }
+    }
+  },
+  {
+    "set_id": 13,
+    "conditions": {
+      "sentence": {
+        "text": "she was walking slowly through the quiet streets",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "jabberwocky_matched": {
+        "text": "she was grow pork through the nat pert",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "scrambled_jabberwocky": {
+        "text": "pork she nat pert was the grow through",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_real": {
+        "text": "streets slowly through she quiet the was walking",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "skeleton_function_words": {
+        "text": "she was tal tom through the bland paint",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_1tok": {
+        "text": "Long rum spray say blot charm rob ker",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_2tok": {
+        "text": "Goark spreal poog doynt frump blav fluch luch",
+        "n_tokens": 15,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      }
+    }
+  },
+  {
+    "set_id": 14,
+    "conditions": {
+      "sentence": {
+        "text": "the engineers are designing a better system carefully",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "jabberwocky_matched": {
+        "text": "the heav are gin a drum door boun",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "scrambled_jabberwocky": {
+        "text": "the are gin boun door drum a heav",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_real": {
+        "text": "system are the engineers a carefully designing better",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "skeleton_function_words": {
+        "text": "the noun are bank a chap read grap",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_1tok": {
+        "text": "Thorn doi gem his king mod dear lid",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_2tok": {
+        "text": "Growf thros thaing sles stulk fraik gaing peej",
+        "n_tokens": 16,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      }
+    }
+  },
+  {
+    "set_id": 15,
+    "conditions": {
+      "sentence": {
+        "text": "a young artist painted the landscape very skillfully",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "jabberwocky_matched": {
+        "text": "a gou ret grunt the mal very broift",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "scrambled_jabberwocky": {
+        "text": "broift ret mal gou very the a grunt",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_real": {
+        "text": "the a landscape skillfully artist painted young very",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "skeleton_function_words": {
+        "text": "a med stal pay the sab very hast",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_1tok": {
+        "text": "Stir mod rout near plank prov sang gasp",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_2tok": {
+        "text": "Beas smouf zapt neeln pourk bleang honk freerk",
+        "n_tokens": 15,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      }
+    }
+  },
+  {
+    "set_id": 16,
+    "conditions": {
+      "sentence": {
+        "text": "the dog had been barking loudly at the stranger",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "jabberwocky_matched": {
+        "text": "the pol had been tag year at the les",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "scrambled_jabberwocky": {
+        "text": "les the tag pol at had been the year",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_real": {
+        "text": "loudly been dog had the barking stranger at the",
+        "n_tokens": 10,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "skeleton_function_words": {
+        "text": "the spray had been mist gren at the grip",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_1tok": {
+        "text": "Spree bring speed keep fat vis diet fung seed",
+        "n_tokens": 9,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_2tok": {
+        "text": "Threev steat yoint slir theyst foing spung stast foilk",
+        "n_tokens": 17,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 9,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      }
+    }
+  },
+  {
+    "set_id": 17,
+    "conditions": {
+      "sentence": {
+        "text": "they were discussing the matter quite intensely",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "jabberwocky_matched": {
+        "text": "they were tal the died wob see",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "scrambled_jabberwocky": {
+        "text": "wob they were see tal the died",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_real": {
+        "text": "intensely were the they matter quite discussing",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "skeleton_function_words": {
+        "text": "they were ter the nin rev pork",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_1tok": {
+        "text": "Tent heal garn tag bro owl hub",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_2tok": {
+        "text": "Sprurt bleln skis yieg sneg trun fraist",
+        "n_tokens": 13,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      }
+    }
+  },
+  {
+    "set_id": 18,
+    "conditions": {
+      "sentence": {
+        "text": "the flowers are blooming beautifully in the spring",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "jabberwocky_matched": {
+        "text": "the vou are zest felt in the hang",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "scrambled_jabberwocky": {
+        "text": "vou felt the hang zest in the are",
+        "n_tokens": 9,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_real": {
+        "text": "in blooming are the the spring beautifully flowers",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "skeleton_function_words": {
+        "text": "the wow are bung aim in the sim",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_1tok": {
+        "text": "Bowl pond sheep dark bon flu bred mun",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_2tok": {
+        "text": "Brasp thof leel wayf lurn heln maynt traykt",
+        "n_tokens": 15,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      }
+    }
+  },
+  {
+    "set_id": 19,
+    "conditions": {
+      "sentence": {
+        "text": "a talented chef prepared the meal expertly",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "jabberwocky_matched": {
+        "text": "a gro bus dru the bait floalk",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "scrambled_jabberwocky": {
+        "text": "gro dru bus floalk the a bait",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_real": {
+        "text": "the expertly a prepared chef meal talented",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "skeleton_function_words": {
+        "text": "a lang end boom the let food",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_1tok": {
+        "text": "Said neg plung bung jour fug nest",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_2tok": {
+        "text": "Reasp gof liem treb prolp sneesp shrur",
+        "n_tokens": 13,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      }
+    }
+  },
+  {
+    "set_id": 20,
+    "conditions": {
+      "sentence": {
+        "text": "the researchers have discovered the answer recently",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "jabberwocky_matched": {
+        "text": "the spot have pies the gro cheat",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "scrambled_jabberwocky": {
+        "text": "the the pies have spot cheat gro",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_real": {
+        "text": "recently have answer discovered the the researchers",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "skeleton_function_words": {
+        "text": "the pap have rust the wal jet",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_1tok": {
+        "text": "Plot plank rush vig slog droid bon",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_2tok": {
+        "text": "Flowl boilrang ier maypt shurn kad wang",
+        "n_tokens": 13,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      }
+    }
+  },
+  {
+    "set_id": 21,
+    "conditions": {
+      "sentence": {
+        "text": "she will be traveling to the conference tomorrow",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "jabberwocky_matched": {
+        "text": "she will be vig to the sto was",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "scrambled_jabberwocky": {
+        "text": "to she will was sto the vig be",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_real": {
+        "text": "she be tomorrow will traveling the conference to",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "skeleton_function_words": {
+        "text": "she will be pap to the brav fut",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_1tok": {
+        "text": "Pav mur nib dear park song bow nav",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_2tok": {
+        "text": "Meyr dralk strooft jaz goiv tearn delt spre",
+        "n_tokens": 15,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      }
+    }
+  },
+  {
+    "set_id": 22,
+    "conditions": {
+      "sentence": {
+        "text": "the workers were building the structure very carefully",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "jabberwocky_matched": {
+        "text": "the rib were resp the grin very sprink",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "scrambled_jabberwocky": {
+        "text": "very sprink grin resp the the rib were",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_real": {
+        "text": "carefully very the building the structure workers were",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "skeleton_function_words": {
+        "text": "the felt were sang the jug very shot",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_1tok": {
+        "text": "Food wow gib bil hear jerk throws sting",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_2tok": {
+        "text": "Koug stroopt ulm nich shoast thresh theyn spon",
+        "n_tokens": 15,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      }
+    }
+  },
+  {
+    "set_id": 23,
+    "conditions": {
+      "sentence": {
+        "text": "a bright light was shining through the window",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "jabberwocky_matched": {
+        "text": "a nun tram was said through the floor",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "scrambled_jabberwocky": {
+        "text": "floor was nun tram through a the said",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_real": {
+        "text": "light bright through window the shining was a",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "skeleton_function_words": {
+        "text": "a year hen was thorn through the prod",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_1tok": {
+        "text": "Down sket hop pled mach prol shoot sund",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_2tok": {
+        "text": "Swayrt spoa stist pleamp sprach sowv roind goisp",
+        "n_tokens": 16,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      }
+    }
+  },
+  {
+    "set_id": 24,
+    "conditions": {
+      "sentence": {
+        "text": "the author has written several books successfully",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "jabberwocky_matched": {
+        "text": "the frail has farm ling bread deb",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "scrambled_jabberwocky": {
+        "text": "deb has the frail ling farm bread",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_real": {
+        "text": "several author written books the has successfully",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "skeleton_function_words": {
+        "text": "the moist has stret sleek sow chap",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_1tok": {
+        "text": "Ast blows near gin spray slam opt",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_2tok": {
+        "text": "Smid leech staysh stor vaft stapt woan",
+        "n_tokens": 13,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      }
+    }
+  },
+  {
+    "set_id": 25,
+    "conditions": {
+      "sentence": {
+        "text": "they could see the mountains clearly from here",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "jabberwocky_matched": {
+        "text": "they could short the seed fat from blend",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "scrambled_jabberwocky": {
+        "text": "fat seed the short could they blend from",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_real": {
+        "text": "clearly mountains could see the from they here",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "skeleton_function_words": {
+        "text": "they could fer the nest gra from ramp",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_1tok": {
+        "text": "Mur boat snap slain nig skept tra wet",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_2tok": {
+        "text": "Froisp kilt koarn layn woyd bost playsh fleesp",
+        "n_tokens": 16,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      }
+    }
+  },
+  {
+    "set_id": 26,
+    "conditions": {
+      "sentence": {
+        "text": "the machine is processing the data quite rapidly",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "jabberwocky_matched": {
+        "text": "the neg is wik the und end tob",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "scrambled_jabberwocky": {
+        "text": "is end the the tob neg und wik",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_real": {
+        "text": "the quite rapidly the machine is data processing",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "skeleton_function_words": {
+        "text": "the sam is strap the bung pleas map",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_1tok": {
+        "text": "Lap help frown stip reef surn tad hun",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_2tok": {
+        "text": "Moomp streerk iez skapt yees moak hap spron",
+        "n_tokens": 15,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      }
+    }
+  },
+  {
+    "set_id": 27,
+    "conditions": {
+      "sentence": {
+        "text": "a skilled doctor examined the patient thoroughly",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "jabberwocky_matched": {
+        "text": "a hep treat snag the thing dram",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "scrambled_jabberwocky": {
+        "text": "hep dram a the treat snag thing",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_real": {
+        "text": "examined patient thoroughly a skilled doctor the",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "skeleton_function_words": {
+        "text": "a slain rum churn the noun wat",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_1tok": {
+        "text": "Brush blond mir tend paid host piv",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_2tok": {
+        "text": "Shoun tond chearp delt troom ror golt",
+        "n_tokens": 13,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      }
+    }
+  },
+  {
+    "set_id": 28,
+    "conditions": {
+      "sentence": {
+        "text": "the team was celebrating the victory enthusiastically",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "jabberwocky_matched": {
+        "text": "the plead was has the bras wee",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "scrambled_jabberwocky": {
+        "text": "has was wee the plead bras the",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_real": {
+        "text": "team victory the celebrating was the enthusiastically",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "skeleton_function_words": {
+        "text": "the moist was brown the aim shed",
+        "n_tokens": 6,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_1tok": {
+        "text": "Hood bow dro sub grunt mark feed",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_2tok": {
+        "text": "Yain braind nank pownt weg strown frel",
+        "n_tokens": 13,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 7,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      }
+    }
+  },
+  {
+    "set_id": 29,
+    "conditions": {
+      "sentence": {
+        "text": "she might have understood the concept more clearly",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "jabberwocky_matched": {
+        "text": "she might have loud the nig del near",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "scrambled_jabberwocky": {
+        "text": "loud near she del nig the have might",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_real": {
+        "text": "concept clearly might the more have understood she",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "skeleton_function_words": {
+        "text": "she might have plan the wip limp slap",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_1tok": {
+        "text": "Rid ties long dro air bri wat sang",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_2tok": {
+        "text": "Drooln wapt seast miet mee groav flur mong",
+        "n_tokens": 15,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      }
+    }
+  },
+  {
+    "set_id": 30,
+    "conditions": {
+      "sentence": {
+        "text": "the investors are evaluating the opportunity very carefully",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "jabberwocky_matched": {
+        "text": "the breach are tee the les very top",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "scrambled_jabberwocky": {
+        "text": "are les tee breach very the top the",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_real": {
+        "text": "evaluating investors very opportunity are the carefully the",
+        "n_tokens": 8,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "skeleton_function_words": {
+        "text": "the rupt are torn the keep very rush",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_1tok": {
+        "text": "Broad ship mang steep wik sho rend fund",
+        "n_tokens": 7,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      },
+      "word_list_nonce_2tok": {
+        "text": "Yush theymp boamp choark shouf stoob keaft droor",
+        "n_tokens": 15,
+        "mean_token_entropy": NaN,
+        "mean_token_surprisal": NaN,
+        "n_words": 8,
+        "mean_word_entropy": NaN,
+        "mean_word_surprisal": NaN,
+        "mean_word_entropy_sum": NaN,
+        "mean_word_surprisal_sum": NaN,
+        "word_entropies": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ],
+        "word_surprisals": [
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN,
+          NaN
+        ]
+      }
+    }
+  }
+]

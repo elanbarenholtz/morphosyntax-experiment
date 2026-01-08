@@ -1,0 +1,812 @@
+[
+  {
+    "set_id": 1,
+    "conditions": {
+      "sentence": {
+        "text": "the teacher was explaining the concept to the students clearly",
+        "n_tokens": 9,
+        "mean_token_entropy": 6.768276506000095,
+        "mean_token_surprisal": 6.674306904362106,
+        "n_words": 10,
+        "mean_word_entropy": 6.768276506000095,
+        "mean_word_surprisal": 6.674306904362106,
+        "mean_word_entropy_sum": 6.768276506000095,
+        "mean_word_surprisal_sum": 6.674306904362106
+      },
+      "scrambled_jabberwocky": {
+        "text": "to mask rug the rays bud the the lift was",
+        "n_tokens": 9,
+        "mean_token_entropy": 8.500047206878662,
+        "mean_token_surprisal": 13.598846674586849,
+        "n_words": 10,
+        "mean_word_entropy": 8.500047206878662,
+        "mean_word_surprisal": 13.598846674586849,
+        "mean_word_entropy_sum": 8.500047206878662,
+        "mean_word_surprisal_sum": 13.598846674586849
+      }
+    }
+  },
+  {
+    "set_id": 2,
+    "conditions": {
+      "sentence": {
+        "text": "a small bird landed softly on the wooden fence",
+        "n_tokens": 8,
+        "mean_token_entropy": 6.739537805318832,
+        "mean_token_surprisal": 7.511950044138639,
+        "n_words": 9,
+        "mean_word_entropy": 6.739537805318832,
+        "mean_word_surprisal": 7.511950044138639,
+        "mean_word_entropy_sum": 6.739537805318832,
+        "mean_word_surprisal_sum": 7.511950044138639
+      },
+      "scrambled_jabberwocky": {
+        "text": "droid the streak on free book mov grief a",
+        "n_tokens": 9,
+        "mean_token_entropy": 8.074482970767551,
+        "mean_token_surprisal": 14.156920784129305,
+        "n_words": 9,
+        "mean_word_entropy": 7.9417557418346405,
+        "mean_word_surprisal": 14.644772010592815,
+        "mean_word_entropy_sum": 9.083793342113495,
+        "mean_word_surprisal_sum": 15.926535882145469
+      }
+    }
+  },
+  {
+    "set_id": 3,
+    "conditions": {
+      "sentence": {
+        "text": "the children were playing with their toys in the garden",
+        "n_tokens": 9,
+        "mean_token_entropy": 7.199812359280056,
+        "mean_token_surprisal": 4.6231455749787305,
+        "n_words": 10,
+        "mean_word_entropy": 7.199812359280056,
+        "mean_word_surprisal": 4.6231455749787305,
+        "mean_word_entropy_sum": 7.199812359280056,
+        "mean_word_surprisal_sum": 4.6231455749787305
+      },
+      "scrambled_jabberwocky": {
+        "text": "shown their blo the green with in were the shook",
+        "n_tokens": 9,
+        "mean_token_entropy": 9.090069267484877,
+        "mean_token_surprisal": 12.73672058148342,
+        "n_words": 10,
+        "mean_word_entropy": 9.090069267484877,
+        "mean_word_surprisal": 12.73672058148342,
+        "mean_word_entropy_sum": 9.090069267484877,
+        "mean_word_surprisal_sum": 12.73672058148342
+      }
+    }
+  },
+  {
+    "set_id": 4,
+    "conditions": {
+      "sentence": {
+        "text": "she has been reading that book very carefully",
+        "n_tokens": 7,
+        "mean_token_entropy": 7.922899314335415,
+        "mean_token_surprisal": 5.928782501414894,
+        "n_words": 8,
+        "mean_word_entropy": 7.922899314335415,
+        "mean_word_surprisal": 5.928782501414894,
+        "mean_word_entropy_sum": 7.922899314335415,
+        "mean_word_surprisal_sum": 5.928782501414894
+      },
+      "scrambled_jabberwocky": {
+        "text": "has very tint that fert she been span",
+        "n_tokens": 7,
+        "mean_token_entropy": 7.46104759829385,
+        "mean_token_surprisal": 15.333246771753148,
+        "n_words": 8,
+        "mean_word_entropy": 7.46104759829385,
+        "mean_word_surprisal": 15.333246771753148,
+        "mean_word_entropy_sum": 7.46104759829385,
+        "mean_word_surprisal_sum": 15.333246771753148
+      }
+    }
+  },
+  {
+    "set_id": 5,
+    "conditions": {
+      "sentence": {
+        "text": "the scientist discovered a new species in the forest",
+        "n_tokens": 8,
+        "mean_token_entropy": 7.734641671180725,
+        "mean_token_surprisal": 6.29709411123112,
+        "n_words": 9,
+        "mean_word_entropy": 7.734641671180725,
+        "mean_word_surprisal": 6.29709411123112,
+        "mean_word_entropy_sum": 7.734641671180725,
+        "mean_word_surprisal_sum": 6.29709411123112
+      },
+      "scrambled_jabberwocky": {
+        "text": "feed a oun the pub the in sneak just",
+        "n_tokens": 8,
+        "mean_token_entropy": 9.45957225561142,
+        "mean_token_surprisal": 12.79024083146043,
+        "n_words": 9,
+        "mean_word_entropy": 9.45957225561142,
+        "mean_word_surprisal": 12.79024083146043,
+        "mean_word_entropy_sum": 9.45957225561142,
+        "mean_word_surprisal_sum": 12.79024083146043
+      }
+    }
+  },
+  {
+    "set_id": 6,
+    "conditions": {
+      "sentence": {
+        "text": "they will finish the project by tomorrow morning",
+        "n_tokens": 7,
+        "mean_token_entropy": 6.911907809121268,
+        "mean_token_surprisal": 6.44445370533424,
+        "n_words": 8,
+        "mean_word_entropy": 6.911907809121268,
+        "mean_word_surprisal": 6.44445370533424,
+        "mean_word_entropy_sum": 6.911907809121268,
+        "mean_word_surprisal_sum": 6.44445370533424
+      },
+      "scrambled_jabberwocky": {
+        "text": "by fra gear sprink they sep the will",
+        "n_tokens": 7,
+        "mean_token_entropy": 8.819019453866142,
+        "mean_token_surprisal": 15.902550321800911,
+        "n_words": 8,
+        "mean_word_entropy": 8.819019453866142,
+        "mean_word_surprisal": 15.902550321800911,
+        "mean_word_entropy_sum": 8.819019453866142,
+        "mean_word_surprisal_sum": 15.902550321800911
+      }
+    }
+  },
+  {
+    "set_id": 7,
+    "conditions": {
+      "sentence": {
+        "text": "a gentle breeze was blowing through the open window",
+        "n_tokens": 8,
+        "mean_token_entropy": 7.115465760231018,
+        "mean_token_surprisal": 5.109502207725612,
+        "n_words": 9,
+        "mean_word_entropy": 7.115465760231018,
+        "mean_word_surprisal": 5.109502207725612,
+        "mean_word_entropy_sum": 7.115465760231018,
+        "mean_word_surprisal_sum": 5.109502207725612
+      },
+      "scrambled_jabberwocky": {
+        "text": "lie the spat pump a strand was wood through",
+        "n_tokens": 8,
+        "mean_token_entropy": 7.925514400005341,
+        "mean_token_surprisal": 12.682057312290441,
+        "n_words": 9,
+        "mean_word_entropy": 7.925514400005341,
+        "mean_word_surprisal": 12.682057312290441,
+        "mean_word_entropy_sum": 7.925514400005341,
+        "mean_word_surprisal_sum": 12.682057312290441
+      }
+    }
+  },
+  {
+    "set_id": 8,
+    "conditions": {
+      "sentence": {
+        "text": "the musician played the melody beautifully on stage",
+        "n_tokens": 7,
+        "mean_token_entropy": 7.411899430411203,
+        "mean_token_surprisal": 8.31513693794113,
+        "n_words": 8,
+        "mean_word_entropy": 7.411899430411203,
+        "mean_word_surprisal": 8.31513693794113,
+        "mean_word_entropy_sum": 7.411899430411203,
+        "mean_word_surprisal_sum": 8.31513693794113
+      },
+      "scrambled_jabberwocky": {
+        "text": "flood the on slit rooft green charm the",
+        "n_tokens": 8,
+        "mean_token_entropy": 7.094575645402074,
+        "mean_token_surprisal": 15.012688401651971,
+        "n_words": 8,
+        "mean_word_entropy": 6.975478991866112,
+        "mean_word_surprisal": 16.0346449696285,
+        "mean_word_entropy_sum": 8.108086451888084,
+        "mean_word_surprisal_sum": 17.15735817331654
+      }
+    }
+  },
+  {
+    "set_id": 9,
+    "conditions": {
+      "sentence": {
+        "text": "he could have solved the problem more easily",
+        "n_tokens": 7,
+        "mean_token_entropy": 6.478868620736258,
+        "mean_token_surprisal": 4.872216791064602,
+        "n_words": 8,
+        "mean_word_entropy": 6.478868620736258,
+        "mean_word_surprisal": 4.872216791064602,
+        "mean_word_entropy_sum": 6.478868620736258,
+        "mean_word_surprisal_sum": 4.872216791064602
+      },
+      "scrambled_jabberwocky": {
+        "text": "hop steal he could bred have the bour",
+        "n_tokens": 7,
+        "mean_token_entropy": 7.616696425846645,
+        "mean_token_surprisal": 14.235027992364214,
+        "n_words": 8,
+        "mean_word_entropy": 7.616696425846645,
+        "mean_word_surprisal": 14.235027992364214,
+        "mean_word_entropy_sum": 7.616696425846645,
+        "mean_word_surprisal_sum": 14.235027992364214
+      }
+    }
+  },
+  {
+    "set_id": 10,
+    "conditions": {
+      "sentence": {
+        "text": "the committee is reviewing the proposal thoroughly",
+        "n_tokens": 6,
+        "mean_token_entropy": 8.28763254483541,
+        "mean_token_surprisal": 7.628982636454339,
+        "n_words": 7,
+        "mean_word_entropy": 8.28763254483541,
+        "mean_word_surprisal": 7.628982636454339,
+        "mean_word_entropy_sum": 8.28763254483541,
+        "mean_word_surprisal_sum": 7.628982636454339
+      },
+      "scrambled_jabberwocky": {
+        "text": "prot bunk is wow sund the the",
+        "n_tokens": 6,
+        "mean_token_entropy": 5.905019442240397,
+        "mean_token_surprisal": 16.463725949060066,
+        "n_words": 7,
+        "mean_word_entropy": 5.905019442240397,
+        "mean_word_surprisal": 16.463725949060066,
+        "mean_word_entropy_sum": 5.905019442240397,
+        "mean_word_surprisal_sum": 16.463725949060066
+      }
+    }
+  },
+  {
+    "set_id": 11,
+    "conditions": {
+      "sentence": {
+        "text": "a mysterious figure appeared suddenly in the darkness",
+        "n_tokens": 7,
+        "mean_token_entropy": 6.892625434058053,
+        "mean_token_surprisal": 6.501565041176784,
+        "n_words": 8,
+        "mean_word_entropy": 6.892625434058053,
+        "mean_word_surprisal": 6.501565041176784,
+        "mean_word_entropy_sum": 6.892625434058053,
+        "mean_word_surprisal_sum": 6.501565041176784
+      },
+      "scrambled_jabberwocky": {
+        "text": "skin a nun in wik mail the bou",
+        "n_tokens": 7,
+        "mean_token_entropy": 7.8105871847697665,
+        "mean_token_surprisal": 14.42373106058712,
+        "n_words": 8,
+        "mean_word_entropy": 7.8105871847697665,
+        "mean_word_surprisal": 14.42373106058712,
+        "mean_word_entropy_sum": 7.8105871847697665,
+        "mean_word_surprisal_sum": 14.42373106058712
+      }
+    }
+  },
+  {
+    "set_id": 12,
+    "conditions": {
+      "sentence": {
+        "text": "the students should study the material very seriously",
+        "n_tokens": 7,
+        "mean_token_entropy": 7.628284726824079,
+        "mean_token_surprisal": 7.193864660196586,
+        "n_words": 8,
+        "mean_word_entropy": 7.628284726824079,
+        "mean_word_surprisal": 7.193864660196586,
+        "mean_word_entropy_sum": 7.628284726824079,
+        "mean_word_surprisal_sum": 7.193864660196586
+      },
+      "scrambled_jabberwocky": {
+        "text": "che sam the very the doi should thru",
+        "n_tokens": 7,
+        "mean_token_entropy": 9.362079007284981,
+        "mean_token_surprisal": 14.604875588384033,
+        "n_words": 8,
+        "mean_word_entropy": 9.362079007284981,
+        "mean_word_surprisal": 14.604875588384033,
+        "mean_word_entropy_sum": 9.362079007284981,
+        "mean_word_surprisal_sum": 14.604875588384033
+      }
+    }
+  },
+  {
+    "set_id": 13,
+    "conditions": {
+      "sentence": {
+        "text": "she was walking slowly through the quiet streets",
+        "n_tokens": 7,
+        "mean_token_entropy": 6.873696259089878,
+        "mean_token_surprisal": 5.681421443597201,
+        "n_words": 8,
+        "mean_word_entropy": 6.873696259089878,
+        "mean_word_surprisal": 5.681421443597201,
+        "mean_word_entropy_sum": 6.873696259089878,
+        "mean_word_surprisal_sum": 5.681421443597201
+      },
+      "scrambled_jabberwocky": {
+        "text": "pork she nat pert was the grow through",
+        "n_tokens": 8,
+        "mean_token_entropy": 9.004354119300842,
+        "mean_token_surprisal": 13.848123991928244,
+        "n_words": 8,
+        "mean_word_entropy": 8.863742215292794,
+        "mean_word_surprisal": 14.115344524045222,
+        "mean_word_entropy_sum": 10.290690422058105,
+        "mean_word_surprisal_sum": 15.826427419346563
+      }
+    }
+  },
+  {
+    "set_id": 14,
+    "conditions": {
+      "sentence": {
+        "text": "the engineers are designing a better system carefully",
+        "n_tokens": 7,
+        "mean_token_entropy": 8.314833777291435,
+        "mean_token_surprisal": 8.6752631384476,
+        "n_words": 8,
+        "mean_word_entropy": 8.314833777291435,
+        "mean_word_surprisal": 8.6752631384476,
+        "mean_word_entropy_sum": 8.314833777291435,
+        "mean_word_surprisal_sum": 8.6752631384476
+      },
+      "scrambled_jabberwocky": {
+        "text": "the are gin boun door drum a heav",
+        "n_tokens": 7,
+        "mean_token_entropy": 8.085134046418327,
+        "mean_token_surprisal": 16.855724134265063,
+        "n_words": 8,
+        "mean_word_entropy": 8.085134046418327,
+        "mean_word_surprisal": 16.855724134265063,
+        "mean_word_entropy_sum": 8.085134046418327,
+        "mean_word_surprisal_sum": 16.855724134265063
+      }
+    }
+  },
+  {
+    "set_id": 15,
+    "conditions": {
+      "sentence": {
+        "text": "a young artist painted the landscape very skillfully",
+        "n_tokens": 8,
+        "mean_token_entropy": 6.767218790948391,
+        "mean_token_surprisal": 8.787578002277307,
+        "n_words": 8,
+        "mean_word_entropy": 6.767218790948391,
+        "mean_word_surprisal": 8.787578002277307,
+        "mean_word_entropy_sum": 6.767218790948391,
+        "mean_word_surprisal_sum": 8.787578002277307
+      },
+      "scrambled_jabberwocky": {
+        "text": "broift ret mal gou very the a grunt",
+        "n_tokens": 8,
+        "mean_token_entropy": 9.293777704238892,
+        "mean_token_surprisal": 14.994301583466504,
+        "n_words": 8,
+        "mean_word_entropy": 9.335082735334124,
+        "mean_word_surprisal": 14.898373979606975,
+        "mean_word_entropy_sum": 10.621460233415876,
+        "mean_word_surprisal_sum": 17.13634466681886
+      }
+    }
+  },
+  {
+    "set_id": 16,
+    "conditions": {
+      "sentence": {
+        "text": "the dog had been barking loudly at the stranger",
+        "n_tokens": 8,
+        "mean_token_entropy": 7.935823142528534,
+        "mean_token_surprisal": 6.001308122405069,
+        "n_words": 9,
+        "mean_word_entropy": 7.935823142528534,
+        "mean_word_surprisal": 6.001308122405069,
+        "mean_word_entropy_sum": 7.935823142528534,
+        "mean_word_surprisal_sum": 6.001308122405069
+      },
+      "scrambled_jabberwocky": {
+        "text": "les the tag pol at had been the year",
+        "n_tokens": 8,
+        "mean_token_entropy": 9.076420783996582,
+        "mean_token_surprisal": 11.077667170930727,
+        "n_words": 9,
+        "mean_word_entropy": 9.076420783996582,
+        "mean_word_surprisal": 11.077667170930727,
+        "mean_word_entropy_sum": 9.076420783996582,
+        "mean_word_surprisal_sum": 11.077667170930727
+      }
+    }
+  },
+  {
+    "set_id": 17,
+    "conditions": {
+      "sentence": {
+        "text": "they were discussing the matter quite intensely",
+        "n_tokens": 6,
+        "mean_token_entropy": 8.090678215026855,
+        "mean_token_surprisal": 7.200958447897019,
+        "n_words": 7,
+        "mean_word_entropy": 8.090678215026855,
+        "mean_word_surprisal": 7.200958447897019,
+        "mean_word_entropy_sum": 8.090678215026855,
+        "mean_word_surprisal_sum": 7.200958447897019
+      },
+      "scrambled_jabberwocky": {
+        "text": "wob they were see tal the died",
+        "n_tokens": 7,
+        "mean_token_entropy": 8.532047986984253,
+        "mean_token_surprisal": 12.805762986085485,
+        "n_words": 7,
+        "mean_word_entropy": 8.835974792639414,
+        "mean_word_surprisal": 12.638997907235117,
+        "mean_word_entropy_sum": 9.954055984814962,
+        "mean_word_surprisal_sum": 14.940056817099732
+      }
+    }
+  },
+  {
+    "set_id": 18,
+    "conditions": {
+      "sentence": {
+        "text": "the flowers are blooming beautifully in the spring",
+        "n_tokens": 8,
+        "mean_token_entropy": 6.790244426578283,
+        "mean_token_surprisal": 5.426675825786534,
+        "n_words": 8,
+        "mean_word_entropy": 7.2908482019390375,
+        "mean_word_surprisal": 5.594284996229661,
+        "mean_word_entropy_sum": 7.760279344660895,
+        "mean_word_surprisal_sum": 6.201915229470324
+      },
+      "scrambled_jabberwocky": {
+        "text": "vou felt the hang zest in the are",
+        "n_tokens": 9,
+        "mean_token_entropy": 6.29761446846856,
+        "mean_token_surprisal": 10.62507343158258,
+        "n_words": 8,
+        "mean_word_entropy": 6.218259947640555,
+        "mean_word_surprisal": 10.753023341828708,
+        "mean_word_entropy_sum": 8.096932888031006,
+        "mean_word_surprisal_sum": 13.660808697749031
+      }
+    }
+  },
+  {
+    "set_id": 19,
+    "conditions": {
+      "sentence": {
+        "text": "a talented chef prepared the meal expertly",
+        "n_tokens": 7,
+        "mean_token_entropy": 6.543119205960205,
+        "mean_token_surprisal": 8.034764054767951,
+        "n_words": 7,
+        "mean_word_entropy": 6.543119205960205,
+        "mean_word_surprisal": 8.034764054767951,
+        "mean_word_entropy_sum": 6.543119205960205,
+        "mean_word_surprisal_sum": 8.034764054767951
+      },
+      "scrambled_jabberwocky": {
+        "text": "gro dru bus floalk the a bait",
+        "n_tokens": 7,
+        "mean_token_entropy": 8.835466384887695,
+        "mean_token_surprisal": 16.649709791757278,
+        "n_words": 7,
+        "mean_word_entropy": 8.658746163050333,
+        "mean_word_surprisal": 17.386186546381982,
+        "mean_word_entropy_sum": 10.30804411570231,
+        "mean_word_surprisal_sum": 19.424661423716824
+      }
+    }
+  },
+  {
+    "set_id": 20,
+    "conditions": {
+      "sentence": {
+        "text": "the researchers have discovered the answer recently",
+        "n_tokens": 6,
+        "mean_token_entropy": 7.700954357783,
+        "mean_token_surprisal": 8.901349982074661,
+        "n_words": 7,
+        "mean_word_entropy": 7.700954357783,
+        "mean_word_surprisal": 8.901349982074661,
+        "mean_word_entropy_sum": 7.700954357783,
+        "mean_word_surprisal_sum": 8.901349982074661
+      },
+      "scrambled_jabberwocky": {
+        "text": "the the pies have spot cheat gro",
+        "n_tokens": 6,
+        "mean_token_entropy": 8.150156577428183,
+        "mean_token_surprisal": 14.518223813785042,
+        "n_words": 7,
+        "mean_word_entropy": 8.150156577428183,
+        "mean_word_surprisal": 14.518223813785042,
+        "mean_word_entropy_sum": 8.150156577428183,
+        "mean_word_surprisal_sum": 14.518223813785042
+      }
+    }
+  },
+  {
+    "set_id": 21,
+    "conditions": {
+      "sentence": {
+        "text": "she will be traveling to the conference tomorrow",
+        "n_tokens": 7,
+        "mean_token_entropy": 7.893449987683978,
+        "mean_token_surprisal": 5.979676916895765,
+        "n_words": 8,
+        "mean_word_entropy": 7.893449987683978,
+        "mean_word_surprisal": 5.979676916895765,
+        "mean_word_entropy_sum": 7.893449987683978,
+        "mean_word_surprisal_sum": 5.979676916895765
+      },
+      "scrambled_jabberwocky": {
+        "text": "to she will was sto the vig be",
+        "n_tokens": 7,
+        "mean_token_entropy": 7.501185553414481,
+        "mean_token_surprisal": 13.223465904410956,
+        "n_words": 8,
+        "mean_word_entropy": 7.501185553414481,
+        "mean_word_surprisal": 13.223465904410956,
+        "mean_word_entropy_sum": 7.501185553414481,
+        "mean_word_surprisal_sum": 13.223465904410956
+      }
+    }
+  },
+  {
+    "set_id": 22,
+    "conditions": {
+      "sentence": {
+        "text": "the workers were building the structure very carefully",
+        "n_tokens": 7,
+        "mean_token_entropy": 8.171893324170794,
+        "mean_token_surprisal": 7.81456318750979,
+        "n_words": 8,
+        "mean_word_entropy": 8.171893324170794,
+        "mean_word_surprisal": 7.81456318750979,
+        "mean_word_entropy_sum": 8.171893324170794,
+        "mean_word_surprisal_sum": 7.81456318750979
+      },
+      "scrambled_jabberwocky": {
+        "text": "very sprink grin resp the the rib were",
+        "n_tokens": 7,
+        "mean_token_entropy": 7.538558278764997,
+        "mean_token_surprisal": 16.879786050905107,
+        "n_words": 8,
+        "mean_word_entropy": 7.538558278764997,
+        "mean_word_surprisal": 16.879786050905107,
+        "mean_word_entropy_sum": 7.538558278764997,
+        "mean_word_surprisal_sum": 16.879786050905107
+      }
+    }
+  },
+  {
+    "set_id": 23,
+    "conditions": {
+      "sentence": {
+        "text": "a bright light was shining through the window",
+        "n_tokens": 7,
+        "mean_token_entropy": 6.844312429428101,
+        "mean_token_surprisal": 4.71482079692433,
+        "n_words": 8,
+        "mean_word_entropy": 6.844312429428101,
+        "mean_word_surprisal": 4.71482079692433,
+        "mean_word_entropy_sum": 6.844312429428101,
+        "mean_word_surprisal_sum": 4.71482079692433
+      },
+      "scrambled_jabberwocky": {
+        "text": "floor was nun tram through a the said",
+        "n_tokens": 7,
+        "mean_token_entropy": 8.570392744881767,
+        "mean_token_surprisal": 12.86487491312098,
+        "n_words": 8,
+        "mean_word_entropy": 8.570392744881767,
+        "mean_word_surprisal": 12.86487491312098,
+        "mean_word_entropy_sum": 8.570392744881767,
+        "mean_word_surprisal_sum": 12.86487491312098
+      }
+    }
+  },
+  {
+    "set_id": 24,
+    "conditions": {
+      "sentence": {
+        "text": "the author has written several books successfully",
+        "n_tokens": 6,
+        "mean_token_entropy": 7.114653627077739,
+        "mean_token_surprisal": 7.486792120982223,
+        "n_words": 7,
+        "mean_word_entropy": 7.114653627077739,
+        "mean_word_surprisal": 7.486792120982223,
+        "mean_word_entropy_sum": 7.114653627077739,
+        "mean_word_surprisal_sum": 7.486792120982223
+      },
+      "scrambled_jabberwocky": {
+        "text": "deb has the frail ling farm bread",
+        "n_tokens": 6,
+        "mean_token_entropy": 8.689692576726278,
+        "mean_token_surprisal": 15.34929387101851,
+        "n_words": 7,
+        "mean_word_entropy": 8.689692576726278,
+        "mean_word_surprisal": 15.34929387101851,
+        "mean_word_entropy_sum": 8.689692576726278,
+        "mean_word_surprisal_sum": 15.34929387101851
+      }
+    }
+  },
+  {
+    "set_id": 25,
+    "conditions": {
+      "sentence": {
+        "text": "they could see the mountains clearly from here",
+        "n_tokens": 7,
+        "mean_token_entropy": 7.084508691515241,
+        "mean_token_surprisal": 5.924187265595989,
+        "n_words": 8,
+        "mean_word_entropy": 7.084508691515241,
+        "mean_word_surprisal": 5.924187265595989,
+        "mean_word_entropy_sum": 7.084508691515241,
+        "mean_word_surprisal_sum": 5.924187265595989
+      },
+      "scrambled_jabberwocky": {
+        "text": "fat seed the short could they blend from",
+        "n_tokens": 7,
+        "mean_token_entropy": 8.145366668701172,
+        "mean_token_surprisal": 12.056803257748596,
+        "n_words": 8,
+        "mean_word_entropy": 8.145366668701172,
+        "mean_word_surprisal": 12.056803257748596,
+        "mean_word_entropy_sum": 8.145366668701172,
+        "mean_word_surprisal_sum": 12.056803257748596
+      }
+    }
+  },
+  {
+    "set_id": 26,
+    "conditions": {
+      "sentence": {
+        "text": "the machine is processing the data quite rapidly",
+        "n_tokens": 7,
+        "mean_token_entropy": 8.128764152526855,
+        "mean_token_surprisal": 6.865465544907051,
+        "n_words": 8,
+        "mean_word_entropy": 8.128764152526855,
+        "mean_word_surprisal": 6.865465544907051,
+        "mean_word_entropy_sum": 8.128764152526855,
+        "mean_word_surprisal_sum": 6.865465544907051
+      },
+      "scrambled_jabberwocky": {
+        "text": "is end the the tob neg und wik",
+        "n_tokens": 7,
+        "mean_token_entropy": 9.476879119873047,
+        "mean_token_surprisal": 15.032732083638178,
+        "n_words": 8,
+        "mean_word_entropy": 9.476879119873047,
+        "mean_word_surprisal": 15.032732083638178,
+        "mean_word_entropy_sum": 9.476879119873047,
+        "mean_word_surprisal_sum": 15.032732083638178
+      }
+    }
+  },
+  {
+    "set_id": 27,
+    "conditions": {
+      "sentence": {
+        "text": "a skilled doctor examined the patient thoroughly",
+        "n_tokens": 6,
+        "mean_token_entropy": 7.563182473182678,
+        "mean_token_surprisal": 9.540826089937811,
+        "n_words": 7,
+        "mean_word_entropy": 7.563182473182678,
+        "mean_word_surprisal": 9.540826089937811,
+        "mean_word_entropy_sum": 7.563182473182678,
+        "mean_word_surprisal_sum": 9.540826089937811
+      },
+      "scrambled_jabberwocky": {
+        "text": "hep dram a the treat snag thing",
+        "n_tokens": 7,
+        "mean_token_entropy": 10.17477035522461,
+        "mean_token_surprisal": 13.224753620720046,
+        "n_words": 7,
+        "mean_word_entropy": 10.153970082600912,
+        "mean_word_surprisal": 13.246937216959433,
+        "mean_word_entropy_sum": 11.870565414428711,
+        "mean_word_surprisal_sum": 15.428879224173386
+      }
+    }
+  },
+  {
+    "set_id": 28,
+    "conditions": {
+      "sentence": {
+        "text": "the team was celebrating the victory enthusiastically",
+        "n_tokens": 6,
+        "mean_token_entropy": 8.37508193651835,
+        "mean_token_surprisal": 8.687793416893802,
+        "n_words": 7,
+        "mean_word_entropy": 8.37508193651835,
+        "mean_word_surprisal": 8.687793416893802,
+        "mean_word_entropy_sum": 8.37508193651835,
+        "mean_word_surprisal_sum": 8.687793416893802
+      },
+      "scrambled_jabberwocky": {
+        "text": "has was wee the plead bras the",
+        "n_tokens": 6,
+        "mean_token_entropy": 9.637040932973227,
+        "mean_token_surprisal": 14.27678691078281,
+        "n_words": 7,
+        "mean_word_entropy": 9.637040932973227,
+        "mean_word_surprisal": 14.27678691078281,
+        "mean_word_entropy_sum": 9.637040932973227,
+        "mean_word_surprisal_sum": 14.27678691078281
+      }
+    }
+  },
+  {
+    "set_id": 29,
+    "conditions": {
+      "sentence": {
+        "text": "she might have understood the concept more clearly",
+        "n_tokens": 7,
+        "mean_token_entropy": 6.934450456074306,
+        "mean_token_surprisal": 6.144615704295317,
+        "n_words": 8,
+        "mean_word_entropy": 6.934450456074306,
+        "mean_word_surprisal": 6.144615704295317,
+        "mean_word_entropy_sum": 6.934450456074306,
+        "mean_word_surprisal_sum": 6.144615704295317
+      },
+      "scrambled_jabberwocky": {
+        "text": "loud near she del nig the have might",
+        "n_tokens": 8,
+        "mean_token_entropy": 8.460047245025635,
+        "mean_token_surprisal": 14.944688008622734,
+        "n_words": 8,
+        "mean_word_entropy": 8.20788826261248,
+        "mean_word_surprisal": 15.321890243965848,
+        "mean_word_entropy_sum": 9.66862542288644,
+        "mean_word_surprisal_sum": 17.079643438425983
+      }
+    }
+  },
+  {
+    "set_id": 30,
+    "conditions": {
+      "sentence": {
+        "text": "the investors are evaluating the opportunity very carefully",
+        "n_tokens": 7,
+        "mean_token_entropy": 7.4430577754974365,
+        "mean_token_surprisal": 7.380025436806828,
+        "n_words": 8,
+        "mean_word_entropy": 7.4430577754974365,
+        "mean_word_surprisal": 7.380025436806828,
+        "mean_word_entropy_sum": 7.4430577754974365,
+        "mean_word_surprisal_sum": 7.380025436806828
+      },
+      "scrambled_jabberwocky": {
+        "text": "are les tee breach very the top the",
+        "n_tokens": 7,
+        "mean_token_entropy": 9.268154416765485,
+        "mean_token_surprisal": 13.349968016751847,
+        "n_words": 8,
+        "mean_word_entropy": 9.268154416765485,
+        "mean_word_surprisal": 13.349968016751847,
+        "mean_word_entropy_sum": 9.268154416765485,
+        "mean_word_surprisal_sum": 13.349968016751847
+      }
+    }
+  }
+]

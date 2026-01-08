@@ -1,0 +1,272 @@
+[
+  {
+    "set_id": 1,
+    "sentence": "the teacher was explaining the concept to the students clearly",
+    "jabberwocky_matched": "the lift was bud the rays to the mask rug",
+    "word_list_real": "the teacher to the concept the clearly students was explaining",
+    "word_list_nonce_1tok": "Loos best sweet kin short mov thief reef ast peach",
+    "word_list_nonce_2tok": "Flur wopt kwid veyt tierk vask roisk spoank heang sleel",
+    "skeleton_function_words": "the sed was tra the pun to the plot heav"
+  },
+  {
+    "set_id": 2,
+    "sentence": "a small bird landed softly on the wooden fence",
+    "jabberwocky_matched": "a grief book droid streak on the free mov",
+    "word_list_real": "softly on fence landed small the a bird wooden",
+    "word_list_nonce_1tok": "Steer stark brush bom diet van tried down nib",
+    "word_list_nonce_2tok": "Gint skusk droaft shaid nupt seang krous spag swal",
+    "skeleton_function_words": "a fret chap don lie on the tow resp"
+  },
+  {
+    "set_id": 3,
+    "sentence": "the children were playing with their toys in the garden",
+    "jabberwocky_matched": "the shown were shook with their blo in the green",
+    "word_list_real": "toys children with their the in were garden the playing",
+    "word_list_nonce_1tok": "Reg sob rad prob rows end lid tried lik ret",
+    "word_list_nonce_2tok": "Stosp strayng healn toyft zeest jarp treft spreeg preft foif",
+    "skeleton_function_words": "the sou were mark with their peach in the pies"
+  },
+  {
+    "set_id": 4,
+    "sentence": "she has been reading that book very carefully",
+    "jabberwocky_matched": "she has been span that tint very fert",
+    "word_list_real": "she carefully been book has reading very that",
+    "word_list_nonce_1tok": "Pra gust grop sweet thorn torn toast sprink",
+    "word_list_nonce_2tok": "Keas stoang weech hoamp bowk keal maiv droank",
+    "skeleton_function_words": "she has been deb that mart very mor"
+  },
+  {
+    "set_id": 5,
+    "sentence": "the scientist discovered a new species in the forest",
+    "jabberwocky_matched": "the oun feed a just sneak in the pub",
+    "word_list_real": "species a scientist forest in the discovered the new",
+    "word_list_nonce_1tok": "Gren son bool mourn piv upt ain way blot",
+    "word_list_nonce_2tok": "Sko zis shoasp gant grearn sneask veln ployb nank",
+    "skeleton_function_words": "the vis hun a tal hip in the blo"
+  },
+  {
+    "set_id": 6,
+    "sentence": "they will finish the project by tomorrow morning",
+    "jabberwocky_matched": "they will sep the sprink by gear fra",
+    "word_list_real": "will tomorrow finish they by project the morning",
+    "word_list_nonce_1tok": "Sub flip ste cheat hop mun tom grop",
+    "word_list_nonce_2tok": "Thain soart beep playng vouf peyr fesh weav",
+    "skeleton_function_words": "they will end the tried by gown sto"
+  },
+  {
+    "set_id": 7,
+    "sentence": "a gentle breeze was blowing through the open window",
+    "jabberwocky_matched": "a lie wood was pump through the spat strand",
+    "word_list_real": "through window gentle was blowing breeze the open a",
+    "word_list_nonce_1tok": "Cho nap fan sheet prot grat vow brain moist",
+    "word_list_nonce_2tok": "Poing voyrm deaj gros hayl goyl lef seys rayt",
+    "skeleton_function_words": "a plum year was hun through the pair fer"
+  },
+  {
+    "set_id": 8,
+    "sentence": "the musician played the melody beautifully on stage",
+    "jabberwocky_matched": "the rooft charm the slit flood on green",
+    "word_list_real": "played melody stage musician the the beautifully on",
+    "word_list_nonce_1tok": "Food moist gear rink graz bus bees bung",
+    "word_list_nonce_2tok": "Townd towm spart graimp lelp stayft skras gil",
+    "skeleton_function_words": "the fost gre the resh graft on short"
+  },
+  {
+    "set_id": 9,
+    "sentence": "he could have solved the problem more easily",
+    "jabberwocky_matched": "he could have hop the bred steal bour",
+    "word_list_real": "the have solved he more could problem easily",
+    "word_list_nonce_1tok": "Waist oun folk mus bout sow slow murm",
+    "word_list_nonce_2tok": "Teyp nesh pralt cheym soang snowk joarn geash",
+    "skeleton_function_words": "he could have year the strap pair mound"
+  },
+  {
+    "set_id": 10,
+    "sentence": "the committee is reviewing the proposal thoroughly",
+    "jabberwocky_matched": "the prot is sund the bunk wow",
+    "word_list_real": "is proposal reviewing committee the the thoroughly",
+    "word_list_nonce_1tok": "String drank bip vig trig bast tom",
+    "word_list_nonce_2tok": "Dooft bois plaind flif stoopt towmp sprul",
+    "skeleton_function_words": "the rib is each the bund aim"
+  },
+  {
+    "set_id": 11,
+    "sentence": "a mysterious figure appeared suddenly in the darkness",
+    "jabberwocky_matched": "a skin nun wik mail in the bou",
+    "word_list_real": "suddenly mysterious appeared a darkness figure in the",
+    "word_list_nonce_1tok": "Nour prot lich snag slang mist smear cheat",
+    "word_list_nonce_2tok": "Doach ayn spouch skais foip woaj poaf pran",
+    "skeleton_function_words": "a pump spat sund grou in the rev"
+  },
+  {
+    "set_id": 12,
+    "sentence": "the students should study the material very seriously",
+    "jabberwocky_matched": "the sam should che the doi very thru",
+    "word_list_real": "material students seriously very the the should study",
+    "word_list_nonce_1tok": "Free mun group drib slain yea fool far",
+    "word_list_nonce_2tok": "Pleand straych skeang wowv chie sweerk bloam spej",
+    "skeleton_function_words": "the pier should log the flo very mount"
+  },
+  {
+    "set_id": 13,
+    "sentence": "she was walking slowly through the quiet streets",
+    "jabberwocky_matched": "she was grow pork through the nat pert",
+    "word_list_real": "streets slowly through she quiet the was walking",
+    "word_list_nonce_1tok": "Long rum spray say blot charm rob ker",
+    "word_list_nonce_2tok": "Goark spreal poog doynt frump blav fluch luch",
+    "skeleton_function_words": "she was tal tom through the bland paint"
+  },
+  {
+    "set_id": 14,
+    "sentence": "the engineers are designing a better system carefully",
+    "jabberwocky_matched": "the heav are gin a drum door boun",
+    "word_list_real": "system are the engineers a carefully designing better",
+    "word_list_nonce_1tok": "Thorn doi gem his king mod dear lid",
+    "word_list_nonce_2tok": "Growf thros thaing sles stulk fraik gaing peej",
+    "skeleton_function_words": "the noun are bank a chap read grap"
+  },
+  {
+    "set_id": 15,
+    "sentence": "a young artist painted the landscape very skillfully",
+    "jabberwocky_matched": "a gou ret grunt the mal very broift",
+    "word_list_real": "the a landscape skillfully artist painted young very",
+    "word_list_nonce_1tok": "Stir mod rout near plank prov sang gasp",
+    "word_list_nonce_2tok": "Beas smouf zapt neeln pourk bleang honk freerk",
+    "skeleton_function_words": "a med stal pay the sab very hast"
+  },
+  {
+    "set_id": 16,
+    "sentence": "the dog had been barking loudly at the stranger",
+    "jabberwocky_matched": "the pol had been tag year at the les",
+    "word_list_real": "loudly been dog had the barking stranger at the",
+    "word_list_nonce_1tok": "Spree bring speed keep fat vis diet fung seed",
+    "word_list_nonce_2tok": "Threev steat yoint slir theyst foing spung stast foilk",
+    "skeleton_function_words": "the spray had been mist gren at the grip"
+  },
+  {
+    "set_id": 17,
+    "sentence": "they were discussing the matter quite intensely",
+    "jabberwocky_matched": "they were tal the died wob see",
+    "word_list_real": "intensely were the they matter quite discussing",
+    "word_list_nonce_1tok": "Tent heal garn tag bro owl hub",
+    "word_list_nonce_2tok": "Sprurt bleln skis yieg sneg trun fraist",
+    "skeleton_function_words": "they were ter the nin rev pork"
+  },
+  {
+    "set_id": 18,
+    "sentence": "the flowers are blooming beautifully in the spring",
+    "jabberwocky_matched": "the vou are zest felt in the hang",
+    "word_list_real": "in blooming are the the spring beautifully flowers",
+    "word_list_nonce_1tok": "Bowl pond sheep dark bon flu bred mun",
+    "word_list_nonce_2tok": "Brasp thof leel wayf lurn heln maynt traykt",
+    "skeleton_function_words": "the wow are bung aim in the sim"
+  },
+  {
+    "set_id": 19,
+    "sentence": "a talented chef prepared the meal expertly",
+    "jabberwocky_matched": "a gro bus dru the bait floalk",
+    "word_list_real": "the expertly a prepared chef meal talented",
+    "word_list_nonce_1tok": "Said neg plung bung jour fug nest",
+    "word_list_nonce_2tok": "Reasp gof liem treb prolp sneesp shrur",
+    "skeleton_function_words": "a lang end boom the let food"
+  },
+  {
+    "set_id": 20,
+    "sentence": "the researchers have discovered the answer recently",
+    "jabberwocky_matched": "the spot have pies the gro cheat",
+    "word_list_real": "recently have answer discovered the the researchers",
+    "word_list_nonce_1tok": "Plot plank rush vig slog droid bon",
+    "word_list_nonce_2tok": "Flowl boilrang ier maypt shurn kad wang",
+    "skeleton_function_words": "the pap have rust the wal jet"
+  },
+  {
+    "set_id": 21,
+    "sentence": "she will be traveling to the conference tomorrow",
+    "jabberwocky_matched": "she will be vig to the sto was",
+    "word_list_real": "she be tomorrow will traveling the conference to",
+    "word_list_nonce_1tok": "Pav mur nib dear park song bow nav",
+    "word_list_nonce_2tok": "Meyr dralk strooft jaz goiv tearn delt spre",
+    "skeleton_function_words": "she will be pap to the brav fut"
+  },
+  {
+    "set_id": 22,
+    "sentence": "the workers were building the structure very carefully",
+    "jabberwocky_matched": "the rib were resp the grin very sprink",
+    "word_list_real": "carefully very the building the structure workers were",
+    "word_list_nonce_1tok": "Food wow gib bil hear jerk throws sting",
+    "word_list_nonce_2tok": "Koug stroopt ulm nich shoast thresh theyn spon",
+    "skeleton_function_words": "the felt were sang the jug very shot"
+  },
+  {
+    "set_id": 23,
+    "sentence": "a bright light was shining through the window",
+    "jabberwocky_matched": "a nun tram was said through the floor",
+    "word_list_real": "light bright through window the shining was a",
+    "word_list_nonce_1tok": "Down sket hop pled mach prol shoot sund",
+    "word_list_nonce_2tok": "Swayrt spoa stist pleamp sprach sowv roind goisp",
+    "skeleton_function_words": "a year hen was thorn through the prod"
+  },
+  {
+    "set_id": 24,
+    "sentence": "the author has written several books successfully",
+    "jabberwocky_matched": "the frail has farm ling bread deb",
+    "word_list_real": "several author written books the has successfully",
+    "word_list_nonce_1tok": "Ast blows near gin spray slam opt",
+    "word_list_nonce_2tok": "Smid leech staysh stor vaft stapt woan",
+    "skeleton_function_words": "the moist has stret sleek sow chap"
+  },
+  {
+    "set_id": 25,
+    "sentence": "they could see the mountains clearly from here",
+    "jabberwocky_matched": "they could short the seed fat from blend",
+    "word_list_real": "clearly mountains could see the from they here",
+    "word_list_nonce_1tok": "Mur boat snap slain nig skept tra wet",
+    "word_list_nonce_2tok": "Froisp kilt koarn layn woyd bost playsh fleesp",
+    "skeleton_function_words": "they could fer the nest gra from ramp"
+  },
+  {
+    "set_id": 26,
+    "sentence": "the machine is processing the data quite rapidly",
+    "jabberwocky_matched": "the neg is wik the und end tob",
+    "word_list_real": "the quite rapidly the machine is data processing",
+    "word_list_nonce_1tok": "Lap help frown stip reef surn tad hun",
+    "word_list_nonce_2tok": "Moomp streerk iez skapt yees moak hap spron",
+    "skeleton_function_words": "the sam is strap the bung pleas map"
+  },
+  {
+    "set_id": 27,
+    "sentence": "a skilled doctor examined the patient thoroughly",
+    "jabberwocky_matched": "a hep treat snag the thing dram",
+    "word_list_real": "examined patient thoroughly a skilled doctor the",
+    "word_list_nonce_1tok": "Brush blond mir tend paid host piv",
+    "word_list_nonce_2tok": "Shoun tond chearp delt troom ror golt",
+    "skeleton_function_words": "a slain rum churn the noun wat"
+  },
+  {
+    "set_id": 28,
+    "sentence": "the team was celebrating the victory enthusiastically",
+    "jabberwocky_matched": "the plead was has the bras wee",
+    "word_list_real": "team victory the celebrating was the enthusiastically",
+    "word_list_nonce_1tok": "Hood bow dro sub grunt mark feed",
+    "word_list_nonce_2tok": "Yain braind nank pownt weg strown frel",
+    "skeleton_function_words": "the moist was brown the aim shed"
+  },
+  {
+    "set_id": 29,
+    "sentence": "she might have understood the concept more clearly",
+    "jabberwocky_matched": "she might have loud the nig del near",
+    "word_list_real": "concept clearly might the more have understood she",
+    "word_list_nonce_1tok": "Rid ties long dro air bri wat sang",
+    "word_list_nonce_2tok": "Drooln wapt seast miet mee groav flur mong",
+    "skeleton_function_words": "she might have plan the wip limp slap"
+  },
+  {
+    "set_id": 30,
+    "sentence": "the investors are evaluating the opportunity very carefully",
+    "jabberwocky_matched": "the breach are tee the les very top",
+    "word_list_real": "evaluating investors very opportunity are the carefully the",
+    "word_list_nonce_1tok": "Broad ship mang steep wik sho rend fund",
+    "word_list_nonce_2tok": "Yush theymp boamp choark shouf stoob keaft droor",
+    "skeleton_function_words": "the rupt are torn the keep very rush"
+  }
+]

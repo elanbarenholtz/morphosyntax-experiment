@@ -1,0 +1,59 @@
+================================================================================
+                      MORPHOSYNTAX EXPERIMENT CHEAT SHEET
+================================================================================
+
+LOCATION: /Users/elanbarenholtz/morphosyntax-experiment/
+
+OPEN NEW TERMINAL? READ THIS FIRST:
+  1. cat NEW_TERMINAL_STARTUP.md
+  2. cat PROJECT_SUMMARY.md
+
+QUICK STATUS CHECK:
+  ./check_status.sh
+
+ESSENTIAL COMMANDS:
+  cd /Users/elanbarenholtz/morphosyntax-experiment
+  source venv/bin/activate
+  python3 run_comprehensive_audit.py --model gpt2
+
+FILES TO REMEMBER:
+  ✓ cue_families.py
+  ✓ word_level_analysis.py
+  ✓ run_comprehensive_audit.py
+  ✓ analyze_comprehensive_results.py
+  ✓ stimuli_comprehensive.json
+
+RUN ALL 5 MODELS:
+  ./run_cross_model_replication.sh
+
+USE GOOGLE COLAB:
+  Open: Comprehensive_Morphosyntax_Audit_Colab.ipynb
+  Upload: 5 files above
+
+DOCUMENTATION:
+  • NEW_TERMINAL_STARTUP.md ← For new sessions
+  • PROJECT_SUMMARY.md      ← Complete overview
+  • COMPREHENSIVE_INVESTIGATION_README.md
+  • CONTEXT_ABLATION_README.md
+
+LEGACY RESULTS:
+  experiment_results_*.json (19 files)
+  entropy_analysis_*.txt
+
+STUCK? CHECK:
+  1. Is venv activated? (source venv/bin/activate)
+  2. Are you in right dir? (pwd should show morphosyntax-experiment)
+  3. Read: cat NEW_TERMINAL_STARTUP.md
+
+MAIN ANALYSIS (6 conditions × 6 cue families):
+  - SENTENCE, JABBERWOCKY, FULL_SCRAMBLED
+  - CONTENT_SCRAMBLED, FUNCTION_SCRAMBLED, CUE_DELETED
+
+  - infinitival_to, modals, determiners
+  - prepositions, auxiliaries, complementizers
+
+KEY FINDING SO FAR:
+  Function-word skeleton is sufficient for morphosyntactic constraint
+  (JABBERWOCKY ≈ SENTENCE, but FUNCTION_SCRAMBLED fails)
+
+================================================================================

@@ -1,0 +1,7159 @@
+{
+  "metadata": {
+    "model": "gpt2",
+    "stimuli_file": "stimuli_comprehensive.json",
+    "method": "lexicon",
+    "top_k": 1000,
+    "num_stimulus_sets": 30,
+    "num_conditions": 6,
+    "num_cue_families": 6
+  },
+  "results": [
+    {
+      "set_id": 1,
+      "condition": "SENTENCE",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the scientist decided to",
+      "class_mass": {
+        "VERB": 0.6026558982921415
+      },
+      "num_tokens": 4,
+      "text": "the scientist decided to study the ancient artifacts"
+    },
+    {
+      "set_id": 1,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the scientist decided to study the ancient artifacts"
+    },
+    {
+      "set_id": 1,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the scientist decided to study the",
+      "class_mass": {
+        "NOUN": 0.05996460466121789,
+        "ADJECTIVE": 0.03900917184364516
+      },
+      "num_tokens": 6,
+      "text": "the scientist decided to study the ancient artifacts"
+    },
+    {
+      "set_id": 1,
+      "condition": "JABBERWOCKY",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the prell decided to",
+      "class_mass": {
+        "VERB": 0.48418304351798724
+      },
+      "num_tokens": 5,
+      "text": "the prell decided to cleb the bril braz"
+    },
+    {
+      "set_id": 1,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the prell decided to cleb the bril braz"
+    },
+    {
+      "set_id": 1,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the prell decided to cleb the",
+      "class_mass": {
+        "NOUN": 0.09521155606489629,
+        "ADJECTIVE": 0.06159288197522983
+      },
+      "num_tokens": 8,
+      "text": "the prell decided to cleb the bril braz"
+    },
+    {
+      "set_id": 1,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 0,
+      "context": "to",
+      "class_mass": {
+        "VERB": 0.06323873793735402
+      },
+      "num_tokens": 1,
+      "text": "to decided braz cleb the bril the prell"
+    },
+    {
+      "set_id": 1,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 4,
+      "context": "to decided braz cleb the",
+      "class_mass": {
+        "NOUN": 0.1162523947423324,
+        "ADJECTIVE": 0.17125658625445794
+      },
+      "num_tokens": 7,
+      "text": "to decided braz cleb the bril the prell"
+    },
+    {
+      "set_id": 1,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 6,
+      "context": "to decided braz cleb the bril the",
+      "class_mass": {
+        "NOUN": 0.05447717633796856,
+        "ADJECTIVE": 0.06767072857473977
+      },
+      "num_tokens": 10,
+      "text": "to decided braz cleb the bril the prell"
+    },
+    {
+      "set_id": 1,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the braz decided to",
+      "class_mass": {
+        "VERB": 0.5329771813994739
+      },
+      "num_tokens": 5,
+      "text": "the braz decided to cleb the prell bril"
+    },
+    {
+      "set_id": 1,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the braz decided to cleb the prell bril"
+    },
+    {
+      "set_id": 1,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the braz decided to cleb the",
+      "class_mass": {
+        "NOUN": 0.09965374860621523,
+        "ADJECTIVE": 0.05073451688804198
+      },
+      "num_tokens": 8,
+      "text": "the braz decided to cleb the prell bril"
+    },
+    {
+      "set_id": 1,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 5,
+      "context": "the prell the decided cleb to",
+      "class_mass": {
+        "VERB": 0.29897361336043105
+      },
+      "num_tokens": 8,
+      "text": "the prell the decided cleb to bril braz"
+    },
+    {
+      "set_id": 1,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the prell the decided cleb to bril braz"
+    },
+    {
+      "set_id": 1,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 2,
+      "context": "the prell the",
+      "class_mass": {
+        "NOUN": 0.07805535479565151,
+        "ADJECTIVE": 0.07267588909598999
+      },
+      "num_tokens": 4,
+      "text": "the prell the decided cleb to bril braz"
+    },
+    {
+      "set_id": 1,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the prell decided ke cleb the bril braz"
+    },
+    {
+      "set_id": 1,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the prell decided ke cleb the",
+      "class_mass": {
+        "NOUN": 0.08642245175724383,
+        "ADJECTIVE": 0.0880867611267604
+      },
+      "num_tokens": 8,
+      "text": "the prell decided ke cleb the bril braz"
+    },
+    {
+      "set_id": 2,
+      "condition": "SENTENCE",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the teacher decided to",
+      "class_mass": {
+        "VERB": 0.6001694357182714
+      },
+      "num_tokens": 4,
+      "text": "the teacher decided to explain the difficult concept"
+    },
+    {
+      "set_id": 2,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the teacher decided to explain the difficult concept"
+    },
+    {
+      "set_id": 2,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the teacher decided to explain the",
+      "class_mass": {
+        "NOUN": 0.13597330288757803,
+        "ADJECTIVE": 0.04205508389713941
+      },
+      "num_tokens": 6,
+      "text": "the teacher decided to explain the difficult concept"
+    },
+    {
+      "set_id": 2,
+      "condition": "JABBERWOCKY",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the zept decided to",
+      "class_mass": {
+        "VERB": 0.5076395674768719
+      },
+      "num_tokens": 5,
+      "text": "the zept decided to yeb the cral blit"
+    },
+    {
+      "set_id": 2,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the zept decided to yeb the cral blit"
+    },
+    {
+      "set_id": 2,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the zept decided to yeb the",
+      "class_mass": {
+        "NOUN": 0.07762130029732361,
+        "ADJECTIVE": 0.07740096002817154
+      },
+      "num_tokens": 8,
+      "text": "the zept decided to yeb the cral blit"
+    },
+    {
+      "set_id": 2,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 6,
+      "context": "the decided the cral zept yeb to",
+      "class_mass": {
+        "VERB": 0.30066676942806225
+      },
+      "num_tokens": 10,
+      "text": "the decided the cral zept yeb to blit"
+    },
+    {
+      "set_id": 2,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the decided the cral zept yeb to blit"
+    },
+    {
+      "set_id": 2,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 2,
+      "context": "the decided the",
+      "class_mass": {
+        "NOUN": 0.09349817807378713,
+        "ADJECTIVE": 0.076729428692488
+      },
+      "num_tokens": 3,
+      "text": "the decided the cral zept yeb to blit"
+    },
+    {
+      "set_id": 2,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the cral decided to",
+      "class_mass": {
+        "VERB": 0.4793458759522764
+      },
+      "num_tokens": 5,
+      "text": "the cral decided to yeb the zept blit"
+    },
+    {
+      "set_id": 2,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the cral decided to yeb the zept blit"
+    },
+    {
+      "set_id": 2,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the cral decided to yeb the",
+      "class_mass": {
+        "NOUN": 0.06705444607359823,
+        "ADJECTIVE": 0.07660202994884457
+      },
+      "num_tokens": 8,
+      "text": "the cral decided to yeb the zept blit"
+    },
+    {
+      "set_id": 2,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 0,
+      "context": "to",
+      "class_mass": {
+        "VERB": 0.06323873793735402
+      },
+      "num_tokens": 1,
+      "text": "to zept the decided yeb the cral blit"
+    },
+    {
+      "set_id": 2,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 2,
+      "context": "to zept the",
+      "class_mass": {
+        "NOUN": 0.06457619248249102,
+        "ADJECTIVE": 0.06439266675442923
+      },
+      "num_tokens": 4,
+      "text": "to zept the decided yeb the cral blit"
+    },
+    {
+      "set_id": 2,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "to zept the decided yeb the",
+      "class_mass": {
+        "NOUN": 0.050664089460042305,
+        "ADJECTIVE": 0.07089333001931664
+      },
+      "num_tokens": 8,
+      "text": "to zept the decided yeb the cral blit"
+    },
+    {
+      "set_id": 2,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the zept decided ke yeb the cral blit"
+    },
+    {
+      "set_id": 2,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the zept decided ke yeb the",
+      "class_mass": {
+        "NOUN": 0.10765435862413142,
+        "ADJECTIVE": 0.0948142156994436
+      },
+      "num_tokens": 8,
+      "text": "the zept decided ke yeb the cral blit"
+    },
+    {
+      "set_id": 3,
+      "condition": "SENTENCE",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the student decided to",
+      "class_mass": {
+        "VERB": 0.5900900046581228
+      },
+      "num_tokens": 4,
+      "text": "the student decided to finish the important assignment"
+    },
+    {
+      "set_id": 3,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the student decided to finish the important assignment"
+    },
+    {
+      "set_id": 3,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the student decided to finish the",
+      "class_mass": {
+        "NOUN": 0.08550990971707506,
+        "ADJECTIVE": 0.033087711406551534
+      },
+      "num_tokens": 6,
+      "text": "the student decided to finish the important assignment"
+    },
+    {
+      "set_id": 3,
+      "condition": "JABBERWOCKY",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the vling decided to",
+      "class_mass": {
+        "VERB": 0.45580111252638744
+      },
+      "num_tokens": 5,
+      "text": "the vling decided to brind the slib grift"
+    },
+    {
+      "set_id": 3,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the vling decided to brind the slib grift"
+    },
+    {
+      "set_id": 3,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the vling decided to brind the",
+      "class_mass": {
+        "NOUN": 0.07107542009907775,
+        "ADJECTIVE": 0.04215421802655328
+      },
+      "num_tokens": 8,
+      "text": "the vling decided to brind the slib grift"
+    },
+    {
+      "set_id": 3,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 4,
+      "context": "slib brind the the to",
+      "class_mass": {
+        "VERB": 0.06308652005827753
+      },
+      "num_tokens": 7,
+      "text": "slib brind the the to grift decided vling"
+    },
+    {
+      "set_id": 3,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 2,
+      "context": "slib brind the",
+      "class_mass": {
+        "NOUN": 0.04884766945906449,
+        "ADJECTIVE": 0.04282205303024966
+      },
+      "num_tokens": 5,
+      "text": "slib brind the the to grift decided vling"
+    },
+    {
+      "set_id": 3,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 3,
+      "context": "slib brind the the",
+      "class_mass": {
+        "NOUN": 0.04047754550992977,
+        "ADJECTIVE": 0.04998681500728708
+      },
+      "num_tokens": 6,
+      "text": "slib brind the the to grift decided vling"
+    },
+    {
+      "set_id": 3,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the slib decided to",
+      "class_mass": {
+        "VERB": 0.5317382504072157
+      },
+      "num_tokens": 5,
+      "text": "the slib decided to vling the brind grift"
+    },
+    {
+      "set_id": 3,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the slib decided to vling the brind grift"
+    },
+    {
+      "set_id": 3,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the slib decided to vling the",
+      "class_mass": {
+        "NOUN": 0.06501881088479422,
+        "ADJECTIVE": 0.048058467960800044
+      },
+      "num_tokens": 8,
+      "text": "the slib decided to vling the brind grift"
+    },
+    {
+      "set_id": 3,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 0,
+      "context": "to",
+      "class_mass": {
+        "VERB": 0.06323873793735402
+      },
+      "num_tokens": 1,
+      "text": "to vling the decided brind the slib grift"
+    },
+    {
+      "set_id": 3,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 2,
+      "context": "to vling the",
+      "class_mass": {
+        "NOUN": 0.06827057141344994,
+        "ADJECTIVE": 0.05587809636199381
+      },
+      "num_tokens": 4,
+      "text": "to vling the decided brind the slib grift"
+    },
+    {
+      "set_id": 3,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "to vling the decided brind the",
+      "class_mass": {
+        "NOUN": 0.056528621513280086,
+        "ADJECTIVE": 0.06409350328613073
+      },
+      "num_tokens": 8,
+      "text": "to vling the decided brind the slib grift"
+    },
+    {
+      "set_id": 3,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the vling decided ke brind the slib grift"
+    },
+    {
+      "set_id": 3,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the vling decided ke brind the",
+      "class_mass": {
+        "NOUN": 0.07610017516708467,
+        "ADJECTIVE": 0.06339311698684469
+      },
+      "num_tokens": 8,
+      "text": "the vling decided ke brind the slib grift"
+    },
+    {
+      "set_id": 4,
+      "condition": "SENTENCE",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the artist decided to",
+      "class_mass": {
+        "VERB": 0.6561202291486552
+      },
+      "num_tokens": 4,
+      "text": "the artist decided to paint the beautiful landscape"
+    },
+    {
+      "set_id": 4,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the artist decided to paint the beautiful landscape"
+    },
+    {
+      "set_id": 4,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the artist decided to paint the",
+      "class_mass": {
+        "NOUN": 0.10695725468394812,
+        "ADJECTIVE": 0.07750386011321098
+      },
+      "num_tokens": 6,
+      "text": "the artist decided to paint the beautiful landscape"
+    },
+    {
+      "set_id": 4,
+      "condition": "JABBERWOCKY",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the prid decided to",
+      "class_mass": {
+        "VERB": 0.45545164089708123
+      },
+      "num_tokens": 5,
+      "text": "the prid decided to greb the skel yond"
+    },
+    {
+      "set_id": 4,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the prid decided to greb the skel yond"
+    },
+    {
+      "set_id": 4,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the prid decided to greb the",
+      "class_mass": {
+        "NOUN": 0.09274097492743749,
+        "ADJECTIVE": 0.04916647810023278
+      },
+      "num_tokens": 8,
+      "text": "the prid decided to greb the skel yond"
+    },
+    {
+      "set_id": 4,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 4,
+      "context": "decided prid the the to",
+      "class_mass": {
+        "VERB": 0.21754274429986253
+      },
+      "num_tokens": 7,
+      "text": "decided prid the the to skel yond greb"
+    },
+    {
+      "set_id": 4,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 2,
+      "context": "decided prid the",
+      "class_mass": {
+        "NOUN": 0.09753826845553704,
+        "ADJECTIVE": 0.05721773620462045
+      },
+      "num_tokens": 5,
+      "text": "decided prid the the to skel yond greb"
+    },
+    {
+      "set_id": 4,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 3,
+      "context": "decided prid the the",
+      "class_mass": {
+        "NOUN": 0.05642497356166132,
+        "ADJECTIVE": 0.05163849644304719
+      },
+      "num_tokens": 6,
+      "text": "decided prid the the to skel yond greb"
+    },
+    {
+      "set_id": 4,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the prid decided to",
+      "class_mass": {
+        "VERB": 0.45545164089708123
+      },
+      "num_tokens": 5,
+      "text": "the prid decided to yond the skel greb"
+    },
+    {
+      "set_id": 4,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the prid decided to yond the skel greb"
+    },
+    {
+      "set_id": 4,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the prid decided to yond the",
+      "class_mass": {
+        "NOUN": 0.0865020259807352,
+        "ADJECTIVE": 0.04377932024362963
+      },
+      "num_tokens": 8,
+      "text": "the prid decided to yond the skel greb"
+    },
+    {
+      "set_id": 4,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 5,
+      "context": "decided prid the the greb to",
+      "class_mass": {
+        "VERB": 0.33537866746337386
+      },
+      "num_tokens": 9,
+      "text": "decided prid the the greb to skel yond"
+    },
+    {
+      "set_id": 4,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 2,
+      "context": "decided prid the",
+      "class_mass": {
+        "NOUN": 0.09753826845553704,
+        "ADJECTIVE": 0.05721773620462045
+      },
+      "num_tokens": 5,
+      "text": "decided prid the the greb to skel yond"
+    },
+    {
+      "set_id": 4,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 3,
+      "context": "decided prid the the",
+      "class_mass": {
+        "NOUN": 0.05642497356166132,
+        "ADJECTIVE": 0.05163849644304719
+      },
+      "num_tokens": 6,
+      "text": "decided prid the the greb to skel yond"
+    },
+    {
+      "set_id": 4,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the prid decided ke greb the skel yond"
+    },
+    {
+      "set_id": 4,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the prid decided ke greb the",
+      "class_mass": {
+        "NOUN": 0.07899378721776884,
+        "ADJECTIVE": 0.07525544891541358
+      },
+      "num_tokens": 8,
+      "text": "the prid decided ke greb the skel yond"
+    },
+    {
+      "set_id": 5,
+      "condition": "SENTENCE",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the doctor decided to",
+      "class_mass": {
+        "VERB": 0.5849869590492744
+      },
+      "num_tokens": 4,
+      "text": "the doctor decided to examine the sick patient"
+    },
+    {
+      "set_id": 5,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the doctor decided to examine the sick patient"
+    },
+    {
+      "set_id": 5,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the doctor decided to examine the",
+      "class_mass": {
+        "NOUN": 0.14583304916595807,
+        "ADJECTIVE": 0.02817213677917607
+      },
+      "num_tokens": 6,
+      "text": "the doctor decided to examine the sick patient"
+    },
+    {
+      "set_id": 5,
+      "condition": "JABBERWOCKY",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the throp decided to",
+      "class_mass": {
+        "VERB": 0.48722113741678186
+      },
+      "num_tokens": 5,
+      "text": "the throp decided to vreb the glib braz"
+    },
+    {
+      "set_id": 5,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the throp decided to vreb the glib braz"
+    },
+    {
+      "set_id": 5,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the throp decided to vreb the",
+      "class_mass": {
+        "NOUN": 0.0655408699385589,
+        "ADJECTIVE": 0.04505980672547594
+      },
+      "num_tokens": 8,
+      "text": "the throp decided to vreb the glib braz"
+    },
+    {
+      "set_id": 5,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 5,
+      "context": "decided braz the throp the to",
+      "class_mass": {
+        "VERB": 0.09769465361023322
+      },
+      "num_tokens": 9,
+      "text": "decided braz the throp the to vreb glib"
+    },
+    {
+      "set_id": 5,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 2,
+      "context": "decided braz the",
+      "class_mass": {
+        "NOUN": 0.09688622328394558,
+        "ADJECTIVE": 0.11114775715395808
+      },
+      "num_tokens": 5,
+      "text": "decided braz the throp the to vreb glib"
+    },
+    {
+      "set_id": 5,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 4,
+      "context": "decided braz the throp the",
+      "class_mass": {
+        "NOUN": 0.05636829366267193,
+        "ADJECTIVE": 0.07631596758437809
+      },
+      "num_tokens": 8,
+      "text": "decided braz the throp the to vreb glib"
+    },
+    {
+      "set_id": 5,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the braz decided to",
+      "class_mass": {
+        "VERB": 0.5329771813994739
+      },
+      "num_tokens": 5,
+      "text": "the braz decided to throp the vreb glib"
+    },
+    {
+      "set_id": 5,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the braz decided to throp the vreb glib"
+    },
+    {
+      "set_id": 5,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the braz decided to throp the",
+      "class_mass": {
+        "NOUN": 0.09880928837810643,
+        "ADJECTIVE": 0.04691022798942868
+      },
+      "num_tokens": 8,
+      "text": "the braz decided to throp the vreb glib"
+    },
+    {
+      "set_id": 5,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 0,
+      "context": "to",
+      "class_mass": {
+        "VERB": 0.06323873793735402
+      },
+      "num_tokens": 1,
+      "text": "to throp the decided vreb the glib braz"
+    },
+    {
+      "set_id": 5,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 2,
+      "context": "to throp the",
+      "class_mass": {
+        "NOUN": 0.06516581095638685,
+        "ADJECTIVE": 0.061016690320684575
+      },
+      "num_tokens": 4,
+      "text": "to throp the decided vreb the glib braz"
+    },
+    {
+      "set_id": 5,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "to throp the decided vreb the",
+      "class_mass": {
+        "NOUN": 0.04894083862018306,
+        "ADJECTIVE": 0.06838396631064825
+      },
+      "num_tokens": 8,
+      "text": "to throp the decided vreb the glib braz"
+    },
+    {
+      "set_id": 5,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the throp decided ke vreb the glib braz"
+    },
+    {
+      "set_id": 5,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the throp decided ke vreb the",
+      "class_mass": {
+        "NOUN": 0.06853495504765306,
+        "ADJECTIVE": 0.074501178401988
+      },
+      "num_tokens": 8,
+      "text": "the throp decided ke vreb the glib braz"
+    },
+    {
+      "set_id": 6,
+      "condition": "SENTENCE",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the child wanted to",
+      "class_mass": {
+        "VERB": 0.7384834708864219
+      },
+      "num_tokens": 4,
+      "text": "the child wanted to play with the colorful toys"
+    },
+    {
+      "set_id": 6,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the child wanted to play with the colorful toys"
+    },
+    {
+      "set_id": 6,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 6,
+      "context": "the child wanted to play with the",
+      "class_mass": {
+        "NOUN": 0.13980695938516874,
+        "ADJECTIVE": 0.08877138570824172
+      },
+      "num_tokens": 7,
+      "text": "the child wanted to play with the colorful toys"
+    },
+    {
+      "set_id": 6,
+      "condition": "SENTENCE",
+      "cue_family": "prepositions",
+      "cue_word": "with",
+      "word_index": 5,
+      "context": "the child wanted to play with",
+      "class_mass": {
+        "NP_START": 0.5035368698227103
+      },
+      "num_tokens": 6,
+      "text": "the child wanted to play with the colorful toys"
+    },
+    {
+      "set_id": 6,
+      "condition": "JABBERWOCKY",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the trug wanted to",
+      "class_mass": {
+        "VERB": 0.6028370783678838
+      },
+      "num_tokens": 5,
+      "text": "the trug wanted to flub with the vrel wask"
+    },
+    {
+      "set_id": 6,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the trug wanted to flub with the vrel wask"
+    },
+    {
+      "set_id": 6,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 6,
+      "context": "the trug wanted to flub with the",
+      "class_mass": {
+        "NOUN": 0.06679495991556905,
+        "ADJECTIVE": 0.07737690546491649
+      },
+      "num_tokens": 9,
+      "text": "the trug wanted to flub with the vrel wask"
+    },
+    {
+      "set_id": 6,
+      "condition": "JABBERWOCKY",
+      "cue_family": "prepositions",
+      "cue_word": "with",
+      "word_index": 5,
+      "context": "the trug wanted to flub with",
+      "class_mass": {
+        "NP_START": 0.46761219185282243
+      },
+      "num_tokens": 8,
+      "text": "the trug wanted to flub with the vrel wask"
+    },
+    {
+      "set_id": 6,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "with wanted flub to",
+      "class_mass": {
+        "VERB": 0.26919616777740885
+      },
+      "num_tokens": 5,
+      "text": "with wanted flub to wask the vrel trug the"
+    },
+    {
+      "set_id": 6,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "with wanted flub to wask the",
+      "class_mass": {
+        "NOUN": 0.1062651876709424,
+        "ADJECTIVE": 0.12889984305365942
+      },
+      "num_tokens": 8,
+      "text": "with wanted flub to wask the vrel trug the"
+    },
+    {
+      "set_id": 6,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 8,
+      "context": "with wanted flub to wask the vrel trug the",
+      "class_mass": {
+        "NOUN": 0.05891218360920902,
+        "ADJECTIVE": 0.05947332817595452
+      },
+      "num_tokens": 13,
+      "text": "with wanted flub to wask the vrel trug the"
+    },
+    {
+      "set_id": 6,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "prepositions",
+      "cue_word": "with",
+      "word_index": 0,
+      "context": "with",
+      "class_mass": {
+        "NP_START": 0.16514419847226236
+      },
+      "num_tokens": 1,
+      "text": "with wanted flub to wask the vrel trug the"
+    },
+    {
+      "set_id": 6,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the trug wanted to",
+      "class_mass": {
+        "VERB": 0.6028370783678838
+      },
+      "num_tokens": 5,
+      "text": "the trug wanted to flub with the wask vrel"
+    },
+    {
+      "set_id": 6,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the trug wanted to flub with the wask vrel"
+    },
+    {
+      "set_id": 6,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 6,
+      "context": "the trug wanted to flub with the",
+      "class_mass": {
+        "NOUN": 0.06679495991556905,
+        "ADJECTIVE": 0.07737690546491649
+      },
+      "num_tokens": 9,
+      "text": "the trug wanted to flub with the wask vrel"
+    },
+    {
+      "set_id": 6,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "prepositions",
+      "cue_word": "with",
+      "word_index": 5,
+      "context": "the trug wanted to flub with",
+      "class_mass": {
+        "NP_START": 0.46761219185282243
+      },
+      "num_tokens": 8,
+      "text": "the trug wanted to flub with the wask vrel"
+    },
+    {
+      "set_id": 6,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 6,
+      "context": "the trug wanted with flub the to",
+      "class_mass": {
+        "VERB": 0.06647330414125463
+      },
+      "num_tokens": 9,
+      "text": "the trug wanted with flub the to vrel wask"
+    },
+    {
+      "set_id": 6,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the trug wanted with flub the to vrel wask"
+    },
+    {
+      "set_id": 6,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the trug wanted with flub the",
+      "class_mass": {
+        "NOUN": 0.07326158611977007,
+        "ADJECTIVE": 0.07648009699187241
+      },
+      "num_tokens": 8,
+      "text": "the trug wanted with flub the to vrel wask"
+    },
+    {
+      "set_id": 6,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "prepositions",
+      "cue_word": "with",
+      "word_index": 3,
+      "context": "the trug wanted with",
+      "class_mass": {
+        "NP_START": 0.5765551162367046
+      },
+      "num_tokens": 5,
+      "text": "the trug wanted with flub the to vrel wask"
+    },
+    {
+      "set_id": 6,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the trug wanted ke flub with the vrel wask"
+    },
+    {
+      "set_id": 6,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 6,
+      "context": "the trug wanted ke flub with the",
+      "class_mass": {
+        "NOUN": 0.05477948072075378,
+        "ADJECTIVE": 0.06410505397070665
+      },
+      "num_tokens": 9,
+      "text": "the trug wanted ke flub with the vrel wask"
+    },
+    {
+      "set_id": 6,
+      "condition": "CUE_DELETED",
+      "cue_family": "prepositions",
+      "cue_word": "with",
+      "word_index": 5,
+      "context": "the trug wanted ke flub with",
+      "class_mass": {
+        "NP_START": 0.3636776037164964
+      },
+      "num_tokens": 8,
+      "text": "the trug wanted ke flub with the vrel wask"
+    },
+    {
+      "set_id": 7,
+      "condition": "SENTENCE",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the musician wanted to",
+      "class_mass": {
+        "VERB": 0.6755663633011864
+      },
+      "num_tokens": 4,
+      "text": "the musician wanted to perform at the famous venue"
+    },
+    {
+      "set_id": 7,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the musician wanted to perform at the famous venue"
+    },
+    {
+      "set_id": 7,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 6,
+      "context": "the musician wanted to perform at the",
+      "class_mass": {
+        "NOUN": 0.04668306828534696,
+        "ADJECTIVE": 0.07601123837230261
+      },
+      "num_tokens": 7,
+      "text": "the musician wanted to perform at the famous venue"
+    },
+    {
+      "set_id": 7,
+      "condition": "SENTENCE",
+      "cue_family": "prepositions",
+      "cue_word": "at",
+      "word_index": 5,
+      "context": "the musician wanted to perform at",
+      "class_mass": {
+        "NP_START": 0.6823448868235573
+      },
+      "num_tokens": 6,
+      "text": "the musician wanted to perform at the famous venue"
+    },
+    {
+      "set_id": 7,
+      "condition": "JABBERWOCKY",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the wask wanted to",
+      "class_mass": {
+        "VERB": 0.6190681424341165
+      },
+      "num_tokens": 5,
+      "text": "the wask wanted to wrib at the skel drell"
+    },
+    {
+      "set_id": 7,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the wask wanted to wrib at the skel drell"
+    },
+    {
+      "set_id": 7,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 6,
+      "context": "the wask wanted to wrib at the",
+      "class_mass": {
+        "NOUN": 0.12770449586969335,
+        "ADJECTIVE": 0.06689558342623059
+      },
+      "num_tokens": 9,
+      "text": "the wask wanted to wrib at the skel drell"
+    },
+    {
+      "set_id": 7,
+      "condition": "JABBERWOCKY",
+      "cue_family": "prepositions",
+      "cue_word": "at",
+      "word_index": 5,
+      "context": "the wask wanted to wrib at",
+      "class_mass": {
+        "NP_START": 0.46832591246493394
+      },
+      "num_tokens": 8,
+      "text": "the wask wanted to wrib at the skel drell"
+    },
+    {
+      "set_id": 7,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the drell the to",
+      "class_mass": {
+        "VERB": 0.08302925716998288
+      },
+      "num_tokens": 5,
+      "text": "the drell the to at wanted wrib wask skel"
+    },
+    {
+      "set_id": 7,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the drell the to at wanted wrib wask skel"
+    },
+    {
+      "set_id": 7,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 2,
+      "context": "the drell the",
+      "class_mass": {
+        "NOUN": 0.05042148075881414,
+        "ADJECTIVE": 0.06343157796072774
+      },
+      "num_tokens": 4,
+      "text": "the drell the to at wanted wrib wask skel"
+    },
+    {
+      "set_id": 7,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "prepositions",
+      "cue_word": "at",
+      "word_index": 4,
+      "context": "the drell the to at",
+      "class_mass": {
+        "NP_START": 0.1953124000574462
+      },
+      "num_tokens": 6,
+      "text": "the drell the to at wanted wrib wask skel"
+    },
+    {
+      "set_id": 7,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the drell wanted to",
+      "class_mass": {
+        "VERB": 0.6112146447558189
+      },
+      "num_tokens": 5,
+      "text": "the drell wanted to wask at the skel wrib"
+    },
+    {
+      "set_id": 7,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the drell wanted to wask at the skel wrib"
+    },
+    {
+      "set_id": 7,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 6,
+      "context": "the drell wanted to wask at the",
+      "class_mass": {
+        "NOUN": 0.2602341000747401,
+        "ADJECTIVE": 0.07010689238813939
+      },
+      "num_tokens": 9,
+      "text": "the drell wanted to wask at the skel wrib"
+    },
+    {
+      "set_id": 7,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "prepositions",
+      "cue_word": "at",
+      "word_index": 5,
+      "context": "the drell wanted to wask at",
+      "class_mass": {
+        "NP_START": 0.5083701516850851
+      },
+      "num_tokens": 8,
+      "text": "the drell wanted to wask at the skel wrib"
+    },
+    {
+      "set_id": 7,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 6,
+      "context": "the wask the at wrib wanted to",
+      "class_mass": {
+        "VERB": 0.5664633146734559
+      },
+      "num_tokens": 9,
+      "text": "the wask the at wrib wanted to skel drell"
+    },
+    {
+      "set_id": 7,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the wask the at wrib wanted to skel drell"
+    },
+    {
+      "set_id": 7,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 2,
+      "context": "the wask the",
+      "class_mass": {
+        "NOUN": 0.08173770387656987,
+        "ADJECTIVE": 0.03921371999604162
+      },
+      "num_tokens": 4,
+      "text": "the wask the at wrib wanted to skel drell"
+    },
+    {
+      "set_id": 7,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "prepositions",
+      "cue_word": "at",
+      "word_index": 3,
+      "context": "the wask the at",
+      "class_mass": {
+        "NP_START": 0.067868279897084
+      },
+      "num_tokens": 5,
+      "text": "the wask the at wrib wanted to skel drell"
+    },
+    {
+      "set_id": 7,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the wask wanted ke wrib at the skel drell"
+    },
+    {
+      "set_id": 7,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 6,
+      "context": "the wask wanted ke wrib at the",
+      "class_mass": {
+        "NOUN": 0.18469319408177398,
+        "ADJECTIVE": 0.06396413124457467
+      },
+      "num_tokens": 9,
+      "text": "the wask wanted ke wrib at the skel drell"
+    },
+    {
+      "set_id": 7,
+      "condition": "CUE_DELETED",
+      "cue_family": "prepositions",
+      "cue_word": "at",
+      "word_index": 5,
+      "context": "the wask wanted ke wrib at",
+      "class_mass": {
+        "NP_START": 0.28843340195453493
+      },
+      "num_tokens": 8,
+      "text": "the wask wanted ke wrib at the skel drell"
+    },
+    {
+      "set_id": 8,
+      "condition": "SENTENCE",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the writer wanted to",
+      "class_mass": {
+        "VERB": 0.6658615224841924
+      },
+      "num_tokens": 4,
+      "text": "the writer wanted to publish the controversial novel"
+    },
+    {
+      "set_id": 8,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the writer wanted to publish the controversial novel"
+    },
+    {
+      "set_id": 8,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the writer wanted to publish the",
+      "class_mass": {
+        "NOUN": 0.3265490413905354,
+        "ADJECTIVE": 0.08797757305001142
+      },
+      "num_tokens": 6,
+      "text": "the writer wanted to publish the controversial novel"
+    },
+    {
+      "set_id": 8,
+      "condition": "JABBERWOCKY",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the drell wanted to",
+      "class_mass": {
+        "VERB": 0.6112146447558189
+      },
+      "num_tokens": 5,
+      "text": "the drell wanted to slib the dril vrim"
+    },
+    {
+      "set_id": 8,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the drell wanted to slib the dril vrim"
+    },
+    {
+      "set_id": 8,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the drell wanted to slib the",
+      "class_mass": {
+        "NOUN": 0.07489883499511052,
+        "ADJECTIVE": 0.04558411301695742
+      },
+      "num_tokens": 8,
+      "text": "the drell wanted to slib the dril vrim"
+    },
+    {
+      "set_id": 8,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 7,
+      "context": "vrim the wanted drell slib the dril to",
+      "class_mass": {
+        "VERB": 0.2910949675788288
+      },
+      "num_tokens": 12,
+      "text": "vrim the wanted drell slib the dril to"
+    },
+    {
+      "set_id": 8,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 1,
+      "context": "vrim the",
+      "class_mass": {
+        "NOUN": 0.07282161705370527,
+        "ADJECTIVE": 0.08819479058729485
+      },
+      "num_tokens": 3,
+      "text": "vrim the wanted drell slib the dril to"
+    },
+    {
+      "set_id": 8,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "vrim the wanted drell slib the",
+      "class_mass": {
+        "NOUN": 0.02556666282180231,
+        "ADJECTIVE": 0.050991745054489
+      },
+      "num_tokens": 9,
+      "text": "vrim the wanted drell slib the dril to"
+    },
+    {
+      "set_id": 8,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the slib wanted to",
+      "class_mass": {
+        "VERB": 0.5988201199943433
+      },
+      "num_tokens": 5,
+      "text": "the slib wanted to drell the vrim dril"
+    },
+    {
+      "set_id": 8,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the slib wanted to drell the vrim dril"
+    },
+    {
+      "set_id": 8,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the slib wanted to drell the",
+      "class_mass": {
+        "NOUN": 0.08666182274464518,
+        "ADJECTIVE": 0.06134522600041237
+      },
+      "num_tokens": 8,
+      "text": "the slib wanted to drell the vrim dril"
+    },
+    {
+      "set_id": 8,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 2,
+      "context": "the drell to",
+      "class_mass": {
+        "VERB": 0.3188233544060495
+      },
+      "num_tokens": 4,
+      "text": "the drell to the slib wanted dril vrim"
+    },
+    {
+      "set_id": 8,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the drell to the slib wanted dril vrim"
+    },
+    {
+      "set_id": 8,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 3,
+      "context": "the drell to the",
+      "class_mass": {
+        "NOUN": 0.07282977437716909,
+        "ADJECTIVE": 0.15681490195856895
+      },
+      "num_tokens": 5,
+      "text": "the drell to the slib wanted dril vrim"
+    },
+    {
+      "set_id": 8,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the drell wanted ke slib the dril vrim"
+    },
+    {
+      "set_id": 8,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the drell wanted ke slib the",
+      "class_mass": {
+        "NOUN": 0.06317648968251888,
+        "ADJECTIVE": 0.08485605072928593
+      },
+      "num_tokens": 8,
+      "text": "the drell wanted ke slib the dril vrim"
+    },
+    {
+      "set_id": 9,
+      "condition": "SENTENCE",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the chef wanted to",
+      "class_mass": {
+        "VERB": 0.689238273891533
+      },
+      "num_tokens": 4,
+      "text": "the chef wanted to prepare the special dinner"
+    },
+    {
+      "set_id": 9,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the chef wanted to prepare the special dinner"
+    },
+    {
+      "set_id": 9,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the chef wanted to prepare the",
+      "class_mass": {
+        "NOUN": 0.11912436698912643,
+        "ADJECTIVE": 0.058417469008418266
+      },
+      "num_tokens": 6,
+      "text": "the chef wanted to prepare the special dinner"
+    },
+    {
+      "set_id": 9,
+      "condition": "JABBERWOCKY",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the krin wanted to",
+      "class_mass": {
+        "VERB": 0.6137957694954821
+      },
+      "num_tokens": 5,
+      "text": "the krin wanted to plek the blip flust"
+    },
+    {
+      "set_id": 9,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the krin wanted to plek the blip flust"
+    },
+    {
+      "set_id": 9,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the krin wanted to plek the",
+      "class_mass": {
+        "NOUN": 0.08276843169005588,
+        "ADJECTIVE": 0.04555031380732544
+      },
+      "num_tokens": 8,
+      "text": "the krin wanted to plek the blip flust"
+    },
+    {
+      "set_id": 9,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 4,
+      "context": "blip the plek flust to",
+      "class_mass": {
+        "VERB": 0.2295032278780127
+      },
+      "num_tokens": 8,
+      "text": "blip the plek flust to the krin wanted"
+    },
+    {
+      "set_id": 9,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 1,
+      "context": "blip the",
+      "class_mass": {
+        "NOUN": 0.06459933838050347,
+        "ADJECTIVE": 0.05760166155232582
+      },
+      "num_tokens": 3,
+      "text": "blip the plek flust to the krin wanted"
+    },
+    {
+      "set_id": 9,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "blip the plek flust to the",
+      "class_mass": {
+        "NOUN": 0.10389391679200344,
+        "ADJECTIVE": 0.1475108984450344
+      },
+      "num_tokens": 9,
+      "text": "blip the plek flust to the krin wanted"
+    },
+    {
+      "set_id": 9,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the flust wanted to",
+      "class_mass": {
+        "VERB": 0.5842734036123147
+      },
+      "num_tokens": 5,
+      "text": "the flust wanted to blip the krin plek"
+    },
+    {
+      "set_id": 9,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the flust wanted to blip the krin plek"
+    },
+    {
+      "set_id": 9,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the flust wanted to blip the",
+      "class_mass": {
+        "NOUN": 0.0992797171784332,
+        "ADJECTIVE": 0.053007131165941246
+      },
+      "num_tokens": 8,
+      "text": "the flust wanted to blip the krin plek"
+    },
+    {
+      "set_id": 9,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 2,
+      "context": "wanted krin to",
+      "class_mass": {
+        "VERB": 0.5125603683773079
+      },
+      "num_tokens": 5,
+      "text": "wanted krin to the plek the blip flust"
+    },
+    {
+      "set_id": 9,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 3,
+      "context": "wanted krin to the",
+      "class_mass": {
+        "NOUN": 0.08810907979204785,
+        "ADJECTIVE": 0.06381015585793648
+      },
+      "num_tokens": 6,
+      "text": "wanted krin to the plek the blip flust"
+    },
+    {
+      "set_id": 9,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "wanted krin to the plek the",
+      "class_mass": {
+        "NOUN": 0.06919841744820587,
+        "ADJECTIVE": 0.08210065135790501
+      },
+      "num_tokens": 9,
+      "text": "wanted krin to the plek the blip flust"
+    },
+    {
+      "set_id": 9,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the krin wanted ke plek the blip flust"
+    },
+    {
+      "set_id": 9,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the krin wanted ke plek the",
+      "class_mass": {
+        "NOUN": 0.0709974521305412,
+        "ADJECTIVE": 0.06490642951393966
+      },
+      "num_tokens": 8,
+      "text": "the krin wanted ke plek the blip flust"
+    },
+    {
+      "set_id": 10,
+      "condition": "SENTENCE",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the athlete wanted to",
+      "class_mass": {
+        "VERB": 0.6892844468566182
+      },
+      "num_tokens": 4,
+      "text": "the athlete wanted to win the important competition"
+    },
+    {
+      "set_id": 10,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the athlete wanted to win the important competition"
+    },
+    {
+      "set_id": 10,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the athlete wanted to win the",
+      "class_mass": {
+        "NOUN": 0.1074861781889922,
+        "ADJECTIVE": 0.06320899115235079
+      },
+      "num_tokens": 6,
+      "text": "the athlete wanted to win the important competition"
+    },
+    {
+      "set_id": 10,
+      "condition": "JABBERWOCKY",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the crint wanted to",
+      "class_mass": {
+        "VERB": 0.6009460627101362
+      },
+      "num_tokens": 5,
+      "text": "the crint wanted to skeb the trop glom"
+    },
+    {
+      "set_id": 10,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the crint wanted to skeb the trop glom"
+    },
+    {
+      "set_id": 10,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the crint wanted to skeb the",
+      "class_mass": {
+        "NOUN": 0.07577590290748049,
+        "ADJECTIVE": 0.06218753817665856
+      },
+      "num_tokens": 8,
+      "text": "the crint wanted to skeb the trop glom"
+    },
+    {
+      "set_id": 10,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 1,
+      "context": "trop to",
+      "class_mass": {
+        "VERB": 0.06492582270584535
+      },
+      "num_tokens": 2,
+      "text": "trop to glom wanted skeb the the crint"
+    },
+    {
+      "set_id": 10,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "trop to glom wanted skeb the",
+      "class_mass": {
+        "NOUN": 0.05957122577819973,
+        "ADJECTIVE": 0.07929687316936906
+      },
+      "num_tokens": 8,
+      "text": "trop to glom wanted skeb the the crint"
+    },
+    {
+      "set_id": 10,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 6,
+      "context": "trop to glom wanted skeb the the",
+      "class_mass": {
+        "NOUN": 0.04726218002906535,
+        "ADJECTIVE": 0.08992208624840714
+      },
+      "num_tokens": 9,
+      "text": "trop to glom wanted skeb the the crint"
+    },
+    {
+      "set_id": 10,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the glom wanted to",
+      "class_mass": {
+        "VERB": 0.5299794471502537
+      },
+      "num_tokens": 5,
+      "text": "the glom wanted to trop the crint skeb"
+    },
+    {
+      "set_id": 10,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the glom wanted to trop the crint skeb"
+    },
+    {
+      "set_id": 10,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the glom wanted to trop the",
+      "class_mass": {
+        "NOUN": 0.08616525480465498,
+        "ADJECTIVE": 0.04260454491304699
+      },
+      "num_tokens": 7,
+      "text": "the glom wanted to trop the crint skeb"
+    },
+    {
+      "set_id": 10,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 0,
+      "context": "to",
+      "class_mass": {
+        "VERB": 0.06323873793735402
+      },
+      "num_tokens": 1,
+      "text": "to crint the the skeb wanted trop glom"
+    },
+    {
+      "set_id": 10,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 2,
+      "context": "to crint the",
+      "class_mass": {
+        "NOUN": 0.07827703047951218,
+        "ADJECTIVE": 0.06343339561135508
+      },
+      "num_tokens": 4,
+      "text": "to crint the the skeb wanted trop glom"
+    },
+    {
+      "set_id": 10,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 3,
+      "context": "to crint the the",
+      "class_mass": {
+        "NOUN": 0.055253634476684965,
+        "ADJECTIVE": 0.05869236230500974
+      },
+      "num_tokens": 5,
+      "text": "to crint the the skeb wanted trop glom"
+    },
+    {
+      "set_id": 10,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the crint wanted ke skeb the trop glom"
+    },
+    {
+      "set_id": 10,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the crint wanted ke skeb the",
+      "class_mass": {
+        "NOUN": 0.05816922994563356,
+        "ADJECTIVE": 0.07515642167709302
+      },
+      "num_tokens": 8,
+      "text": "the crint wanted ke skeb the trop glom"
+    },
+    {
+      "set_id": 11,
+      "condition": "SENTENCE",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the professor began to",
+      "class_mass": {
+        "VERB": 0.33388373551133554
+      },
+      "num_tokens": 4,
+      "text": "the professor began to teach the advanced course"
+    },
+    {
+      "set_id": 11,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the professor began to teach the advanced course"
+    },
+    {
+      "set_id": 11,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the professor began to teach the",
+      "class_mass": {
+        "NOUN": 0.07485865346825449,
+        "ADJECTIVE": 0.061754451133310795
+      },
+      "num_tokens": 6,
+      "text": "the professor began to teach the advanced course"
+    },
+    {
+      "set_id": 11,
+      "condition": "JABBERWOCKY",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the drell began to",
+      "class_mass": {
+        "VERB": 0.2941554288408952
+      },
+      "num_tokens": 5,
+      "text": "the drell began to blim the snel glom"
+    },
+    {
+      "set_id": 11,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the drell began to blim the snel glom"
+    },
+    {
+      "set_id": 11,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the drell began to blim the",
+      "class_mass": {
+        "NOUN": 0.07593703099701088,
+        "ADJECTIVE": 0.04242924762365874
+      },
+      "num_tokens": 8,
+      "text": "the drell began to blim the snel glom"
+    },
+    {
+      "set_id": 11,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 4,
+      "context": "began drell the blim to",
+      "class_mass": {
+        "VERB": 0.2718105513777118
+      },
+      "num_tokens": 8,
+      "text": "began drell the blim to snel the glom"
+    },
+    {
+      "set_id": 11,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 2,
+      "context": "began drell the",
+      "class_mass": {
+        "NOUN": 0.0977792833436979,
+        "ADJECTIVE": 0.11479035281809047
+      },
+      "num_tokens": 5,
+      "text": "began drell the blim to snel the glom"
+    },
+    {
+      "set_id": 11,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 6,
+      "context": "began drell the blim to snel the",
+      "class_mass": {
+        "NOUN": 0.03892850590636954,
+        "ADJECTIVE": 0.04592860415868927
+      },
+      "num_tokens": 11,
+      "text": "began drell the blim to snel the glom"
+    },
+    {
+      "set_id": 11,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the glom began to",
+      "class_mass": {
+        "VERB": 0.2292257690569386
+      },
+      "num_tokens": 5,
+      "text": "the glom began to blim the snel drell"
+    },
+    {
+      "set_id": 11,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the glom began to blim the snel drell"
+    },
+    {
+      "set_id": 11,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the glom began to blim the",
+      "class_mass": {
+        "NOUN": 0.05816851317649707,
+        "ADJECTIVE": 0.05107133957790211
+      },
+      "num_tokens": 8,
+      "text": "the glom began to blim the snel drell"
+    },
+    {
+      "set_id": 11,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 0,
+      "context": "to",
+      "class_mass": {
+        "VERB": 0.06323873793735402
+      },
+      "num_tokens": 1,
+      "text": "to drell began the blim the snel glom"
+    },
+    {
+      "set_id": 11,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 3,
+      "context": "to drell began the",
+      "class_mass": {
+        "NOUN": 0.13724910367454868,
+        "ADJECTIVE": 0.08729721249255817
+      },
+      "num_tokens": 5,
+      "text": "to drell began the blim the snel glom"
+    },
+    {
+      "set_id": 11,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "to drell began the blim the",
+      "class_mass": {
+        "NOUN": 0.09262453582778107,
+        "ADJECTIVE": 0.09875940195342992
+      },
+      "num_tokens": 8,
+      "text": "to drell began the blim the snel glom"
+    },
+    {
+      "set_id": 11,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the drell began ke blim the snel glom"
+    },
+    {
+      "set_id": 11,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the drell began ke blim the",
+      "class_mass": {
+        "NOUN": 0.060474467754829675,
+        "ADJECTIVE": 0.06389956765633542
+      },
+      "num_tokens": 8,
+      "text": "the drell began ke blim the snel glom"
+    },
+    {
+      "set_id": 12,
+      "condition": "SENTENCE",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the detective began to",
+      "class_mass": {
+        "VERB": 0.37238478670769837
+      },
+      "num_tokens": 4,
+      "text": "the detective began to investigate the mysterious crime"
+    },
+    {
+      "set_id": 12,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the detective began to investigate the mysterious crime"
+    },
+    {
+      "set_id": 12,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the detective began to investigate the",
+      "class_mass": {
+        "NOUN": 0.21653399534261553,
+        "ADJECTIVE": 0.027477918520162348
+      },
+      "num_tokens": 6,
+      "text": "the detective began to investigate the mysterious crime"
+    },
+    {
+      "set_id": 12,
+      "condition": "JABBERWOCKY",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the bletch began to",
+      "class_mass": {
+        "VERB": 0.27992419856309425
+      },
+      "num_tokens": 6,
+      "text": "the bletch began to treb the trop trug"
+    },
+    {
+      "set_id": 12,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the bletch began to treb the trop trug"
+    },
+    {
+      "set_id": 12,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the bletch began to treb the",
+      "class_mass": {
+        "NOUN": 0.06497395694896113,
+        "ADJECTIVE": 0.04499541605764534
+      },
+      "num_tokens": 9,
+      "text": "the bletch began to treb the trop trug"
+    },
+    {
+      "set_id": 12,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 6,
+      "context": "the treb trop bletch began trug to",
+      "class_mass": {
+        "VERB": 0.11803991131455405
+      },
+      "num_tokens": 11,
+      "text": "the treb trop bletch began trug to the"
+    },
+    {
+      "set_id": 12,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the treb trop bletch began trug to the"
+    },
+    {
+      "set_id": 12,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 7,
+      "context": "the treb trop bletch began trug to the",
+      "class_mass": {
+        "NOUN": 0.059188138009631075,
+        "ADJECTIVE": 0.05911630047194194
+      },
+      "num_tokens": 12,
+      "text": "the treb trop bletch began trug to the"
+    },
+    {
+      "set_id": 12,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the treb began to",
+      "class_mass": {
+        "VERB": 0.23551631246664329
+      },
+      "num_tokens": 5,
+      "text": "the treb began to trop the trug bletch"
+    },
+    {
+      "set_id": 12,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the treb began to trop the trug bletch"
+    },
+    {
+      "set_id": 12,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the treb began to trop the",
+      "class_mass": {
+        "NOUN": 0.0846777803672012,
+        "ADJECTIVE": 0.03852523317618761
+      },
+      "num_tokens": 7,
+      "text": "the treb began to trop the trug bletch"
+    },
+    {
+      "set_id": 12,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 2,
+      "context": "began bletch to",
+      "class_mass": {
+        "VERB": 0.28091268964635674
+      },
+      "num_tokens": 6,
+      "text": "began bletch to the treb the trop trug"
+    },
+    {
+      "set_id": 12,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 3,
+      "context": "began bletch to the",
+      "class_mass": {
+        "NOUN": 0.06901494388876017,
+        "ADJECTIVE": 0.06570454113534652
+      },
+      "num_tokens": 7,
+      "text": "began bletch to the treb the trop trug"
+    },
+    {
+      "set_id": 12,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "began bletch to the treb the",
+      "class_mass": {
+        "NOUN": 0.0802349727746332,
+        "ADJECTIVE": 0.12022744301066268
+      },
+      "num_tokens": 10,
+      "text": "began bletch to the treb the trop trug"
+    },
+    {
+      "set_id": 12,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the bletch began ke treb the trop trug"
+    },
+    {
+      "set_id": 12,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the bletch began ke treb the",
+      "class_mass": {
+        "NOUN": 0.06195264314010274,
+        "ADJECTIVE": 0.08579580720106605
+      },
+      "num_tokens": 9,
+      "text": "the bletch began ke treb the trop trug"
+    },
+    {
+      "set_id": 13,
+      "condition": "SENTENCE",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the engineer began to",
+      "class_mass": {
+        "VERB": 0.37643219318124466
+      },
+      "num_tokens": 4,
+      "text": "the engineer began to design the complex system"
+    },
+    {
+      "set_id": 13,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the engineer began to design the complex system"
+    },
+    {
+      "set_id": 13,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the engineer began to design the",
+      "class_mass": {
+        "NOUN": 0.09066482020716649,
+        "ADJECTIVE": 0.06868051468336489
+      },
+      "num_tokens": 6,
+      "text": "the engineer began to design the complex system"
+    },
+    {
+      "set_id": 13,
+      "condition": "JABBERWOCKY",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the vrim began to",
+      "class_mass": {
+        "VERB": 0.24485238189663505
+      },
+      "num_tokens": 5,
+      "text": "the vrim began to trop the flom zorf"
+    },
+    {
+      "set_id": 13,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the vrim began to trop the flom zorf"
+    },
+    {
+      "set_id": 13,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the vrim began to trop the",
+      "class_mass": {
+        "NOUN": 0.08478365356859285,
+        "ADJECTIVE": 0.04538346549088601
+      },
+      "num_tokens": 7,
+      "text": "the vrim began to trop the flom zorf"
+    },
+    {
+      "set_id": 13,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 0,
+      "context": "to",
+      "class_mass": {
+        "VERB": 0.06323873793735402
+      },
+      "num_tokens": 1,
+      "text": "to the zorf the vrim flom trop began"
+    },
+    {
+      "set_id": 13,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 1,
+      "context": "to the",
+      "class_mass": {
+        "NOUN": 0.09824776783352718,
+        "ADJECTIVE": 0.09328196567366831
+      },
+      "num_tokens": 2,
+      "text": "to the zorf the vrim flom trop began"
+    },
+    {
+      "set_id": 13,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 3,
+      "context": "to the zorf the",
+      "class_mass": {
+        "NOUN": 0.0693012095434824,
+        "ADJECTIVE": 0.0800499821343692
+      },
+      "num_tokens": 5,
+      "text": "to the zorf the vrim flom trop began"
+    },
+    {
+      "set_id": 13,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the flom began to",
+      "class_mass": {
+        "VERB": 0.2089342876279261
+      },
+      "num_tokens": 5,
+      "text": "the flom began to vrim the trop zorf"
+    },
+    {
+      "set_id": 13,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the flom began to vrim the trop zorf"
+    },
+    {
+      "set_id": 13,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the flom began to vrim the",
+      "class_mass": {
+        "NOUN": 0.07844363369804341,
+        "ADJECTIVE": 0.04794405592838302
+      },
+      "num_tokens": 8,
+      "text": "the flom began to vrim the trop zorf"
+    },
+    {
+      "set_id": 13,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the vrim the to",
+      "class_mass": {
+        "VERB": 0.05311114108917536
+      },
+      "num_tokens": 5,
+      "text": "the vrim the to trop began flom zorf"
+    },
+    {
+      "set_id": 13,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the vrim the to trop began flom zorf"
+    },
+    {
+      "set_id": 13,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 2,
+      "context": "the vrim the",
+      "class_mass": {
+        "NOUN": 0.06307301470951643,
+        "ADJECTIVE": 0.052803634680458345
+      },
+      "num_tokens": 4,
+      "text": "the vrim the to trop began flom zorf"
+    },
+    {
+      "set_id": 13,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the vrim began ke trop the flom zorf"
+    },
+    {
+      "set_id": 13,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the vrim began ke trop the",
+      "class_mass": {
+        "NOUN": 0.055576578772161156,
+        "ADJECTIVE": 0.06011986070370767
+      },
+      "num_tokens": 7,
+      "text": "the vrim began ke trop the flom zorf"
+    },
+    {
+      "set_id": 14,
+      "condition": "SENTENCE",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the gardener began to",
+      "class_mass": {
+        "VERB": 0.3277833736356115
+      },
+      "num_tokens": 5,
+      "text": "the gardener began to plant the fresh seeds"
+    },
+    {
+      "set_id": 14,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the gardener began to plant the fresh seeds"
+    },
+    {
+      "set_id": 14,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the gardener began to plant the",
+      "class_mass": {
+        "NOUN": 0.01566917355376063,
+        "ADJECTIVE": 0.06779831554740667
+      },
+      "num_tokens": 7,
+      "text": "the gardener began to plant the fresh seeds"
+    },
+    {
+      "set_id": 14,
+      "condition": "JABBERWOCKY",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the blit began to",
+      "class_mass": {
+        "VERB": 0.22281058601220138
+      },
+      "num_tokens": 5,
+      "text": "the blit began to sneb the skel tral"
+    },
+    {
+      "set_id": 14,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the blit began to sneb the skel tral"
+    },
+    {
+      "set_id": 14,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the blit began to sneb the",
+      "class_mass": {
+        "NOUN": 0.12607029335049447,
+        "ADJECTIVE": 0.06834022160910536
+      },
+      "num_tokens": 8,
+      "text": "the blit began to sneb the skel tral"
+    },
+    {
+      "set_id": 14,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 2,
+      "context": "skel began to",
+      "class_mass": {
+        "VERB": 0.3516463227861095
+      },
+      "num_tokens": 4,
+      "text": "skel began to the tral sneb blit the"
+    },
+    {
+      "set_id": 14,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 3,
+      "context": "skel began to the",
+      "class_mass": {
+        "NOUN": 0.08133895936771296,
+        "ADJECTIVE": 0.04451716164476238
+      },
+      "num_tokens": 5,
+      "text": "skel began to the tral sneb blit the"
+    },
+    {
+      "set_id": 14,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 7,
+      "context": "skel began to the tral sneb blit the",
+      "class_mass": {
+        "NOUN": 0.08261199215485249,
+        "ADJECTIVE": 0.0940060646389611
+      },
+      "num_tokens": 12,
+      "text": "skel began to the tral sneb blit the"
+    },
+    {
+      "set_id": 14,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the blit began to",
+      "class_mass": {
+        "VERB": 0.22281058601220138
+      },
+      "num_tokens": 5,
+      "text": "the blit began to tral the sneb skel"
+    },
+    {
+      "set_id": 14,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the blit began to tral the sneb skel"
+    },
+    {
+      "set_id": 14,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the blit began to tral the",
+      "class_mass": {
+        "NOUN": 0.09074859276006464,
+        "ADJECTIVE": 0.05179378764296416
+      },
+      "num_tokens": 8,
+      "text": "the blit began to tral the sneb skel"
+    },
+    {
+      "set_id": 14,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 0,
+      "context": "to",
+      "class_mass": {
+        "VERB": 0.06323873793735402
+      },
+      "num_tokens": 1,
+      "text": "to blit began the sneb the skel tral"
+    },
+    {
+      "set_id": 14,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 3,
+      "context": "to blit began the",
+      "class_mass": {
+        "NOUN": 0.12954174747574143,
+        "ADJECTIVE": 0.09804993981379084
+      },
+      "num_tokens": 5,
+      "text": "to blit began the sneb the skel tral"
+    },
+    {
+      "set_id": 14,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "to blit began the sneb the",
+      "class_mass": {
+        "NOUN": 0.09860070305876434,
+        "ADJECTIVE": 0.13598516205092892
+      },
+      "num_tokens": 8,
+      "text": "to blit began the sneb the skel tral"
+    },
+    {
+      "set_id": 14,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the blit began ke sneb the skel tral"
+    },
+    {
+      "set_id": 14,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the blit began ke sneb the",
+      "class_mass": {
+        "NOUN": 0.06800202604790684,
+        "ADJECTIVE": 0.08900289013399743
+      },
+      "num_tokens": 8,
+      "text": "the blit began ke sneb the skel tral"
+    },
+    {
+      "set_id": 15,
+      "condition": "SENTENCE",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the driver began to",
+      "class_mass": {
+        "VERB": 0.2800684058238403
+      },
+      "num_tokens": 4,
+      "text": "the driver began to repair the broken vehicle"
+    },
+    {
+      "set_id": 15,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the driver began to repair the broken vehicle"
+    },
+    {
+      "set_id": 15,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the driver began to repair the",
+      "class_mass": {
+        "NOUN": 0.17952288882952416,
+        "ADJECTIVE": 0.06526788834162289
+      },
+      "num_tokens": 6,
+      "text": "the driver began to repair the broken vehicle"
+    },
+    {
+      "set_id": 15,
+      "condition": "JABBERWOCKY",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the zept began to",
+      "class_mass": {
+        "VERB": 0.27419230465602595
+      },
+      "num_tokens": 5,
+      "text": "the zept began to slib the flul drest"
+    },
+    {
+      "set_id": 15,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the zept began to slib the flul drest"
+    },
+    {
+      "set_id": 15,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the zept began to slib the",
+      "class_mass": {
+        "NOUN": 0.062342436067410745,
+        "ADJECTIVE": 0.03754985878185835
+      },
+      "num_tokens": 8,
+      "text": "the zept began to slib the flul drest"
+    },
+    {
+      "set_id": 15,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 0,
+      "context": "to",
+      "class_mass": {
+        "VERB": 0.06323873793735402
+      },
+      "num_tokens": 1,
+      "text": "to flul slib drest began the the zept"
+    },
+    {
+      "set_id": 15,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "to flul slib drest began the",
+      "class_mass": {
+        "NOUN": 0.12401526776375249,
+        "ADJECTIVE": 0.0924028640583856
+      },
+      "num_tokens": 9,
+      "text": "to flul slib drest began the the zept"
+    },
+    {
+      "set_id": 15,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 6,
+      "context": "to flul slib drest began the the",
+      "class_mass": {
+        "NOUN": 0.04454937834816519,
+        "ADJECTIVE": 0.05778795055812225
+      },
+      "num_tokens": 10,
+      "text": "to flul slib drest began the the zept"
+    },
+    {
+      "set_id": 15,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the slib began to",
+      "class_mass": {
+        "VERB": 0.2752083410814521
+      },
+      "num_tokens": 5,
+      "text": "the slib began to zept the flul drest"
+    },
+    {
+      "set_id": 15,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the slib began to zept the flul drest"
+    },
+    {
+      "set_id": 15,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the slib began to zept the",
+      "class_mass": {
+        "NOUN": 0.05177153824479319,
+        "ADJECTIVE": 0.049532220655237325
+      },
+      "num_tokens": 8,
+      "text": "the slib began to zept the flul drest"
+    },
+    {
+      "set_id": 15,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 2,
+      "context": "began zept to",
+      "class_mass": {
+        "VERB": 0.35524804731539916
+      },
+      "num_tokens": 5,
+      "text": "began zept to the slib the flul drest"
+    },
+    {
+      "set_id": 15,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 3,
+      "context": "began zept to the",
+      "class_mass": {
+        "NOUN": 0.08358235283230897,
+        "ADJECTIVE": 0.06586772653099615
+      },
+      "num_tokens": 6,
+      "text": "began zept to the slib the flul drest"
+    },
+    {
+      "set_id": 15,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "began zept to the slib the",
+      "class_mass": {
+        "NOUN": 0.08493880249443464,
+        "ADJECTIVE": 0.10484061138413381
+      },
+      "num_tokens": 9,
+      "text": "began zept to the slib the flul drest"
+    },
+    {
+      "set_id": 15,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the zept began ke slib the flul drest"
+    },
+    {
+      "set_id": 15,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the zept began ke slib the",
+      "class_mass": {
+        "NOUN": 0.06293641045340337,
+        "ADJECTIVE": 0.07073338951158803
+      },
+      "num_tokens": 8,
+      "text": "the zept began ke slib the flul drest"
+    },
+    {
+      "set_id": 16,
+      "condition": "SENTENCE",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the researcher tried to",
+      "class_mass": {
+        "VERB": 0.4111333001201274
+      },
+      "num_tokens": 4,
+      "text": "the researcher tried to solve the difficult problem"
+    },
+    {
+      "set_id": 16,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the researcher tried to solve the difficult problem"
+    },
+    {
+      "set_id": 16,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the researcher tried to solve the",
+      "class_mass": {
+        "NOUN": 0.5047115920715441,
+        "ADJECTIVE": 0.02274810969902319
+      },
+      "num_tokens": 6,
+      "text": "the researcher tried to solve the difficult problem"
+    },
+    {
+      "set_id": 16,
+      "condition": "JABBERWOCKY",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the blit tried to",
+      "class_mass": {
+        "VERB": 0.39123066229512915
+      },
+      "num_tokens": 5,
+      "text": "the blit tried to bleb the thrim drell"
+    },
+    {
+      "set_id": 16,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the blit tried to bleb the thrim drell"
+    },
+    {
+      "set_id": 16,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the blit tried to bleb the",
+      "class_mass": {
+        "NOUN": 0.10683037621492986,
+        "ADJECTIVE": 0.06059209079830907
+      },
+      "num_tokens": 8,
+      "text": "the blit tried to bleb the thrim drell"
+    },
+    {
+      "set_id": 16,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 6,
+      "context": "tried the the drell thrim blit to",
+      "class_mass": {
+        "VERB": 0.2570830720724189
+      },
+      "num_tokens": 11,
+      "text": "tried the the drell thrim blit to bleb"
+    },
+    {
+      "set_id": 16,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 1,
+      "context": "tried the",
+      "class_mass": {
+        "NOUN": 0.08748847247625235,
+        "ADJECTIVE": 0.12459975128876977
+      },
+      "num_tokens": 3,
+      "text": "tried the the drell thrim blit to bleb"
+    },
+    {
+      "set_id": 16,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 2,
+      "context": "tried the the",
+      "class_mass": {
+        "NOUN": 0.05500706758175511,
+        "ADJECTIVE": 0.09096714256156702
+      },
+      "num_tokens": 4,
+      "text": "tried the the drell thrim blit to bleb"
+    },
+    {
+      "set_id": 16,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the drell tried to",
+      "class_mass": {
+        "VERB": 0.3449619346502004
+      },
+      "num_tokens": 5,
+      "text": "the drell tried to bleb the blit thrim"
+    },
+    {
+      "set_id": 16,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the drell tried to bleb the blit thrim"
+    },
+    {
+      "set_id": 16,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the drell tried to bleb the",
+      "class_mass": {
+        "NOUN": 0.10333805375557858,
+        "ADJECTIVE": 0.04619984299642965
+      },
+      "num_tokens": 8,
+      "text": "the drell tried to bleb the blit thrim"
+    },
+    {
+      "set_id": 16,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 2,
+      "context": "the blit to",
+      "class_mass": {
+        "VERB": 0.23541404503339436
+      },
+      "num_tokens": 4,
+      "text": "the blit to tried bleb the thrim drell"
+    },
+    {
+      "set_id": 16,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the blit to tried bleb the thrim drell"
+    },
+    {
+      "set_id": 16,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the blit to tried bleb the",
+      "class_mass": {
+        "NOUN": 0.07247251580702141,
+        "ADJECTIVE": 0.07100765363429673
+      },
+      "num_tokens": 8,
+      "text": "the blit to tried bleb the thrim drell"
+    },
+    {
+      "set_id": 16,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the blit tried ke bleb the thrim drell"
+    },
+    {
+      "set_id": 16,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the blit tried ke bleb the",
+      "class_mass": {
+        "NOUN": 0.06635406114219222,
+        "ADJECTIVE": 0.07761233238852583
+      },
+      "num_tokens": 8,
+      "text": "the blit tried ke bleb the thrim drell"
+    },
+    {
+      "set_id": 17,
+      "condition": "SENTENCE",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the manager tried to",
+      "class_mass": {
+        "VERB": 0.44034314862801693
+      },
+      "num_tokens": 4,
+      "text": "the manager tried to improve the poor performance"
+    },
+    {
+      "set_id": 17,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the manager tried to improve the poor performance"
+    },
+    {
+      "set_id": 17,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the manager tried to improve the",
+      "class_mass": {
+        "NOUN": 0.20463353989180177,
+        "ADJECTIVE": 0.015526254355791025
+      },
+      "num_tokens": 6,
+      "text": "the manager tried to improve the poor performance"
+    },
+    {
+      "set_id": 17,
+      "condition": "JABBERWOCKY",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the zept tried to",
+      "class_mass": {
+        "VERB": 0.407800773755298
+      },
+      "num_tokens": 5,
+      "text": "the zept tried to treb the flom grop"
+    },
+    {
+      "set_id": 17,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the zept tried to treb the flom grop"
+    },
+    {
+      "set_id": 17,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the zept tried to treb the",
+      "class_mass": {
+        "NOUN": 0.07634620524186175,
+        "ADJECTIVE": 0.04567686381051317
+      },
+      "num_tokens": 8,
+      "text": "the zept tried to treb the flom grop"
+    },
+    {
+      "set_id": 17,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 1,
+      "context": "treb to",
+      "class_mass": {
+        "VERB": 0.19720880583918188
+      },
+      "num_tokens": 3,
+      "text": "treb to grop the the flom zept tried"
+    },
+    {
+      "set_id": 17,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 3,
+      "context": "treb to grop the",
+      "class_mass": {
+        "NOUN": 0.10254671421716921,
+        "ADJECTIVE": 0.0553510285099037
+      },
+      "num_tokens": 5,
+      "text": "treb to grop the the flom zept tried"
+    },
+    {
+      "set_id": 17,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 4,
+      "context": "treb to grop the the",
+      "class_mass": {
+        "NOUN": 0.04726261847827118,
+        "ADJECTIVE": 0.04647165964706801
+      },
+      "num_tokens": 6,
+      "text": "treb to grop the the flom zept tried"
+    },
+    {
+      "set_id": 17,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the grop tried to",
+      "class_mass": {
+        "VERB": 0.32540737670933595
+      },
+      "num_tokens": 4,
+      "text": "the grop tried to zept the flom treb"
+    },
+    {
+      "set_id": 17,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the grop tried to zept the flom treb"
+    },
+    {
+      "set_id": 17,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the grop tried to zept the",
+      "class_mass": {
+        "NOUN": 0.1456742647133069,
+        "ADJECTIVE": 0.044587816650164314
+      },
+      "num_tokens": 7,
+      "text": "the grop tried to zept the flom treb"
+    },
+    {
+      "set_id": 17,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 5,
+      "context": "tried zept the the treb to",
+      "class_mass": {
+        "VERB": 0.26692961881053634
+      },
+      "num_tokens": 9,
+      "text": "tried zept the the treb to flom grop"
+    },
+    {
+      "set_id": 17,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 2,
+      "context": "tried zept the",
+      "class_mass": {
+        "NOUN": 0.07124905884847976,
+        "ADJECTIVE": 0.12101924262242392
+      },
+      "num_tokens": 5,
+      "text": "tried zept the the treb to flom grop"
+    },
+    {
+      "set_id": 17,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 3,
+      "context": "tried zept the the",
+      "class_mass": {
+        "NOUN": 0.038195510729565285,
+        "ADJECTIVE": 0.06894928806286771
+      },
+      "num_tokens": 6,
+      "text": "tried zept the the treb to flom grop"
+    },
+    {
+      "set_id": 17,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the zept tried ke treb the flom grop"
+    },
+    {
+      "set_id": 17,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the zept tried ke treb the",
+      "class_mass": {
+        "NOUN": 0.05280012289586011,
+        "ADJECTIVE": 0.08415505572338589
+      },
+      "num_tokens": 8,
+      "text": "the zept tried ke treb the flom grop"
+    },
+    {
+      "set_id": 18,
+      "condition": "SENTENCE",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the programmer tried to",
+      "class_mass": {
+        "VERB": 0.47382599156117067
+      },
+      "num_tokens": 4,
+      "text": "the programmer tried to debug the complex code"
+    },
+    {
+      "set_id": 18,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the programmer tried to debug the complex code"
+    },
+    {
+      "set_id": 18,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the programmer tried to debug the",
+      "class_mass": {
+        "NOUN": 0.24003157778497552,
+        "ADJECTIVE": 0.027157725620782003
+      },
+      "num_tokens": 6,
+      "text": "the programmer tried to debug the complex code"
+    },
+    {
+      "set_id": 18,
+      "condition": "JABBERWOCKY",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the tral tried to",
+      "class_mass": {
+        "VERB": 0.40840053229476325
+      },
+      "num_tokens": 5,
+      "text": "the tral tried to blim the yel drell"
+    },
+    {
+      "set_id": 18,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the tral tried to blim the yel drell"
+    },
+    {
+      "set_id": 18,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the tral tried to blim the",
+      "class_mass": {
+        "NOUN": 0.08045901719015092,
+        "ADJECTIVE": 0.048779878779896535
+      },
+      "num_tokens": 8,
+      "text": "the tral tried to blim the yel drell"
+    },
+    {
+      "set_id": 18,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 7,
+      "context": "drell tried blim the the tral yel to",
+      "class_mass": {
+        "VERB": 0.19539377760520438
+      },
+      "num_tokens": 12,
+      "text": "drell tried blim the the tral yel to"
+    },
+    {
+      "set_id": 18,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 3,
+      "context": "drell tried blim the",
+      "class_mass": {
+        "NOUN": 0.0780387448030524,
+        "ADJECTIVE": 0.06675080713466741
+      },
+      "num_tokens": 6,
+      "text": "drell tried blim the the tral yel to"
+    },
+    {
+      "set_id": 18,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 4,
+      "context": "drell tried blim the the",
+      "class_mass": {
+        "NOUN": 0.05230293676140718,
+        "ADJECTIVE": 0.07153286402171943
+      },
+      "num_tokens": 7,
+      "text": "drell tried blim the the tral yel to"
+    },
+    {
+      "set_id": 18,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the yel tried to",
+      "class_mass": {
+        "VERB": 0.415543784336478
+      },
+      "num_tokens": 5,
+      "text": "the yel tried to drell the blim tral"
+    },
+    {
+      "set_id": 18,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the yel tried to drell the blim tral"
+    },
+    {
+      "set_id": 18,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the yel tried to drell the",
+      "class_mass": {
+        "NOUN": 0.07744679275492672,
+        "ADJECTIVE": 0.05626285547623411
+      },
+      "num_tokens": 8,
+      "text": "the yel tried to drell the blim tral"
+    },
+    {
+      "set_id": 18,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 2,
+      "context": "the tral to",
+      "class_mass": {
+        "VERB": 0.13382436858228175
+      },
+      "num_tokens": 4,
+      "text": "the tral to tried blim the yel drell"
+    },
+    {
+      "set_id": 18,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the tral to tried blim the yel drell"
+    },
+    {
+      "set_id": 18,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the tral to tried blim the",
+      "class_mass": {
+        "NOUN": 0.056535740455728956,
+        "ADJECTIVE": 0.06072141646291129
+      },
+      "num_tokens": 8,
+      "text": "the tral to tried blim the yel drell"
+    },
+    {
+      "set_id": 18,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the tral tried ke blim the yel drell"
+    },
+    {
+      "set_id": 18,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the tral tried ke blim the",
+      "class_mass": {
+        "NOUN": 0.057235220170696266,
+        "ADJECTIVE": 0.06482991973462049
+      },
+      "num_tokens": 8,
+      "text": "the tral tried ke blim the yel drell"
+    },
+    {
+      "set_id": 19,
+      "condition": "SENTENCE",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the assistant tried to",
+      "class_mass": {
+        "VERB": 0.409002407490334
+      },
+      "num_tokens": 4,
+      "text": "the assistant tried to organize the messy files"
+    },
+    {
+      "set_id": 19,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the assistant tried to organize the messy files"
+    },
+    {
+      "set_id": 19,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the assistant tried to organize the",
+      "class_mass": {
+        "NOUN": 0.1250343721039826,
+        "ADJECTIVE": 0.025519978829834145
+      },
+      "num_tokens": 6,
+      "text": "the assistant tried to organize the messy files"
+    },
+    {
+      "set_id": 19,
+      "condition": "JABBERWOCKY",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the flarn tried to",
+      "class_mass": {
+        "VERB": 0.38677557584742317
+      },
+      "num_tokens": 5,
+      "text": "the flarn tried to slib the crel grift"
+    },
+    {
+      "set_id": 19,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the flarn tried to slib the crel grift"
+    },
+    {
+      "set_id": 19,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the flarn tried to slib the",
+      "class_mass": {
+        "NOUN": 0.06554794139810838,
+        "ADJECTIVE": 0.03403832965705078
+      },
+      "num_tokens": 8,
+      "text": "the flarn tried to slib the crel grift"
+    },
+    {
+      "set_id": 19,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 0,
+      "context": "to",
+      "class_mass": {
+        "VERB": 0.06323873793735402
+      },
+      "num_tokens": 1,
+      "text": "to crel grift flarn slib the the tried"
+    },
+    {
+      "set_id": 19,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "to crel grift flarn slib the",
+      "class_mass": {
+        "NOUN": 0.0340422633162234,
+        "ADJECTIVE": 0.07991896879684646
+      },
+      "num_tokens": 10,
+      "text": "to crel grift flarn slib the the tried"
+    },
+    {
+      "set_id": 19,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 6,
+      "context": "to crel grift flarn slib the the",
+      "class_mass": {
+        "NOUN": 0.039272470632568,
+        "ADJECTIVE": 0.08329346832761075
+      },
+      "num_tokens": 11,
+      "text": "to crel grift flarn slib the the tried"
+    },
+    {
+      "set_id": 19,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the slib tried to",
+      "class_mass": {
+        "VERB": 0.37401358617353253
+      },
+      "num_tokens": 5,
+      "text": "the slib tried to flarn the crel grift"
+    },
+    {
+      "set_id": 19,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the slib tried to flarn the crel grift"
+    },
+    {
+      "set_id": 19,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the slib tried to flarn the",
+      "class_mass": {
+        "NOUN": 0.119887782871956,
+        "ADJECTIVE": 0.03794216623646207
+      },
+      "num_tokens": 8,
+      "text": "the slib tried to flarn the crel grift"
+    },
+    {
+      "set_id": 19,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 2,
+      "context": "tried flarn to",
+      "class_mass": {
+        "VERB": 0.4036357347140438
+      },
+      "num_tokens": 5,
+      "text": "tried flarn to the slib the crel grift"
+    },
+    {
+      "set_id": 19,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 3,
+      "context": "tried flarn to the",
+      "class_mass": {
+        "NOUN": 0.12772383251285646,
+        "ADJECTIVE": 0.06642051850212738
+      },
+      "num_tokens": 6,
+      "text": "tried flarn to the slib the crel grift"
+    },
+    {
+      "set_id": 19,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "tried flarn to the slib the",
+      "class_mass": {
+        "NOUN": 0.08484150537697133,
+        "ADJECTIVE": 0.12276152556296438
+      },
+      "num_tokens": 9,
+      "text": "tried flarn to the slib the crel grift"
+    },
+    {
+      "set_id": 19,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the flarn tried ke slib the crel grift"
+    },
+    {
+      "set_id": 19,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the flarn tried ke slib the",
+      "class_mass": {
+        "NOUN": 0.06537507973553147,
+        "ADJECTIVE": 0.09135567588964477
+      },
+      "num_tokens": 8,
+      "text": "the flarn tried ke slib the crel grift"
+    },
+    {
+      "set_id": 20,
+      "condition": "SENTENCE",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the lawyer tried to",
+      "class_mass": {
+        "VERB": 0.40878106303716777
+      },
+      "num_tokens": 4,
+      "text": "the lawyer tried to defend the innocent client"
+    },
+    {
+      "set_id": 20,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the lawyer tried to defend the innocent client"
+    },
+    {
+      "set_id": 20,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the lawyer tried to defend the",
+      "class_mass": {
+        "NOUN": 0.19135475320217665,
+        "ADJECTIVE": 0.026666363031836227
+      },
+      "num_tokens": 6,
+      "text": "the lawyer tried to defend the innocent client"
+    },
+    {
+      "set_id": 20,
+      "condition": "JABBERWOCKY",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the flust tried to",
+      "class_mass": {
+        "VERB": 0.34120898406399647
+      },
+      "num_tokens": 5,
+      "text": "the flust tried to cleb the trop crint"
+    },
+    {
+      "set_id": 20,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the flust tried to cleb the trop crint"
+    },
+    {
+      "set_id": 20,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the flust tried to cleb the",
+      "class_mass": {
+        "NOUN": 0.079502220833092,
+        "ADJECTIVE": 0.045748156888294034
+      },
+      "num_tokens": 8,
+      "text": "the flust tried to cleb the trop crint"
+    },
+    {
+      "set_id": 20,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 1,
+      "context": "crint to",
+      "class_mass": {
+        "VERB": 0.23793604953971226
+      },
+      "num_tokens": 3,
+      "text": "crint to cleb trop flust the the tried"
+    },
+    {
+      "set_id": 20,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "crint to cleb trop flust the",
+      "class_mass": {
+        "NOUN": 0.04703346869791858,
+        "ADJECTIVE": 0.05323901258816477
+      },
+      "num_tokens": 9,
+      "text": "crint to cleb trop flust the the tried"
+    },
+    {
+      "set_id": 20,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 6,
+      "context": "crint to cleb trop flust the the",
+      "class_mass": {
+        "NOUN": 0.025435042291064747,
+        "ADJECTIVE": 0.0403645630722167
+      },
+      "num_tokens": 10,
+      "text": "crint to cleb trop flust the the tried"
+    },
+    {
+      "set_id": 20,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the crint tried to",
+      "class_mass": {
+        "VERB": 0.3605379048458417
+      },
+      "num_tokens": 5,
+      "text": "the crint tried to trop the cleb flust"
+    },
+    {
+      "set_id": 20,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the crint tried to trop the cleb flust"
+    },
+    {
+      "set_id": 20,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the crint tried to trop the",
+      "class_mass": {
+        "NOUN": 0.09740867918299045,
+        "ADJECTIVE": 0.0357786838139873
+      },
+      "num_tokens": 7,
+      "text": "the crint tried to trop the cleb flust"
+    },
+    {
+      "set_id": 20,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 0,
+      "context": "to",
+      "class_mass": {
+        "VERB": 0.06323873793735402
+      },
+      "num_tokens": 1,
+      "text": "to flust the tried cleb the trop crint"
+    },
+    {
+      "set_id": 20,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 2,
+      "context": "to flust the",
+      "class_mass": {
+        "NOUN": 0.11979879552382044,
+        "ADJECTIVE": 0.08346464917121921
+      },
+      "num_tokens": 4,
+      "text": "to flust the tried cleb the trop crint"
+    },
+    {
+      "set_id": 20,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "to flust the tried cleb the",
+      "class_mass": {
+        "NOUN": 0.07831220890511759,
+        "ADJECTIVE": 0.10551592480624095
+      },
+      "num_tokens": 8,
+      "text": "to flust the tried cleb the trop crint"
+    },
+    {
+      "set_id": 20,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the flust tried ke cleb the trop crint"
+    },
+    {
+      "set_id": 20,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the flust tried ke cleb the",
+      "class_mass": {
+        "NOUN": 0.07777559959504288,
+        "ADJECTIVE": 0.10488057385373395
+      },
+      "num_tokens": 8,
+      "text": "the flust tried ke cleb the trop crint"
+    },
+    {
+      "set_id": 21,
+      "condition": "SENTENCE",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the architect planned to",
+      "class_mass": {
+        "VERB": 0.5877728041668888
+      },
+      "num_tokens": 4,
+      "text": "the architect planned to build the modern structure"
+    },
+    {
+      "set_id": 21,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the architect planned to build the modern structure"
+    },
+    {
+      "set_id": 21,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the architect planned to build the",
+      "class_mass": {
+        "NOUN": 0.13583490598830394,
+        "ADJECTIVE": 0.09593313930963632
+      },
+      "num_tokens": 6,
+      "text": "the architect planned to build the modern structure"
+    },
+    {
+      "set_id": 21,
+      "condition": "JABBERWOCKY",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the dron planned to",
+      "class_mass": {
+        "VERB": 0.5038667149201501
+      },
+      "num_tokens": 5,
+      "text": "the dron planned to flib the zril prid"
+    },
+    {
+      "set_id": 21,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the dron planned to flib the zril prid"
+    },
+    {
+      "set_id": 21,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the dron planned to flib the",
+      "class_mass": {
+        "NOUN": 0.08976041313144378,
+        "ADJECTIVE": 0.04416029166895896
+      },
+      "num_tokens": 8,
+      "text": "the dron planned to flib the zril prid"
+    },
+    {
+      "set_id": 21,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 2,
+      "context": "the planned to",
+      "class_mass": {
+        "VERB": 0.4052061006077565
+      },
+      "num_tokens": 3,
+      "text": "the planned to dron prid flib the zril"
+    },
+    {
+      "set_id": 21,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the planned to dron prid flib the zril"
+    },
+    {
+      "set_id": 21,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 6,
+      "context": "the planned to dron prid flib the",
+      "class_mass": {
+        "NOUN": 0.06862716522300616,
+        "ADJECTIVE": 0.060381985691492446
+      },
+      "num_tokens": 10,
+      "text": "the planned to dron prid flib the zril"
+    },
+    {
+      "set_id": 21,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the prid planned to",
+      "class_mass": {
+        "VERB": 0.5175974073790712
+      },
+      "num_tokens": 5,
+      "text": "the prid planned to flib the zril dron"
+    },
+    {
+      "set_id": 21,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the prid planned to flib the zril dron"
+    },
+    {
+      "set_id": 21,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the prid planned to flib the",
+      "class_mass": {
+        "NOUN": 0.08426050400885288,
+        "ADJECTIVE": 0.047883817736874335
+      },
+      "num_tokens": 8,
+      "text": "the prid planned to flib the zril dron"
+    },
+    {
+      "set_id": 21,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 0,
+      "context": "to",
+      "class_mass": {
+        "VERB": 0.06323873793735402
+      },
+      "num_tokens": 1,
+      "text": "to dron the planned flib the zril prid"
+    },
+    {
+      "set_id": 21,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 2,
+      "context": "to dron the",
+      "class_mass": {
+        "NOUN": 0.08895673467486631,
+        "ADJECTIVE": 0.059701829799450934
+      },
+      "num_tokens": 4,
+      "text": "to dron the planned flib the zril prid"
+    },
+    {
+      "set_id": 21,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "to dron the planned flib the",
+      "class_mass": {
+        "NOUN": 0.08878718659980223,
+        "ADJECTIVE": 0.07789638437679969
+      },
+      "num_tokens": 8,
+      "text": "to dron the planned flib the zril prid"
+    },
+    {
+      "set_id": 21,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the dron planned ke flib the zril prid"
+    },
+    {
+      "set_id": 21,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the dron planned ke flib the",
+      "class_mass": {
+        "NOUN": 0.06310615458642133,
+        "ADJECTIVE": 0.07512974520795979
+      },
+      "num_tokens": 8,
+      "text": "the dron planned ke flib the zril prid"
+    },
+    {
+      "set_id": 22,
+      "condition": "SENTENCE",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the director planned to",
+      "class_mass": {
+        "VERB": 0.46097296943480615
+      },
+      "num_tokens": 4,
+      "text": "the director planned to film the dramatic scene"
+    },
+    {
+      "set_id": 22,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the director planned to film the dramatic scene"
+    },
+    {
+      "set_id": 22,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the director planned to film the",
+      "class_mass": {
+        "NOUN": 0.034539749525720254,
+        "ADJECTIVE": 0.06822326378460275
+      },
+      "num_tokens": 6,
+      "text": "the director planned to film the dramatic scene"
+    },
+    {
+      "set_id": 22,
+      "condition": "JABBERWOCKY",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the braz planned to",
+      "class_mass": {
+        "VERB": 0.5172439038578887
+      },
+      "num_tokens": 5,
+      "text": "the braz planned to gleb the glib vrim"
+    },
+    {
+      "set_id": 22,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the braz planned to gleb the glib vrim"
+    },
+    {
+      "set_id": 22,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the braz planned to gleb the",
+      "class_mass": {
+        "NOUN": 0.10334533717832528,
+        "ADJECTIVE": 0.06966207931691315
+      },
+      "num_tokens": 8,
+      "text": "the braz planned to gleb the glib vrim"
+    },
+    {
+      "set_id": 22,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 5,
+      "context": "the gleb glib the braz to",
+      "class_mass": {
+        "VERB": 0.13249560222175205
+      },
+      "num_tokens": 9,
+      "text": "the gleb glib the braz to planned vrim"
+    },
+    {
+      "set_id": 22,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the gleb glib the braz to planned vrim"
+    },
+    {
+      "set_id": 22,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 3,
+      "context": "the gleb glib the",
+      "class_mass": {
+        "NOUN": 0.09532461182971019,
+        "ADJECTIVE": 0.072798518333002
+      },
+      "num_tokens": 6,
+      "text": "the gleb glib the braz to planned vrim"
+    },
+    {
+      "set_id": 22,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the vrim planned to",
+      "class_mass": {
+        "VERB": 0.5127154765359592
+      },
+      "num_tokens": 5,
+      "text": "the vrim planned to braz the gleb glib"
+    },
+    {
+      "set_id": 22,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the vrim planned to braz the gleb glib"
+    },
+    {
+      "set_id": 22,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the vrim planned to braz the",
+      "class_mass": {
+        "NOUN": 0.08708070837019477,
+        "ADJECTIVE": 0.049895612537511624
+      },
+      "num_tokens": 8,
+      "text": "the vrim planned to braz the gleb glib"
+    },
+    {
+      "set_id": 22,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 5,
+      "context": "the braz the planned gleb to",
+      "class_mass": {
+        "VERB": 0.24245678217266686
+      },
+      "num_tokens": 8,
+      "text": "the braz the planned gleb to glib vrim"
+    },
+    {
+      "set_id": 22,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the braz the planned gleb to glib vrim"
+    },
+    {
+      "set_id": 22,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 2,
+      "context": "the braz the",
+      "class_mass": {
+        "NOUN": 0.059307633418939076,
+        "ADJECTIVE": 0.04900639347033575
+      },
+      "num_tokens": 4,
+      "text": "the braz the planned gleb to glib vrim"
+    },
+    {
+      "set_id": 22,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the braz planned ke gleb the glib vrim"
+    },
+    {
+      "set_id": 22,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the braz planned ke gleb the",
+      "class_mass": {
+        "NOUN": 0.06222411050111987,
+        "ADJECTIVE": 0.06317964686604682
+      },
+      "num_tokens": 8,
+      "text": "the braz planned ke gleb the glib vrim"
+    },
+    {
+      "set_id": 23,
+      "condition": "SENTENCE",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the designer planned to",
+      "class_mass": {
+        "VERB": 0.5888836745361914
+      },
+      "num_tokens": 4,
+      "text": "the designer planned to create the elegant product"
+    },
+    {
+      "set_id": 23,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the designer planned to create the elegant product"
+    },
+    {
+      "set_id": 23,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the designer planned to create the",
+      "class_mass": {
+        "NOUN": 0.09820908977417275,
+        "ADJECTIVE": 0.09349219371506479
+      },
+      "num_tokens": 6,
+      "text": "the designer planned to create the elegant product"
+    },
+    {
+      "set_id": 23,
+      "condition": "JABBERWOCKY",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the throp planned to",
+      "class_mass": {
+        "VERB": 0.5263440087073832
+      },
+      "num_tokens": 5,
+      "text": "the throp planned to crog the pril glom"
+    },
+    {
+      "set_id": 23,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the throp planned to crog the pril glom"
+    },
+    {
+      "set_id": 23,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the throp planned to crog the",
+      "class_mass": {
+        "NOUN": 0.06835017407138366,
+        "ADJECTIVE": 0.05777937502716668
+      },
+      "num_tokens": 8,
+      "text": "the throp planned to crog the pril glom"
+    },
+    {
+      "set_id": 23,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 6,
+      "context": "the pril throp planned the glom to",
+      "class_mass": {
+        "VERB": 0.30865578252996784
+      },
+      "num_tokens": 10,
+      "text": "the pril throp planned the glom to crog"
+    },
+    {
+      "set_id": 23,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the pril throp planned the glom to crog"
+    },
+    {
+      "set_id": 23,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 4,
+      "context": "the pril throp planned the",
+      "class_mass": {
+        "NOUN": 0.0552439267776208,
+        "ADJECTIVE": 0.08032277922029607
+      },
+      "num_tokens": 7,
+      "text": "the pril throp planned the glom to crog"
+    },
+    {
+      "set_id": 23,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the pril planned to",
+      "class_mass": {
+        "VERB": 0.545209777294076
+      },
+      "num_tokens": 5,
+      "text": "the pril planned to glom the throp crog"
+    },
+    {
+      "set_id": 23,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the pril planned to glom the throp crog"
+    },
+    {
+      "set_id": 23,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the pril planned to glom the",
+      "class_mass": {
+        "NOUN": 0.08125048362126108,
+        "ADJECTIVE": 0.06668820168124512
+      },
+      "num_tokens": 8,
+      "text": "the pril planned to glom the throp crog"
+    },
+    {
+      "set_id": 23,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 0,
+      "context": "to",
+      "class_mass": {
+        "VERB": 0.06323873793735402
+      },
+      "num_tokens": 1,
+      "text": "to throp the planned crog the pril glom"
+    },
+    {
+      "set_id": 23,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 2,
+      "context": "to throp the",
+      "class_mass": {
+        "NOUN": 0.06516581095638685,
+        "ADJECTIVE": 0.061016690320684575
+      },
+      "num_tokens": 4,
+      "text": "to throp the planned crog the pril glom"
+    },
+    {
+      "set_id": 23,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "to throp the planned crog the",
+      "class_mass": {
+        "NOUN": 0.05395879266143311,
+        "ADJECTIVE": 0.07646478099923115
+      },
+      "num_tokens": 8,
+      "text": "to throp the planned crog the pril glom"
+    },
+    {
+      "set_id": 23,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the throp planned ke crog the pril glom"
+    },
+    {
+      "set_id": 23,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the throp planned ke crog the",
+      "class_mass": {
+        "NOUN": 0.06052798789460212,
+        "ADJECTIVE": 0.09178326456458308
+      },
+      "num_tokens": 8,
+      "text": "the throp planned ke crog the pril glom"
+    },
+    {
+      "set_id": 24,
+      "condition": "SENTENCE",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the merchant planned to",
+      "class_mass": {
+        "VERB": 0.5275499682320515
+      },
+      "num_tokens": 4,
+      "text": "the merchant planned to sell the expensive goods"
+    },
+    {
+      "set_id": 24,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the merchant planned to sell the expensive goods"
+    },
+    {
+      "set_id": 24,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the merchant planned to sell the",
+      "class_mass": {
+        "NOUN": 0.09060995635809377,
+        "ADJECTIVE": 0.040355789693421684
+      },
+      "num_tokens": 6,
+      "text": "the merchant planned to sell the expensive goods"
+    },
+    {
+      "set_id": 24,
+      "condition": "JABBERWOCKY",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the drest planned to",
+      "class_mass": {
+        "VERB": 0.519143364734191
+      },
+      "num_tokens": 5,
+      "text": "the drest planned to slib the slib krin"
+    },
+    {
+      "set_id": 24,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the drest planned to slib the slib krin"
+    },
+    {
+      "set_id": 24,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the drest planned to slib the",
+      "class_mass": {
+        "NOUN": 0.0878520268452121,
+        "ADJECTIVE": 0.049739359645172954
+      },
+      "num_tokens": 8,
+      "text": "the drest planned to slib the slib krin"
+    },
+    {
+      "set_id": 24,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 4,
+      "context": "planned drest slib the to",
+      "class_mass": {
+        "VERB": 0.07529656779661309
+      },
+      "num_tokens": 7,
+      "text": "planned drest slib the to the krin slib"
+    },
+    {
+      "set_id": 24,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 3,
+      "context": "planned drest slib the",
+      "class_mass": {
+        "NOUN": 0.07256711025547702,
+        "ADJECTIVE": 0.07609028166916687
+      },
+      "num_tokens": 6,
+      "text": "planned drest slib the to the krin slib"
+    },
+    {
+      "set_id": 24,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "planned drest slib the to the",
+      "class_mass": {
+        "NOUN": 0.06638625361665618,
+        "ADJECTIVE": 0.09028007015876938
+      },
+      "num_tokens": 8,
+      "text": "planned drest slib the to the krin slib"
+    },
+    {
+      "set_id": 24,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the slib planned to",
+      "class_mass": {
+        "VERB": 0.6106084230632405
+      },
+      "num_tokens": 5,
+      "text": "the slib planned to slib the drest krin"
+    },
+    {
+      "set_id": 24,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the slib planned to slib the drest krin"
+    },
+    {
+      "set_id": 24,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the slib planned to slib the",
+      "class_mass": {
+        "NOUN": 0.06576991474139504,
+        "ADJECTIVE": 0.08033142262138426
+      },
+      "num_tokens": 8,
+      "text": "the slib planned to slib the drest krin"
+    },
+    {
+      "set_id": 24,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 0,
+      "context": "to",
+      "class_mass": {
+        "VERB": 0.06323873793735402
+      },
+      "num_tokens": 1,
+      "text": "to drest the the slib planned slib krin"
+    },
+    {
+      "set_id": 24,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 2,
+      "context": "to drest the",
+      "class_mass": {
+        "NOUN": 0.06648355851939414,
+        "ADJECTIVE": 0.053340471466071904
+      },
+      "num_tokens": 4,
+      "text": "to drest the the slib planned slib krin"
+    },
+    {
+      "set_id": 24,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 3,
+      "context": "to drest the the",
+      "class_mass": {
+        "NOUN": 0.035566633770940825,
+        "ADJECTIVE": 0.05092776523088105
+      },
+      "num_tokens": 5,
+      "text": "to drest the the slib planned slib krin"
+    },
+    {
+      "set_id": 24,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the drest planned ke slib the slib krin"
+    },
+    {
+      "set_id": 24,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the drest planned ke slib the",
+      "class_mass": {
+        "NOUN": 0.06933317503717262,
+        "ADJECTIVE": 0.0721412792627234
+      },
+      "num_tokens": 8,
+      "text": "the drest planned ke slib the slib krin"
+    },
+    {
+      "set_id": 25,
+      "condition": "SENTENCE",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the captain planned to",
+      "class_mass": {
+        "VERB": 0.5024785216155578
+      },
+      "num_tokens": 4,
+      "text": "the captain planned to sail the large vessel"
+    },
+    {
+      "set_id": 25,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the captain planned to sail the large vessel"
+    },
+    {
+      "set_id": 25,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the captain planned to sail the",
+      "class_mass": {
+        "NOUN": 0.22663487256795634,
+        "ADJECTIVE": 0.10235500625276472
+      },
+      "num_tokens": 6,
+      "text": "the captain planned to sail the large vessel"
+    },
+    {
+      "set_id": 25,
+      "condition": "JABBERWOCKY",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the crint planned to",
+      "class_mass": {
+        "VERB": 0.5296131854847772
+      },
+      "num_tokens": 5,
+      "text": "the crint planned to crog the grul dron"
+    },
+    {
+      "set_id": 25,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the crint planned to crog the grul dron"
+    },
+    {
+      "set_id": 25,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the crint planned to crog the",
+      "class_mass": {
+        "NOUN": 0.08589773499988951,
+        "ADJECTIVE": 0.052681309593026526
+      },
+      "num_tokens": 8,
+      "text": "the crint planned to crog the grul dron"
+    },
+    {
+      "set_id": 25,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 2,
+      "context": "crog planned to",
+      "class_mass": {
+        "VERB": 0.4582661922686384
+      },
+      "num_tokens": 4,
+      "text": "crog planned to crint the dron the grul"
+    },
+    {
+      "set_id": 25,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 4,
+      "context": "crog planned to crint the",
+      "class_mass": {
+        "NOUN": 0.0774789895513095,
+        "ADJECTIVE": 0.051401416276348755
+      },
+      "num_tokens": 7,
+      "text": "crog planned to crint the dron the grul"
+    },
+    {
+      "set_id": 25,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 6,
+      "context": "crog planned to crint the dron the",
+      "class_mass": {
+        "NOUN": 0.0631021567969583,
+        "ADJECTIVE": 0.0673903759161476
+      },
+      "num_tokens": 10,
+      "text": "crog planned to crint the dron the grul"
+    },
+    {
+      "set_id": 25,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the crint planned to",
+      "class_mass": {
+        "VERB": 0.5296131854847772
+      },
+      "num_tokens": 5,
+      "text": "the crint planned to dron the crog grul"
+    },
+    {
+      "set_id": 25,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the crint planned to dron the crog grul"
+    },
+    {
+      "set_id": 25,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the crint planned to dron the",
+      "class_mass": {
+        "NOUN": 0.09855640823661815,
+        "ADJECTIVE": 0.04883281223010272
+      },
+      "num_tokens": 8,
+      "text": "the crint planned to dron the crog grul"
+    },
+    {
+      "set_id": 25,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 2,
+      "context": "the crint to",
+      "class_mass": {
+        "VERB": 0.12026762274763314
+      },
+      "num_tokens": 4,
+      "text": "the crint to the crog planned grul dron"
+    },
+    {
+      "set_id": 25,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the crint to the crog planned grul dron"
+    },
+    {
+      "set_id": 25,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 3,
+      "context": "the crint to the",
+      "class_mass": {
+        "NOUN": 0.09331795875914395,
+        "ADJECTIVE": 0.061102043589926325
+      },
+      "num_tokens": 5,
+      "text": "the crint to the crog planned grul dron"
+    },
+    {
+      "set_id": 25,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the crint planned ke crog the grul dron"
+    },
+    {
+      "set_id": 25,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the crint planned ke crog the",
+      "class_mass": {
+        "NOUN": 0.05936790465784725,
+        "ADJECTIVE": 0.07272676991124172
+      },
+      "num_tokens": 8,
+      "text": "the crint planned ke crog the grul dron"
+    },
+    {
+      "set_id": 26,
+      "condition": "SENTENCE",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the speaker continued to",
+      "class_mass": {
+        "VERB": 0.38328628583985846
+      },
+      "num_tokens": 4,
+      "text": "the speaker continued to discuss the important topic"
+    },
+    {
+      "set_id": 26,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the speaker continued to discuss the important topic"
+    },
+    {
+      "set_id": 26,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the speaker continued to discuss the",
+      "class_mass": {
+        "NOUN": 0.0671530627150787,
+        "ADJECTIVE": 0.049151948594953865
+      },
+      "num_tokens": 6,
+      "text": "the speaker continued to discuss the important topic"
+    },
+    {
+      "set_id": 26,
+      "condition": "JABBERWOCKY",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the grop continued to",
+      "class_mass": {
+        "VERB": 0.37921285050106235
+      },
+      "num_tokens": 4,
+      "text": "the grop continued to vreb the yel zept"
+    },
+    {
+      "set_id": 26,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the grop continued to vreb the yel zept"
+    },
+    {
+      "set_id": 26,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the grop continued to vreb the",
+      "class_mass": {
+        "NOUN": 0.14035951100231614,
+        "ADJECTIVE": 0.04910077418026049
+      },
+      "num_tokens": 7,
+      "text": "the grop continued to vreb the yel zept"
+    },
+    {
+      "set_id": 26,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "grop the vreb to",
+      "class_mass": {
+        "VERB": 0.2681588125997223
+      },
+      "num_tokens": 6,
+      "text": "grop the vreb to yel continued the zept"
+    },
+    {
+      "set_id": 26,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 1,
+      "context": "grop the",
+      "class_mass": {
+        "NOUN": 0.05950425725313835,
+        "ADJECTIVE": 0.05604637850774452
+      },
+      "num_tokens": 3,
+      "text": "grop the vreb to yel continued the zept"
+    },
+    {
+      "set_id": 26,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 6,
+      "context": "grop the vreb to yel continued the",
+      "class_mass": {
+        "NOUN": 0.06271272874437273,
+        "ADJECTIVE": 0.05836460622958839
+      },
+      "num_tokens": 10,
+      "text": "grop the vreb to yel continued the zept"
+    },
+    {
+      "set_id": 26,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the yel continued to",
+      "class_mass": {
+        "VERB": 0.2925071792124072
+      },
+      "num_tokens": 5,
+      "text": "the yel continued to vreb the zept grop"
+    },
+    {
+      "set_id": 26,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the yel continued to vreb the zept grop"
+    },
+    {
+      "set_id": 26,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the yel continued to vreb the",
+      "class_mass": {
+        "NOUN": 0.05433198694663588,
+        "ADJECTIVE": 0.045802336535416543
+      },
+      "num_tokens": 8,
+      "text": "the yel continued to vreb the zept grop"
+    },
+    {
+      "set_id": 26,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 5,
+      "context": "the grop the continued vreb to",
+      "class_mass": {
+        "VERB": 0.2168188782670768
+      },
+      "num_tokens": 7,
+      "text": "the grop the continued vreb to yel zept"
+    },
+    {
+      "set_id": 26,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the grop the continued vreb to yel zept"
+    },
+    {
+      "set_id": 26,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 2,
+      "context": "the grop the",
+      "class_mass": {
+        "NOUN": 0.16563522913202178,
+        "ADJECTIVE": 0.07562358411087189
+      },
+      "num_tokens": 3,
+      "text": "the grop the continued vreb to yel zept"
+    },
+    {
+      "set_id": 26,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the grop continued ke vreb the yel zept"
+    },
+    {
+      "set_id": 26,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the grop continued ke vreb the",
+      "class_mass": {
+        "NOUN": 0.07907076882838737,
+        "ADJECTIVE": 0.07458944832615089
+      },
+      "num_tokens": 7,
+      "text": "the grop continued ke vreb the yel zept"
+    },
+    {
+      "set_id": 27,
+      "condition": "SENTENCE",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the reader continued to",
+      "class_mass": {
+        "VERB": 0.40433346800273284
+      },
+      "num_tokens": 4,
+      "text": "the reader continued to study the ancient texts"
+    },
+    {
+      "set_id": 27,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the reader continued to study the ancient texts"
+    },
+    {
+      "set_id": 27,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the reader continued to study the",
+      "class_mass": {
+        "NOUN": 0.11456068334518932,
+        "ADJECTIVE": 0.04305173392640427
+      },
+      "num_tokens": 6,
+      "text": "the reader continued to study the ancient texts"
+    },
+    {
+      "set_id": 27,
+      "condition": "JABBERWOCKY",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the snar continued to",
+      "class_mass": {
+        "VERB": 0.26762141489598434
+      },
+      "num_tokens": 5,
+      "text": "the snar continued to wrib the yel vrim"
+    },
+    {
+      "set_id": 27,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the snar continued to wrib the yel vrim"
+    },
+    {
+      "set_id": 27,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the snar continued to wrib the",
+      "class_mass": {
+        "NOUN": 0.07722500346426386,
+        "ADJECTIVE": 0.04440953470475506
+      },
+      "num_tokens": 8,
+      "text": "the snar continued to wrib the yel vrim"
+    },
+    {
+      "set_id": 27,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 4,
+      "context": "wrib the continued snar to",
+      "class_mass": {
+        "VERB": 0.1789743709450704
+      },
+      "num_tokens": 7,
+      "text": "wrib the continued snar to vrim yel the"
+    },
+    {
+      "set_id": 27,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 1,
+      "context": "wrib the",
+      "class_mass": {
+        "NOUN": 0.08188981778221205,
+        "ADJECTIVE": 0.08739575781510212
+      },
+      "num_tokens": 3,
+      "text": "wrib the continued snar to vrim yel the"
+    },
+    {
+      "set_id": 27,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 7,
+      "context": "wrib the continued snar to vrim yel the",
+      "class_mass": {
+        "NOUN": 0.04774727321637329,
+        "ADJECTIVE": 0.06116206252772827
+      },
+      "num_tokens": 12,
+      "text": "wrib the continued snar to vrim yel the"
+    },
+    {
+      "set_id": 27,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the snar continued to",
+      "class_mass": {
+        "VERB": 0.26762141489598434
+      },
+      "num_tokens": 5,
+      "text": "the snar continued to vrim the wrib yel"
+    },
+    {
+      "set_id": 27,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the snar continued to vrim the wrib yel"
+    },
+    {
+      "set_id": 27,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the snar continued to vrim the",
+      "class_mass": {
+        "NOUN": 0.0848738290660549,
+        "ADJECTIVE": 0.05546009821409825
+      },
+      "num_tokens": 8,
+      "text": "the snar continued to vrim the wrib yel"
+    },
+    {
+      "set_id": 27,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 2,
+      "context": "continued snar to",
+      "class_mass": {
+        "VERB": 0.12130026056547649
+      },
+      "num_tokens": 5,
+      "text": "continued snar to the wrib the yel vrim"
+    },
+    {
+      "set_id": 27,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 3,
+      "context": "continued snar to the",
+      "class_mass": {
+        "NOUN": 0.08524119241337758,
+        "ADJECTIVE": 0.05543869074608665
+      },
+      "num_tokens": 6,
+      "text": "continued snar to the wrib the yel vrim"
+    },
+    {
+      "set_id": 27,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "continued snar to the wrib the",
+      "class_mass": {
+        "NOUN": 0.11637362209148705,
+        "ADJECTIVE": 0.12733704458514694
+      },
+      "num_tokens": 9,
+      "text": "continued snar to the wrib the yel vrim"
+    },
+    {
+      "set_id": 27,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the snar continued ke wrib the yel vrim"
+    },
+    {
+      "set_id": 27,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the snar continued ke wrib the",
+      "class_mass": {
+        "NOUN": 0.07490690774284303,
+        "ADJECTIVE": 0.09142221132060513
+      },
+      "num_tokens": 8,
+      "text": "the snar continued ke wrib the yel vrim"
+    },
+    {
+      "set_id": 28,
+      "condition": "SENTENCE",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the worker continued to",
+      "class_mass": {
+        "VERB": 0.47785040787857724
+      },
+      "num_tokens": 4,
+      "text": "the worker continued to assemble the metal parts"
+    },
+    {
+      "set_id": 28,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the worker continued to assemble the metal parts"
+    },
+    {
+      "set_id": 28,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the worker continued to assemble the",
+      "class_mass": {
+        "NOUN": 0.08945145667530596,
+        "ADJECTIVE": 0.05600327340653166
+      },
+      "num_tokens": 6,
+      "text": "the worker continued to assemble the metal parts"
+    },
+    {
+      "set_id": 28,
+      "condition": "JABBERWOCKY",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the trug continued to",
+      "class_mass": {
+        "VERB": 0.3405119844028377
+      },
+      "num_tokens": 5,
+      "text": "the trug continued to skeb the clom snib"
+    },
+    {
+      "set_id": 28,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the trug continued to skeb the clom snib"
+    },
+    {
+      "set_id": 28,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the trug continued to skeb the",
+      "class_mass": {
+        "NOUN": 0.08206940232776105,
+        "ADJECTIVE": 0.05341433739522472
+      },
+      "num_tokens": 8,
+      "text": "the trug continued to skeb the clom snib"
+    },
+    {
+      "set_id": 28,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "snib continued the to",
+      "class_mass": {
+        "VERB": 0.08472579295630567
+      },
+      "num_tokens": 5,
+      "text": "snib continued the to the trug clom skeb"
+    },
+    {
+      "set_id": 28,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 2,
+      "context": "snib continued the",
+      "class_mass": {
+        "NOUN": 0.0773171157197794,
+        "ADJECTIVE": 0.030729343605344184
+      },
+      "num_tokens": 4,
+      "text": "snib continued the to the trug clom skeb"
+    },
+    {
+      "set_id": 28,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 4,
+      "context": "snib continued the to the",
+      "class_mass": {
+        "NOUN": 0.10042152342793997,
+        "ADJECTIVE": 0.11443764362775255
+      },
+      "num_tokens": 6,
+      "text": "snib continued the to the trug clom skeb"
+    },
+    {
+      "set_id": 28,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the clom continued to",
+      "class_mass": {
+        "VERB": 0.31272322915901896
+      },
+      "num_tokens": 5,
+      "text": "the clom continued to trug the skeb snib"
+    },
+    {
+      "set_id": 28,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the clom continued to trug the skeb snib"
+    },
+    {
+      "set_id": 28,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the clom continued to trug the",
+      "class_mass": {
+        "NOUN": 0.09223768304218538,
+        "ADJECTIVE": 0.027881871967110783
+      },
+      "num_tokens": 8,
+      "text": "the clom continued to trug the skeb snib"
+    },
+    {
+      "set_id": 28,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 5,
+      "context": "the trug the continued skeb to",
+      "class_mass": {
+        "VERB": 0.19602894608397037
+      },
+      "num_tokens": 8,
+      "text": "the trug the continued skeb to clom snib"
+    },
+    {
+      "set_id": 28,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the trug the continued skeb to clom snib"
+    },
+    {
+      "set_id": 28,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 2,
+      "context": "the trug the",
+      "class_mass": {
+        "NOUN": 0.0920275863900315,
+        "ADJECTIVE": 0.08222062510321848
+      },
+      "num_tokens": 4,
+      "text": "the trug the continued skeb to clom snib"
+    },
+    {
+      "set_id": 28,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the trug continued ke skeb the clom snib"
+    },
+    {
+      "set_id": 28,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the trug continued ke skeb the",
+      "class_mass": {
+        "NOUN": 0.0742553577729268,
+        "ADJECTIVE": 0.12436405914195348
+      },
+      "num_tokens": 8,
+      "text": "the trug continued ke skeb the clom snib"
+    },
+    {
+      "set_id": 29,
+      "condition": "SENTENCE",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the dancer continued to",
+      "class_mass": {
+        "VERB": 0.34521603866596706
+      },
+      "num_tokens": 4,
+      "text": "the dancer continued to practice the difficult routine"
+    },
+    {
+      "set_id": 29,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the dancer continued to practice the difficult routine"
+    },
+    {
+      "set_id": 29,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the dancer continued to practice the",
+      "class_mass": {
+        "NOUN": 0.04564653318084311,
+        "ADJECTIVE": 0.04934006484836573
+      },
+      "num_tokens": 6,
+      "text": "the dancer continued to practice the difficult routine"
+    },
+    {
+      "set_id": 29,
+      "condition": "JABBERWOCKY",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the drell continued to",
+      "class_mass": {
+        "VERB": 0.3159858437429648
+      },
+      "num_tokens": 5,
+      "text": "the drell continued to greb the zril flib"
+    },
+    {
+      "set_id": 29,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the drell continued to greb the zril flib"
+    },
+    {
+      "set_id": 29,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the drell continued to greb the",
+      "class_mass": {
+        "NOUN": 0.0711716843652539,
+        "ADJECTIVE": 0.03516354704333935
+      },
+      "num_tokens": 8,
+      "text": "the drell continued to greb the zril flib"
+    },
+    {
+      "set_id": 29,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 4,
+      "context": "flib continued greb the to",
+      "class_mass": {
+        "VERB": 0.09085699173738249
+      },
+      "num_tokens": 7,
+      "text": "flib continued greb the to the zril drell"
+    },
+    {
+      "set_id": 29,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 3,
+      "context": "flib continued greb the",
+      "class_mass": {
+        "NOUN": 0.08836501295445487,
+        "ADJECTIVE": 0.08184768042701762
+      },
+      "num_tokens": 6,
+      "text": "flib continued greb the to the zril drell"
+    },
+    {
+      "set_id": 29,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "flib continued greb the to the",
+      "class_mass": {
+        "NOUN": 0.08750726334983483,
+        "ADJECTIVE": 0.14546603716735262
+      },
+      "num_tokens": 8,
+      "text": "flib continued greb the to the zril drell"
+    },
+    {
+      "set_id": 29,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the zril continued to",
+      "class_mass": {
+        "VERB": 0.2970385502121644
+      },
+      "num_tokens": 5,
+      "text": "the zril continued to drell the greb flib"
+    },
+    {
+      "set_id": 29,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the zril continued to drell the greb flib"
+    },
+    {
+      "set_id": 29,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the zril continued to drell the",
+      "class_mass": {
+        "NOUN": 0.07049514052050654,
+        "ADJECTIVE": 0.04383000782399904
+      },
+      "num_tokens": 8,
+      "text": "the zril continued to drell the greb flib"
+    },
+    {
+      "set_id": 29,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 2,
+      "context": "the drell to",
+      "class_mass": {
+        "VERB": 0.3188233544060495
+      },
+      "num_tokens": 4,
+      "text": "the drell to continued greb the zril flib"
+    },
+    {
+      "set_id": 29,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the drell to continued greb the zril flib"
+    },
+    {
+      "set_id": 29,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the drell to continued greb the",
+      "class_mass": {
+        "NOUN": 0.0586148394504562,
+        "ADJECTIVE": 0.06268813741917256
+      },
+      "num_tokens": 8,
+      "text": "the drell to continued greb the zril flib"
+    },
+    {
+      "set_id": 29,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the drell continued ke greb the zril flib"
+    },
+    {
+      "set_id": 29,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the drell continued ke greb the",
+      "class_mass": {
+        "NOUN": 0.05919939088926185,
+        "ADJECTIVE": 0.08568751200800762
+      },
+      "num_tokens": 8,
+      "text": "the drell continued ke greb the zril flib"
+    },
+    {
+      "set_id": 30,
+      "condition": "SENTENCE",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the painter continued to",
+      "class_mass": {
+        "VERB": 0.5016605932542006
+      },
+      "num_tokens": 4,
+      "text": "the painter continued to refine the delicate details"
+    },
+    {
+      "set_id": 30,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the painter continued to refine the delicate details"
+    },
+    {
+      "set_id": 30,
+      "condition": "SENTENCE",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the painter continued to refine the",
+      "class_mass": {
+        "NOUN": 0.11710039157333085,
+        "ADJECTIVE": 0.03254508983809501
+      },
+      "num_tokens": 6,
+      "text": "the painter continued to refine the delicate details"
+    },
+    {
+      "set_id": 30,
+      "condition": "JABBERWOCKY",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the grift continued to",
+      "class_mass": {
+        "VERB": 0.4080471577690332
+      },
+      "num_tokens": 5,
+      "text": "the grift continued to trop the drel glom"
+    },
+    {
+      "set_id": 30,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the grift continued to trop the drel glom"
+    },
+    {
+      "set_id": 30,
+      "condition": "JABBERWOCKY",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the grift continued to trop the",
+      "class_mass": {
+        "NOUN": 0.07117147253302392,
+        "ADJECTIVE": 0.0423094352154294
+      },
+      "num_tokens": 7,
+      "text": "the grift continued to trop the drel glom"
+    },
+    {
+      "set_id": 30,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 5,
+      "context": "trop grift glom continued the to",
+      "class_mass": {
+        "VERB": 0.03315711765026208
+      },
+      "num_tokens": 8,
+      "text": "trop grift glom continued the to drel the"
+    },
+    {
+      "set_id": 30,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 4,
+      "context": "trop grift glom continued the",
+      "class_mass": {
+        "NOUN": 0.04551622491271701,
+        "ADJECTIVE": 0.05340103140042629
+      },
+      "num_tokens": 7,
+      "text": "trop grift glom continued the to drel the"
+    },
+    {
+      "set_id": 30,
+      "condition": "FULL_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 7,
+      "context": "trop grift glom continued the to drel the",
+      "class_mass": {
+        "NOUN": 0.040648898255312815,
+        "ADJECTIVE": 0.05521893361583352
+      },
+      "num_tokens": 11,
+      "text": "trop grift glom continued the to drel the"
+    },
+    {
+      "set_id": 30,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the trop continued to",
+      "class_mass": {
+        "VERB": 0.3632994359431905
+      },
+      "num_tokens": 4,
+      "text": "the trop continued to glom the drel grift"
+    },
+    {
+      "set_id": 30,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the trop continued to glom the drel grift"
+    },
+    {
+      "set_id": 30,
+      "condition": "CONTENT_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the trop continued to glom the",
+      "class_mass": {
+        "NOUN": 0.042978018856956623,
+        "ADJECTIVE": 0.060997469641733915
+      },
+      "num_tokens": 7,
+      "text": "the trop continued to glom the drel grift"
+    },
+    {
+      "set_id": 30,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "infinitival_to",
+      "cue_word": "to",
+      "word_index": 3,
+      "context": "the grift the to",
+      "class_mass": {
+        "VERB": 0.06333942549463245
+      },
+      "num_tokens": 5,
+      "text": "the grift the to trop continued drel glom"
+    },
+    {
+      "set_id": 30,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the grift the to trop continued drel glom"
+    },
+    {
+      "set_id": 30,
+      "condition": "FUNCTION_SCRAMBLED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 2,
+      "context": "the grift the",
+      "class_mass": {
+        "NOUN": 0.1071482622937765,
+        "ADJECTIVE": 0.0526239360042382
+      },
+      "num_tokens": 4,
+      "text": "the grift the to trop continued drel glom"
+    },
+    {
+      "set_id": 30,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 0,
+      "context": "the",
+      "class_mass": {
+        "NOUN": 0.04752929587266408,
+        "ADJECTIVE": 0.04110676032723859
+      },
+      "num_tokens": 1,
+      "text": "the grift continued ke trop the drel glom"
+    },
+    {
+      "set_id": 30,
+      "condition": "CUE_DELETED",
+      "cue_family": "determiners",
+      "cue_word": "the",
+      "word_index": 5,
+      "context": "the grift continued ke trop the",
+      "class_mass": {
+        "NOUN": 0.058096583001315594,
+        "ADJECTIVE": 0.07299398333998397
+      },
+      "num_tokens": 7,
+      "text": "the grift continued ke trop the drel glom"
+    }
+  ]
+}

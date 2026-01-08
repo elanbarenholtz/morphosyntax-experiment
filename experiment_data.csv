@@ -1,0 +1,121 @@
+set_id,condition,text,mean_entropy,mean_top1,num_tokens
+1,sentence,The teacher was explaining the concept to the students clearly,1.1666343482861243,0.7301432143793348,1
+1,jabberwocky,The blicket was florping the daxen to the wuggles grentily,0.5517725434419781,0.9231836163257474,1
+1,stripped,Ke blicket nar florp ke daxen po ke wuggle grenti,0.5033881790084667,0.9255073086732835,1
+1,nonwords,blimp pliff flurn dwel verm zent flimp geff trel klent,1.846604025130728,0.4408256646271297,1
+2,sentence,A small bird landed softly on the wooden fence,0.20249667023542775,0.975455322068613,1
+2,jabberwocky,A flimp zorf tamped grofly on the plonken gleb,2.6794238602845293,0.35129558057204685,1
+2,stripped,Na flimp zorf tamp grofl ko ke plonk gleb,0.37328357510509486,0.937117419775452,1
+2,nonwords,vork yalp sken kren drell zorf verm trock flib,1.0147569922794453,0.7280678970178238,1
+3,sentence,The children were playing with their toys in the garden,0.8748083523600183,0.8368048749360931,1
+3,jabberwocky,The blickets were florping with their daxens in the wuggle,2.486949423052702,0.5058618351720999,1
+3,stripped,Ke blicket nar florp pe zi daxen ne ke wuggle,0.7024257501254005,0.8808473209948009,1
+3,nonwords,tamp sken trel grint grent yalm teff trock plonken gleb,1.3575020361090777,0.6206841509770111,1
+4,sentence,She has been reading that book very carefully,2.6846683382291667,0.2596451728117003,1
+4,jabberwocky,She has been florping that daxen very grentily,2.629081367453517,0.47433104210034754,1
+4,stripped,Sho ha nar florp ze daxen vo grenti,0.3146347323121762,0.955574248389514,1
+4,nonwords,mip whiff bliv flimp kren plonk plov trell,0.20856135336099343,0.9700686468891225,1
+5,sentence,The scientist discovered a new species in the forest,3.0312187581324213,0.2354618204264902,1
+5,jabberwocky,The blicket florped a flimp zorf in the wuggle,1.9323189623567,0.600831650095786,1
+5,stripped,Ke blicket florp na flimp zorf ne ke wuggle,1.3249601063686842,0.7205887231797024,1
+5,nonwords,snorf grof klent plov vork zent grint sniv yalm,0.6945717423318952,0.8922193933268979,1
+6,sentence,They will finish the project by tomorrow morning,1.0695666206693157,0.8458043000105533,1
+6,jabberwocky,They will florp the daxen by plonk gleb,0.726815625591657,0.8785735171463188,1
+6,stripped,Zi wi florp ke daxen le plonk gleb,0.2440074820674838,0.9663180100448885,1
+6,nonwords,flib vent yent trell grent zell klent grell,0.8036288571592145,0.8663714207904661,1
+7,sentence,A gentle breeze was blowing through the open window,0.14790163871668371,0.981539568267765,1
+7,jabberwocky,A flimp zorf was florping through the plonken gleb,1.1121773500193681,0.8117598206102405,1
+7,stripped,Na flimp zorf nar florp so ke plonk gleb,0.5515637252827795,0.8998039794418433,1
+7,nonwords,brell kreb dwel skeff whisp grell whif zell blicket,0.6558341567270813,0.8679470486864929,1
+8,sentence,The musician played the melody beautifully on stage,0.011047863433245314,0.9992164080686312,1
+8,jabberwocky,The blicket florped the daxen grentily on wuggle,0.7990860594950582,0.7970445058755586,1
+8,stripped,Ke blicket florp ke daxen grenti ko wuggle,0.38928345439814643,0.9430770805269023,1
+8,nonwords,blicket whill skeff pliff bren sprock drell verm,0.4462731457487967,0.92073792320635,1
+9,sentence,He could have solved the problem more easily,1.1908894121360278,0.7067069619376336,1
+9,jabberwocky,He could have florped the daxen more grentily,0.7509304003413956,0.8991172089309655,1
+9,stripped,Ho ku ha florp ke daxen mo grenti,0.2733245677319117,0.9660290207853677,1
+9,nonwords,whif bren blif driv zomp grenti prock keff,0.230926075225342,0.9694719569388824,1
+10,sentence,The committee is reviewing the proposal thoroughly,0.9688519207359503,0.8254803084457891,1
+10,jabberwocky,The blicket is florping the daxen grentily,2.9542373393921117,0.25791288657780204,1
+10,stripped,Ke blicket nar florp ke daxen grenti,1.1485078980660912,0.8029865217865224,1
+10,nonwords,plov sniv plov snorf brell vent cleff,0.7048565818955439,0.8805364543755134,1
+11,sentence,A mysterious figure appeared suddenly in the darkness,0.05215499159884459,0.994625755203571,1
+11,jabberwocky,A flimp zorf florped grentily in the wuggle,1.5831595087446597,0.7444426733680294,1
+11,stripped,Na flimp zorf florp grenti ne ke wuggle,0.3423719872901671,0.942478228180992,1
+11,nonwords,plonk snorf fleff sken geff cleff mip kren,2.1050693303468813,0.506714895425624,1
+12,sentence,The students should study the material very seriously,2.1605377951897116,0.4564695428554352,1
+12,jabberwocky,The blickets should florp the daxen very grentily,2.1213590090429375,0.5981783950729156,1
+12,stripped,Ke blicket shu florp ke daxen vo grenti,0.5567521342080105,0.9173556547072268,1
+12,nonwords,trock yeff kreb prav flimp verm klent yent,0.3861153064589477,0.9366584758545129,1
+13,sentence,She was walking slowly through the quiet streets,0.4645657905382017,0.9231689839813904,1
+13,jabberwocky,She was florping grentily through the flimp wuggles,1.0915974561742228,0.817784209294446,1
+13,stripped,Sho nar florp grenti so ke flimp wuggle,0.08742251961433829,0.9905970329870599,1
+13,nonwords,geff veff plov bren trell fleff yeff brell,1.3569988772966137,0.7060448617164349,1
+14,sentence,The engineers are designing a better system carefully,0.7821329471191097,0.8978917981298407,1
+14,jabberwocky,The blickets are florping a flimp zorf grentily,3.2491298314498938,0.3206950844388393,1
+14,stripped,Ke blicket nar florp na flimp zorf grenti,1.2822470536937076,0.7021877504018547,1
+14,nonwords,blimp plov sniv yalm tamp prock mip grell,0.8819597454852413,0.8306698877846834,1
+15,sentence,A young artist painted the landscape very skillfully,0.37260894217124607,0.9507998549993012,1
+15,jabberwocky,A flimp blicket florped the daxen very grentily,0.5063090644752551,0.9382261227486219,1
+15,stripped,Na flimp blicket florp ke daxen vo grenti,1.752795807954075,0.6512427294299421,1
+15,nonwords,whill borp pliff grent plov yalm zorf vren,0.6288591038911032,0.8958168100318875,1
+16,sentence,The dog had been barking loudly at the stranger,2.856277437256055,0.3944659319367565,1
+16,jabberwocky,The zorf had been florping grentily at the blicket,1.8113198195434965,0.6658298909904349,1
+16,stripped,Ke zorf ha nar florp grenti fe ke blicket,0.6522096646535973,0.8948383603310779,1
+16,nonwords,fleff bliv grofly shill trell yalm grof flurn drell,0.3294007424832236,0.9472267917910885,1
+17,sentence,They were discussing the matter quite intensely,0.18818031680130703,0.9795449097308082,1
+17,jabberwocky,They were florping the daxen quite grentily,0.5584226111809987,0.9299409309123673,1
+17,stripped,Zi nar florp ke daxen qui grenti,0.22306943722932013,0.9718544330242531,1
+17,nonwords,dwel zomp prock brell klent kren yent,0.3627744458613239,0.9393526980695994,1
+18,sentence,The flowers are blooming beautifully in the spring,1.620668157503383,0.5786825411172015,1
+18,jabberwocky,The wuggles are florping grentily in the plonk,2.7878952358792266,0.33700854259650537,1
+18,stripped,Ke wuggle nar florp grenti ne ke plonk,0.6017333155861702,0.907454683161648,1
+18,nonwords,whisp grofly zomp klent flurn skeff sprock vent,2.2576281246438024,0.528858113260124,1
+19,sentence,A talented chef prepared the meal expertly,0.23037360888485814,0.9758870028890538,1
+19,jabberwocky,A flimp blicket florped the daxen grentily,0.8499762738743216,0.8679118454681242,1
+19,stripped,Na flimp blicket florp ke daxen grenti,1.1862534273890588,0.7549119039885733,1
+19,nonwords,drell grofly snorf yalm plonken plonk driv,0.5798736474353565,0.8746785338626261,1
+20,sentence,The researchers have discovered the answer recently,3.206704019166732,0.28734008488012325,1
+20,jabberwocky,The blickets have florped the daxen grentily,1.2182544422271138,0.8028871583526906,1
+20,stripped,Ke blicket ha florp ke daxen grenti,0.6065999535316409,0.9115218168890978,1
+20,nonwords,whisp blimp pliff zent trock kren daxen,1.6530387986929276,0.5953529238216063,1
+21,sentence,She will be traveling to the conference tomorrow,2.7345122733143143,0.33997418184676614,1
+21,jabberwocky,She will be florping to the wuggle plonk,2.9180531531827034,0.2983182527781607,1
+21,stripped,Sho wi nar florp po ke wuggle plonk,0.09473846674048193,0.9892053024574707,1
+21,nonwords,grof yalp tamp yent mip vent zell daxen,2.086101839129695,0.48725771839078574,1
+22,sentence,The workers were building the structure very carefully,0.1671800830954822,0.9814142837198089,1
+22,jabberwocky,The blickets were florping the zorf very grentily,0.3306036682769887,0.9618888139602316,1
+22,stripped,Ke blicket nar florp ke zorf vo grenti,0.993364364604275,0.8168695225477214,1
+22,nonwords,grofly grof vent yeff grofly plonken vork blicket,0.3668366177332478,0.9439417502350171,1
+23,sentence,A bright light was shining through the window,0.04859947754347374,0.9958726724253528,1
+23,jabberwocky,A flimp daxen was florping through the gleb,1.745577730190058,0.6989459251788094,1
+23,stripped,Na flimp daxen nar florp so ke gleb,0.40286687391252984,0.939907047731116,1
+23,nonwords,sprock blimp pliff teff grof bliv trell yalp,0.9596339245715423,0.807826040541629,1
+24,sentence,The author has written several books successfully,1.5315953450409245,0.7110487614681867,1
+24,jabberwocky,The blicket has florped flimp wuggles grentily,1.7273483205617552,0.6725069385586754,1
+24,stripped,Ke blicket ha florp flimp wuggle grenti,0.31168279135105104,0.9537255598813826,1
+24,nonwords,plonken kren klent snorf prav mip zent,0.7634779697463623,0.8371541213662193,1
+25,sentence,They could see the mountains clearly from here,0.3583451642236144,0.9483749993588019,1
+25,jabberwocky,They could florp the wuggles grentily from here,2.023893689378372,0.5840809282407116,1
+25,stripped,Zi ku florp ke wuggle grenti mo here,0.17095641253592048,0.9781607582173032,1
+25,nonwords,bren kren verm drell klim blimp drell tren,2.7757233196288404,0.304389575390065,1
+26,sentence,The machine is processing the data quite rapidly,0.4724617040297433,0.9404441230196565,1
+26,jabberwocky,The zorf is florping the daxen quite grentily,2.625187122128758,0.4672605284976777,1
+26,stripped,Ke zorf nar florp ke daxen qui grenti,0.26881252168982694,0.964605358702857,1
+26,nonwords,sken grint grof zent zomp prock sprock plonk,1.7773194646833628,0.5284390535500026,1
+27,sentence,A skilled doctor examined the patient thoroughly,1.217066668854246,0.5000979498728975,1
+27,jabberwocky,A flimp blicket florped the wuggle grentily,0.8074994212151833,0.8885497675114932,1
+27,stripped,Na flimp blicket florp ke wuggle grenti,0.8398156365429204,0.8256292385265221,1
+27,nonwords,vork bren sniv zent plonk grof driv,0.3674321161640551,0.9401621768834686,1
+28,sentence,The team was celebrating the victory enthusiastically,0.8087493305870346,0.8726360987188131,1
+28,jabberwocky,The blicket was florping the daxen grentily,0.5067146638020464,0.9363217233832195,1
+28,stripped,Ke blicket nar florp ke daxen grenti,1.3485514030135455,0.7606989479365627,1
+28,nonwords,snorf whiff yalm flurn geff flimp zomp,1.5181380837575966,0.48591493561494,1
+29,sentence,She might have understood the concept more clearly,0.6746668495747691,0.8681304652751605,1
+29,jabberwocky,She might have florped the daxen more grentily,2.5796811952310152,0.5412417728814456,1
+29,stripped,Sho mi ha florp ke daxen mo grenti,0.20112897923446793,0.9757444254794923,1
+29,nonwords,verm sniv grof yent bliv blicket whif sken,0.4524141292030913,0.9275569729740075,1
+30,sentence,The investors are evaluating the opportunity very carefully,1.213559708534546,0.8142399398615504,1
+30,jabberwocky,The blickets are florping the wuggle very grentily,1.286463974458297,0.8037643739356373,1
+30,stripped,Ke blicket nar florp ke wuggle vo grenti,1.0296463166634682,0.8194839959754415,1
+30,nonwords,blicket zorf plov plib bliv flib trel verm,0.8558364417204797,0.8206986083783286,1

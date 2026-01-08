@@ -1,0 +1,92 @@
+======================================================================
+MORPHOSYNTAX CONSTRAINT EXPERIMENT - SUMMARY REPORT
+======================================================================
+
+DESCRIPTIVE STATISTICS
+----------------------------------------------------------------------
+
+SENTENCE
+  Mean: 1.084 bits
+  SD:   0.981 bits
+  Min:  0.011 bits
+  Max:  3.207 bits
+  N:    30
+
+JABBERWOCKY
+  Mean: 1.632 bits
+  SD:   0.902 bits
+  Min:  0.331 bits
+  Max:  3.249 bits
+  N:    30
+
+STRIPPED
+  Mean: 0.626 bits
+  SD:   0.441 bits
+  Min:  0.087 bits
+  Max:  1.753 bits
+  N:    30
+
+NONWORDS
+  Mean: 1.014 bits
+  SD:   0.695 bits
+  Min:  0.209 bits
+  Max:  2.776 bits
+  N:    30
+
+======================================================================
+STATISTICAL COMPARISONS
+======================================================================
+
+Jabberwocky vs Stripped (function word contribution)
+  jabberwocky: M=1.632
+  stripped: M=0.626
+  Difference: 1.006 bits
+  t=5.175, p=0.0000
+  Cohen's d=1.417
+  Significance: ***
+
+Jabberwocky vs Nonwords (total morphosyntactic contribution)
+  jabberwocky: M=1.632
+  nonwords: M=1.014
+  Difference: 0.617 bits
+  t=3.409, p=0.0019
+  Cohen's d=0.767
+  Significance: **
+
+Sentence vs Jabberwocky (content word contribution)
+  sentence: M=1.084
+  jabberwocky: M=1.632
+  Difference: -0.548 bits
+  t=-2.652, p=0.0128
+  Cohen's d=-0.582
+  Significance: *
+
+Sentence vs Nonwords (full constraint)
+  sentence: M=1.084
+  nonwords: M=1.014
+  Difference: 0.069 bits
+  t=0.313, p=0.7565
+  Cohen's d=0.082
+  Significance: n.s.
+
+Stripped vs Nonwords (residual constraint)
+  stripped: M=0.626
+  nonwords: M=1.014
+  Difference: -0.388 bits
+  t=-2.346, p=0.0260
+  Cohen's d=-0.667
+  Significance: *
+
+======================================================================
+INTERPRETATION
+======================================================================
+
+Predicted pattern if morphosyntax constrains predictions:
+  Sentences < Jabberwocky < Stripped ≈ Nonwords
+
+Observed pattern:
+  Sentences (1.084) < Jabberwocky (1.632) > Stripped (0.626) ≈ Nonwords (1.014)
+
+Key finding (Jabberwocky vs Stripped):
+  Function words show minimal effect (1.006 bits).
+  This suggests limited morphosyntactic constraint in isolation.
